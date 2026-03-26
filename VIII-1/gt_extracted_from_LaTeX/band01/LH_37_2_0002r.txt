@@ -1,0 +1,57 @@
+Artificium ut p. 201. determinandi accurate distantias lentium per artem non casum, ope camerae obscurae.
+
+In tubis [[potest fieri]] ordinariis (p. 205) potest esse duorum concavorum alterum concavum circiter in medio tubi. Interius sphaerae majoris seu parum concavum. Ita non divaricabit radios ab objectivo sed impediet tantum ne minus cito se uniant, et portans longius faciet uniri omnes simul. Et quia nec lentes uniunt omnes radios in eadem distantia possunt ante aut post poni aliqua ex istis vitris concavis. Ita tum ut proportionalissimum sit concavum ad convexitatem ejus, cujus defectum minuere volumus, quanquam sic fiat longior tubus.
+
+Etiam hoc fieri potest: lens ocularis auget magnitudinem sed minuit claritatem (+ sed quia majus auget quam minuit +) [[+) ideo]] potest adhiberi magnifica quidem lens, sed ei subjici vitrum concavum quod reddat claritatem p. 206.
+
+Optimum est vitra concava esse convexa concava, sed major sit concavitas.
+
+Vitrum subtilius etiam majoris convexitatis radios ad majorem distantiam unit quam crassius demonstrante Cavalerio.
+
+Optimum est vitrum maxime refringens.
+
+(+ NB. Potest usus esse exhausti aeris si inspiciatur objectum in ipso seu camera obscura sit intus. Nam si rursus extra videatur, nihil juvat, restituuntur enim omnia in statum priorem.
+
+Notabilis inventio ad compendium laboris vitrorum magnarum sphaerarum. Fiat convexitas, portio sphaerae minoris et concavitas majoris; vitrum facit effectum convexi sphaerae majoris. Cum sit difficilis perfecta in vitris magnorum diametrorum praesertim quod conveniens proportio concavitatis et convexitatis optimos parere effectus potest in uniendis melius radiis quam unius superficiei. (+ NB. Si adhiberentur hic Hyperbolae etc. quanto minor differentia diametrorum erit, tanto [[major videbatur]] majoris sphaerae effectum praestabunt. (+ Si aequalia nullius. NB. Ex hoc solo concludi vel inveniri hoc potuisset. NB. Est hoc artis inventivae. +) Sed defectus hic est quod non potest dari apertura satis magna.
+
+Sed coelestia non indigent apertura (+ propinqua etiam si accessibilia +). (+ Potest cum hic usus esset, si sumantur sphaerae tantae, quarum plana maxima sint aequalia plano chordae aperturae sphaerae majoris. Ita poterimus tum sphaeris majoribus carere sic satis. Malim ego specula majora quam sphaeras majores. +) (+ An possent plura objectiva non post sed juxta se posita concurrere in unam ocularem. +) p. 212. Clarius videbitur character dimidii digiti in distantia 500 passuum, quam character digiti in distantia mille passuum quia rarefactio radiorum coni radiosi crescit non in distantiarum ratione, sed in ratione superficierum sphaericarum quarum diametri sunt distantiae id est in quadrata ratione ut taceam medii ipsius impuritatem.
+
+Telescopium tanto auget magis, quanto major diameter convexitatis objectivi. Microscopium quanto minor diameter convexitatum lentium. Objectum non debet abesse longius a lente microscopii quam semidiametro. In microscopio lens magis convexa seu minoris sphaerae vicina objecto.
+
+Objectum debet tangere sphaeram solidam cristalli aut aqua plenum. Cum contra objectum distet semidiametro a lentibus. NB.
+
+Magnitudo objecti in microscopiis augetur aut augendo convexitatem lentis objectivae, aut augendo distantiam ejus ab oculari, sed posterius nimis minuit claritatem.
+
+Ut augeatur magnitudo sine obscuratione addatur tertia lens ocularis majoris sphaerae quam [[Ita erit quasi lens ocularis magis esset distita]] secunda. Idque vel simul augendo distantiam, vel simul [[ocularis]] parvitatem objectivae. Caeterum artes in telescopiis etiam huc transferri possunt e converso (NB. = NB).
+
+Optima proportio lentis ocularis ad objectivam est ut 10. ad 1. in micro-scopiis.
+
+p. 244. Auctis distantis differentia refractionum decrescit ut sinus arcus a sinu totali.
+
+Si objectum sit 1000 palmorum distantia angulus rationum ex eodem puncto non erit 10 minutorum secundorum. [At differentia effectibus sensibilis. Alioqui objecti omnia puncta viderentur confuse.]
+
+Radii omnes non uniuntur in unum punctum. Tum quia non vere paralleli, tum, quia refractio non est angulis sed sinubus proportionalis [[proportionalis quod]] sinus autem ab angulis [[tanto magis abeunt quanto angulus]] notabilissime abire incipiunt, si sinus sit major quam 30 [[graduum]] minutorum seu anguli incidentiae et refracti non habent semper proportionem eandem. Haec erroris causa major, quam prior, in remotis praesertim.
+
+Modus securissimus et facillimus in praxi (p. 232) dandi aperturam majorem et multos radios inutiles faciendi utiles ut colligantur in unum circiter punctum. Sumatur vitrum concavum in medio perforatum positum inter vitrum objectivum et lentem. Id enim radios utiles in medio positos patietur transire, inutiles alioquin et nimis mature se unientes longius feret, quorsum debent.
+
+(+ Puto haec ut et vitra Elliptica et Hyperbolica utilia esse pro exigua objecti parte circiter in axe optico posita. Utile si mobilia sint si adhibeantur simul vulgaria, ut eodem tempore [[partem confuse totam]] totam confuse distincte partem spectemus +).
+
+(+ Possent etiam [[diversae lentium partes]] diversa simul vitra pro diversis partibus locari, saltem ut procuremus partem objecti axi optico vicinam videri quoniam distinctissimam ut accedamus Hyperbolicis saltem mechanice.
+
+Hyperbolicae et Ellipticae ergo maximam aperturam ferent et proinde augebunt magnitudinem quantum nobis placet, sed parva objecti pars videbitur. Cartesius sperat animalia in luna videri posse. At citius videbuntur Atomi in aere seu fumi impedientes +).
+
+Aut [[fiat etiam]] fiat convexoconcavum quod obvertit concavum objectivo vitro convexitatem oculari ponaturque ante intersectionem [[intersectionem idem]] radiorum alioquin nimis cito se uniturorum eos longius feret. (+ Nota [[Si adhibi]] inventis lentibus Hyperbolicis opus erit motu lentis celeri ita repraesentabit totum objectum subito distinctum, [[ut facil]] quasi totum simul detexisset. Et hoc unicum est remedium defecturae sic augen- dae +).
+
+Inverso modo fieri potest ut omnes radii uniantur vicinius, etiam ii qui nimis longe feruntur si medii incidant in vitrum convexum ut supra extremi in concavum perforatum. (+ NB. Si radius sit 100. pedum erit diameter 200. et circumferentia 600., ergo 15 minuta erunt pedis seu pedis. Ergo [[100 pedum feret aperturam]] vitrum pedum diam. feret aperturam dimidii pedis. Si supponamus semper aperturam sphaerae esse 15 minuta. Si 30 feret aperturam pedis.
+
+Figura sphaerica cum accedit Hyperbolicae melior. Errore forte laborantis. Unde Hevelii modus faciendi Hyperbolica in sphaericis patinis +).
+
+(+ An forte procurari potest, ut simul plures sint tubi Hyperbolici, quorum unus hoc alius aliud objecti punctum distincte repraesentet, loco motus unius. +)
+
+Lana ipse dicit p. 243. si [[objectum in plure]] una nec magnitudo nec distantia objecti nota sit observandum esse in 2 distantiis diversis.
+
+P. 236. Qui posset facere vitrum 30 palmorum in diam. quod uniet radios perfecte ut vitrum unius palmi, faceret ut vitrum in tubo 30 palmorum faceret objectum trigesies appareret majus quin vitro unius palmi, cum nunc vix possit fieri 5 aut 6 vicibus majus.
+
+---
+Additions:
+<<pedum>>

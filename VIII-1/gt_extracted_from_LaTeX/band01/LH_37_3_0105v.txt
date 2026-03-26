@@ -1,0 +1,17 @@
+Haec vero suspicio mea, argumento postea ex ipsa rei natura ducto valde confirmata est; quod hoc loco exponere,
+et ad aliquam mali emendationem viam mihi aperire operae fortasse pretium fuerit.
+
+Constat in omni liquore, duplicem considerari posse Gravitatem, individualem, ut sic dicam et specificam; cum enim gravitas sit quantitas [[absoluta, a machinis conatus]] conatus innati corporum, ad centrum terrae, et vero omnis quantitas aestimetur comparatione, et corporum comparari possint vel individua vel species, ideo duplex gravitas individualis et specifica considerata est, [[illa scilicet simpliciter pondus]] individualis aestimatur simpliciter dati corporis pondere absolute considerato; at specifica pondere corporis in data mole seu spatio; quo scilicet diversae species discerni possunt. Nam si quis dicat simpliciter corpus aliquod sibi fuisse ponderis tot librarum, nemo speciem ejus definient, at si pyxidem sibi fuisse dicat plenam, non ponderis tantum sed et magnitudinis datae, potest [[non raro species]] aliquando ad speciem corporis ratiocinando perveniri.
+
+Hanc distinctionem ab omnibus cognitam, ad aerem non satis applicatam miror, ne ab iis quidem qui in hoc negotio [[enuntiando]] maxime laboravere. [[Barometrum]] Baroscopium enim Torricellianum vere ac proprie non nisi individualem aeris [[gravitatem, id est quantum ponderaret totus aeris cylinder Mercurio obnitens]] gravitatem, definire potuit, specificam non nisi per accidens, quatenus aliquando complicatas habet cum individuali rationes. Unde factum arbitror, ut Baroscopium [[aliquando praeclare cum aere consenserit, aliquando]] nonnunquam praeclare cum aere consenserit, nonnunquam plane fefellerit fidem, [[quando]] quoniam tempestates proprie ac per se specificae non vero nisi per consequentias varie obliquatas individuali aeris gravitati connectuntur.
+
+Utrumque ostendendum est (1) Baroscopium Torricellianum, et quaecunque sunt ejus transformationes individualem proprie ac per se, specificam non nisi per accidens contingenterque monstrare (2) Tempestates [[aeris cum]] cum gravitate aeris specifica proprie ac per se, eam individuali non nisi per accidens contingenterque connecti.
+
+Imum ergo Baroscopium Torricellianum non nisi individualem aeris gravitatem ostendere, demonstratu facile est. [[Monstrat enim cylin]] Ostendit enim totius Cylindri aerei Mercurium sustinentis pondus; at vero hinc specifica aeris gravitas non definitur, quia ea ponderatio non determinat pondus data mole seu spatio [[quod implet]] a materia impleto; sed pondus simpliciter massae cujusdam dato cuidam loco imminentis. Nam si ponatur aer duplo quam est rarior, seu specifice levior, et tamen duplo quoque quam est, altior; [[qui nunc apparebit cylindri Mercurialis status]] idem nihilominus manebit Cylindri Aerei pondus, idemque qui nunc, apparebit Tubi Torricelliani status.
+[[apparet doctorum quorundam Virorum demonstrationes de Atmosphaerae aereae altitudine ex Baroscopio]] Unde frustra fuere docti quidam Viri qui certas de [[Aeris]] Aereae massae altitudine demonstrationes condere conati sunt, supposita scilicet aeris homogeneitate, qua tamen nihil incertius, imo nihil a verisimilitudine alienius, cum aerem in celsiore loco dilatare sese in quantam per minorem incumbentis pressionem, potest [[non sit ex expe]] raritatem et fortasse in altitudinem quandam indicibilem expandi, institutis in aere nostro experimentis judicari possit.
+
+---
+Additions:
+<<dati>>
+<<proprie>>
+<<__incertae altitudinis__>>

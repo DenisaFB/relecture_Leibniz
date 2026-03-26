@@ -1,0 +1,107 @@
+Aliquid, omnis terminus qui cogitari utcunque potest possibilis vel impossibilis,
+ut A, B, C; et generaliter X.
+Nihil, non-A et non-B et non-C, etc. seu generaliter non-X, hinc nihili nulla sunt
+attributa.
+Non - Ens 1 seu impossibile est, cujus definitionem ingreditur A non-A, seu quod
+implicat contradictionem.
+Ens seu possibile est, cujus definitionem quantumlibet resolutam non ingreditur
+A non-A, seu contradictio (: seu quod si existit, non sequitur existere contradictoria,
+1 Si A sit impossibile, non-A est necessarium
+(: ergo si A est necessarium non-A est impossibile :)
+(: possibile :) non-necessarium est contingens
+cujus L
+praestat tamen abstrahere hic ab existentibus, possunt enim, cum de existentia agitur
+contradictoria dici de eodem, unde tempus et mutatio [:)].
+Non Non - A idem est quod A. Ergo non non non-A est non A.
+Positivum, est quod non implicat non-A seu negationem, nisi destructam ab alia
+negatione. (: Coincidit cum eo quod Aristoteles Entelechiam seu actum vocavit; alii
+perfectionem seu realitatem. Tales notiones sunt esse, cognoscere, agere. Talia sunt
+omnia attributa Dei, et quaecunque nihil involvunt limitationis, adeoque capacia sunt
+infiniti gradus. :)
+Existens quasi per se notum hic assumo; suo loco ejus natura explicabitur. Unde
+et duo assumo axiomata, quae tamen demonstranda essent:
+Omne Existens est possibile.
+Quoddam possibile est non-existens.
+Si A et B ubique invicem substitui possunt, ita ut nulla oriatur falsitas, dicitur unum
+Sive eadem sunt quae nullo modo possunt discerni.
+(: Similia sunt quae ex necessario connexis seu per veritates de ipsis
+demonstrabiles, sigillatim discerni non possunt; seu quorum nulla assignari possunt
+diversa praedicata demonstrabilia. Sic parabola omnis omni similis est, et circulus
+circulo, at non Ellipsis Ellipsi, sed dantur peculiares quarundam Ellipsium proprietates,
+verbi gratia ejus quae habet duos axes aequales magnum est ab aliis discrimen. :)
+(: Similia sunt quorum omnia praedicata interna sunt eadem, seu quae per se
+sigillatim discerni non possunt, seu quorum unum alteri substitui potest salva veritate in
+propositionibus in quibus res per se spectatur seu circa ea quae rei insunt. :)
+(: Similia sunt ejusdem speciei infimae. :)
+circulus, tamen angulum in semicirculo rectum esse debere, existit; seu est Ens necessarium; sed ex genere
+13 ubique erg. sibi gestr. invicem L
+21 interna demonstrabilia gestr. sunt L
+24 (: Similia... infimae :) erg. L
+(: Si plura invicem substitui possunt, in propositionibus quae de uno eorum per se
+spectato fieri possunt, sunt Similia. Persespectari rem aliquam intelligo, si ea
+tantum spectentur praedicata quae ex iis quae rei insunt necessario consequuntur. Seu
+Similia sunt quae per se sigillatim discerni non possunt. :)
+(: Revera similia non sunt nisi Entia incompleta, nec dantur duo Entia completa
+ejusdem infimae speciei. :)
+(: Praedicataperse sunt quae ex praedicatis constituentibus demonstrantur.
+Praedicataconstituentia sunt, per quae res ab aliis discernitur.
+Similia sunt quae solis praedicatis per se [non] discernuntur. :)
+Inaliquo sunt requisita immediata.2
+Similia sunt quae per ea quae insunt unicuique, discerni sigillatim non possunt
+seu si pro A et quae ipsi insunt, substitui semper possunt B et quae ipsi insunt salva
+veritate.
+Homogenea sunt quae transmutari possunt in similia, si non sint similia.3
+Tr ansmutata sunt A et B, si nullum sit inexistens in uno, cui non insit aliquid
+inexistens in altero, licet alioqui qualescunque fiant mutationes vel si omnia maneant
+inexistentia minima, quae aliud inexistens non habent. Sed si non malimus uti inexis-
+tentibus minimis, potest unum transformari in aliud adhibitis inexistentibus infinitis
+continue decrescentibus, quae in A licet maxime utcunque mutata. (: Ita sphaera et
+2 Conditio est A ipsius B, si non existente non existit B.
+Requisitum est conditio natura prior.
+3 An sic: Homogenea sunt, quae invicem similia continere possunt, sed videtur potius
+esse corollarium.
+consequuntur L
+requisita L
+potius erg. u. gestr. sunt L
+minima,... maxime L
+11 unicuique,
+(: partes, termini, uno verbo :) gestr.
+cylinder, imo et sphaera rubra et cylinder albus, nam non tantum transpositione cylinder
+transmutari potest in sphaeram, sed et alia immutatione album in nigrum. 〈 – 〉 Nescio
+transmutatione cogitata? :)
+Magnitudo est quo similia discerni possunt comparatione facta. Sed quodnam ex 5
+his dicetur esse majus quodnam minus. Neque enim semper intelligi potest minus in-
+existere majori, ut circulus quidem major inexistere potest minori, sed non
+circumferentia, transmutari igitur debent in ea similia, quae ita se habent, ut alterum
+alteri inexistere possit, ex his quod inexistere potest, est majus, quod contra minus.
+Aequalia autem sunt quae si sint similia sibi mutuo possint inexistere, quod nec 10
+majus nec minus id aequale esse hinc videtur sequi.
+Convenit etiam haec definitio cum illa quod Aequalia sunt quae transmutari possunt
+in congrua.
+Congrua autem sunt, quae nullo modo per se discerni possunt nec sigillatim nec
+comparando, adeoque sunt similia, et praeterea dici non potest utrum potius alteri in-
+existere possit. Huc redit etiam definitio; quod minus est aequale parti alterius.
+Concipi etiam potest continuum incrementum vel decrementum Similium, unde
+sequitur non transiri a majore ad minus nisi per aequale. Angulus autem contactus non
+est communi homogeneus, neque transiri ab uno in alium potest, vel ei aequalem.
+Considerandum an et in gradibus haec quantitatis consideratio, ut an gradus
+velocitatis unus alteri similis vel gradus caloris, et an minor majori insit? Et vero nil
+prohibet, quin ita concipiamus. Licet enim velocitates efficere possunt altitudines ut
+quadrata, non minus tamen esse possunt similes, quam diametri quae habent circulos ut
+quadrata.
+In solis figuris videtur contingere, ut homogenea possint esse quae non sunt similia, 25
+et ut aequalia possint esse quae non sint congrua, nam in tempore, et in gradibus, secus
+est. Sed quid de numeris? Omnino unus alteri similis non est, ex. gr. quaternarius non est
+similis ternario nec potest reddi similis. Numerus igitur non foret res magnitudinem
+gestr. homogenea L
+28 nec... similis erg. L
+25 ut duo
+habens, secundum nostram definitionem, sed res numerum habens, nam etsi ternarius
+non sit similis quaternario, tamen recta trium pedum similis est rectae
+quatuor pedum; et arcus trium pedum una cum alio arcu unius pedis, similis
+reddi potest rectae unius pedis. Posset tamen forsan talis Magnitudinis notio
+excogitari, ut et numerus unus alio dicatur major, nam quod plura continet
+inter se congrua id est majus, numerus autem plures continet unitates. Item si A continet
+aliquid congruum ipsi B, vel ipsummet B, et aliquid praeterea dicetur ipso majus, et hoc
+sensu angulus rectus erit major angulo semicirculi, nam continet angulum semicirculi
+una cum angulo contactus.

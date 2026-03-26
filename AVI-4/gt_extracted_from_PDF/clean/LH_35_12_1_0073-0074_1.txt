@@ -1,0 +1,27 @@
+1) Si sit propositio vera, in quam ingreditur
+omnibus manentibus fiat propositio falsa; dicetur
+possunt discerni, dicuntur diversa.
+non possunt discerni dicuntur eadem.
+4) Quae non sunt eadem ea sunt diversa.
+5) Quae eadem esse colliguntur, dicimus Coincidentia, exempli causa si duae
+sint rectae quarum quaelibet circulum bisecat, ostendi potest medium punctum unius
+1 prius ostendimus erg. L
+2 quod (1) sit non A (2) non L
+DEMONSTRATIO AXIOMATUM DE IDENTITATE AC DIVERSITATE
+idem esse cum medio puncto alterius, ideo dicemus media diametrorum circuli puncta
+7) diversa vero ita:
+8) Quae eadem sunt, eorum unum alteri substitui potest salva veritate,
+esse eadem, ita designo:,
+(2) Et sit propositio vera
+discernentur (per prop. 1).
+9) Quae eadem sunt uni tertio eadem sunt inter se.
+(per autopsiam ipsius 2).
+] vera (per 4 et 5) Q. E. D. (per 3).
+10) Quod diverso ab alio idem est, ab illo alio diversum est.
+ut fiat vera (per prop. 8)
+(5) quod est contra hyp. (art. 2).
+C erit (per artic. 1. hic et per prop. 9) B
+5 f. veritate, (1) seu si sit propositio (2) Esto (3) 1) Sit L
+(1) tunc (2) caeteris manentibus L
+12 (per (1) 2 et 4 (2) 3) contra hyp. 1 (3) prop. L
+[April bis Oktober 1686 (?)]

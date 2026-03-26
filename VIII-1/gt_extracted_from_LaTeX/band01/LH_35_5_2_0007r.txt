@@ -1,0 +1,20 @@
+H.-J. Hess, 00188Die unveröffentlichten naturwissenschaftlichen und technischen Arbeiten von G. W. Leibniz aus der Zeit seines Parisaufenthaltes. Eine Kurzcharakteristik, in: Leibniz à Paris, Bd. 1, Wiesbaden 1978 (= Studia Leibnitiana, Suppl. XVII), darin S.~211–217 (Teildruck).
+
+1 Decembris 1674.
+
+__Calculus Elasticus__
+__ubi et quomodo alia problemata methodi tang. inversae reducantur subinde ad quadraturas.__
+
+Sit ABCD cylinder aere plenus a parte CD clausus, a parte AB apertus. Huic perfecte congruat embolus seu cylinder convexus HEF et ponatur cylinder convexus intrudi in concavum, usque ad GH, necesse est aerem ea [[compressione]] intrusione comprimi. Ponatur aeris in vase contenti [[quantitas esse]] [[minimum aliquod co]] [[spatium aliquo]] portiuncula quadam minor quam quae [[assumi]] possit assignari, esse β. Numerus ipsarum β quas capiat recta AB ⊓ c ponatur esse cβ et recta BD ponatur esse d, erit [[quantitas nu]] quantitas aeris cdβ. Quantitas autem spatii cdγ. Sumta [[recta]] infinite parva γ. Ponatur jam et AG esse infinite parva ⊓ γ et aerem omnem cdβ, intrudi in spatium cd - cγ seu usque ad GH vel [[item]] etiam ponatur aerem omnem intrudi usque ad (G)(H), ponendo A(G) ⊓ 2γ erit aer intrusus in spatium cd - 2cγ et erit vis aeris restitutionem molientis ex GH, ad vim aeris restitutionem molientis ex (G)(H), [[ut]] [[in]] ut [[gradus compressionum]] quantitates mutationum a statu naturali [[. Nempe]] deflectentium. Nimirum considerandum est in prima compressione effectum esse, ut totus aer quia implebat cd impleat tantum cd - cγ. Ergo quodlibet aeris minimum β est in spatio quod sit ad spatium γ sibi naturaliter debitum, ut cd - cγ est ad cd eritque proinde spatium quod nunc implet. Quod si pro γ ponamus 2γ, [[ut]] vel etiam 3γ, etc., vel generaliter y, [[fiet]] tunc spatium quod implet ipsum β minimum aeris erit: dy - y^2⌣d. [[Sunt autem vires seu conatus ad restituendum, in quolibet puncto aeris ut in ratione compressionum seu differentiarum a statu naturali]] Jam aestimandum est, qua ratione recte possint aestimari vires seu conatus ad restitutionem; [[an a differenti]] an scilicet sint ut differentiae spatiorum quae implent; ac proinde vis aeris compressi usque ad AG, foret ad vim aeris compressi usque ad A(G) ut est AG ad A(G). Sed hoc absurdum esse demonstratur, quia ita
+
+comprimi posset aer ad minimum usque spatium; quod est impossibile; itaque sic potius statuendum est esse vires in reciproca spatiorum ratione. Quod ut appareat considerandum est: vim omnem Elasticam non oriri a defectu spatii debiti; nullum enim spatium debitum est Elasticis, sed si possent [[altius semper atque altius]] amplius semper atque amplius aperirentur; verum parvitas spatii eruntque [[vires ut]] adeo virium magnitudines, ut spatiorum parvitates. Sive erunt virium magnitudines in magnitudinis
+spatiorum reciproca ratione. Quod et physicis rationibus ostendi posset; [[erunt enim vires ut celeritates]] dubitandum enim non videtur vim Elaterii oriri a motus celeritate in iis quae sunt compressa, ut in vacuo vase aqua pleno ponatur aqua vi quadam concitata moveri
+(ut si vas circa suum centrum agatur motu aequabili et durante) in aqua fluctuare intelligatur globus quidam B, eccentrice positus, ille motum reddet inaequabilem, fiet enim, ut motus sit celerior in I, quam in L, quia eodem tempore tantundem transit spatii per I, quantum per L, et [[ideo celeritas]] quia celeritas oritur ab intrusione, ideo non est dubitandum celeritatem illam conari rejicere globum in aquae medium. Considerandum autem causam istam esse a materiae consistentia, et ex principio, [[motus]] quod fortiter mota rejiciunt a se quae ipsa contingunt cujus rei ratio est, quod quae moventur, agunt in omnes partes, quomodocunque moveantur. Notandum autem alios atque alios esse gradus velocitatum quia aliae atque aliae
+
+---
+Additions:
+<<cavus>>
+<<in>>
+<<vel>>
+<<A>>
+<<: Vid. sub __finem.__>>

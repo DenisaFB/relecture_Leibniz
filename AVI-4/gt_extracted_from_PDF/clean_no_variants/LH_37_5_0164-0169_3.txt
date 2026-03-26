@@ -1,0 +1,408 @@
+2 atque objecti erg. L
+3671. DE ATTRIBUTIS
+ATTRIBUTA sunt vel principiaintrinseca vel affectiones.
+PRINCIPIA INTRINSECA sunt attributa primitiva sive ab aliis eidem subjecto
+competentibus a priori indemonstrabilia.
+Itaque [bricht ab]
+3672. DE MOTU CORPORIS
+CorpusinMotuest, quod est causa efficiens proxima cur pars quaelibet ipsius
+situm cum aliis corporibus mutet; alioqui dicitur Quiescere.
+Consideremus duo haec corpora, Solem et Tellurem, quae cum inter se distantias
+mutent, adeoque et situm, dicimus quidem aliquem adesse motum, sed non ideo dicere 10
+possumus utrum eorum moveatur aut quiescat, et an fortasse ambo moveantur, sed si
+sciamus quodnam causa proxima sit mutati situs, ei motum tribuemus; verbi gratia si
+telluri quaedam intelligentia inesset, quae illam circumageret; aut si paulo ante mota
+fuisse ponatur, quia motus semel positus sine ratione non desinit; aut si in fluido tellurem
+ambiente quaedam contingerent, quae ex vi quadam agendi telluris in motu existentis
+consequantur, aliter autem per causam aliquam explicari non possint, nempe si aether
+CorpusinMotuest, L
+16 consequantur, ut si tellus ea a se rejiciat erg. u. gestr. aliter L
+circumjectus ita a tellure recedat, uti ab ea rejici deberet, si ipsa moveretur, utique
+constabit tellurem moveri, nam aliter motus adeo varii in fluido ambiente ad unam
+causam revocari non possent. Quodsi nihil tale contingeret in sole, sola tellus foret in
+motu. Sin contingerent et in tellure et in sole, utrique motus attribuendus esset, et uterque
+pro parte ad mutationem situs contribuet.
+Partium autem mentionem in definitione ideo feci, quia si corpus circa proprium
+axem tantummodo moveatur, dici non potest ipsum mutare situm cum aliis, licet
+quaelibet ejus pars situm cum aliis mutet. Si chorda aliqua utrinque aequaliter tendatur,
+Si vero tria sint corpora mutatio situs notari
+potest. Exempli causa ponamus tria esse corpora a, b, c, et
+per a, b transeat circulus cujus centrum sit c in quo sit
+spectator, et ponamus ipsa a, b distantiam quidem retinere
+a spectatore, sed mutare distantiam inter se, exempli causa
+utique notare potest spectator angulum 2acb esse majorem
+quam 1acb, sed si duo tantum essent corpora, ut si
+spectator esset in b, et corpus a moveretur, utique is qui
+esset in b non posset judicare [bricht ab]
+Si visibile consideretur instar puncti, et spectator
+quoque velut in puncto collocatus, sintque duo tantum
+puncta in quorum alterutro sit spectator, non poterit notare
+situs mutationem quae inter haec duo puncta contingat. Poterit vero eam notare, si punctum adhuc unum
+praeterea assumatur, et mutatio [bricht ab]
+distantiam quidem L
+27 mutatio 〈id〉 gestr. L
+Si duo tantum sint puncta in rerum natura, eaque situm mutare intelligantur, hoc non poterit notari;
+quia distantia est magnitudo intervalli, magnitudo autem sola comparatione intelligi potest.
+Si duo tantum ponantur [bricht ab]
+3673. DE MUTATIONE SITUS
+DeMutationeSitus
+Si duo tantum essent puncta in rerum natura, eaque inter se situm mutare
+ponerentur, hoc non posset notari, quia situs cognoscitur per distantiam ab alio. Distantia
+est magnitudo intervalli. Magnitudo autem cognoscitur sola comparatione. Exempli
+[causa] si puncto a quiescente, punctum b mutet situm, et transeat per loca 1b, 2b, 3b,
+hoc notari non poterit ex a, neque an b moveatur, quia nullum 10
+est principium judicandi ex a utrum recta a2b sit major quam
+recta [a1b]. Nec judicari poterit quomodo b moveatur, quia
+nullum est principium judicandi utrum puncta a, 1b, 2b cadant in unam rectam, et utrum
+1b, 2b, 3b cadant etiam in unam rectam.
+Si vero loco punctorum adhiberentur corpora, mutatio illa posset notari. Nam si
+ponamus puncto a quiescente b transferri ex 1b in 2b, constare poterit mutatio, sumtis
+enim in corpore moto punctis c, d, quae durante motu ipsi puncto medio b parallela
+ferantur, angulus cad crescente distantia diminuetur, exempli causa 1ca1d erit major
+quam 2ca2d, angulus autem ut 1ca1d notari poterit in partibus ipsius corporis a, nempe
+in ef.
+10 b erg. L
+12 a2b L ändert Hrsg.
+erg. L
+20 ef. Notari etiam hinc poterit, utrum
+punctum b moveatur in linea recta, quia quamdiu rectae a1b et a2b non faciunt angulum, seu eidem puncto in
+punctum gestr. L
+11 judicandi
+16 puncto
+Attributadistincta sunt quorum resolutio in natura priora intelligitur, seu quae
+definitione causali explicari possunt, ut Numerus, Magnitudo, Figura, Motus. Confusa
+sunt, quae explicari non possunt, sed aliis ut concipiantur, ostendi debent. Tales sunt
+qualitates sensuum extensorum, ut color, sonus, odor, sapor, vel explicantur a posteriori,
+ut calor, gravitas.
+AttributumHomoeomeres, quod parti et toti aeque tribuitur, ut extensio,
+motus, rubedo. In confusis attributis, qualis est rubedo, affirmari non potest, quod idem
+attributum cuilibet parti utcunque parvae competat, seu quod quaelibet pars rubri sit
+rubra; etsi hoc succedat in sensibilibus partibus.
+2–7 Attributa... in natura priora erg.
+9 utcunque parvae erg. L
+SPECIMINA DE MOTUS CAUSA ET DE CORPORUM QUALITATIBUS
+Symbola sunt corpora, quae in se mutuo permutari possunt, ut glacies et aqua.
+Continuasuntcorporainterse, quorum superficies aliqua communis est.
+Ubi notandum fieri non posse, ut duo corpora punctum tantum vel lineam tantum
+communem habeant.
+Contigua sunt corpora inter se quae terminos habent simul sive indistantes, nec
+Corpuscontinuum dicitur, cujus quaelibet partes contiguae per superficiem,
+sunt continuae inter se.
+Corporacohaerere dicuntur, si uno moto sequatur alterum. Hinc si quid alteri
+inclusum sit, movetur quidem cum ipso, sed ipsum non sequitur.
+Rarefit corpus, si nullo novo corpore sensibili accedente, quod partibus ejus
+intercedat, ipsum corpus majorem quam ante locum occupat.
+Condensatur si nullo corpore sensibili inter partes ejus expulso ipsum corpus
+minorem quam antea locum occupet. Ita ae¨r in thermometro modo majus modo minus
+spatium occupat.
+Forma est attributum abstractum absolutum, seu quod non concipitur ut modus
+entis, sed ut ens in se subsistens; exempli gratia nigredo. Nam ut ea vulgo concipitur ab
+hominibus, conceptus ejus nihil involvit quod eam per se extra molem corporis
+subsistere prohibeat. Sed si distincte concipiatur in quo consistat nigredo, fortasse
+deprehendetur eam necessario subjectum involvere, ut si nigredo sit cavernositas
+superficiei corporis, qua fiat ut radii lucis imbibantur, quo facto patet eam esse
+superficiei modum, ac proinde superficiem necessario involvere. Quoniam tamen saepe
+in scientiarum conclusionibus a causa hujus modi attributorum investiganda animum
+abstrahimus, ut in Mechanicis gravitatem saepe consideramus velut absolutam aliquam
+qualitatem corpori inhaerentem, perinde ac si corpus per se, sive vi hujus qualitatis
+intrinsecae, sine ulla externa causa ad
+5 f., nec... superficies erg. L
+24 saepe erg. L
+centrum terrae tenderet; hinc attributa ista, quae saltem confuse instar absolutorum
+entium concipi possunt, a caeteris distinguere operae pretium fuit. (Omnis forma est
+attributum homoeomeres. )
+Intensio est quantitas formae in se, ut si forma sit motus, intensio erit celeritas.
+Extensioformae est quantitas materiae cui inest forma homoeomerica, ut
+quantitas corporis moti est ipsius motus extensio.
+Quantitasformae est factum ex intensione et extensione formae.
+Quantitas autem materiae fit ex spatio seu volumine ducto in densitatem corporis.
+densitate, formae intensione. Exempli gratia pollex cubicus et pes cubicus aquae salsae
+tribus ex capitibus comparari possunt, nam et pes major pollice, et una aqua sale ditior
+altera esse potest (si nempe ex pollice cubico unius plus excoqui possit quam ex pollice
+cubico alterius) et denique sal ipse qui ex uno fit fortior esse potest quam qui ex altero
+elicietur.
+Corpora perminimamisceri dicuntur si nulla pars compositi sumi potest, in
+quo non sit pars ex utroque componentium sumta. Ut si aqua sali misceatur. Non tamen
+hinc sequitur corpus hujusmodi esse similare, fieri enim potest ut diversis compositi
+partibus diversae sint partium ex componentibus sumtarum proportiones. Exempli causa
+si poneremus aquam profundiorem esse salsiorem, et semper salsedinem crescere cum
+profunditate.
+Minimaillaphysica sunt partes in quas unumquodque componentium in
+mixtione divisum est, sumuntur autem hic pro punctis, haec portio potest etiam dici
+Atomus.
+Si minimae partes in quas divisa sunt composita ponerentur esse puncta
+mathematica et poneretur etiam quodlibet compositi punctum esse mixtum, tunc perinde
+esset ac si quodlibet punctum componentium poneretur rarefactum, et pars una puncti
+rarefacti ex uno composita cum parte puncti rarefacti ex altero, rursus in punctum priori
+ante rarefactionem densitate aequale (vel si densitas utriusque inaequalis), mediae
+densitatis
+Intensio L
+8 seu
+volumine erg. L
+rursus L
+10–14 Exempli... elicietur. erg. L
+27 altero mixto gestr.
+16 pars
+21 quas
+condensaretur. Hoc modo et formae et qualitates mixti essent factae ex formis et
+qualitatibus miscibilium inter se [rarefactis]. Sed haec cum aliunde constet secundum
+rigorem vera non esse, discutere nihil attinet.
+Punctummoveri dicitur quod distantiam ab aliis punctis mutat ob causam in
+ipso existentem.
+DuorumpunctorumAetBmotuscommunis est si quatenus ita moventur
+eandem distantiam servent; ut liquidum cum vase, etsi per accidens eveniat, ut partes
+liquidi ob vas nonnihil concussum separatum aliquem motum accipiant. Si vero corpus
+esset firmum partes ejus absolute distantiam eandem servarent.
+Corpusmoveri dicitur, si nulla ejus pars sit in qua non punctum assumi possit,
+quod communi cum caeteris motu moveatur. Hinc patet cur dicatur corpus moveri circa
+suum axem, etsi puncta ejus aliqua nempe in axe motus sita, quiescant. Chorda vero quae
+ab utroque extremo extenditur, non ideo moveri dicitur, nam motus nullus est per se
+partibus (si totum ut firmum consideraretur) futurus communis, cum alia huc alia illuc 15
+magis trahantur.
+Motussimplex est cum omnia puncta moti describunt lineas parallelas, rectas
+scilicet vel peripherias.
+Porro ad motum desidero, non
+tantum mutationem situs ab aliis,
+sed etiam ut causa sit in eo cui
+motus ascribitur, nam si solam
+mutationem situs consideremus, seu
+est, non potest dici cuinam ex pluribus corporibus situm inter se variantibus motus sit
+2 refractis L ändert Hrsg.
+12 f. circa suum axem erg. L
+15 futurus erg. L
+11 dicitur,
+qualis illa est nullo modo probabilis, quae lunam in centro mundi ponit; sed si ad causas
+physicas veniamus, facilius constat cuinam ascribendus sit motus. Exempli causa sint tria
+corpora a, b, c dicamque moveri corpus c in recta 1c2c, poterit alius mihi contradicere et
+asserere non moveri ipsum c, sed quiescere, et ipsa a, b simul sumta potius contrario
+motu moveri ex 1b1a in 2b2a quae licet non aeque sit probabile, (simplicius enim est
+motum unius supponere quam duorum) est tamen possibile, nam situs primus ponatur
+esse 1a1b1c translato 1c in 2c ipsis 1a et 1b manentibus tunc phaenomenon, quod
+phaenomenon quod orietur, erit situs 2a2b1c qui a priori phaenomeno seu situ 1a1b2c
+non potest discerni, itaque nec judicari hinc potest, utra hypothesis sit vera. Idem est etsi
+quatuor corpora loco trium supponantur, tunc eadem phaenomena poterunt explicari per
+hypotheses adhuc multo plures. Nisi assumatur aliquod corpus novum d tale, ut corpus
+unum c si moveri ponatur ex 1c in 2c,
+in ipsum d impingere necesse sit, tunc
+enim a simplici consideratione
+mathematica situs variati, transitur ad
+physicam nempe ad aliquam
+actionem, sequetur enim aliqua motus
+communicatio, ex qua manifestum
+erit, actionem aliquam ipsi c esse
+ascribendam.
+Locus est situs qui distantia a
+Hinc fieri potest, ut corpus sit in motu, seu vim quandam agendi habeat, locum
+tamen respectu punctorum immotorum circumjacentium non mutet. Exempli causa e
+moveatur in linea fg ab f versus g, et eodem tempore eadem celeritate tota linea fg
+contrario motu, sic ut vestigia lineae in ipsam
+6 ex.
+12 quatuor
+15 d erg. L
+13 d erg. L
+determinatur. erg. L
+28 eadem celeritate erg. L
+incidant, erg. L
+14 ex... 2c erg. L
+29–S. 2019.1 motu eadem celeritate gestr. sic...
+5 simul erg. L
+SPECIMINA DE MOTUS CAUSA ET DE CORPORUM QUALITATIBUS
+prora ad puppim, dum navis aequali celeritate progrediatur, manifestum est quo tempore
+e perveniet ab f in g, eodem tempore 1g pervenire in 2g, et quia ob aequalem celeritatem
+utriusque motus linea fg decursa ab e aequalis est lineae 1g2g decursae a puncto g, ideo
+punctum 2g incidet in punctum 1f, et ideo e, quod sub finem motus pervenit in g,
+adeoque nunc est in 2g, reperietur esse in 1f ubi antea fuerat. Et idem semper et ubique
+durante hoc motu continget, adeoque e spectatum ex immotis l, m, n ne quidem progredi
+videbitur. Dicendum tamen est ipsum esse in motu; nam homo ille utique sentiet se
+spatiando fatigari, et motu suo pellere aliquid vel trahere poterit; ac proinde agit.
+Quoniam ergo motum ei tribuimus in quo causa mutati situs est, seu quod agit, utique
+corpus e moveri dicemus, etsi locum quem in mundo habet, et qui respectu punctorum
+fixorum sumendus est non mutet. Etsi autem nullum fortasse sit corpus fixum in mundo,
+tamen puncta fixa intellectu designari possunt, cognito enim motu, quo corpora ab suis
+locis digrediantur, constat etiam distantia locorum priorum a locis posterioribus.
+Qui motum corporis definiverunt translatione ex vicinia corporum immediate
+contingentium, et quae tanquam quiescentia spectantur in viciniam aliorum, illi non
+tantum commisere circulum in definiendo: nam quamdiu non intelligitur, quid sit motus,
+nec intelligetur quid sit quies; sed etiam verbis usu receptis vim fecere, ut ne statuere
+viderentur motum terrae, itaque negaverunt terram moveri, quia scilicet cum coelo seu
+vortice suo deferatur, nec proinde ab ambientibus corporibus recedat, quod quanquam 20
+falsum sit (nam licet cum vortice suo moveretur, minus celeriter tamen moveretur, quam
+materia subtilis ipsius vorticis); tamen licet verum poneretur non ideo motui terrae
+obesset, quis enim neget trabes moveri quae a flumine deferuntur, moventur enim
+nonnunquam tanta vi ut etiam pontes convellant. Itaque nos illi motum tribuemus, quod
+vim agendi habet. Unde patet etiam falso illos dixisse, id quod reale et positivum in motu 25
+est, aeque utrique corporum contiguorum a se recedentium competere. Potest enim vis
+agendi esse in uno tantum, adeoque et causa 〈variati situs 〉.
+semper L
+Ex his etiam patet nos Motum brevius potuisse definire, actionem corporis quatenus extensum est, vel
+15 corporis
+erg. opinor clarius intelligentur. gestr.
+erg. L..
+25–27 Unde... a se recedentium erg.
+18 sed etiam erg. L
+Motussimplex est, cum omnia corporis puncta vias parallelas describunt, tales
+sunt non nisi rectus et circularis.
+Impingitur corpus corpori excipienti, si motu suo continuato in locum ejus
+perventurum esset.
+Unde si excipiens moveatur dicitur pelli.
+Si impingens post impactum moveatur in contrariam partem, dicitur r e pelli.
+Tr udens est pellens contiguum manens durante motu.
+Propellens est pellens quod contiguum esse cessat.
+Protrahitur quod truditur a parte ejus cujus major pars in motu antecedit rem
+quae protrahi dicitur.
+Corpus 1 similare, est cujus quaelibet portio habet easdem qualitates, ut aurum.
+Ingredientia sunt quorum mixtura fit novum corpus, ut ingredientia salis
+armoniaci sunt sal, fuligo, urina.
+Mixtura est duorum corporum A et B, si tam A quam B dividantur in multas
+partes, eaeque ita disponantur, ut quaelibet pars ex ipso A (vel B) sumta, reddatur
+contigua parti
+1 Am Rande am Kopf der Seite: Variari dicitur genus, cum de una ejus specie transitur in
+aliam, ut cum homo ex pallido rubescit, tunc homo mutatur, color vero variatur.
+17–S. 2021.3 Mixtura... separationem. erg. L
+alicui ab ipso B (vel A) sumtae. Si fila varie sibi implicentur, exempli causa serica, et
+linea, non est mixtura, quia sibi adhuc cohaerent. Contrarium mixturae voco
+separationem.
+EDUCTA voco cum ex uno corpore fiunt plura. Ut ex vitriolo, educta sunt spiritus
+oleum et colchotar.
+INGREDIENTIA sunt vel subsistentia vel destructa mixtione.
+EDUCTA similiter sunt vel praeexistentia vel producta.
+COMPONENTIA sunt partes corporis ab aliis partibus qualitate differentes. Itaque
+statuae membra non dicemus partes ejus componentes, si tota ex aere sit. Caro vero et
+ossa sunt componentia.
+MEMBRA sunt partes corporis quae in eo jam a natura discernuntur, ut caput in
+homine, folia in talco.
+Quoniam desunt nomina satis apta his interim utemur, dum alia occurant.
+Ingredientia subsistentia itemque educta subsistentia, sunt componentia, sed non
+omnia componentia ante extitere sive ingredientia fuere, potuit enim fieri ut in corporis 15
+formatione fuerint nata; similiter non omnia componentia possunt educi, fieri enim potest
+ut corpore dissoluto simul destruantur.
+Quaecunque tam ingrediuntur quam educi possunt ea componentia esse verisimile
+est, ut quia ex sale et aqua mixtis fit Muria, et rursus ex muria iterum educi possunt sal et
+aqua valde verisimile est aquam et sal in muria superfuisse, nonnunquam et pro physice 20
+4 educta sunt erg. L
+similiter sunt vel praeexistentia vel producta. Et PRAEEXISTENTIA rursus vel occulta vel manifesta, et
+subsistentia manifesta e x t a n t i a sunt, ut lapilli in muro aliave pasta, separatim enim sensibus
+talia interdum non considerari ut partes sed ut contenta, ut lapis in vesica margarita in concha. Ingredientia
+8 f. Itaque
+9 f. Caro...
+componentia. erg. L
+nonnunquam L
+certo haberi potest, praesertim si eadem iterum quantitas prodeat, nullumque sit indicium
+factae destructionis. Absolute tamen demonstrativum hoc non est, nam fieri posset, ut
+ingredientia destructa reproducerentur. Certe id saepe dubium est, ut in nitro regenerato.
+Pervasio est mistio corporum spontanea, nempe quae fit absque motu mistionem
+efficiente.
+Secessio est separatio spontanea. Oriri aut destrui corpus potest per mixtionem
+novi, per separationem veteris, per mixtionem novi et separationem veteris simul,
+denique sine mixtione et separatione per solam transpositionem, sive mistionem et
+separationem ipsarum partium veterum.
+Characterismus vocari posset, figura alicui corpori propria, ut figurae
+plantarum, animalium, salium.
+Appendices dici possent corpora, quae separatim non inveniuntur, sed in aliis, ut
+dentes, gummata, margaritae, quae aliorum sunt partes vel contenta.
+Durabile quod aliquandiu easdem qualitates habet.
+Mutabile quod contra.
+Permanens est quod aliquandiu easdem partes habet.
+Fluxum, cujus partes perpetuo sunt aliae, ut flumen, flamma. Hoc autem intelligo
+per se, etsi fieri forte possit per accidens, ut discessio illa et successio impediatur.
+Firmum est quod figuram quam habet sponte non mutat.
+Fluidum est, quod sponte mutat figuram quamcunque. Itaque Elasticum etsi
+sponte figuram mutet non est fluidum.
+Consistens est quod notabiliter resistit tactui nostro.
+Inconsistens, quod ita tangi potest a nobis, ut vix nos tangere sentiamus, ut cum
+ae¨rem tangimus. Per accidens tamen percipimus, cum vel nos, vel corpus [in]consistens
+sunt in magno motu, ut ventum percipimus sive ae¨r in nos incurrat, sive nos in ae¨rem.
+3 Certe... regenerato. erg. L
+mistionem L
+indigemus, quo exprimatur spontanea separatio, quemadmodum cum vinum deponit tartarum, posset dici
+7 veteris
+simul erg. L
+Permanens erg. L
+7 veteris erg. L
+7 novi erg. L
+7 novi erg. L
+Molle est firmum cujus figura facile mutatur ab externo, manetque qualis facta est.
+Elasticum est cujus figura mutari potest ab externo, sed sponte sua redit.
+Durum est cujus figura difficulter mutatur ab externo, vel potius sine partium
+avulsione non mutatur.
+Liquidum est fluidum consistens.
+Halitus est fluidum non consistens. Omne corpus non consistens deprehenditur
+fluidum.
+Datur Halitus permanens, exempli causa fumus inclusus vitro. Flamma tamen
+permanens non datur. Datur etiam halitus qui sine calore oritur, scimus enim et frigore
+posse spiritus elici.
+A e¨ r est Halitus Elasticus.
+Humor est liquor cujus portio in forma liquida tangenti adhaeret. Itaque Mercurius
+non est humor saltem respectu hominis, est tamen respectu alicujus metalli.
+Humido oppositum est siccum. Etiam Argentum vivum siccum hoc modo erit, etsi
+sit liquidum.
+Flamma est halitus calidus et lucidus.
+Inflammabile est quod in flammam abit.
+Inflammabile p u r u m est, quod totum flamma consumitur.
+Halabile est vulgo Vo latile, quod in halitum abire potest.
+Fixum est quod in halitum abire non potest.
+Reconsistens est corpus consistens factum ex Halitu. Uti non omnis halitus fit
+calore, ita non omne reconsistens est congelamen.
+Va por est halitus ex quo corpus reconsistens est humor.
+A e¨ r L
+16 Flamma..
+14 f. Humido... liquidum erg. L
+in L. lucidus. erg. L
+18 f. consumitur.
+Fumus est halitus, ex quo corpus reconsistens est siccum.
+Pingue est inflammabile magis consistens, quam aqua.
+Nidor est halitus, qui reconsistens est pingue. Videtur tamen nidor odorem
+Spiritus est reconsistens activum humidum, tenue.
+Activum voco quod qualitatibus singularibus praeditum est, quibus aliquid effici
+potest, quod quocunque alio corpore aeque crasso, denso, consistente, effici non potest.
+Nota aliud esse rarum et densum, aliud tenue et crassum, aliud consistens et
+inconsistens, aliud denique grave et leve.
+Liquatio est cum ex corpore firmo fit liquidum ob permistionem cum liquido.
+Fusio vel liquefactio est cum ex corpore firmo fit fluidum per calorem, sive per
+halitum calidum.
+Deliquium est cum ex corpore firmo fit liquidum per vaporem seu halitum
+humidum.
+Crassius quod in majores partes dividi potest,2 tenuius quod in minores; an ergo
+hydrargyrum tenuius aqua, quia per poros corii transiit.
+Meatus est cavitas multo longior quam amplior, seu cavitas angusta.
+Porus est meatus exitum habens.3
+Corpus rarum in quo multae sunt cavitates.
+Quaedam pellucida sunt non perspicua, ut cornu, ebur.
+Corpus unum penetrat alterum, si transeat per ejus poros. Non omne penetrantius
+est partium tenuiorum; muria per vasa fictitia non satis accurate vitreata transit, quod
+aqua sincera non facit.4
+2 Am Rande:
+3 Am Rande: Porosum, spissum, quod latus et angustos meatus habet.
+4 Am Rande: Te nax est quod alteri specie diverso constanter adhaeret (imo et simili),,
+an sit quod applicato adhaeret.
+Lentum est cujus partes sibi constanter adhaerent. Pileus aliudve coactile
+Pingue L
+Spiritus L
+caustica, gestr. quibus L
+P e l l u c i d u m corpus est trans quod videri potest corporis figura. gestr. Quaedam L
+6 est, ut odore, sapore, vi
+19 cavitates.
+Flexio est mutatio figurae manente partium earundem contactu.
+Rigidum est quod flecti nequit.
+Fissile est, quod magis in hanc, quam in illam partem continue dividi potest,
+estque vel fibrosum ut linum, caro, cannabis linum, vel crustosum.
+Liquabilia duorum sunt generum, alia tandem saturant humorem, ita ut nihil
+amplius solvat, eique non permiscentur, alia cum eo in pultem abeunt.
+Liquor saturatus est, qui plus non liquat.
+Saliforme est quod fit ex corpore per spiritum ae¨rem corroso, ut alumen,
+vitriolum.
+Corrosio est solutio sine strepitu. An potius ex qua non facilis reductio.
+Te rra est corpus quod aquis irrigatum cohaeret et iisdem permiscente aqua tandem
+residet.
+Terra aquis irrigata cohaerens, est lutum.
+Terra simplex est quae nec aquis solvi, nec igne fundi, nec in halitum converti
+potest.
+lentum est, quia flexile et Retensile idem quod Elasticum.
+Glutinosum est lentum simul et tenax, dicitur et viscidum ut calx; gluten, argilla.
+Vimen, chorda, funis, lenta non tenacia.
+Pannus est fissilis, reticulata opera, gestrickt non sunt fissilia, laßen sich nicht
+Creta lixivii, crocus chalcanthi vitro pertinaciter adhaeret, vix ut elui possit, sed
+neuter pulvis lentus est, ergo nec glutinosus. Itaque non omne tenax lentum est. Tenax
+aliquid dici potest hoc sensu non absolute sed respective, ita Hydrargium est tenax
+auri.
+368.DE MOTU INSENSIBILI IN BAROMETRO

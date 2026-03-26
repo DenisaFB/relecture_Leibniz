@@ -1,0 +1,22 @@
+Cum Hyperbola et Ellipsis colligant omnes radios ex puncto in axe optico, et vicinissimis tanto scil. pluribus, licet tam minus accurate, quanto ipsa Hyperbola aut Ellipsis obtusior. Hinc fieri potest figura optica quasi perfecta. Constans ex meris vel Ellipsibus Hyperbolisque sibi appositis quasi mechanica quadam construendi ratione, ut huic hoc illi aliud objecti punctum sit in axe optico, ita totum simul perfecte, quantum possibile est detegetur: inprimis si illae variae projectiones inter se uniantur, ut si in unum speculum concavum incidant, ubi unientur ob auctam magnitudinem. Aut si in convexum ubi unientur spatii poterunt autem inde projici in amplificans speculum Tubumque. Amplificatio in parte erit. Haec tantum pro iis quae lucida non sunt, aut non illustrabilia. Illustrabilia satis radiis datis possumus videre solis sphaericis lentibus. Nota si objectum in centro pluries Hyperbolae circa collocatum ipsum respicientes quodammodo videbuntur in unam figuram conjunctae et praestabunt lentem perfectam mechanicam. Videbitur [[quidem]] sic totum objectum saepe simul, sed ita omnes ejus partes distinctissime.
+
+Magnitudo augeri potest in infinitum tum aucto vitro sphaerae majoris, et magis remoto a sphaera exigua. Quod tamen plurimum nocet luci, tamen quod aptius adhibito speculo concavissimo aut etiam parabolico dicendum est in infinitum auget, manente eadem via nec proinde aucta longitudine Tubi quae parit obscuritatem.
+
+An utile objectum in speculum allapsum microscopio intueri. Ita arbitror est enim quasi pictura. Sed speculum obscurandum quantum licet. Cogitandum de rationibus obscurandi in summo gradu.
+
+Hyperbolis et Ellipsibus in Tubis, parabolis in speculis potest augeri Lux dati puncti seu numerus radiorum collectorum in infinitum, pluribus conjunctis defectura.
+
+Apertura in Hyperbolis in arbitrio est. Magnitudo deinde vel speculis concavis, vel Tubis, seu proportione lentis ad objectivum. Ita puto rem opticam posse augeri in infinitum. Ita videor reperire, quod summum potest. Nisi quis figuram simplicem reperiat quae praestet vicem Ellipsium vel Hyperbolarum conjunctarum.
+
+Nota. Quoniam [[Refractio]] non anguli sed sinus refractionum sunt proportionales. Ideo licet refractionibus multiplicatis lucrari aliquid facereque per exemplum. NB. Solis vitris concavis ac proinde pandochis radios convergentes.
+
+Adde modum [[Lanae]] Hookii eundem Tubum faciendi iisdem vitris longiorem.
+
+Consule propositiones Auzuti ad Hookium ubi petit ejus artem faciendi exiguae sphaerae vitro Tubum magnum.
+
+---
+Additions:
+<<[[arctam]] ob arctitatem>>
+<<et parabolis>>
+<<seu ordinatis>>
+<<: Potest fieri quadam quasi __Hyperbola__ Mechanica, dispositionibus sectionum ex sphaeris. Ad Hyperbolam etc. exacte elaborandam motus uno velut ictu ac momento, ope pulveris pyrii exercendus>>

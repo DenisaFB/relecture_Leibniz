@@ -1,0 +1,209 @@
+Elementorum Physicae conscribendus erit libellus. Cui adjiciatur Descriptio Pyropi,
+id est noctilucae constantis simulque ignis non consumentis neque alimento indigentis.
+Physica nostra non aget de observationibus atque Historia naturae, sed de
+rationibus; sive qualitatibus, et quae ex illis vel necessario vel certe per se (si nil
+observationibus applicare. Erit ergo prima pars de Qualitatibus; altera pars vero aget de
+Subjectis qualitatum, sive de Corporibus quae in mundo extant, ubi Historia cum
+ratiocinatione jungetur.
+Agemus igitur de Corpore et ejus qualitatibus tum intelligibilibus, quae distincte
+concipimus, tum sensibilibus quae confuse percipimus.
+21 (1) Elementa (2) Elementorum L
+alimento non indigentis, ac (b) id est L
+distincte (a) percipimus, (b) concipimus erg. L
+21 f. Descriptio (1) pl (2) Pyropi, (a) seu ignis innocui atque
+29 f. quae (1) ab (2)
+24 illis (1) necessario aut (2) vel... vel L
+Corpus est extensum, mobile, resistens. Id est quod agere et pati potest quatenus
+extensum est; agere si sit in motu, pati si motui resistat. Consideranda itaque primum
+Extensio, deinde Motus, tertio Resistentia seu concursus.
+Extensum est quod habet magnitudinem et situm. Est autem magnitudo modus
+determinandi omnes rei partes seu cum quibus res intelligi possit; Situs est modus
+determinandi cum quibus res percipi possit.
+Magnitudo rei exacte cognita est cognito numero partium cuidam mensurae
+congruentium. Agendum erit ergo de Numeris, tam certis seu definitis, quod est
+Arithmeticae, tam indefinitis quod est Algebrae. Hic de aequalitate et ratione. Nam
+aequalia sunt quae congrua fieri possunt. Ratio est ad aequalitatem, ut numerus ad
+Situs partium rei inter se dicitur Figura. Hinc oriuntur similia quae discerni non
+possunt, nisi simul percipiantur. Homogenea autem sunt quae reddi possunt similia.
+Omnia similia et aequalia sunt congrua.
+Antequam de figura agatur, agendum de Spatio ipso et de puncto. De Sphaera, et de 15
+intersectione duarum sphaerarum seu circulo; de plano, de intersectione duorum
+planorum seu recta; de intersectione trium sphaerarum seu puncto. Unde patet cur puncti
+locus sit datus, si ejus distantia ex tribus aliis punctis sit data; et praeterea plaga, nam tres
+sphaerae se in duobus punctis secare possunt. Hinc habebimus et naturam lineae rectae,
+cur scilicet duae rectae non possint duo puncta habere communia; hinc jam elementorum 20
+facilis erit demonstratio. Et haec quidem erit consideratio Figurarum sine ull[o] adhibito
+Sequitur jam Motus seu mutatio situs; ubi modus efficiendi circulum et rectam. Hic
+explicanda erit scientia tornatoria, sive de motuum vestigiis. De modo exhibendi rectam,
+1 extensum, (1) mobile (2) resistens (3) mobile, L
+2 agere (1) quatenus (2) si... resistat erg. L
+4 est (1) continuum (2) totum (a) cui (b) continuum
+4 f. modus (1) designandi (2) determinandi erg. L
+5 f. est (1) forma rei (2) modus (a) secundum quem plura simul percipi possunt (b)
+8 ergo (1) et gestr. de Numero, et de Congruentia (2) de Numeris, L
+3 Extensio, (1) id est Magnitudo et Situs, (2) deinde L
+(aa) cujus partes sunt simul (3) Substantia (a) cujus (b) quae partes habet toti similes. (4) quod... et (a)
+Extensum (b) situm (c) pa (d) positionem (e) situm. L
+5 seu... possit erg. L
+determinandi (aa) rem (bb) cum L
+13 percipiantur. (1) Con (2) Homogenea L
+Item de Sphaera et Plagis. De intersectione duorum circul (2) De (a) situ punctorum (b) puncti alicujus situ
+determinato, si ex tribus aliis punctis (c) Sphaera (aa) et (aaa) planis (bbb) plano, (bb) et L
+circuli, et (2) de L
+tres (2) qua (3) et L
+21 ulla L ändert Hrsg.
+21 consideratio (1) situs (2) Figurarum L
+24 exhibendi (1) regulam (2) rectam erg. L
+20 possint nisi str. Hrsg. duo L
+23 ubi (1) sphaerae (2) modus L
+(1) Est enim (2) aequali (3) Nam... unitatem erg. Situs L
+15 de (1) situ punctorum. (2) Spatio L
+18 ex (1) quatuor (2) tribus erg. L
+12 rei (1) di (2) inter L
+18 si (1) ex (2) ejus L
+planum, sphaeram, conum; coni sectiones earumque in plano delineationem; de figuris
+magis adhuc compositis, de varia motuum compositione.
+De concursu, seu de motu et resistentia inter se junctis. Ubi de variis machinis, rotis,
+Hinc jam demonstrandum est: Spatium esse indefinite extensum,1 nam nulla ratio
+esse potest cur alibi finiatur, quia de quocunque aliquid concludi potest, id de ejus simili
+similiter concludi potest. Itaque idem magis adhuc de circulo majore concludetur, quod
+conclusum est de minore. Itaque impossibile est assignari posse certam aliquam
+sphaeram, ultra quam ne spatium quidem extet. Nam si ratio esset aliqua pro ista, eadem
+ratio proportionaliter pro aliis omnibus valeret. Deus autem nihil agit sine ratione.
+Demonstrandum est etiam omne corpus esse actu divisum in partes minores seu non
+dari atomos, ac nullum in corpore assignari posse accurate continuum. Ex hujus
+divisionis modo oritur fluidum et firmum; spatium vacuum et corpus perfecte fluidum
+nullo modo discerni posse. Non dari corpus perfecte fluidum. Non dari vacuum.
+Cartesius introducta sua materia subtili, vacuum solummodo nominetenus sustulit.
+Sequitur jam de incorporeis. Fiunt quaedam in corpore quae ex sola necessitate
+materiae explicari non possunt; qualia sunt leges motus; quae pendent ex principio
+Metaphysico de aequalitate causae atque effectus. Hic ergo agendum de anima, et os-
+tendendum omnia esse animata. Nisi anima esset, seu forma quaedam, corpus non esset
+ens aliquod, quia nulla ejus pars assignari potest, quae non iterum ex pluribus constet,
+itaque nihil assignari posset in corpore, quod dici posset hoc aliquid, sive unum quiddam.
+De natura animae seu formae esse perceptionem aliquam et appetitum, quae sunt animae
+passiones et actiones, et cur; nimirum quia resultant animae ex Deo res cogitante, seu
+1 Über Spatium... extensum: Hoc potius omittetur.
+1 plano (1) delineatio, de polis (2) delineationem; L
+4 vasis; (1) De vi sive potentia, quae repetenda est ex principiis quibusdam altioribus metaphysicis; de
+reductione ad absurdum sive ad Motum perpetuum; de aequationibus Mechanicis. (a) Porro vim ipsam agendi
+necesse est ex (aa) alt (bb) incorporeis quibusdam causis oriri. Corpora sunt (aaa) anima praedita et (bbb)
+praedita et materia et forma sive anima. (b) De Forma sive Anima. (2) Hactenus de illis quae ex sola materia
+considera (3) Hinc L
+15 sustulit. (1) De. atomos erg. L
+vi et (2) Sequitur L
+forma cujusque corporis (3). Hic L
+23 resultant (1) ex (2) animae L
+18 effectus (1) ; imprimis (2) De vi sive potentia demonstrationes. De anima sive
+14 fluidum. Non dari atomos. gestr. Non L
+10 aliis (1) simili (2) omnibus L
+5 nulla (1) causa est (2) ratio L
+22 f. quae... actiones erg. L
+19 non (1) est (2) esset L
+immortales sunt, quae cives sunt in Republica universi, seu quibus Deus non solum autor
+sed et Rex est, his enim peculiari quadam ratione conjungitur, hae animae dicuntur
+Mentes, hae nunquam obliviscuntur sui, hae solae cogitant Deum; distinctasque habent
+de rebus conceptiones. Ineptum est perceptionem soli homini tribuere velle; cum tamen 5
+omnia corpora perceptionem aliquam pro modulo perfectionis suae habere possunt,
+adeoque et habeant, nam quicquid fieri potest, nullo aliorum detrimento, id utique fit,
+quia omnia perfectissime fiunt. Explicanda hic natura voluptatis et doloris quae est nihil
+aliud quam perceptio successus, seu perfectionis suae; itaque cum conatui satisfit,
+successus est, cum ei resistitur oritur dolor. Tot sunt specula universi quot mentes; omnis 10
+enim mens totum universum percipit, sed confuse.
+De vi seu potentia nunc agendum est; ubi sciendum est, eam aestimandam esse a
+quantitate effectus. Esse autem potentiam effectus et causae inter se aequales, nam si
+major esset effectus, haberemus motum perpetuum mechanicum, si minor, non
+haberemus motum perpetuum physicum. Hic operae pretium ostendere non posse
+eandem servari quantitatem motus, sed servari tamen eandem quantitatem potentiae. In
+universo tamen videndum est an non servetur et eadem quantitas motus.
+De perturbationibus et restitutionibus; de natis inde reciprocationibus. De Iso-
+chronismo reciprocationum liberarum et omnimodarum. Tempora igitur esse ut potentias.
+In omni machina seu composito potentia aequabili ratione tenditur ad restitutionem.
+De pondere seu corporis soliditate, ac de centro gravitatis. Ostenditur in unoquoque
+corpore esse centrum gravitatis.
+De concursibus; de reflexionibus.
+De firmitatis gradibus, de fluidis, firmis, flexibilibus, tenacibus etc.
+1 idearum. (1) Sed illis tantum animabus (2) Omnes L
+1 animae (1) quae (2) sunt (a) impri (b)
+2 quae (1) solae (2) cives L
+5 rebus (1) perceptiones (2) conceptiones L
+13 f. si (1) aequales essent (2) major L
+17 tamen (1) eade (2) videndum L
+machina (1) aequil (2) seu... restitutionem. erg. L
+9 quam (1) potentiae (2) perceptio L
+15 pretium (1) agere (2)
+24 f. magnetica. (1) De Fluidis et Solidis; ubi fluida hic considerantur ut omnimoda (2)
+18 de (1) Isochronismo re (2) natis L
+21 seu (1) vi (2) corporis L
+14 haberemus (1) pote (2) motum L
+3 et (1) Mona (2) Mon (3) Rex L
+25 de (1) fr (2) reflexionibus L
+De motu solidi in fluido.
+De refractione in transitu ab uno fluido ad alterum.
+Videntur revera omnia esse fluida, sed varie tantum plicata, sine solutione continui.
+De his quae ex certis quibusdam legibus reflexionis et refractionis sequuntur.
+De corporibus tensis eorumque pulsationibus et vibrationibus.
+De fluido intra fluidum; de fluido intra solidum, quod exire non potest, de fluido
+extra solidum quod intrare non potest, de fluido permeante.
+De fluido Elastico, ac de propagatione vibrationum in eo; ac de corporibus
+Tractandum de stellulis, crystallis aliisque corporum figurationibus.
+Optimum erit parum immorari τ ìηÄ αÆ κριβολογιÂ ìα definiendi ac demonstrandi, sed
+continuo atque lucido sermone rem omnem exponere. Itaque sic ordiemur:
+Cum felicitas nostra in mentis perfectione consistat, mens autem nostra in hac vita a
+corpore suo varie afficiatur, et corpus humanum ab aliis circumstantibus corporibus
+juvari et laedi possit, ideo corporum naturam nosse magna sapientiae pars haberi debet;
+ut vim eorum noxiam declinemus, amicam experiamur. Bona enim censenda sunt tum
+quae voluptate in praesens afficiunt, modo non majus malum post se trahant, tum quae
+dolorem impediunt, tum vero quae nos reddunt potentiores ad grata comparanda, ingrata
+amolienda. Quae his contraria sunt Mala habentur. Bona autem tum produci, tum si jam
+producta sint nobis admoveri possunt, contra mala vel destrui sive immutari, vel depelli.
+Itaque cognoscendae sunt corporum proprietates, item quomodo corpora produci,
+immutari, atque etiam loco moveri possint. Antequam enim corporum natura ad usus
+nostros satis referri possit, prius ipsa per se intelligenda est.
+1 De (1) Refractione; et de aliis m (2) motu L
+3 Videntur... continui. erg. L
+10 stellulis, (1) figura (2) crystallis (a)
+13 felicitas (1) humana (2) nostra erg. L
+6 de (1) meatibus, (2) soli (3) fluido L
+12 atque (1) niti (2) lucido L
+14 suo (1) juvari ac laedi possit, (2)
+14 f. corporibus erg. (1) varie afficiatur, (2) juvari... possit, erg. (a) ideo (b) quorum
+vibrationibus. erg. L
+coagulati (b) aliisque L
+13 autem (1) ad (a) actiones (b) agendum corporis huma (2) nostra L
+si cognitae nobis sint proprietates, natura sit, vim eorum vel noxiam arte declinare, vel amicam (c) ideo L
+16 amicam (1) in usus nostros transferamus (2) experiamur. (a) Noxium autem intelligitur non tantum quod
+dolorem efficit, sed (aa) quod (bb) et quodcunque erg. mentis functiones impedit. (b) Utilia aut (c) Bona L
+17 voluptate (1) afficiunt, tum quae (2) in L
+natura (a) ad nos relata, (b) ad usum nostrum relata, nisi prius per se intelligatur, ideo Physica sapienti
+noscenda (2) Itaque L
+cognosci possit (b) referri possit L
+20 f. depelli. (1) Sed quoniam cognosci satis erg. non potest corporum
+22 enim (1) corpora ad usus (2) corporum L
+23 nostros (1) relata (2) satis (a)
+18 ad (1) voluptates (2) grata L
+Duo sunt modi, quibus corporum attributa cognoscimus, experientia et ratiocinatio.
+Sunt enim quae solis sensibus discimus, exempli causa, quod magnes ferrum tracturus sit
+nemo unquam divinasset. Sunt alia quae praevideri possunt sine ullo experimento, ut si
+libra quaedam accurate elaborata sit, id est ab utraque parte eodem se modo habeat, et
+duo globuli accurate tornati aequales ejusdemque materiae duabus lancibus imponantur,
+nemo ratione utens dubitabit bilancem in aequilibrio fore, etiamsi hoc nunquam fuisset
+expertus. Sunt denique quae principiis partim a sensu partim a ratione sumtis, nituntur,
+exempli causa, quod speculum sphaericum concavum soli expositum materiam
+combustibilem in aliquo loco, quem focum appellant accendet. Nam sensu didicimus
+radios solis collectos flaminam excitare posse, et vel sensu vel ratione constat radios
+lucis in superficiem aliquam incidentes inde reflecti ad angulos aequales respectu
+superficiei sphaericae facile colligitur radios solis ita reflecti ut in exiguo spatio
+colligantur, ibique adurant. Itaque fieri potest ut specula [caustica] sint inventum rationis
+potius quam casus: quemadmodum Tubi Optici jam apud Portam [adumbratim exta]bant, 15
+antequam in Belgio [exec]utioni fuissent mandati. Et hujusmodi multa alia [vitae utilia
+esse arbitror, quibus ob] solam exequendi segnitiem hactenus caretur.
+2 quae (1) sola experientia discimus (2) solis L
+2 discimus, (1) sunt quae (2) exempli L
+(1) ut (a) aequae sint lances, (b) aequa sint brachia erg. et eodem utrobique modo (2) et (3) id L
+5 accurate tornati erg. (1) ejusdem materiae quantit (2) aequales L
+13 ut (1) propr (2) in L
+15 apud Portam: vgl. G. B. PORTA, Magiae naturalis libri XX, Leiden 1651, XVII, 2.
+16 antequam... mandati: vgl. VI, 3 S. 228 u. 444.
+366.PRAEFATIO AD LIBELLUM ELEMENTORUM PHYSICAE
+[Sommer 1678 bis Winter 1678/79 (?)]

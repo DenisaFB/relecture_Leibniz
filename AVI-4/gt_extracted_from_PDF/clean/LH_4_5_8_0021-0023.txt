@@ -1,0 +1,341 @@
+Konzept: LH IV 5, 8 Bl. 21–23a. 2 Bog. 2o. 6 1/2 Sp.
+COUTURAT, Opusc. et fragm., 1903, S. 77–84.
+SCHMIDT, Fragmente, 1960, S. 217–227. 3. PARKINSON, Logical Papers, 1966, S. 25–32.
+April 1679. No 6. plag. 1.
+Regulaeexquibusdebonitateconsequentiarumformisqueet
+modissyllogismorumcategoricorumjudicaripotest, PERNUMEROS
+Has regulas ex altiori principio duxi, et quibusdam mutatis accommodare possum
+syllogismis modalibus, hypotheticis, aliisque quibuscunque varie multiplicatis,
+logici communiores tantum et simpliciores et certo tantum ordine dispositas
+argumentationes examinare possint, et caeteras taediose in has resolvere cogantur, quae
+res homines a regulis logicorum ad usum transferendis non sine causa avertit. Habeo
+praeterea et modum excogitandi certas notas characteristicas quae si rebus
+accommodentur, inde judicare liceat an argumentum sit vi materiae bonum, si non vi
+formae; imo alia inveniri possunt ex eodem principio, multo majoris momenti atque usus
+quam quae attigi, sed nunc
+12 April.... plag. 1. erg. L
+14 categoricorum erg m erg. u. gestr.
+non... avertit. erg. L
+quibus judicari licet (2) quae... liceat L
+consequentiis (2) modum L
+22 praeterea erg. et modum excogitandi erg. L
+18–21 Cum... transferendis (1) merito (2)
+24 formae; (1) aliaque (2) imo alia L
+modum facillimum ad numeros exigendi formas consequentiarum in scholis
+celebratarum, exponere satis habebo.
+In omni propositione categorica habetur subjectum, praedicatum, copula, qualitas,
+quantitas. Subjectum et praedicatum vocant Te rminos. Exempli gratia, in hac: Pius est
+felix, pius et felix sunt Termini, ex quibus pius, est subjectum; felix, praedicatum; est,
+copula. Qualitaspropositionis est affirmatio vel negatio: ita haec propositio: pius
+est felix affirmat. Illa vero: sceleratus non est felix negat. Quantitaspropositionis
+est universalitas vel particularitas. Ut cum dico Omnis pius est felix vel si dicam Nullus
+sceleratus est felix; sunt propositiones universales, illa universalis affirmativa, haec
+[universalis] negativa. Sed si dicam quidam sceleratus est fortunatus, quidam pius non 10
+est fortunatus, propositiones sunt particulares, illa affirmativa, haec negativa. Venio nunc
+ad numeros quibus Termini sunt exprimendi; eamque in rem sive regulas sive
+definitiones dabo sequentes.
+I. Si qua offeratur propositio, tunc pro quolibet ejus Termino, subjecto scilicet vel
+praedicato, scribantur numeri duo, unus affectus Nota, +, seu plus, alter Nota, −, seu 15
+minus. Exempli gratia sit propositio: omnis sapiens est pius. Numerus respondens
+sapienti sit, +20 −21, numerus respondens pio sit +10 −3. Eosque vocabo imposterum
+Numeros cujusque Termini characteristicos (interim assumtos). Hoc unum tantum
+cavendum est ne duo numeri ejusdem Termini, ullum habeant communem divisorem,
+nam si (loco +20 −21) pro sapiente sumsissemus numerum +9 −6 (qui ambo dividi
+possunt per eundem nempe per 3) non fuissent ullo modo apti. Possumus etiam loco
+numerorum uti literis, ut in Analysi speciosa. Sub literis enim quivis numerus
+3 categorica (1) est
+8 felix (1) est propositio universalis. Si dicam (2) vel L
+1 facillimum (1) examinandi (2) per numero (3) ad numeros exigendi erg. (a) formam (b) formas (aa)
+(2) habemus (3) habetur erg.
+3 f. copula (1) signata et qualitas copulae. (2)
+4 f. Exempli... felix erg. (1). Quantitas continetur signo
+syllogismorum in s (bb) 〈et〉 (cc) consequentiarum L
+(verbi gratia Omnis pius est felix erg. u. gestr. subjectum, L, quantitas, qualitas. (3) qualitas, quantitas. L
+secundum quod propositio dicitur universalis (2), pius L
+10 quidam (1) pius non est fort (2) sceleratus L
+(1) pius (2) justus (3) pius erg. L
+signa mutentur (a) termini, tunc pro ipso termino (b) numerorum alicujus termini, ut ex + fiat −, et ex − fiat +,
+tunc fiet numerus termini (aa) oppos (bb) contradictorie oppositi, ut pii numerus est +10 −3, erit +3 −10
+numerus non-pii. (2) Ubi cavendum est hoc unum 〈ne nu〉 (3) Eosque... assumtos). erg. Hoc L
+Propositio est (c) In Propositione (aa) universali (bb) particulari (d) In propositione Particulari affirmativa (e)
+21–S. 244.3 Possumus... divisorem. erg. (1) (Regula II) (a) In propositione (b)
+12 f. rem (1) regulas dabo breves. (2) sive...
+17 respondens (1) pio (2) justo (3) pio erg. L
+6 copula. (1) Si dicam Omnis pius est f (2)
+15 affectus (1) signo, (2) Nota erg. L
+15 alter (1) signo, (2) Nota erg. L
+10 particularis L ändert Hrsg.
+conditiones easdem habens potest intelligi, ut si numerus pii sit +a − b, hoc uno
+observato ut a et b sint primi inter se seu nullum habeant communem divisorem.
+II. Propositiouniversalisaffirmativavera est
+in qua quilibet numerus characteristicus subjecti (v.g. +70 et −33) per praedicati
+numerum characteristicum ejusdem notae (+70 per +10, et −33 per −3) exacte (id est ita
+ut nihil maneat residuum) dividi potest (ita si +70 dividas per +10 prodit [7], remanet
+nihil. Si [−33] dividas per −3 prodit [11], remanet nihil.) Et contra quando id non fit falsa
+III. Propositioparticularisnegativavera est, quando universalis
+affirmativa vera non est. Et contra.
+patet nec +10 dividi posse per +70, nec −3 dividi posse per [−33] ex quibus duobus
+defectibus vel unus suffecisset ad efficiendam particularem negativam veram (vel quod
+idem est ad reddendam universalem affirmativam falsam). Ita si dicas
+quidam sapiens non est fortunatus
+patet non posse dividi exacte +70 per +8, quod sufficit licet −33 dividi possit per −11.
+sibi opponuntur adeoque nec simul verae sunt, nec simul falsae.
+IV. Propositiouniversalisnegativavera est
+in qua duo quidam diversarum notarum et diversorum terminorum numeri (ut +10 et
+4–6 (verbi... est (1) pius (2) justus (3) pius erg. ) (a) +20 −21 (b) +70 −33... −e erg. L
+8 notae (1) (+10 et −3) (2) (+20 (3) (+70 L
+7 characteristicus (1) subjecti dividi potest per numerum
+Numeri characteristici sub (2) quilibet L
+characteristicum praedicati. (2) (v.g. +20 et −21) subjecti (v.g. sapientis) per praedicati (v.g. pii) (3) subjecti..
+9 2 L ändert. praedicati L
+13 Et contra. erg. L
+10 −21 L ändert Hrsg.
+16 −21 ändert Hrsg. (1) ex quibus vel
+15 −3 (1) +20 −21 (2) +70 −33 L
+22 exacte (1) +20 (2)
+22 licet (1) −21 (2) −33 L
+19 fortunatus (1) +20 −21
+16 per (1) +20 (2) +70 L
+9 si (1) +20 (2) +70 L
+10 f. Et... est. erg. L
+habent divisorem communem (nempe +10 et −14 ambo dividi exacte possunt per 2). Et
+contra quando id non fit falsa est.
+Theorema 2. Hinc propositio universalis negativa converti potest simpliciter. Id
+est ex hac: nullus pius est miser, sequitur: nullus miser est pius, vel contra. Quia, nihil
+refert utrum dicas, et quem terminum pro subjecto aut quem pro praedicato habeas,
+neque enim in conditionem Propositionis Universalis Negativae Verae subjecti aut
+praedicati mentio diversimode ingreditur, sed sufficit unius termini numerum unius notae
+per alterius termini numerum alterius notae posse dividi, quicunque tandem ex his
+duobus terminis subjectum sit aut praedicatum.
+V. Propositioparticularisaffirmativavera est, quando Universalis
+negativa vera non est. Et contra.
+Verbi gratia: quidam fortunatus est miser
+quia nec +11 et −14, nec [−9] et +5 communem divisorem habent (quorum alterutrum
+alias suffecisset ad propositionem universalem negativam veram reddendam).
+Similiter: quidam sapiens
+quia nec +70 et −3, nec −33 et +10 divisorem communem habent.
+Theorema 3. Propositio universalis negativa et particularis affirmativa sibi
+contradictorie opponuntur (ita, ut non possint esse simul verae aut simul falsae). Patet ex
+Theorema 4. Propositio particularis affirmativa converti potest simpliciter, v.g.
+quidam fortunatus est miser, Ergo quidam miser est fortunatus. Quidam sapiens est pius,
+8 diversimode erg. L
+definitionem (2) conditionem... Verae L
+(2). Et contra. erg. Verbi L
+14 +11 (1) −9 (2) −7 (3) −9 L
+12 f. est (1), seu quando non reperitur
+16 nec (1) +11 dividi potest per −4, nec −7 per +5. (2) +11 et (a) −4 (b) −14, nec −7
+18 f. est (1) justus (2) pius erg.
+14 +5 (1) −4 (2) −14 L
+21 nec (1) +20 dividi potest per −3, nec −21 per +10. (2) +20 (3) +70 L
+26 est (1) justus (2) pius erg. L
+Ergo quidam pius est sapiens. Patet eodem modo quo ostendimus propositionem Univ.
+negativam (quae huic contradicit) simpliciter converti, vid. theor. 2.
+Hae sunt propositionum categoricarum verarum pro diversa sua qualitate et
+quantitate, definitiones seu conditiones quibus continentur totius Calculi Logici
+principia, unde jam consequentias Logicas celebriores solo numerorum usu jam
+explicato, demonstrabimus. Consequentiae illae sunt vel simplices vel syllogisticae.
+Consequentiae simplices celebriores sunt Subalternatio, Oppositio, Conversio. Sub -
+alternatio est cum ex universali concluditur particulare. Sit ergo
+Theorema 5. Semper locum habet subalternatio seu semper ex universali
+concludi potest particulare.
+Quidam sapiens est pius.
+Hoc ita demonstro: −33 dividi potest per [−3] (ob propositionem universalem
+affirmativam, per reg. 2). Ergo +70 et [−3] non habent divisorem communem (alioqui
++70 et −33 haberent eundem divisorem communem, quod est contra reg. 1). Similiter
++70 dividi potest per +10 (per reg. 2) ergo −33 et +10 non habent divisorem communem
+enim −33 et [+]70 haberent etiam divisorem communem, quod est contra reg.
+1). Quoniam ergo tam +70 et −3, quam −33 et +10 non habent divisorem communem,
+1 quidam (1) justus (2) pius erg. L
+(aa) sive totius Calculi
+6 vel (1) syllo (2) composit (3) derivatae (4) syllogisticae. L
+propositionum categoricarum verarum pro diversa sua qualitate et quantitate erg.
+Logici Categorici (aaa) fundamenta (bbb) princi (bb) et in his definitionibus continentur totius Calculi Logici
+(aa). Hinc alia adhuc Corollaria duci possunt circa
+Categorici principia (b) propositionum... principia erg.
+(bb) ex quibus se (cc) et (dd) ex quibus jam reliquas (ee) unde jam erg. L
+5 solo (1) calculo numerorum
+demonstrabo (2) numerorum L
+7 simplices (1) sunt Oppositio, Subalternatio, Conversio gestr.
+(aa) duo habuimus di (bb) probavimus coroll (b) Oppositio, est vel contradictoria inter ea quae nec
+simul vera nec simul falsa esse possunt, de quibus diximus coroll. 1 et 3, vel est contraria cum duae
+propositiones (aa) simul esse possunt falsae non tamen s (bb) non possunt simul esse verae, (aaa) sunt tamen
+(bbb) possunt tamen esse simul falsae. Hinc Coroll. 5. Universal. Affirm. et Univers. Neg. sibi (aaaa)
+contradictorie (bbbb) contrarie opponuntur. Non possunt enim simul esse verae. (2) celebriores L
+14 est (1) justus (2) pius erg. L
+20–S. 247.1 Quoniam ergo tam (1) +20 (2) +70... quam (a) +21 (b) +33... reg. 4),
+15 demonstro: (1) +20 (2) −21 dividi potest per −7 (3) −33... −11
+gestr. (1) +20 (a) non dividi potest per −7. (b) et −7 (2) +70 et −11 ändert
+(aa) quod demonstrandum e (bb) nempe... est (aaa) justus (bbb) pius. erg. L. (a) De Oppositio n e contradictoria jam
+gestr. (1) −21 non potest (2) −33 L
+(1) +20 et −21 (2) +70 et −33 L
+11 f. est (1) justus (2) pius erg.
+(a) +20 −21 (b) +70 −33 L... communem erg. L
+propositio particularis affirmativa (per reg. [5]), nempe quidam sapiens est pius. (Ratio
+notatae manifesta est numerorum naturam intelligenti, quia divisor
+divisoris est etiam divisor dividendi, itaque si verbi gratia −33 tertius numerus, et +10
+divisor habent divisorem communem, is divisor divisoris +10, et numeri −33 erit etiam
+divisor dividendi per +10 nempe +70. Ergo sequeretur −33 et +70 habere divisorem
+verbi gratia: Nullus
+Quidam pius non est miser.
+Nam quia +10 et −14 habent communem divisorem (ob universalem negativam, per reg.
+4.), ergo −3 et −14 non habent communem divisorem (nam alioqui etiam −3 et +10
+communem divisorem haberent contra reg. 1). Ergo nec −3 dividi potest per −14 (alioqui
+haberent communem divisorem, quia divisor divisoris est etiam divisor dividendi). Jam 15
+−3 non potest dividi per −14. Ergo propositio particularis negativa est vera (per reg. [3]).
+Quod erat demonstrandum.
+Hae duae demonstrationes maximi momenti sunt, non quidem ad rem per se claram
+reddendam certiorem, sed ad calculi nostri fundamenta jacienda, ac cognoscendam
+harmoniam. Certe tum maxime animadverti me veras calculi leges obtinuisse, cum has 20
+demonstrationes, a quarum successu pendebant omnia, sum assecutus. Et ratio hujus rei
+est, quia notiones universales tractans, transitum maxime quaerebam a genere ad
+speciem: neque enim considero genus ut majus quiddam specie seu ut totum ex
+speciebus, quemadmodum solet fieri (non male quidem, quia individua generis se habent
+ad individua speciei ut totum ad partem), sed considero genus ut partem speciei, quia
+notio speciei ex notione generis et differentiae conflatur. Et huic principio hanc
+2 consequentiae (1) est (2) signo (3) per... intelligenti erg. L
+3 dividendi, (1) ergo si +10 divisor
+3 gratia (1) +10 (2) −21 (3) −33 (a) et +10 (b) tertius L
+5 nempe (1) +20 (2) +70 L
+5 sequeretur (1) −21 et +20 (2) −33 et +70 L
+(2) seu divisor et dividendus haben (3) itaque L
+4 divisor (1) habent (2) (numeri 20) (3) habent (a) dividentem (b) divisorem L
+(1) Quoniam ergo tam +20 et −3 quam −21 et +10 non h (2) Eodem mod (3) Ita L
++10 dividi potest per +5 (3) +10 L
+divisor et dividendus communem div (3) (alioqui L
+propositio (1) est particularis negativa (2) particularis... vera L
+etsi in re nota (2) non L
+(2) calculi leges assecutum, (3) calculi leges obtinuisse L
+12 quia (1) 〈5 divi〉 (2)
+14 −14 (1) alioqui (2) (semper enim
+20 veras (1) numerorum for
+22 tractans (1) expectabam transitum ad species.
+15 dividendi). (1) Ergo (2) Jam L
+16 f. 5 L ändert Hrsg.
+18 f. claram (1) certam reddim (2) reddendam L
+12 f. (ob... reg. 4) erg. L
+4 numeri (1) −21 (2)
+rationem inaedificavi, quia non individua sed ideas spectavi. Verum ita procedenti
+difficillimus fuit descensus a genere ad speciem, quia est progressus a parte ad totum.
+Huic vero his ipsis demonstrationibus viam munivi, quibus ab universalibus ad
+particularia tenditur.
+Subalternationem sequitur Oppositio. Est autem Oppositio vel contradictoria
+cum duae propositiones oppositae nec simul verae esse possunt nec simul falsae (quam
+[1], et inter Universalem negativam, et particularem affirmativam th. 3.), vel contraria
+cum non possunt esse simul verae, possunt tamen esse simul falsae, vel s u b contraria,
+cum possunt simul esse verae, non tamen simul falsae.
+Theorema 6. Universalis Affirmativa et Universalis Negativa sibi opponuntur
+sapiens est fortunatus
+Nullus sapiens est fortunatus.
+Non possunt simul esse verae. Nam si prior et posterior simul est vera, sequetur ex
+posteriore: quidam sapiens non est fortunatus (per th. 5.), prior autem erat Omnis sapiens
+est fortunatus. Ergo hae duae simul verae erunt contra th. 1. Possunt tamen simul esse
+falsae. Nam fieri potest ut neque +70 dividi possit per +8 (Ergo prior est falsa per reg. 2.)
+neque tamen aut +70 et −11 aut −33 et +8 habeant divisorem communem (Ergo posterior
+est falsa per reg. 4). (Potuisset et aliud exemplum assumi, in quo nec numerus qui esset
+loco −33 potuisset dividi per numerum qui esset loco −11. Sed res eodem redit.)
+April. 1679. No 6. plag. 2.
+Theorema 7. Particularis affirmativa et particularis negativa sibi opponuntur
+subcontrarie, seu possunt esse simul verae, non tamen simul falsae. Verbi gratia quidam
+sapiens est fortunatus, et quidam sapiens non est fortunatus. Sequitur ex praecedenti:
+nam quia universalibus contrarii signi contradictorie opponuntur, particulares (per th. 1,
+1 individua (1) et singulari (2) sed L... falsae erg. L
+9 falsae, (1) vel (2) (de quo
+22 f. qui esset loco erg. L
+17 verae. (1) Nam tum quidam sapiens est fortu (2) Nam L
+6 cum (1) utrique (2) duae erg.
+23 qui esset loco erg. L
+23 Sed... redit. erg. L
+26 f., seu... fortunatus. erg. L
+3) hinc cum illae sunt verae, hae sunt falsae, et contra. Jam illae possunt esse simul falsae
+(per th. 6. praeced.) ergo hae simul verae. Illae non possunt esse simul verae (per idem
+Conversio fit vel simpliciter vel per accidens. Conversio quae fit simpliciter
+locum habet in universali negativa per th. 2 (Nullus pius est miser. Ergo nullus miser est
+pius. Vel contra.) et in particulari affirmativa per th. 4 (quidam fortunatus est miser. Ergo
+quidam miser est [fortunatus. Et contra.)] Conversio per accidens locum habet in
+universali affirmativa, ut mox ostendam. Conversio neutra (vi formae) in particulari
+negativa locum habet. De conversione per contrapositionem hic non loquor. Ea enim
+novum terminum assumit. Exempli gratia Omnis sapiens est pius. Ergo qui non est pius 10
+non est sapiens. Seu Omnis non-pius est [non-]sapiens. Habemus enim [quatuor
+terminos: non-sapiens, sapiens] Pius, non-pius. Mihi autem sermo est hic de
+consequentiis simplicibus ubi servantur iidem termini. Praeterea usus hujus conversionis
+nullus est necessarius ad demonstrandas syllogismorum figuras et modos. Et proprietates
+hujusmodi infinitorum terminorum, non-pius, Non-miser, etc. demonstrari debent et
+possunt per nostrum calculum, separatim, quemadmodum modalium. Habent enim multa
+peculiaria, nam si ipsos adhibeas, syllogismus poterit habere quatuor terminos, et
+nihilominus bonus erit, aliaque multa quae non sunt hujus loci, quia propositum est nobis
+syllogismorum categoricorum triterminorum generales modos et figuras calculo
+Theorema 8. Universalis affirmativa converti potest per accidens. Omnis sapiens
+est pius. Ergo quidam pius est sapiens. Nam quia omnis sapiens est pius. Ergo (per th. 5)
+quidam sapiens est pius. Ergo (per th. 4) quidam pius est sapiens.
+A Consequentiis simplicibus, in quibus duo tantum sunt Termini, transeo ad consequentias
+Triterminas, seu syllogismos categoricos. Sed quia tunc paulo difficilius est numeros Terminorum apte
+assumere, quoniam medius terminus ita assumi debet ut in duabus propositionibus simul quadret, nempe in
+utraque praemissarum;
+2 f. (per... 6) erg. L
+terminos: sapiens, L ändert Hrsg.
+communiter receptos per calculum demonstra (2) syllogismorum L
+itaque (a) incipiendus (b) incipiemus assumere (3) ideo L
+3 f. falsae. (1) Ita fieri potest sim (2) Conversio (a) est vel simplex vel (b)
+18 f. nobis (1) syllogismos categoricos
+29 praemissarum; (1) sic agemus (2)
+7 fortunatus.) Et contra. L ändert Hrsg.
+14 syllogismorum erg. L
+ideo incipiemus ab ea praemissa in qua medius terminus est subjectum et vicissim1 in hac ipsa
+praemissa incipiemus a praedicato, cujus rei ratio est quia (ut ex reg. 2, 3, 4, 5 patet consideranti) aut aeque
+facilia sunt ambo, aut certe semper facilius est constitutis numeris praedicati ipsis accommodare numeros
+subjecti, quam contra. Uno verbo incipiemus ab uno termino extremo, qui in praemissis tantum praedicatur,
+inde progrediemur ad Medium seu qui in praemissis tam praedicatur quam subjicitur, denique pergemus ad
+illum terminum extremum qui in praemissis tantum subjicitur. Itaque ante omnia numeros Termini qui est
+praedicatum medii termini in aliqua praemissarum, sumemus pro arbitrio (observata tantum reg. 1, ut scilicet
+duo numeri ejusdem termini, quorum unus afficitur nota +, alter nota −, nullum habeant communem divisorem
+[)]. Hoc facto Numeri medii termini assumantur secundum relationem quam per regulas praecedentes pro
+propositionis qualitate aut quantitate habere debent ad numeros praedicati. Quod semper facile esse patebit
+experienti. Jam transeamus ad propositionem in qua Medius terminus est praedicatum, et quia ejus numeri jam
+habentur (per propositionem in qua fuit subjectum) ideo superest tantum ut numeros extremi termini, qui
+superest (id est ejus qui subjectum est ubi medius est praedicatum), secundum relationem ad numeros
+praedicati ejus, nempe medii, quam propositionis hujus forma praescribit assumamus. Hoc enim posito
+constitutis numeris characteristicis quemadmodum praemissae exigunt; sponte inde exurgent indicia
+indubitabilia in extremorum terminorum numeris, quibus statim pateat an in conclusione secundum qualitatem,
+quantitatem ac situm praescriptum hi termini conjungi possint.
+Itaque si qua oblata sit Argumentatio
+Omnis sapiens est pius
+Quidam sapiens est fortunatus
+ergo Quidam fortunatus est pius
+de qua quaeritur an vi formae concludat. Primum terminus qui in [bricht ab]
+2 praemissa ipsa str. Hrsg.
+1 ea (1) propositione (2) praemissa L
+1 est (1) praedicatum (2) subjectum (a). At (b) itaque (aa)
+propositionis praedicatum ante omnia assumere (aaa) poterimus pro arbitrio (modo non peccemus in reg. 1).
+Hinc medium terminum ita assumemus (bbb) incipiemus patet enim ex praecedentibus regulis (bb)
+propositionis praedicato numeros ante omnia erg. dabimus pro arbitrio (secundum reg. 1) (c). Et ab ejus
+praemissa erg. (d) et L
+est constituto praedicato ipsi accommodare objectum quam constituto subjecto ipsi accommo (2) aut L
+4–6 Uno verbo incipiemus (1) a termino (2) ab... extremo erg.
+14 f. posito (1) sponte (2) constitutis L
+exurget signum indubitabile (e) exurgent (aa) signa hujusmodi numerorum indubitabilia (bb) indicia
+12 (per praecedentem gestr.
+12 ut (1) reli (2) ejus qui superest (3)
+13 qui (1) in hac prop (2) subjectum L
+15 sponte (1) sua (2) inde (a) exurget (b) appar (c) resultabit (d)
+11 est (1) subjectum, et quoniam (2) praedicatum L
+12 fuit (1) praedicatum (2) subjectum) L
+id est str. Hrsg. erg. (id L
+21 f. pius (1) quaeritur an concludat vi formae: Hoc ita examinabimus. (2) de L
+17 f. possint. (1) Si exempli causa Argumentatio (2) Itaque...
+2 consideranti) (1) semper facilius... subjicitur. erg. L
+17 hi termini erg. L
+NUMERI CHARACTERISTICI LATINE GRAECE HEBRAICE EXPRESSI
+A consequentiis simplicibus in quibus duo tantum sunt termini transeo ad
+consequentias Triterminas seu syllogismos Categoricos. Sed tunc paulo majore cura opus
+est ad numeros terminorum apte assumendos; quia idem terminus, nempe medius,
+utrique praemissae inest, et ideo numeri ejus characteristici utriusque praemissae regulis
+accommodari debent. Quod ut fiat primum ipse medius accommodetur uni extremorum,
+Majori scilicet vel minori termino, sed alter extremus postea ipsi accommodetur. Ubi
+notandum praestare subjectum accommodare praedicato quam contra, ut ex regulis
+superioribus consideranti constabit. Itaque si qua sit praemissa in qua Medius terminus
+sit subjectum, ab ea incipiatur, et praedicati ejus numeris pro arbitrio assumtis
+accommodentur ei numeri subjecti seu medii termini; inventis jam ita medii termini
+numeris, his numeri alterius termini in altera praemissa etiam accommodentur. Habitis
+se legem servent, quam Conclusionis forma praescribit, id est an conclusio vi formae ex
+Sed ut haec numerorum assumtio facilius fiat, certas quasdam regulas praescribam. 15
+64.NUMERI CHARACTERISTICI LATINE GRAECE HEBRAICE EXPRESSI

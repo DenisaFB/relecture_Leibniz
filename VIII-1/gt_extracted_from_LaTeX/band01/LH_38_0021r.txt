@@ -1,0 +1,23 @@
+00243Gerland 1906, S.~201–203.
+Cc 2, Nr. 478
+
+__Problemata Hydrographica nova.__
+
+=15mm
+(1) __Pyxides Nauticas fabricare, ita grandes, ut ipsa minuta secunda in iis possint distincte observari.__Hoc fiet, si [[acus]] stylus vel semidiameter pyxidis ab acu circumagendus sit satis longus. Sed quanto erit longior, tanto erit gravior, ac proinde difficilius ab acu circumagetur. Necesse est ergo rationem quandam haberi fortificandi acum ut onus solito majus movere possit. Quod fiet per problem. sequens.
+
+=15mm (2) __Acum nauticam quantum satis est fortificare__viribus ejus decuplicatis, imo, si opus, centuplicatis.
+
+=15mm Hoc fiet nova quadam certa facilique ratione hactenus non observata, multo minus adhibita. Cujus usus magni ad rem nauticam momenti [[esse potest]] est, tum ad inclinationes, tum ad declinationes exacte observandas.
+
+=15mm (3) __Latitudinem loci seu Elevationem Poli sine coelo et stellis exacte invenire.__Hoc fiet pyxide inclinatoria seu ad horizontem perpendiculari, eaque satis grandi, ut ad minuta usque secunda subdividi possit Ita ex gradibus inclinationis determinabuntur gradus minuta et secunda elevationis Poli. Sed quia proportio inclinationis et elevationis est difformis, (nam v.g. observatum est elevationem Poli ut 30. habere inclinationem acus ut 60. et elevationem Poli ut 35. habere inclinationem acus ut 63. etc.) ideo opus est Globo Artificiali, qui si satis grandis, [[exacteque subdivisus sit]] et meridiano mobili exacte ad minuta usque secunda subdiviso instructus sit; poterit sine ulla calculatione exacte ad usum inveniri, quis gradus elevationis, quem det gradum inclinationis. Haec pyxis inclinatoria dudum observata, hactenus ad perfectionem deduci non potuit, quia ob debilitatem acuum pyxides satis grandes satisque exacte subdivisae fieri non potuere.
+
+=15mm (4) __Cursum navis in globo artificiali exacte [[nulla alia coelesti observatione adhibita]] delineare, Declinationibus tantum Magnetis subinde observatis. Quotiescunque cursus non fit in eodem praecise Parallelo__.
+
+---
+Additions:
+<<magnetica>>
+<<armandi>>
+<<__per problem. 1.__>>
+<<minutis secundisque>>
+<<stylum nimis longum ferentium>>

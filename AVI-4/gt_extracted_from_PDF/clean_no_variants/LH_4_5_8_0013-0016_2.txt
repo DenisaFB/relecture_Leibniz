@@ -1,0 +1,340 @@
+COUTURAT, Opusc. et fragm., 1903, S. 57–66.
+April. 1679. No 3. plag. 1. 20
+5 scilicet
+qui adhibentur gestr. Termini L
+plag. 1. erg. L
+CalculiuniversalisElementa
+Te rminum ut animal, homo, rationale, sic exprimam numeris: a, b, c. Hoc uno
+observato ut qui termini simul constituunt aliquem terminum, eorum numeri, in se
+invicem multiplicati constituant numerum, ita quia animal et rationale constituunt
+Propositiocategoricauniversalisaffirmativa ut homo est animal, sic
+exprimetur b
+aequ. y, vel b aequ. ya, significat enim numerum quo exprimitur homo,
+divisibilem esse per numerum quo exprimitur animal, tametsi id quod dividendo prodit
+nempe y hic non consideretur, quamvis aliunde sciamus y hic fore c. Ubi nota si y sit
+unitas tunc aequipollere b et a, vel si aequipolleant, y esse unitatem. Caeterum poterimus
+et sic exprimere: omne b est a.
+Propositiouniversalisnegativa, verbi gratia Nullus homo est lapis,
+quicunque praeter lapidem, itaque hic terminus non-lapis exprimetur per numerum
+indefinitum, de quo hoc unum constat, quod non sit divisibilis per numerum lapidis. Nam
+si homo non est lapis, non erit lapis scissilis nec lapis pellucidus, nec lapis pretiosus
+adeoque nec erit gemma, nec marmor etc. Numerus autem qui per numerum aliquem
+datum non est divisibilis est ille qui non est divisibilis per numerum primitivum aliquem
+per quem numerus datus est divisibilis. Exempli causa Numerus dividendus sit αβγ aequ.
+f et divisor sit δε aequ. g. Ita ut omnes numeri primi [dividendi] sint α, β, γ, unus autem
+divisoris sit δ qui non continetur sub his α, β, γ. Patet αβγ
+exprimendo numeros primitivos per literas graecas, scribendoque: f
+esse aequ. f. Itaque
+aequ. α..
+exprimetur f
+esse1
+1 Am Rande: 7
+aequ. 2 + 1
+9, quamvis... c erg. L
+Numerus L
+primitivum L
+20 divisoris L ändert Hrsg.
+18 divisibilis est str. Hrsg. per L
+18 datum erg. L
+21 f.
+exprimendo L
+numerum fractum seu [propositionem universalem negativam]. Per puncta.. idem
+intelligitur quod etc.; et intelligitur in loco vacuo quoscunque numeros posse scribi,
+modo nec α nec δ contineant. Et quia propositio universalis negativa est convertibilis id
+quoque hic exprimitur, nam quia manifeste, quia f
+utriusque
+aequ. α..
+aequ. δ..
+fiet g
+autem par ratio est.
+Propositio p a r t i c u l a r i s a f f i r m a t i v a, ut quidam homo est [bonus] significat
+bonitatem cuidam homini inesse, seu numerum cujusdam hominis dividi posse per
+numerum boni. Exempli causa numerum hominis sapientis: id ergo de quo agitur sic
+exprimetur: ah
+aequ. z, posito ah aequ. v quod significat numero hominis per alium
+numerum integrum vel fractum a (nam numeros vel integros vel fractos per hebraicas
+literas exprimam) multiplicato, productum dividi posse per l.
+Sed ut haec distinctius intelligantur primum terminos ipsos explicabimus. α, β, γ
+etc. seu litera graeca significat numerum primum, qui in nulla propositione universali
+affirmativa subjectum esse potest, nisi ea sit identica, id est nisi in qua ipse etiam sit
+praedicatum.
+a, b, c seu litera latina ex prioribus significat numerum integrum certum seu datum
+primum sive non-primum.
+s, t, v, w, x, y etc. seu litera latina ex posterioribus significat numerum integrum
+primum vel non-primum incertum.
+significat praedicatum ipsius b in propositione universali affirmativa seu significat 20
+numerum aliquem ut a qui prodit dividendo b per numerum aliquem incertum, aptum
+scilicet ad dividendum. Nam quando incertus ponitur semper intelligitur aptus. Itaque si
+dicam a aequ. b
+idem dico ac b est a seu a inest ipsi b, quod et idem est ac si scripsissem
+ay aequ. b ut supra vel b aequ. ay qui modus scribendi optimus, respondet enim
+enuntiationi homo est animal quoddam.
+ändert Hrsg.
+1 propositio universalis negativa L ändert Hrsg. L
+1–3 Per
+9 posito ah aequ. v erg. L
+certum seu datum L
+18 x, y erg. L
+14 ea erg. L
+Terminus ay vel b
+significat terminum indefinitum id est vel universalem vel
+particularem, id est praedicatum propositionis affirmativae sive universalis sive
+particularis, sive ipsum per se universale sit, sive particulare.
+Terminus b definitus significat semper terminum universalem, itaque etiam si dicam
+ac aequ. b (animal rationale est homo) est quidem praedicatum in propositione
+universali affirmativa, sed nihilominus ea est convertibilis, nam idem est ac si dixissem
+omne animal rationale est omnis homo. Imo et in hac yc est b seu aliquod rationale est
+homo, succedet conversio. Nam omnis homo est aliquid rationale.
+Hinc propositiouniversalisaffirmativa est haec b est ya, seu b est c, prior
+non convertibilis, posterior convertibilis, vel ut generalius loquar b est ya vel b est zc sed
+tunc numerus z est idem quod unitas quae non multiplicat. Propositio particularis
+affirmativa est ya est b vel ya est zc.2 Hinc demonstratur propositionem particularem
+affirmativam esse convertibilem in particularem affirmativam, nam ya est b, convertatur
+in aequationem, hoc semper fieri potest, nam ya subjectum dividi potest per b
+praedicatum, et fiet ya
+aequ. x, posito x esse productum divisionis incertum, Ergo fiet: ya
+aequ. xb. Ergo xb aequ. ya. Ergo xb est ya seu propositio erit conversa ut postulabatur.
+Cuncta haec nunc brevius et distinctius sic exhibebo:
+2 b est a. Hinc demonstratio xb est a. Nam b est a. Ergo xb aequ. xya. Ponatur z aequ.
+xy. Ergo xb aequ. za seu xb est a.
+1 vel b
+erg. L
+5 (animal... homo) erg. L
+11 numerus erg. L
+aliquod L
+particularem L
+aequ. y.
+1) Regula generalis characteristicae nostrae est ut Te rminusquilibet, verbi
+gratia
+animal homo rationale
+repraesenteturpernumerumquiprodeatexmultiplicatione
+n u m e r o r u m t e r m i n o s t e rminum d a t u m c o m p o n e n t e s repraesentantium,
+ita sit numerus b aequ. ac quia homo est animal rationale. Finge numerum animalis esse
+2, rationalis esse 3, erit numerus hominis 6.
+Hinc sequitur in omni propositione categorica debere numerum subjecti dividi posse
+per numerum praedicati. Exempli causa homo est animal, b dividi potest per a seu 6 per 2. 10
+2) Hincsemperpropositiomutaripotestinaequationem, nam si
+numerus praedicati per alium quendam numerum multiplicetur, eum nempe qui ex
+divisione subjecti per praedicatum prodit, oritur numerus aequalis numero subjecti. Nam
+si quotiens multiplicetur [per] divisorem prodit dividendus. b
+aequ. c. Ergo b aequ. ac.
+3) Quando non constat quis sit quotiens, quod fit quando unum quidem datur
+praedicatum, sed non reliqua quae conceptum complent, tunc numerus indefinitus ut x, y,
+z poni potest pro illo incognito; ut sit nix subjectum meteori, seu dicatur n est m utique
+dividi potest n per m seu dici potest n
+aequale cuidam. Sed quia ipsum quale sit non
+constat, neque enim forte scimus aggregatum reliquorum requisitorum necessariorum ad
+hoc ut meteorum aliquod sit nix, exempli causa, si sit frigidum spumeum, sensibiliter
+cadens, vocabimus hoc incognitum aggregatum s, et dicemus n
+aequ. s, et fiet n aequ. sm
+seu nix idem est quod certum quoddam meteorum.
+4) Itaque observandum est in omni aequatione seu propositione simpliciter
+convertibili ut litera aliqua absolute posita significet terminum universaliter ut n omnis
+nix, multiplicata autem per literam incognitam s ut sm, significet terminum cum signo 25
+particulari, ut aliquod meteorum.
+7 f. Finge..
+20 f. exempli
+5) Patet etiam hinc quo modo aequatio in propositionem mutari debeat, nam quilibet
+terminus aequationis potest esse subjectum propositionis modo alter fiat praedicatum; et
+contra. Sed terminus qui fieri debet subjectum in propositione relinquendus est qualis
+erat in aequatione; in termino vero qui praedicatum fieri debet potest omitti litera
+indeterminata, ut n aequ. sm. Hinc fiet n est sm, Omnis nix est certum illud meteorum de
+quo nunc loquor et sm est n seu omne illud certum meteorum de quo nunc loquor, (seu
+aliquod meteorum) est nix.
+6) Nam et illud notari debet mesubjectumpropositioniscuinullum
+signumparticularitatisadjectumest, intelligereesseuniversale. Nix
+est meteorum id est omnis nix est meteorum. Ex his principiis circa propositiones
+categoricas affirmativas facile cuncta derivantur.
+7) n est m. Ergo n aequ. sm (per regulam convertendi propositionem in aequationem
+artic. 3). Ergo n est sm (per regulam convertendi aequationem in propositionem artic. 5).
+Omnis nix est meteorum. Ergo omnis nix est aliquod meteorum.
+8) Porro si n est m, seu n aequ. sm. Ergo per naturam numerorum seu aequationis tn
+aequ. tsm, id est per conversionem aequationis in propositionem, tn est m. Seu si omnis
+nix est meteorum, ergo aliqua nix est meteorum.
+9) Si tn est m, Ergo tn aequ. vm per artic. 3. Ergo (per artic. 5.) vm [est] n seu si
+aliqua nix est meteorum, Ergo aliquod meteorum est nix.
+10) Hinc denique concludemus: Si n est m, ergo vm est n. Seu si omnis nix est
+meteorum ergo quoddam meteorum est nix. Nam si n est m ergo tn est m per artic. 8. Si
+tn est m, ergo vm est n per artic. 9. Ergo si n est m, vm est n. Quod erat demonstrandum.
+11) Venio ad negativas propositiones. His autem illud exprimitur, praedicatum non inesse subjecto, id
+est numerum praedicati non esse in numero subjecti, velut divisorem in dividendo vel sicut multiplicatorem in
+producto. Adhibeamus ergo literas quasdam repraesentantes fractiones seu in nostro casu notiones negativas,
+quas exhibebimus literis graecis π, σ, ϕ, ψ, ω. Nam equidem si quis a me quaerat quid requiratur positivi ad
+hoc ut aliquod animal sit homo, dicam requiri ipsum: rationale; et si quis quaerat a me quid requiratur ut
+meteorum seu m sit nix seu n dicam requiri ut sit frigidum, spumeum, album, sensibiliter cadens, et similia,
+quorum
+5 Omnis erg. L
+15 numerorum seu erg. L
+seu L
+28 equidem erg. L
+28 positivi erg. L
+requisitorum simul aggregatum seu differentiam nivis specificam sub genere meteori
+distinguentem nivem ab aliis meteoris omnibus vocabo s, litera ex posterioribus, quia
+non satis cognitam suppono, hoc loco confuse tantum considero, ut exprimam per sm,
+nivem esse certum aliquod peculiare meteorum, nempe illud de quo nunc loquor et cujus
+confusam notitiam habeo. Et haec quidem bene succedunt. Sed si quis a me quaerat
+differentiam specificam positivam constituentem hominis speciem sub genere lapidis,
+seu quid requiratur praeterea positivum ut lapis sit homo, dicam requiri a me absurdum.
+Hanc ergo absurdam notionem impossibilem nihilominus adhibebo ad instar notionis
+possibilis, hunc enim saltem usum habebit, ut designet propositionum falsitatem adeoque
+12) Ergo Propositio Universalis negativa verbi gratia Nullus homo est lapis, seu Non omnis homo est
+seu falsum est quod Omnis homo sit lapis sic exprimetur: b non est l quae convertitur in aequationem. Itaque si b sit homo et l sit lapis πl significet aliquid quod naturam lapidis
+lapis
+hanc: b aequ. πl seu π aequ. b
+destruit seu non-lapidem, seu quidvis potius quam Lapidem.
+13) Itaque generaliter modus calculi circa negativas propositiones similis est calculo circa
+affirmativas, hoc discrimine observato, quod propositionis negativae praedicatum respondet termino
+aequationis per numerum fractum seu litera graeca expressum multiplicato.
+est quidam non lapis per artic. 7, quidam homo est non-lapis per artic. 8, quidam non-lapis est homo.
+11) Hinc statim etiam demonstrari possunt proprietates negativarum. Nam
+particularis negativa tantum falsitatem dicit universalis affirmativae. Hinc illae
+propositiones, ex quibus concluderetur universalis affirmativa si vera esset, sunt etiam
+falsae.
+12) Eodem modo universalis negativa dicit falsitatem particularis affirmativae. Hinc
+dicit etiam falsitatem earum propositionum ex quibus concludi potest particularis
+affirmativa, ut (per art. 8) universalis affirmativae. Ergo ex universali negativa
+concluditur falsitas universalis affirmativae adeoque (per 11) veritas particularis
+negativae.
+13) Et quia U. N. dicit falsitatem ipsius P. A. et P. A. concluditur ex conversa P. A.
+Ergo U. N. dicit falsitatem conversae P. A. id est (per artic. 12. initio) veritatem
+conversae U. N. itaque converti potest simpliciter.
+6 positivam erg. L
+notionem L
+13–15 b
+expressum literam graecam str. Hrsg. L
+April. 1679. No 3. plag. 2.
+Sed rem in nostra characteristica fusius exequemur. Nimirum per negativas
+propositiones autem illud exprimitur, praedicatum non inesse subjecto, id est numerum
+praedicati non esse in numero subjecti, velut divisorem in dividendo vel sicut
+multiplicatorem in producto. Adhibeamus ergo literas quasdam repraesentantes
+fractiones seu in nostro casu notiones negativas, quas exhibebimus literis graecis π, σ, ϕ,
+ψ, ω. Nam equidem si quis a me quaerat quid requiratur positivi ad hoc ut aliquod
+animal sit homo, dicam requiri ipsum: rationale; et si quis quaerat a me quid requiratur
+ut meteorum seu m sit nix seu n dicam requiri ut sit frigidum, spumeum, album,
+sensibiliter cadens, et similia, quorum requisitorum simul, aggregatum seu differentiam
+nivis specificam sub genere meteori distinguentem nivem ab aliis meteoris omnibus
+vocabo s, litera ex posterioribus, quia non satis cognitam suppono, et hoc loco confuse
+tantum considero, ut exprimam per sm, nivem esse certum aliquod peculiare meteorum,
+nempe illud de quo nunc loquor et cujus confusam notitiam habeo. Et haec quidem bene
+succedunt. Sed si quis a me quaerat differentiam specificam positivam constituentem
+hominis speciem sub genere lapidis, seu quid requiratur praeterea positivum ut lapis sit
+homo, dicam requiri a me absurdum.3
+Requiritur autem potius aliquid negativi vel hoc loco potius partim positivi partim
+omissivi, ut lapis fiat homo. Nam adimenda lapidi quaedam, et quaedam danda sunt ut
+notio inde fiat notioni hominis coincidens. Atque id semper fit in disparatis seu quorum
+neutrum est genus vel species, ut partim addendum sit partim adimendum, quo unum fiat
+ex altero. Sed [ut] ex genere fiat species tantum, addenda est differentia: ut ex specie fiat
+genus tantum, adimenda. Itaque si quis a me quaerat quid requiratur praeterea ad
+hominem ut sit idem quod animal: dicam nihil praeterea positivi requiri sed potius
+omittendum
+potest ut duae literae impossibiles in se invicem multiplicatae constituant possibilem,
+quia duo numeri fracti in se invicem ducti dare possunt integrum. Hinc ex falsis colligi
+potest verum.
+Adde huc σb aequ. πl.
+24 ut
+esse aliquid nempe rationalitatem, quae omissio exprimetur per fractionem 1
+quae signi-
+numerum hominis multiplicari per fractionem 1
+id est dividi per c. Unde si id quod ex
+specie addito aliquo requisito novo constituere volumus, sit genus; patet, ipsum genus ex
+specie constitui, sola ablatione differentiae specificae, seu speciem quodammodo fieri
+genus et contra, ita ut differentia specifica generis sub specie sit differentiae specificae
+speciei sub genere omissio: adeoque numerus fractus multiplicandus in b speciem, ut
+inde fiat a genus, erit simplex fractio, cujus scilicet numerator est unitas. Sed [ut]
+disparatum unum fiat aliud partim omittendum aliquid partim addendum, unde
+requisitum ad hoc erit fractio cujus numerator sit major unitate. Et haec omnia attente
+consideranti patent ex Regula nostra fundamentali, nam si notionum positionem
+exprimimus multiplicatione numerorum, utique notionum omissionem divisione
+numerorum exprimemus.
+Quoniam autem caute locutus sum hactenus de Omissionibus potius quam
+negationibus per fractiones repraesentatis, quaerendus est jam ad Propositiones negativas 15
+transitus. Et quidem considerandum est, quod dicere possumus quoddam meteorum non
+esse nivem, ejus rei esse causam, quod omittitur aliquid in notione meteori quod
+requiritur in notione nivis; unde fit aliquid possit esse meteorum licet ea non habeat,
+quae omittuntur in notione meteori, et requiruntur in notione nivis.4 Eodem modo dici
+potest quidam lapis non est homo, quia quiddam requiritur ad hominem quod non
+requiritur ad lapidem. Cum ergo posito m esse genus, n esse speciem, sit propositio
+universalis affirmativa generis de specie n est m in qua n habet signum universale, et m
+quale habeat nihil refert; aequatio autem inde fit n aequ. sm inter numeros n et sm. Ergo
+dividendo per s fit n
+Unde [per] regulam mutandarum aequationum in propositiones supra artic. 5 fiet: xm est n
+Jam n
+aequ. m, quam aequationem multiplicando per x fit xn
+significat idem quod quoddam non n, uti tn significat quoddam n. Quia
+aequ. xm.. 25
+multiplicatio per literam est terminus affirmatus particularis, adeoque necessario divisio
+per literam est terminus negatus particularis. Habemus ergo quoddam meteorum est
+quoddam non-nix. Jam in omni
+a est 1
+quoddam... nivem, L
+erg. L
+22 universalis... specie erg. L
+propositione nihil refert [an] quoddam signum sit praedicati, itaque habemus quoddam
+meteorum est non nix. Imo facilius adhuc dicemus tantum m est n, facilius adhuc omissa
+x possumus uti hac regula, quod propositio est particularis si subjectum multiplicatur per
+literam indeterminatam, et quod eadem est [negativa] si praedicatum dividitur per literam
+indeterminatam. Atque hoc modo satis constituisse videmur naturam particularis
+negativae. Data quacunque fractione w
+esse negationem cujuscunque speciei
+dici potest w
+ipsius s sive numeri per s divisibilis sive ipsius zs seu idem esse quod nullum s. Itaque
+dicere homo non est lapis idem est ac dicere homo est id quod est nullus lapis. Ita
+quoddam animal est nullus homo. Ergo quidam nullus homo est animal.
+Colligamus expressiones nostras hactenus constitutas:
+n vel m absolute positum est terminus indefinitus. Si subjectum sit sm propositio est
+propositio est particularis negativa.5 Vel sic potius: Si ex
+particularis. Si praedicatum sit n
+aequationis cujusdam termino fiat subjectum omissa aliqua litera multiplicante vel
+praedicatum omissa aliqua litera dividente fiet propositio particularis. Horum duorum
+unum pendet ex altero. Sit enim mc aequ. fd, exempli causa metallum constantissimum
+idem quod fossile ductilissimum, inde fiet propositio particularis m est fd, quoddam
+metallum est fossile ductilissimum. Ex aequatione nostra fiat haec aequatio m aequ. fd
+Patet si omittas divisorem in praedicato, idem fieri quod in praecedenti aequatione
+omisso multiplicatore in subjecto, nempe m est fd, ergo haec eadem est particularis.
+Nimirum utroque modo sumitur praedicatum subjecto latius, vel quod idem est,
+subjectum praedicato angustius, unde non amplius constat (nisi aliunde id sciamus) an
+praedicatum ita
+justus prudens
+2 facilius... n
+erg. L
+4 particularis L ändert Hrsg.
+7 f. Itaque dicere quidam gestr. homo L
+subjectum L
+dividitur L
+constantissimum L
+20–S. 215.1, vel... possit erg. L
+23 sapiens prudens gestr. L
+CALCULI UNIVERSALIS ELEMENTA
+amplificatum amplius inesse, vel subjectum ita contractum amplius continere possit. Sed
+si sumatur subjectum praedicato angustius seu plurium requisitorum, ut si subjectum
+multiplicetur vel praedicatum dividatur, non ideo mutatur signum quod erat in
+aequatione, nempe universale, neque enim eo minus praedicatum subjecto omni inest,
+nam quod generi inest et speciei inest; itemque cui genus inest ei et generis genus inest,
+per regulam pars partis est pars totius. Habemus ergo regulam signorum.
+Quod attinet ad regulam affirmationum et negationum, duo sunt casus, vel enim
+negamus speciem de genere, vel negamus disparatum de disparato. Si negamus speciem
+de genere redibit casus quem supra habuimus, ita ac aequ. b, patet a esse genus et
+hominem esse speciem. Hinc jam volumus formare propositionem quoddam animal non 10
+est homo, hoc fit adimendo aliquid a termino qui debet fieri subjectum nihilque
+adimendo a termino qui debet fieri praedicatum.
+Sin velimus negare disparatum de disparato, qualia disparata sunt cuprum et aurum,
+videamus quomodo sit procedendum. Nullum cuprum est aurum, id est non quoddam
+cuprum est aurum, ostendamus ergo tantum hanc propositionem falsam esse quoddam 15
+cuprum est aurum. Item nullum cuprum est aurum. Ergo omne cuprum est non aurum.6
+Sed fortasse melius omnis homo est animal. Ergo quicquid est non animal est non homo.
+disparata. w
+est non s. Id est si in termino fracto omisso numeratore fiat terminus integer
+propositionis qui sit nominator, is terminus erit negativus nominatoris. Imo sic: ac aequ. 20
+b. Ergo c aequ. b
+6 Am Rande: Nota haec propositio nullum cuprum est aurum, non bene exprimitur per
+hanc omne cuprum non est aurum (quae dicere tantum videtur quoddam cuprum non
+est aurum) sed per hanc omne cuprum est non-aurum. Itaque haec quae pendent a
+genio linguae demonstrari non possunt nec debent.
+21–S. 216.2 aequ. b.
+aequ. 1
+Id est quoddam rationale est non animal, seu quoddam non animal est rationale. Omnis homo est
+rationalis. Ergo quidam homo est non animal.7 Quae conclusio bona est, sed haec quoddam rationale est non
+animal, non sequitur ex hac animal rationale et homo aequivalent, nisi supponatur animal et rationale esse
+disparata. Et hoc in meis calculis generatim notandum, posse ex iis quasdam propositiones demonstrari, quae
+non valent nisi tunc ubi superflua vitantur, seu cavetur ne multiplicentur aliquae literae in se invicem.
+April 1679

@@ -1,0 +1,71 @@
+Methodussolvendiproblemata
+Quaestio proposita tractatur vel absolute vel relate ad cognitionem ejus, qui jam
+theoremata ad quaestionem solvendam utilia novit vel in promtu habet. Prior prolixior
+est, sed certa. Posterior magis a memoria pendet, aut certe minus est artificialis.
+Problema vel per se tractatur, vel resolvitur in alia problemata; prior via est magis 10
+algebraica et recepta; posterior non minus methodica; et saepe elegantior.
+In omni problemate Res datae et quaesitae, conditiones datae et ejusdem generatio
+seu constructio quaesita et relationes datae et quaesitae. Relationes datae sunt
+conditiones problematis continentes requisita determinantia quaesitum sive notas quibus
+agnosci possit, ubi inventum fuerit Quaesitum. Relationes quaesitae sunt quae pertinent 15
+ad causam efficientem seu generationem quaesitae rei. Interdum certus generandi modus
+praescribitur vel desideratur.
+sunt conditiones problematis determinantes. Relationesquaesitae sunt quae continent efficientem causam
+memoria L.. methodica; L
+8 vel... habet erg. L
+Tot necessariae sunt conditiones, quot sunt requisita causae efficientis a se invicem
+independentia, alioqui data non sunt sufficientia. Est enim analysis inquisitio geneseos
+seu causae efficientis.
+Generalis methodus analyseos est fingere Genesin assumto quaesito ut dato et
+productum conferre cum dato.
+Quaestio est vel determinata vel amphibola, cui pluribus modis non coincidentibus
+satisfieri potest.
+Item vel definita cui satisfit per certum quaesitum, vel indefinita, cui satisfit per
+locum infinitorum.
+Media finem eundem obtinendi sunt plura, eligenda sunt autem illa, quae sunt
+pauciora, simpliciora, minus amphibola, quaesito propiora, aut certe prae aliis signata.
+Nihil faciendum sine ratione quadam sufficiente neque ex pluribus rebus
+quantitatibusve homoeoptotis vel similibus una alteri sine causa praeferenda est.
+Si problema calculo magnitudinum tractandum sit, tunc omnia revocanda sunt ad
+quantitates (nempe numeros definitos vel indefinitos), quantitatumque relationes.
+De homoeoptotis.
+De electione quantitatum incognitarum, quibus cognitis haberetur quaesitum. Deque
+modo ea[s] revocandi in Catalogum (de compendiosa expressione inprimis in datis).
+pluribus quantitatibus habitis aeque haberetur quaesitum, utilius saepe est alias prae aliis eligi; eligendae autem
+sunt quae videntur simpliciores, faciliores inventu, quae prae erg. caeteris signatae, quae paucissimos habent
+analyseos erg.
+6 f. cui... potest erg. L
+quaesitum, L
+signata L
+omnia L
+relationes L
+De modo revocandi relationes alias ad aequationes.
+Quot sunt quantitates incognitae sufficientes a se invicem independentes, tot oportet
+esse aequationes a se invicem independentes, nec plures nec pauciores exceptionum
+conciliationes. Cum nimis multae sunt, oriri solet absurdum, nisi in casibus singularibus.
+Interdum pauciores sunt incognitae quam videntur.
+De modo revocandi aequationes plures ad pauciores, et denique ad unicam
+novissimam deque ordine in eo servando (quomodo aliae aliis conjungi debeant).
+De modo inveniendi valorem quantitatis quae reperitur in duabus aequationibus.
+De modo inveniendi potentiam quamlibet literae quae in duabus aequationibus
+habetur.
+De modo tollendi eam potentiam.
+De modo tollendi eam literam.
+De novissima aequatione.
+Si incognitae omnes homoeoptotae erit eadem aequatio pro omnibus seu reperientur
+simul.
+De inventione caeterarum incognitarum una inventa.
+De constitutione et limitibus aequationis secundum aliquam literam.
+De sublatione fractionum, semper succedit multiplicatione radicum.
+De sublatione irrationalium, non succedit hoc solo.
+De sublatione fractionum et irrationalium in quibus ipsa incognita.
+De divisibilitate aequationis per aliquam rationalem.
+De inventione certa radicis exactae rationalis, quando haberi potest (supra per
+extractionem radicis affectae utrobique).
+De modo extrahendi etiam radices irrationales propositae formae, quando id fieri
+potest. Hoc potius referendum ad superiora de extractione radicum affectarum.
+De inventione duarum aequationum ejusdem incognitae quas necesse est habere
+communem divisorem et tunc problema reduci posse.
+2 sufficientes erg. L
+radicis exactae L
+[1680 bis 1682 (?)]

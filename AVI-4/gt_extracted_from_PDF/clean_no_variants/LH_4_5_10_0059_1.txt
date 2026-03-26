@@ -1,0 +1,29 @@
+COUTURAT, Opusc. et fragm., 1903, S. 148.
+21 Junii 1678 5
+Mariottus in specimine logico negat propositiones quasdam Geometricas in
+Elementis extantes demonstrari per calculum, quia calculus ipse, v.g. quod − in − facit +
+ex Elementis demonstrari debet. Et sane Analytici plerique qui demonstrationes
+operationum dare voluere, recursum habuere ad propositiones Geometricas et inter hos
+Renaldinus, qui refert Cavallerium quoque questum quod hae propositiones non
+haberentur demonstratae. Ego puto Cavallerium quaesivisse demonstrationem
+Analyticam: nam linearem dudum dederant Algebristae, ut Bombellus aliique. Ecce ergo
+demonstrationem pure analyticam a me repertam, absurdum enim videbatur arithmeticae
+communis regulas (quas inter illa est quod − in − facit +) non nisi per lineas demonstrari
+posse. Primum autem quaesivi rem in aequatione ut si sit x − b aequ. 0, ducenda in x − c, 15
+vel in f − c, sumendoque pro vero quod quaeritur incidi in verum. Inde per regressum
+concinnavi demonstrationem syntheticam in casu aequationis. Unde facilius postea fuit
+concinnare propositionem generalem, quemadmodum scheda separata praestiti.
+x − b
+x − c
+− bx + bc aequ. 0.
+6–8 Vgl. E. MARIOTTE, Essay de logique contenant les principes des sciences, et la maniere de s’en
+8 Vgl.
+servir pour faire de bons raisonnemens, Paris 1678 [Marg.], part. II, disc. II, art. I, S. 107–109.
+EUKLID, Elementa, lib. II, prop. 7.
+Padua 1669, 1668, Bd 1, cap. 3, S. 51 f.
+12 R. BOMBELLI, L’Algebra, Bologna 1572; Titelaufl. 1579
+Ergo x 2 + bc aequ. bx + cx
+Ergo x + c aequ. b + c
+seu x aequ. b
+x − b
+xf + bc

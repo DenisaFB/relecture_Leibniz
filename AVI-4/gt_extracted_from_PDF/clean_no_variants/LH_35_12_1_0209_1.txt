@@ -1,0 +1,25 @@
+Demonstrari possunt, non tantum theoremata, sed etiam ipsa Axiomata quae
+identica non sunt.Ita demonstravi Axioma Euclideum: Quodaequaliaunitertio,
+suntaequaliainterse, per definitionem Aequalitatis. Talem autem assigno
+definitionem Aequalitatis: Aequalia sunt quorum unum alteri substitui potest, salva
+circa magnitudinem veritate. Demonstrandum jam esto Axioma, de aequalibus uni tertio
+etiam aequalibus inter se, quod sic exponi potest more Geometrarum: Esto a aequale ipsi
+b, et rursus esto c aequale ipsi b, ajo fore a et c aequalia inter se. Nam (primo) quia a = b
+poterit substitui c, et fiet a = c. Quod erat dem.
+Definitio. AEQUALIA sunt quae sibi substitui possunt salva magnitudine.
+Axiomaidenticum. Unumquodque sibi ipsi aequale est.
+14 Quodquae gestr. aequaliasunt gestr. uniL
+Euclideum L
+Aequalitatis, et per axioma identicum, quod idemaequalesibiipsi gestr.
+19 (primo) erg. L
+14 EUKLID, Elementa, lib. I, ax. 1.
+Siaequalibusaddasaequalia, proveniuntaequalia.
+Esto 1) a = l et (2do) esto b = m. Dico fore a + b = l + m.
+Nam quia (3tio) a + b = a + b per Axiom. ident. Ergo in dextro latere hujus aequalitatis
+pro a substituendo l (ob aequ. 1), et pro b substituendo m (per aequ. 2) quod fieri potest
+(per definit. Aequalium) habebimus a + b = l + m. Quod erat demonstrandum.
+Simili ratione aliquando ostendi Logicas consequentias commode demonstrari per
+veritates identicas. Exempli gratia haec consequentia: Omnis homo est animal. Ergo
+quidam homo est animal, est Enthymema, quod perficitur et transit in syllogismum ope 10
+suppletae propositionis identicae: Omnis homo est animal. Quidam homo est homo. Ergo
+quidam homo est animal. Fateor nos non habere opus his demonstrationibus, sed tamen

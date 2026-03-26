@@ -1,0 +1,65 @@
+Combinatoria de formis; variationibus; simili et dissimili, ordinato et perturbato.
+Inverso, reciproco; unico seu determinato. De seriebus seu Tabulis. Axiomata varia
+egregiae utilitatis. Quae similiter determinantur similia sunt. Datis ordinatis etiam
+quaesita sunt ordinata. Sive si ordo est in determinantibus erit et in determinatis. Si
+determinantia coeunt, etiam determinata respondentia coibunt. Utile est ad rerum naturas
+queat, et sit quasi in nodo seu intersectione diversarum serierum, eo melius cognoscetur.
+Ex. gr. quaeritur quadratura
+ggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggg
+: x,, : x, etc. ut exponentes sint progressionis, 1, 2, etc., ubi patet de omnibus terminis seriei excepto primo,
+gggggggggggggggggggggggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggggg, nobis
+ignoto, pendere ex quadratura Hyperbolae, unde colligi potest, etiam,
+primum influens quadraturam Hyperbolae, nec pure aut ex sola circuli quadratura haberi.
+Potest fieri ut serie hac per certam numerorum seriem ordinatim respective multiplicata
+fiat nova series, cujus differentiae sint quantitates ordinariae, evanescentibus
+Hyperbolicis, et ita habita lege ista haberetur et
+Quando obtineri potest ut tota series habeatur, praeter unum terminum quaesitum,
+tunc major spes; interdum vero non tantum quaesitus non habetur, sed et integra series,
+interpolanda ei quae habetur, ut si sit series
+12 utilitatis. (1) Determin (2) Quae L
+14 determinata (1) mutuo coeunt (2) respondentia L
+15 quaerere; (1) et quo plures (2) et, L
+(1) Et ex seriebus e (2) Ex. L
+pro certo haberi (2) colligi erg. L
+22 ut (1) in (2) serie (a) per (b) hac L
+15 in (1) plurium inter se d (2) pluribus L
+17 f. : x erg. x + a
+gggggggggggggggggggggggggggggggggggggggggggggggg
+21 primum (1) penden (2) influens L
+ubi termini stella subnotati omnes quaeruntur quadrari. Interim hoc modo
+plana compositum est ex pluribus seriebus in unam seu est series serierum, ut in
+Triangulo Pascalii Arithmetico, in meo Harmonico. Utiliores sunt series quae minus
+procedunt per saltus, etsi enim minus progrediamur, tamen facilius ad regulam
+generalem pervenimus. Ex. g. melius est quaerere quomodo aequatio simplex x +... =
+0, conjungatur cum x 2 +... x +... = 0 seu plana, cum cubica, cum quadrato-quadratica,
+etc. et similiter quomodo x 2 +... x +... = 0 conjungatur cum simplici, quadratica,
+cubica, quadrato-quadratica, etc. 〈Et〉 porro deinde quomodo x 3 +... x 2 +... x +... = 0
+conjungatur cum omnibus reliquis; et deinde quomodo x 4 +... x 3 +... x 2 +... x +... =
+0 etiam cum omnibus reliquis, et ita porro, quam investigare solum progressionem hanc
+unicam, conjungere binas quadraticas, binas cubicas, binas quadrato-quadraticas, etc.
+Etsi cum priore modo initio major su〈sci〉piendus labor; facilius tamen aperitur
+progressio; quae reperta cum in infinitum 〈valeat〉, laborem abunde compensat.
+Multum interest inter series seu Tabulas numerorum quales sunt sinuum aut similes,
+quae progressionis naturam non produnt; et inter Tabulas analyticas vel etiam numerales
+dyadicas, ex quibus natura seriei experimento quodam eruitur. Uti Jungius habet
+Geometriam quandam Empiricam, ita hoc modo obtinetur Analysisquaedam
+Empirica, ope serierum. Utile tamen est quaeri demonstrationes theorematum quae
+inductione serierum inveniuntur.
+3 quadrari erg. (1). Utilis est series non tantum line (2). Interim L
+5 plana (1) seu Trian (2)
+quadrato-quadratica L
+9 cum (1) ae (2) qu (3) x 2 L
+9 cum (1) surdesolida (2)
+15 labor; (1) mox (2) aper (3) facilius L
+19 eruitur. (1) Potest haec (2) Uti L
+4 qualis Wallisiana: vgl. III, 2 N. 2, S. 27.
+6 Triangulo... Harmonico: vgl. III, 1 N. 2, S. 6 f.; VII, 1
+Hamburg 1649 [Marg.].
+20 Vgl. J. JUNGIUS, Geometria empirica. Nunc iterum, non nullis locis auctior, excusa,
+[Sommer 1680 bis Sommer 1684 (?)]

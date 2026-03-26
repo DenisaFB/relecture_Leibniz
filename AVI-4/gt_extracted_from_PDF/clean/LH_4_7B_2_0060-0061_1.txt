@@ -1,0 +1,506 @@
+SCHMIDT, Fragmente, 1960, S. 326–343. 4. PARKINSON, Logical Papers, 1966, S.
+131–144. 5. BARONE, Scritti, 1968, S. 423–439. 6. SHOITSU SAWAGUCHI, in
+KOUSAKUSHA, Jap. ed., 1988, Bd 1, S. 287–316. 6. D. BERLIOZ u. F. DRAPEAU CONTIM,
+in Revue d’Histoire des Sciences 51, 1998, S. 48–64.
+Papiers bis Februar 1687.
+DEF. 1. Eadem seu Coincidentia sunt quorum alterutrum ubilibet potest
+substitui alteri salva veritate. Exempli gratia
+Triangulum et Trilaterum; in omnibus enim
+propositionibus ab Euclide demonstratis de Triangulo,
+substitui potest Trilaterum, et contra, salva veritate.
+BsignificatA et B esse eadem, ut de recta
+XY, seu coincidere viam
+XY et recta YX dicemus: YX
+brevissimam mobilis ab X ad Y et ab Y ad X.
+DEF. 2. Diversa sunt quae non sunt eadem, seu in quibus substitutio aliquando
+non procedit. Talia sunt circulus et triangulum; item
+quadratum (scil. perfectum, ita enim semper intelligunt
+Geometrae) et quadrangulum aequilaterum, hoc enim de
+rhombo dici potest, de quo tamen quadratum dici nequit.
+BsignificatA et B esse diversa, ut rectae XY et RS.
+A. Siquididemsitalteri, alterum 15
+idemeritipsi. Nam quia A
+B (vera ex Hyp.) poterit substitui B in locum A,
+et A in locum B, ergo fiet B
+A. Siquiddiversumsitabaltero, alterum erit diversum a b ipso.
+A. Ergo (per praeced.) erit A
+sunteademinterse. Nam si in enuntiatione A
+substituatur C in locum B (per def. 1 ob B
+B, quod est contra Hyp.
+C. Eadem u n i t e rtio
+C) fiet propositio vera A
+1 seu Coincidentia erg. L
+1 quorum (1) unum (2) alterutrum ubilibet L
+10–13 Talia sunt circulus et (1) quadratum (2) triangulum;
+veritate. mit Figur erg. Ita etiam eadem sunt omniscius et omnipotens; erg. u. gestr. A L
+perfectum, (b) cujus a (c) (scil.... Geometrae) erg.
+propositione (2) enuntiatione erg. L
+item erg. quadratum (a)... quadratum perfectum gestr. dici nequit. mit Figur
+24 in (1) prop. (2) enuntiatione erg. L
+15 f. S i... ipsi. erg. L
+21 S i... ipso. erg. L
+17 (per def. 1) erg. L
+Hinc cum aequalia sint magnitudine eadem, consequens est aequalia uni tertio esse
+aequalia inter se. Euclides effecturus triangulum aequilaterum, facit quodlibet latus
+aequale basi, unde consequens est aequari inter se. Si quid moveatur in circulo, tantum
+ostendendum est semper duarum proximarum periodorum (seu reditionum ad idem
+punctum) vias inter se coincidere, ut concludatur quarumlibet periodorum vias
+eademinterse, unumsitdiversumatertio, e t i a m
+alterum a b e o d e m erit diversum. Nam si in propositione B
+C (vera ex Hyp.) substituatur A in locum B, fiet (per def. 1
+B) propositio vera A non
+DEF. 3. Ainesse in L, seu LcontinereA, idem est ac pro pluribus inter quae est
+A simul sumtis coincidens poni L.1
+DEF. 4. Omnia autem simul quibus inest quicquid est in L dicentur componentia
+respectu ipsius Lcompositi vel constituti.
+vel componere L, idem est in pluribus.
+LsignificatB esse in L seu L continere B; at B et N simul constituere
+DEF. 5. Subalternantia voco quorum unum alteri inest, ut A et B, sive B insit
+ipsi A, sive A ipsi B.
+DEF. 6. Disparata quorum neutrum alteri inest.
+SCHOLIUM. AD DEF. 3, 4, 5, 6. Inesse dicimus notionem generis in notione speciei,
+individua speciei in individuis generis; partem in toto, imo et indivisibile in continuo, ut
+punctum in linea, licet punctum pars lineae non sit. Sic notio affectionis seu praedicati
+inest in notione subjecti. Et in universum latissime patet haec consideratio. Dicimus
+1 Am Rande gestr.: Pars inest toti, genus speciei.
+7–9 S i... diversum. erg. L
+(b) (seu reditionum ad idem punctum) erg.
+1–6 Hinc... ostendendum est (1) duas quasque periodos (2) semper duarum proximarum duarum str.
+Hrsg. periodorum (a) (ad idem punctum redeuntium)
+(bb) proximarum (cc) quarumlibet (dd) vias inter se erg. coincidere, ut (aaa) ostendat (bbb) concludatur...
+Si A insit in L, seu si L contineat A, tunc pro A et (a) alio (b) aliis simul ponitur L. (2) A... poni L. L
+14 f. DEF. 4.... simul quibus... L erg. dicentur (1) constituentia (2) componentia erg....
+16–S. 835.26 ; at... pluribus erg.. DEF. 5.... inest. (1) SiAestinB e t s i t B
+etiamA erit i n C. Nam in prop. A est in B pro B substituendo C fit A esse in C. A
+punctum lineae, (2) notionem L
+21 dicimus (1) partem toti,
+24 consideratio. (1) Vicissim qu (2)
+21–S. 833.23 SCHOLIUM... stannum. erg. L
+22 in (1) extens (2) continuo L
+RX. Et tales partes, quae
+Bcomponere dicentur L, si A, B, L significent rectas
+quomodo ea quae insunt sese invicem aut ad continens habeant. Ita demonstrationes
+nostrae etiam de his locum habent, quae aliquid distributive componunt, ut omnes
+species simul componunt genus. Porro omnia inexistentia sufficientia ad constituendum
+continens, seu quibus omnia insunt, quae insunt continenti, dicuntur ipsum continens
+componere, exempli gratia A.
+totum complent, vocare soleo cointegrantes, maxime si nullam partem communem
+habeant, quae commembra dici possent, ut RS et [SX]. Unde patet idem multis modis
+componi posse, si ea ex quibus componitur rursus sint composita. Imo si resolvi possint 10
+fundamentis hic jaciendis innituntur. Porro si ea quae insunt homogenea sint ei quo
+continentur, appellantur partes, et continens appellatur totum. Si duae quaevis partes ita
+se habent, ut tertium reperiri possit habens partem uni et partem alteri communem, quod
+ex ipsis componitur est continuum. Unde patet quomodo paulatim una consideratio ex 15
+alia exurgat. Porro subalternantia voco, quorum unum alteri inest, ut species generi, recta
+RS rectae RX. Disparata, ubi secus est, ut rectae RS et YX, duae species ejusdem generis,
+metallum perfectum et imperfectum. Imo et diversarum divisionum ejusdem totius
+membra, quae aliquid commune habent, verbi gratia si metallum dividas in perfectum et
+imperfectum et rursus in solubile in aqua forti et insolubile, patet metallum insolubile in 20
+aqua forti, et metallum perfectum esse duo disparata, darique metallum perfectum seu
+fulminabile persistens in cupella, et tamen solubile in aqua forti, ut argentum, et contra
+dari metallum imperfectum insolubile in aqua forti, ut stannum.
+POSTULATUM 1. Dato quolibet sumi potest aliquid ab eo diversum, et si placet,
+B seu transpositio hic nihil mutat.
+disparatum, seu ut unum alteri non insit.
+1 ad... generalem erg. L
+7 tales (1) compartes, (2) partes, L
+inexistentia (a) simul sumta, (b) sufficientia L
+13 Si (1) duo quaevis (2) duae quaevis partes L
+15 continuum. (1) SCHOLIUM. (2) Unde (a) quale (b) patet L
+Disparata voco, quorum neutrum alteri inest, ut (2) Porro L
+21 f. seu fulminabile erg.
+quorum unum alteri non inest. (4) seu... insit. L
+24 seu... mutat erg. L... tamen erg. L
+3 ut (1) species componunt genus (2) omnes L
+6 dicentur (1) linea (2) L, (a) verbi (b) si A sit linea RS, e
+9 quae... possent erg. L
+14 communem, (1) totum sit continuum (2) quod L
+16 exurgat. (1) SCHOLIUM AD AX. 1 ET 2.
+20 metallum (1) solubile (2) insolubile L
+25 f. et... disparatum erg., (1) quod ei (2) ita ut erg. non inest (3)
+24 N (1) idem significat quod (2)
+POSTULATUM 2. Plura quaecunque ut A, B simul sumi possunt ad unum A
+A. Si nihil novi addatur, nec novi aliquid fit, sive repetitio hic
+nil mutat. (Nam licet 4 nummi et alii 4 nummi sint 8 nummi, non tamen 4 Nummi, et
+iidem 4 Nummi adhuc semel numerati.)
+SCHOLIUM AD AX. 1 et 2. Cum speciosa generalis nihil aliud sit, quam
+combinationum per notas repraesentatio atque tractatio, variaeque sint combinandi leges
+excogitabiles, hinc fit ut varii oriantur modi computandi. Hoc loco autem nulla habetur
+ratio variationis quae in sola ordinis mutatione consistit, idemque nobis est AB quod BA.
+Deinde hoc loco nulla habetur ratio repetitionis, seu AA idem nobis est quod A. Itaque
+ubicunque istae leges servantur, applicari potest praesens calculus. Hoc autem patet
+servari in compositione notionum absolutarum in recto, ubi nec ordinis ratio habetur, nec
+repetitionis, sic idem est dicere calidum et lucidum ac dicere lucidum et calidum; et
+ignem calidum, vel lac album cum poetis dicere est pleonasmus, nec aliud est lac album
+quam lac, et homo rationalis seu animal rationale quod rationale est, nihil aliud est
+quam animal rationale. Idem est cum determinatae quaedam res, rebus inexistere
+dicantur. Realis enim adjectio ejusdem frustra repetitur. Cum bina et bina dicuntur facere
+quaterna, posteriora debent esse diversa a prioribus. Si〈n〉 idem esset nihil novi prodiret,
+et perinde esset ac si joco ex tribus ovis vellemus facere sex, numerando primum 3 ova,
+deinde uno sublato residua 2, ac denique uno rursus sublato residuum 1. At in calculo
+Numerorum et magnitudinum A vel B vel aliae notae non significa[n]t certam rem, sed
+quamlibet ejusdem numeri partium congruarum, quilibet enim duo pedes significantur
+per 2 si pes sit unitas seu mensura. Unde 2 + 2 facit novum, 4, et 3 per 3 facit novum, 9.
+Praesupponitur enim semper diversa (licet ejusdem magnitudinis) adhiberi; at secus res
+se habet in certis rebus, verbi gratia lineis. Ponatur mobile describere rectam RY
+L, tendendo ab R ad X. Ponamus idem deinde reverti ab X versus Y
+ibique quiescere, utique licet bis describat YX seu B, nihil aliud producet, quam si semel
+descripsisset YX. Et L
+YX. Quae cautio magni momenti est in aestimanda magnitudine eorum
+B idem esse quod L seu P
+1 f. L (1) constituendum (2) componendum. L
+6–S. 835.16 SCHOLIUM... SX. erg. L
+variis calculis combina (2) Cum L
+utroque modo (2) ; et L
+dicuntur facere octo, (2) bina... quaterna, L
+15 f. et... quam animal rationale erg. L
+21 vel aliae notae erg. L
+8 varii (1) ordi (2) oriantur L
+13 dicere (1) per se calidum, et per se lucidum quod (2) calidum L
+12 absolutarum in (1) 〈recto potius〉
+17 f. Cum (1) quatuor et quatuor
+23 3 (1) in (2) per L
+generantur, ex magnitudine et motu eorum quae generant vel describunt, cavendum enim
+est ne describens suamet aut unum alterius vestigia legat, unave pars describentis in
+alterius locum succedat, aut detrahendum id est, ne idem saepius poneretur. Patet etiam
+hinc componentia, secundum notionem qua hic utimur, posse ex suis magnitudinibus
+componere magnitudinem majorem magnitudine rei quam componunt. Unde longe
+differt compositio rerum et magnitudinum, exempli gratia si totius rectae L vel RX duae
+sint partes A seu RS, et B seu YX, quarum quaelibet major sit dimidia ipsius RX, ut si RX
+sit 5 pedum, et RS 4 pedum, et YX 3 pedum, patet magnitudines partium componere
+magnitudinem 7 pedum, majorem quam quae est totius; et tamen rectae ipsae RS et YX
+nihil aliud componunt quam RX seu RS
+referat in reali adjectione, cum de rebus actu generandis agitur, quis sit ordo, prius enim
+fundamenta jaciuntur, quam struatur domus, in mentali tamen formatione rerum idem
+prodit quodcunque ingredientium prius consideremus, tametsi unus modus considerandi
+alio sit utilior, unde nec ordo hic variat rem provenientem. Suo tempore et ad ordinem 15
+erit accedendum. Nunc autem RY, ut additio magnitudinum designatur per +. Denique etsi multum
+RX. Unde et adjectionem hanc realem 10.
+CetiamCestinB. Coincidens inexistenti
+est inexistens. Nam in propositione A est in B (vera ex hyp.) pro A substituendo C (per
+def. 1 Coincidentium, quia A
+PROP. 5. SiAestinB, etsitA
+C ex hyp.) fit C esse in B.
+PROP. 6. SiCestinB, etsitA
+B, e t i a m C erit i n A. Quoduni
+coincidentiuminest, etiamalteriinest. Nam in prop. C est in B, pro C
+substituendo A (quia A
+C) fit: A esse in B. (Est conversa praecedentis.)
+PROP. 7. AestinA. Unumquodque e s t i n s e ipso. Nam A est in A
+A (per axiom. 2). Ergo (per prop. 6) A est in.
+def. inexistentis seu per def. 3) et A
+B. Coincidentiumunumestinaltero. Patet ex
+coincidentia, f i u n t coincidentia. Nam si in propositione A
+vera) pro A semel substituas coincidens B (per def. 1), fiet: A
+C. Sieidemadjiciantur
+unave... saepius (aa) numeretur (bb) poneretur erg. L
+12 f. enim (1) damus (2) formanda (3) fundamenta L
+17 f. Coincidens... inexistens. erg. L
+24 seu per def. 3 erg. L.. ipso. erg. L
+28 f. S i... coincidentia. erg. L
+2 f. vestigia (1) eodem puncto 〈tri〉 (2) saep〈ius〉 (3) legat (a) 〈 – – 〉 (b)
+7 RX, (1) patet magnitudines ambarum (2) ut L
+14 f. tametsi... utilior erg. L
+24 (per axiom. 2) erg. L
+30 (per def. 1) erg. L
+C triangulum aequilat.
+C trilaterum aequilat.
+SCHOLIUM. Haec propositio converti non potest,
+multoque minus duae sequentes, et infra in problemate
+quod est prop. 23, docebitur modus instantiam
+a d j i c i a n t u r coincidentia, f i u n t coincidentia. Nam quia B
+M, et pro posteriori A ponendo L (quia A
+Triangulum regulare, et trilaterum, sub tribus
+lateribus eandem peripheriae magnitudinem
+facientibus capacissimum, coincidunt.
+1–12 A... coincidunt mit Figur erg. SCHOLIUM... reperiendi. erg. (1) SiL
+M erit (per prop. praeced.) A
+B (per def. inexistentis) (a) ergo (b) et L.
+trilaterum (4) numeros (5) magnitudine (6) isoperimetrorum L
+12 f. S i... coincidentia. erg. L
+L erit B i n L. Nam.
+L (ex Hyp.). Ergo (per prop...) B est in L. (2) SiB
+L (per def...). Ergo (per prop...) (a) B
+M et pro posteriori A ponendo L (quia
+N fiet (rursus per praecedentem) A.
+15–S. 837.2 A... coincidunt. erg.
+20–22 capacissimum (1) coincidunt (2) sub eadem peripheria (3)
+SCHOLIUM. Haec propositio converti non potest, neque enim si sit A
+M, et sequens multo minus converti potest.
+L sequitur statim esse B
+porro. Sisintquotcunqueproposita, e t t o t i d e m a l i a i l l i s r e s p e c t i v e
+coincidentia s i n g u l a s i n g u l i s, compositumexilliscoincidet
+compositoexistis. Nam (ex praeced. quia A
+f a c t u m prius inest posteriori. Nam sit L
+L. Siidemadjiciaturcontento
+PROP. 12. SiB e s t i n L eritA
+Aequilaterum inest seu tribuitur regulari. Ergo
+quadrilaterum aequilaterum inest quadrilatero
+regulari sive quadrato perfecto.
+SCHOLIUM. Haec propositio converti non potest, neque enim si A
+sequitur esse B in L.
+a d j e c t u m e i inest. Nam B est in L.
+L (ex hyp.). Ergo (per prop. 6) B est in L.
+PROP. 14. SiB e s t i n L erit L
+L erit B i n L. S i q u i d a d j e c t o a l i o non f i t a l i u d,
+novi seu s i q u i d a l t e r i inest a d j e c t u m e i, non f a c i t a l i u d a b e o.
+L. Subalternantia n i h i l c o m p o n u n t
+4–6 S i... istis. erg. L
+B (per def. inexistentis ) et L.
+L. Nam si B est in L erit B
+propositionis non procedit (3) PROP. 12. L
+18 inest seu tribuitur gestr. quadrilatero L
+seu erg. s i... e o. erg. L
+N (per def...) et A.
+L (per def...). Ergo (per prop...) L
+L (ex hyp.). Ergo (per prop...) B est in L.
+L. (2) SiB e s t i n L eritA.
+8 f. S i... posteriori. erg. L
+13 RX. L ändert Hrsg...
+17 inest (1) regulari (2) seu L
+22 f. S i... inest. erg. L
+25 f. Subalternantia...
+praecedentis. Si B est in L erit (per def. inexist.) L
+P. Ergo (per prop. 9) L
+B hoc est (per ax. 2)
+parallelogrammum (cujus quodlibet latus
+alicui lateri parallelum est)
+Parallelogrammum quadrilaterum idem est quod
+Ergo quadrilaterum esse inest parallelogrammo.
+Vicissim quadrilaterum esse inest parallelogrammo.
+Ergo parallelogrammum quadrilaterum idem est
+quod parallelogrammum.
+PROP. 15. SiAestinBetB e s t i n C, etiamAestinC. Contentum
+contentiestcontentumcontinentis. Nam A est in B (ex hyp.). Ergo A
+(per def. inexist.). Similiter quia B est in C, erit B
+inexist.) A est in C..
+L (quae coincidere ostendimus) fiet A
+C, in qua assertione pro B
+Quadrilaterum esse inest parallelogrammo, et
+parallelogrammum esse inest rectangulo (hoc est
+figurae cujus omnis angulus rectus). Ergo
+quadrilaterum esse inest rectangulo.
+2–14 L. (1) SiA + NestinA, e t i a m NestinA. Nam si A + N est in A erit A + A + N
+2–13 RY... parallelogrammum. mit Figur erg. L
+27–S. 839.1 rectangulo (1) ; quanquam si (a) de individuis non de notionibus 〈tra〉 (b)
+individua non notiones intelligamus (2). Inverti L
+15 (ex. hyp.) erg. L
+Inverti haec possunt, si pro notionibus per se consideratis, spectemus singularia sub
+notione comprehensa, et fieri potest A rectangulum, B parallelogrammum, C
+quadrilaterum. Nam omnia rectangula sunt in numero parallelogrammorum
+comprehensa, et omnia parallelogramma in numero quadrilaterorum. Ergo et rectangula
+omnia in quadrilateris continentur. Quemadmodum omnes homines continentur in
+omnibus animalibus, et omnia animalia in omnibus substantiis corporeis, ergo et omnes
+notione animalis, et notio animalis in notione hominis insit. Hominem enim esse continet
+SCHOLIUM. Haec propositio converti non potest, et sequens multo minus.
+PROP. 16. SiAestinB, etBestinC, etCestinD, etiamAestinD. Et
+itaporro. Contentum c o n t e n t i a c o n t e n t o e s t c o n t e n t u m continentis.
+Nam si A est in B et B est in C etiam A est in C (per praeced.). Unde si C est in D tunc 15
+(rursus per praeced.) etiam A erit in D.
+PROP. 17. SiAestinBetB e s t i n A eritA
+B. Quaesemutuocontinent
+coincidunt. Nam si A est in B, erit A
+Ergo porro (per prop. 14) A
+Trilaterum esse inest triangulo, et triangulum
+esse inest trilatero. Ergo coincidunt triangulum
+Sic omniscium esse et omnipotentem esse.
+3 in (1) omnibus parallelogrammis (2) numero parallelogrammorum L. (1) COROLLAR. 2. Si A est in B et B est (2) Si A est in B et B est in A (3) Si A
+6 omnibus (1) corporibus ergo et omnes homin (2) substantiis L
+animali, et animal in homine, in (2) et L
+A, et A in B (b) A in B (4) AestinA. Nam si (5) SiAestinBetB e s t i n A eritA
+praeced.) etiam N est in A. Ergo porro (per prop...) A
+A + B est in C. (7) PROP. 16. L
+14 Contentum... continentis. erg. L
+5 omnia (1) sub qua (2) in L
+8 animalis, (1) seu corporea substantia in
+B (per defin. inexist.). Jam B est in A (ex hyp.). Ergo A + N est in A. Ergo (per coroll. erg.
+B. (6) Si A est in C et B est in C, etiam
+PROP. 18. SiA e s t i n LetB e s t i n L, etiamA
+B erit i n L. Quod e x
+duobuseideminexistentibuscomponitur, e i d e m inest. Nam quia A est in L
+(ex Hyp.) poterit intelligi A
+L. Ergo (per Axiom. 2) A
+L (per def. inexistentis). Similiter quia B est in L
+L. Ergo (per def. inexist.) A
+L. Quae conjungendo fiet (per prop. 10) A
+B aequiangulum aequilaterum seu regulare
+aequiangulum inest quadrato
+aequilaterum inest quadrato
+Regulare inest quadrato.
+PROP. 19. SiA e s t i n LetB e s t i n L e t C e s t i n L eritA
+porro. Seu generaliter, cuisingulainsunt, etiamexiis compositum
+B in L (per praeced.). Jam et C est in L (ex hyp.). Ergo (iterum per.
+SCHOLIUM. Has duas propositiones et similes converti posse patet. Nam si A
+L, patet ex definitione [in]existentium A esse in L, et B esse in L. Item si A
+patet A esse in L, et B esse in L, et C esse in L, item A
+C esse in L. Et ita porro...
+PROP. 20. SiA e s t i n M, etBestinN, eritA
+posteriori e t a l i u d prius a l t e r i posteriori i n s i t, compositum e x duobus
+p r i o r i b u s inest c o m p o s i t o e x duobus posteriori b u s. Nam A est in M (ex.
+(1) Cuisingulainsunt, etiamexiis (a) compositum (b) componendo
+c o n s t i t u t u m inest. (2) Quod... inexistentibus (a) componendoconstituitur (b)
+c o m p o n i t u r e i d e m inest. erg. L
+componendoconstitutum (b) compositum inest. erg. L
+22 posse per se gestr. patet. L
+6–17 RYS... quadrato. mit Figur erg. L... iis (a)
+22 et similes erg. L
+26–28 S i (1) unum uni, et alterum alteri insit, co (2) prius...
+N (per def. inexist.). Ergo (per prop. 15) A est in M
+quia B est in N, et N est in M
+N, etiam (per prop. 18) A.
+RT est in RY et SY est in SX
+SY seu RY est in RY.
+Parallelogrammum sit M
+Jam quadrilaterum inest parallelogrammo.
+Et Aequiangulum inest regulari.
+Ergo Rectangulum (seu quadrilaterum aequiangulum)
+inest parallelogrammo regulari seu quadrato
+SCHOLIUM. Haec propositio converti non potest. Et licet A sit in M, itemque A
+N, non tamen continuo sequitur B esse in N, potest enim fieri ut tam A quam B sit
+in M, item ut aliqua quae sunt in B, sint in M, caetera vero in N. Multo minus ergo
+converti potest propositio sequens et similes...
+PROP. 21. SiA e s t i n M etBestinN, etCestinP, eritA
+P. Etita porro. Compositumexcontentis.
+continentibus. Nam quia A est in M et B est in N, erit (per praecedentem) A
+PROP. 22. DatisduobusdisparatisAetB i n v e n i r e t e r t i u m a b iis
+N, jam porro C est in P, ergo (rursus per praecedentem) A
+inest c o m p o s i t o e x......
+diversum C, q u o d c u m ipsi s componat s u b a l t e r n a n t i a A
+est ut licet A et B alterum alteri non insit, tamen A
+C alterum alteri insit.
+3–15 RT... quadrato. mit Figur erg. L
+5 f. RX (1) Aequiangulum sit A (2) Quadrilaterum L
+14 (seu quadrilaterum aequiangulum ) erg. L
+(1) Seu constitutum con (2) Compositum... continentibus. erg. L
+ut licet diversa (b) diversaBetC, uttamensitA
+unum alteri non insit erg.
+Solutiospecialior. Sumatur C
+B + B (ex constructione). (4) PROP. 23. L
+i n v e n i r e t e r t i u m C a b i l l i s diversum, u t
+24 PROP. 22.... Faciendum.
+M (2) DatoAinvenire (a) B et C, sic
+C. (3) DatisduobusAetB quorum
+A + B (per postul...) et factum erit quod desideratur. Nam A + C
+Solutio : Si velimus ut A
+C, licet A non sit in B, hoc ita praestari..
+potest: sumatur (per postul. 1) aliquid D qualecunque modo non insit ipsi A, et (per
+[D] (ex constructione)
+C, et factum erit quod quaeritur. Nam A
+[D] (per def. 3). Ergo A
+[D] (per axiom. 2). Similiter B
+Sunt SY et YX disparata
+C aequilaterum aequiangulum seu regulare
+C; quia A et B sunt incompatibilia.
+Ubi patet, licet aequilaterum et parallelogrammum sint
+disparata, sic ut alterum alteri non insit, tamen
+aequilaterum regulare inesse parallelogrammo
+regulari seu quadrato.
+At inquies non succedere hanc constructionem in problemate praescriptam, in omnibus
+casibus. Sit v.g. A trilaterum, B quadrilaterum; non potest inveniri notio, cui simul A et
+B insit, adeoque nec datur B
+Respondeo constructionem nostram generalem inniti postulato 2do, quo continetur
+quidvis cuivis componi posse, ita Deus, anima, corpus, punctum, calor componunt
+aggregatum harum quinque rerum. Et ita quadrilaterum quoque et trilaterum componi
+possunt, et solvi problema. Sumatur enim D quodlibet quod in trilatero non continetur,
+D trilaterum et circulus quod vocetur C; jam C
+quam rursus trilaterum et circulus, quod utique inest in C
+circulo et quadrilatero. Sed si quis generalem istum calculum compositionum
+qualiumcunque applicare velit ad modum specialem componendi, verbi gratia si quis
+velit ut trilaterum et circulus vel quadrilaterum non tantum componant unum
+aggregatum, sed ut simul utraque notio sit in eodem subjecto, videre debet an sint
+compatibiles. Ita rectae dissitae immotae simul quidem sumi possunt ad componendum
+unum aggregatum, at non ad componendum unum continuum.
+ut circu (2) trilatero L
+24 in (1) A non continetur,
+PROP. 23. DatisduobusdisparatisAetB, i n v e n i r e t e r t i u m a b iis
+Solutio : Sumatur (per postulatum 2) C
+diversum C, q u o d c u m iis componat eadem A
+B et factum erit quod desideratur.
+Nam quia A et B sunt disparata (ex Hyp.) hoc est (per def. 6) unum alteri non inest, hinc
+(per prop. 13) non potest esse C
+quemadmodum problema postulat. Porro A
+B. Haec tria ergo sunt diversa,
+PROP. 24. Plurareperireintersediversa,
+q u o t c u n q u e q u i s v o l u erit, itasehabentia, u t e x ipsi s non p o s s i t
+c o m p o n i n o v u m seu a q u o l i b e t diversum.
+Solutio : Sumantur quaecunque et quotcunque inter se diversa, A, B, C, D (per
+postul. 1) et ex his (per postul. 2) fiat A
+N, P esse desiderata. Nam (ex constructione) ex A et B fit M; et porro A vel B est in M, et
+M in N, et N in P. Ergo (per prop. 16) quodlibet priorum in quolibet posteriorum. Jam si
+duo quaevis inter se componas, nil constituitur novum, nam si componas idem secum 15
+ipso, nil fit novi, L
+cum posteriori. Ergo inexistens cum continente, ut [A]
+[14]). Quod si tria inter se componas, ut [A]
+jam ostendimus, ergo idem est componere bina [A]
+L (per ax. [2]). Si componas unum cum alio, compones prius
+N per se nil componunt novi, sed unum ex ipsis nempe posterius N, ut
+P, compones bina [A]
+N cum uno P, et componere unum 20
+1 f. duobus (1) AetB, q u o r u m u n u m tamen a l t e r i non i n s i t,
+i n v e n i r e t e r t i u m a b iis..
+Ccoincidant. erg. (2) disparatis... componat (a) istud (b) eadem... C. L
+(b) t e r t i u m i l l u d c u m duobus i l l i s l i c e t d i v e r s i s, componat i d e m, seu A
+4 B (1) unum alteri non inest (ex Hyp.) (2) sunt... inest L
+7 f. Faciendum. (1) DatoaliquoLet (a) ejus (b) duobus ei inexistentibus A et B
+i n t e r s e e t a b ipso d i v e r s i s, invenirealiquod
+diversum C, utnihilominus (a) c u m ipsi s componat i d e m,
+sed (2) (per... est L
+(c) p l u r i b u s e i inexistentibus A, B, C erg.
+inexistens n o v u m M. (2) PROP. 24. L
+possitconstituinovum. (2) non... diversum. L
+15 nil (1) componitur (2) constituitur L
+(a) addendo (b) componendo erg. non
+13 constructione) (1) L est (2) ex...
+11 diversa, (1) L, (2) A, L
+19 P. (1) Sed (2) At bina L + ändert Hrsg. N per se L
+cum uno P; quae jam ostendimus nil componere novi. Ergo et bina cum uno seu terna nil
+componunt novi. Atque ita porro in pluribus. Quod erat Faciendum.
+SCHOLIUM. Suffecisset sumere continua sibi inexistentia, ut M, N, P etc., idque
+revera prodibit, si in constructione nostra ponatur A
+allata paulo latius patet, et sane haec problemata adhuc aliis modis solvi possunt; sed
+omnes eorum possibiles solutiones exhibere hoc est demonstrare nullos alios esse modos
+possibiles, pluribus adhuc propositionibus praedemonstrandis indiget. Exempli gratia
+quinque res A, B, C, D, E non nisi sequentibus modis se habere possunt, ut nihil inde
+possit componi novum. Nempe primo si sit A in B et B in C et C in D et D in E,
+Aequilaterum B, Regulare C, Rectangulum D, Quadratum E, ex quibus nulla nova
+componi potest, quae non jam his coincidat, quia aequiangulum aequilaterum coincidit
+regulari; et Aequiangulum inest rectangulo, et aequilaterum rectangulum coincidit
+quadrato. Hinc aequiangulum regulare idem est quod regulare, et aequilaterum
+regulare itidem; et aequiangulum rectangulum est rectangulum et regulare rectangulum
+E. Et ultimo seu tertio modo se habent hae quinque notiones: Aequiangulum A,
+C et C in D et D in E. Te rtio si sit A
+AD PROP. 24 SCHOLIUM. Sunt RS et YX diversa, imo disparata, ita ut neutrum sit in
+componitur recta RX..
+In notionibus, sit A parallelogrammum, B aequiangulum, quae sunt disparata, C sit
+B, id erit rectangulum, eritque parallelogrammum rectangulum, idem quod
+2 in pluribus erg. L
+2–5 Faciendum. (1) C o n s t i t u t u m e x p l u r i b u s e i d e m
+inexistentibus i n e x i s t i t e i d e m. Sint A, B, C, D, in L, dico quodlibet ex ipsis constitutum inexistere ipsi
+L. (2) DatoaliquoLet d a t i s p l u r i b u s e i inexistentibus
+i n t e r s e d i v e r s i s, erg. A, B, C, D,
+i n v e n i r e a l i q u i d n o v u m inexistens M (a) modo (aa) priora (bb) non (aaa) ex
+binis quibuslibet datorum inexistentium unum alteri insit. SOLUTIO. Sumatur aliqua binio, ut A (bbb)
+compositum ex binis quibuslibet datorum inexistentium (aaaa) 〈alii〉 (bbbb) cuilibet eorundem insit (cccc)
+respectu cujuslibet ex ipsis ita se habeat, ut (b) m o d o non b i n i o q u a e v i s d a t o r u m i n e x i s t e n t i u m a d
+contentum (bbb) u t alterum e o r u m s i t c o n t i n e n s a u t c o n t e n t u m. SOLUTIO. Assumatur binio aliqua
+D fore quaesitum. (3) SCHOLIUM. (a) Haec proble (b) Haec (c) Solutiones horum problem
+8 modis (1) formari (2) se L
+15 quadrato (1), nam aequiangulum rectangulum est pleonasmus, nam omne rectangulum (cujus omnes
+anguli sunt recti) eo ipso aequiangulum est. (2) Hinc L
+(bb) aliquod erg. datoruminexistentiumsehabeat (aaa) ut continens ad
+B, et aliquod (aaaa) ex datis (bbbb) ex datis inexistentibus D, ut nec D sit in A
+21 f. quae sunt disparata erg. (1) C erit rectangulum (2) C seu A
+B (3) C sit seu str. Hrsg. A
+NON INELEGANS SPECIMEN DEMONSTRANDI IN ABSTRACTIS
+rectangulum aequiangulum, utrumque enim nihil aliud
+est quam rectangulum.
+ex utroque compositum C, erit Maevius una cum hoc
+pari, idem quod Titius cum hoc pari, utrobique enim 5
+nihil aliud prodit quam ipsum par. Alia adhuc solutio
+dari potest, quae est elegantior, sedspecialior,
+si A et B habeant aliquid commune, idque datum sit,
+adeoque datum sit etiam quod utrique est proprium, sit
+igitur ipsi A proprium M, et ipsi B proprium N, et fiat M
+utrique sit P. Dico A
+178.NON INELEGANS SPECIMEN DEMONSTRANDI IN ABSTRACTIS
+[Februar bis April 1687 (?)]

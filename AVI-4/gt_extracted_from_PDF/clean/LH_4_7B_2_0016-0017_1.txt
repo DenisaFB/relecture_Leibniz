@@ -1,0 +1,103 @@
+1 f. ad (1) compositas (2) consequentias L
+3 terminus, (1) major scilicet et minor (2) nempe L
+4 inest, (1) ideoque utriusque regulis s (2) et L
+semper gestr. praestare (1) praedi (2) subjectum L
+praedicatum ab ea (2) subjectum L
+6 alter (1) medius (2) extremus erg. L
+8 sit (1) propositio (2) praemissa L
+9 et (1) medius (2) praedicati L
+In omni Propositione Categorica sit numerus characteristicus
+Fient aequationes duae nempe ls aequ. mp
+Hoc uno observato ut numeri expressi literis latinis et graecis sibi respondentibus (nempe
+s et σ, item p et π, itemque l et λ ac denique m et µ), sint primi inter se, seu nullum
+habeant divisorem communem praeter unitatem.1
+In Propositione Universali affirmativa erit l aequ. 1 et λ aequ. 1.2
+In propositione Particulari Negativa erit vel l vel λ major quam 1.
+In propositione Universali negativa erunt vel s et π vel σ et p non-primi inter se; id
+est habentes divisorem communem.
+In propositione particulari affirmativa erunt tam s et π quam σ et p primi inter se
+seu nullum habentes divisorem communem.
+Propositus sit syllogismus examinandus:
+Omnis sapiens est pius.
+Quidam sapiens est fortunatus.
+Ergo quidam fortunatus est
+Quae conclusio procedit, quia neque 8 per 3 neque 11 per 10 dividi potest.
+1 Categorica (1) cujus subjectum s −σ, praedicatum (2) sit L
+6 ut (1) numeri (2) gra (3) expressi L
+(b) felix +5 −1 Quidam pius non est fortunatus Ergo Quidam fortunatus darunter +8 −11 non est felix.
+darunter +5 −1 Quod non procedit, quia (2) Aliter L
+(1) communem habent divisorem. (2)
+3 f. p −π. (1) Fiet aequatio (2) Fient L
+23–S. 253.1 potest (1) Item: Omnis pius est felix daneben (a) pius
+NUMERI CHARACTERISTICI LATINE GRAECE HEBRAICE EXPRESSI
+Aliter ista comminisci licet: considerandum nempe si animal est genus hominis,
+contra: non-homo est genus non-animalis, itaque
+Nullus homo est lapis
+seu Omnis homo est non-lapis.
+debet h dividi per 1, et cd dividi per c.
+Hinc si dixas: Omnis homo est corpus non lapis, debet hominis numerus positivus
+dividi posse per numerum corporis, at numerus lapidis debet dividi posse per numerum
++rs −ρσ aequ. +xp −ξπ Semper3 rs aequ. xp et ρσ aequ. ξπ, in propositione
+Universali erit r aequ. 1 et
+ξ aequ. 1, in propositione Particulari erunt majora unitate. Hinc:
+In omni syllogismo est major minor medius.
+3 Mutata aequatione in propositionem, nihil refert in subjecto qualisnam sit ρ neque in
+praedicato qualisnam sit x.
+Hinc si sit propositio:
+Omnis homo est non lapis
+2 f. itaque (1) Omnis ho (2) Nullus L
+3 est (1) animal (2) lapis L
+7 f. positivus erg. L
+Sumitur (2) In (a) prop. (b) prima L
+28 f. aequatio: (1) s −ρσ aequ. (a) xp −ξπ (b) xp −π Er (2) s −ρσ aequ. (a) −xp (b) −π + xp L
+26 f. propositio: (1) s −ρσ aequ. (2) s −1 est +1 −π (3) Omnis L
+11 f. propositione (1) U. A. (2) Universali L
+Sit minor y, Medius e, Major a,
+Eodemque modo per 8 et 10
+Rursus jungendo 7 et 11 fiet:
+sed haec aequatio 18 non differt ab aequatione 14.
+3 by (1) 〈 – 〉 (2) aequ. (a) me 2) βυ aequ. µε (b) ce... γε L
+(a) aequ (b) adeoque per 11. 14) cf
+aequ. m. Eodemque modo (aa) υ
+20 f. fiet 18) (1) d
+10 Ergo (1) si b (2) per 7 L
+4 3) (1) de aequ. fa 4) δε aequ. ϕα (2)
+aequ. γ (bb) per 8 et 10. 15) υ
+NUMERI CHARACTERISTICI LATINE GRAECE HEBRAICE EXPRESSI
+Hinc unus Terminus semper sumi poterit pro arbitrio.
+Sumatur medius e, pro arbitrio,
+Itaque ex datis sex aequationibus habemus sex alias.
+6 f. seu (1) e aequ. mb
+9 f. arbitrio, (1) et (2) b (3) 〈 – 〉 (4) bd
+15–18 alias. (1) Si conclusio debet esse U. A. (2) Ubi notandum ce
+necessario esse numerum integrum, ergo si
+pro b. ponatur Bc. et pro e ponatur EB, fiet y aequ. cEB
+aequ. E. Sic ergo melius scribatur y aequ. E (3) In omni
+propositione s aequ. mp
+l. Ergo fiet l aequ. (a) mp aequ. ln (b) gh. et m aequ. ng et p aequ. Ph, fiet s aequ. ngPh
+p Simil (4) Simil str. Hrsg. a −α (5) y −υ L
+Itaque in superioribus scribemus:
+erit r aequ. 1 et ρ aequ. 1
+primi inter se, item
+erunt alterutri non primi inter se
+erit Rr aequ. Ρρ aequ. 1
+erit r aequ. ξ vel x aequ. ρ
+ea Major Dda aequ. Ffe
+Prim. fig. y e Bby aequ. CceMinor
+Conclusio Lly aequ. Mma
+Prima figura: Medius major
+Tertia figura: Major Medius
+Secunda figura: Medius major
+Quarta figura: Major medius
+Ex hoc calculo omnes modi et figurae derivari possunt per solas regulas
+Numerorum. Si nosse volumus an aliqua figura procedat vi formae, videmus an
+contradictorium conclusionis sit compatibile cum praemissis, id est an numeri reperiri
+possint satisfacientes simul praemissis et contradictoriae conclusionis; quodsi nulli
+reperiri possunt concludet argumentum vi formae.
+1–3 U. A. (1) +s −σ aeq (2) +ls aequ mp +λσ aequ µπ erit l aequ 1 et m aequ. 1
+(aa) erit (bb) erunt
+primi inter se (b) P. A.
+(3) +rs aequ. xp... r
+27 Si (1) ex. g. (2) nosse L
+29 possint (1) suffi (2) satisfacientes simul
+(a) terminis (b) praemissis L

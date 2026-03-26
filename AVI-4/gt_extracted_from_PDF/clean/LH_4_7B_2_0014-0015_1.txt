@@ -1,0 +1,133 @@
+2 monstrat. (1) Optime investigantur omnes species per dichotomias. Inde qu (2) Colligendus (3)
+A est B. Copula est.
+Si A est B, tunc C est D.
+A est B. Ergo C est D.
+Si A est B, tunc C est D. Atqui A est B. Ergo C est D.
+Atqui: id est: sed vera est haec propositio....
+Sed: id est: praeter dictum.
+Antequam pergere in Logicis contemplationibus liceat, atque inde fabricare aliquid,
+prius Grammaticis opus, inprimis hic sumendus est in manus Vossii Aristarchus.
+Nomen substantivum et adjectivum in eo distinguuntur, quod adjectivum habet
+genus ab alio rectum. Verum quia in lingua rationali careri potest generibus, ideo
+discrimen etiam inter substantivum et adjectivum negligi potest.
+Abstracta sunt substantiva ex aliis vel substantivis vel adjectivis facta; ut humanitas,
+lingua rationali videndum an non abstractis abstineri possit, aut saltem quousque possit.
+Masculus est adjectivum, Vir est substantivum, quia pro Vir substitui potest homo
+masculus; seu resolvi potest in substantivum cum Epitheto.
+Epitheton est adjectivum substantivo cum rectione aequali junctum in eundem
+terminum seu sine copula.
+Adverbia. Petrus scribit pulchre. Id est Petrus scribit aliquid pulchrum seu
+Petrus scribit, et quod Petrus scribit est pulchrum. Petrus stat pulchre. Id est Petrus est
+pulcher quatenus est stans. Petrus scribit pulchre. Id est Petrus est pulcher quatenus est
+2 Consequentiae gestr. A L
+10 substantivum (1) vel adjectivum (2) et L
+distingui (2) distinguuntur L
+21 f. pulchre. (1) Id est Petrus stat. Hoc, Petrus stat, est pulchrum (2) Id est Petrus est (a) stans (b) pulcher L
+23 scribens. (1) Homines scribunt, Hic homo (a) scribi (b) et ille et ille etc. (2) Pluralis erg. L
+9 G. J. VOSSIUS, Aristarchus sive de arte grammatica libri septem, 2. Ausg. Amsterdam 1662.
+Pluralis. Homines scribunt, id est Titius est scribens, Cajus est scribens. Titius est
+homo. Cajus est homo. Vel Homines scribunt, id est unus homo scribit, alius homo
+Pronomen est nomen positum in locum alterius nominis, seu designans aliud
+nomen, non tamen explicando ejus attributum aliquod; sed tantum denominationem
+Ille et hic differunt ut propius et remotius. Ego id est nunc loquens. Tu id est nunc
+audiens dictum ut audias.
+Omnes illationes obliquae explicandae ex Vocum explicationibus. Ex. gr. Petrus est
+similis Paulo. Ergo Paulus est similis Petro. Videantur talia ex Jungii Logica. Reducitur 10
+ad propositiones: Petrus est A nunc et Paulus est A nunc.
+Explicandae omnes flexiones et particulae; reducendaque omnia ad simplicissimas
+explicationes, quae semper salvo sensu in locum substitui possunt.
+Praepositiones jungunt nomina, conjunctiones jungunt integras
+Manus hominis, id est manus quae est
+equus hominis id est
+est possessio quatenus homo est
+1 est (1) Titius scribit. Cajus scribit. (2) Titius L
+relationem ad oration (2) denominationem L
+gestr. ad duas gestr. propositiones L
+Explicandae (1) hae (2) omnes L
+Datum homini, id est datum factum hominis (2) Manus L
+2 est (1) ib (2) hic (3) unus L
+8 dictum (1) aud (2) tibi (3) ut L
+11 f. nunc quando Petrus est gestr.
+16 est (1) manus est pars, homo est totum. (2) manus L
+conscriptae, et sex libris comprehensae, Hamburg 1638; 2. Aufl. hrsg. v. J. Vagetius, Hamburg 1681.
+Ex quibus condendae definitiones omnium.
+2–6 Ex... omnium. erg. (1) Vossii Aristarchus. Jungii Logica. Fabri Metaphysica (2) Vossii (a)
+3 R. DESCARTES, Principia philosophiae, Amsterdam 1644.
+4 A. ARNAULD u. C. LANCELOT,
+4 H. FABRI, Physica, id est, scientia rerum corporearum, in
+7 N. FRISCHLIN, Quaestionum Grammaticarum libri VIII ex
+6 J. C. SCALIGER, De causis linguae latinae, Lyon 1540; Heidelberg 1623.
+5 TH. HOBBES, Elementorum philosophiae sectio prima de corpore,
+Grammaire générale et raisonnée, Paris 1660.
+decem tractatus distributa, 2 Bde, Lyon 1669–1671 [Marg.].
+ROHAULT, Traité de physique, Paris 1671.
+ratiociniis elucidatae, London 1673.
+Melanchthonis pro incipientibus, Wittenberg 1582.
+11 H. FABRI, Philosophiae
+Tomus primus qui complectitur scientiarum Methodum sex Libris explicatam: Logicam Analyticam, duodecim
+Libris demonstratam, et aliquot Controversias logicas, breviter disputatas, Lyon 1646.
+Metaphysica demonstrativa sive scientia rationum universalium, Lyon 1648.
+Cartes Principiorum philosophiae pars I, et II, more geometrico demonstratae. Accesserunt... Cogitata
+metaphysica, in quibus difficiliores, quae tam in parte metaphysices generali, quam speciali occurrunt,
+quaestiones breviter explicantur, Amsterdam 1663 [Marg.].
+10 R. DESCARTES, Meditationes de prima philosophia, Paris 1641.
+7 A. LE GRAND, Historia naturae, variis experimentis et
+9 C. KEIMANN, Enchiridion grammaticum, Leipzig
+Greg[orii] a S. Vinc.
+Geometria Ubaldi problem[ata]
+Elemens du plein chant
+Birchensha quando prodibit
+Mercat[oris] quando prodibit
+6–8 Viet.... Collins. erg. L
+2 A. TACQUET, Astronomiae libri VIII, Antwerpen 1668.
+3 G. U. DEL MONTE, Problematum astronomicorum libri septem,
+1 J. KEPLER, Astronomia nova ΑιÆτιολοÂ γητος, seu physica coelestis tradita in commentariis de motibus
+2 Vgl. J. STOEFFLER, Elucidatio
+4 GREGOR VON ST. VINCENTIO, Opus geometricum quadraturae circuli et sectionum coni
+4 G. B. RICCIOLI, Almagestum novum, astronomiam
+5 A. ARNAULD, Nouveaux élémens de géométrie, Paris
+6 F. VIÈTE, In artem
+fabricae ususque Astrolabii... ingeniose concinnata atque in lucem edita, Oppenheim 1513. U. d. T. Traité de
+la composition et fabrique de l’Astrolabe, et de son usage: avec les preceptes des mesures geometriques: Le
+tout traduit du Latin de J. S. de Justingence. Avec annotations sur l’usage de l’Astrolabe... faites par J. P. de
+3 I. BARROW, Lectiones
+geometricae, London 1672 [Marg.].
+decem libris comprehensum, 2 Bde, Antwerpen 1647.
+veterem novamque complectens, Bologna 1651.
+analyticam isagoge seu algebra nova, Tours 1591.
+Arithmeticorum libri sex et de numeris multangulis liber unus. Cum commentariis C. G. Bacheti V. C.
+ex variis ejusdem D. de Fermat epistolis, ed. S. Fermat, Toulouse 1670.
+nouvellement en François, avec des notes et des figures, Paris 1673.
+10 H. GLAREANUS, ∆ωδεκαχορδον,
+11 CL. PERRAULT, Les dix livres de l’Architecture de Vitruve, corrigez et traduits
+5 N. MERCATOR, Institutionum astronomicarum libri duo, London 1676.
+9 R. DESCARTES, Musicae Compendium, Utrecht 1650.
+Mariotti quando prodibit
+Financen, Commercien,
+7–10 Septalii... Oeconom. am Rand L
+1 Vgl. E. MARIOTTE, Quatrième essay de la nature des couleurs, Paris 1681.
+4 CHR. HUYGENS, Horologium oscillatorium, sive de motu pendulorum ad
+5 J. WALLIS, Mechanica sive de motu tractatus geometricus, 3 Bde, London 1670–1671.
+5 CHERUBIN, La Dioptrique oculaire, Paris
+PASCAL, Traitez de l’É quilibre des Liqueurs, et de la Pesanteur de la Masse de l’air, Paris 1663.
+KOHLHANS, Tractatus opticus, Leipzig 1663.
+Dioptrice seu demonstratio eorum, quae visui et visibilibus propter conspicilla non ita pridem inventa
+Horologia aptato, demonstrationes Geometricae, Paris 1673.
+MARIOTTE, Traité de la percussion ou chocq des corps, dans lequel les principales règles du mouvement,
+contraires à celles que Mr. Descartes, et quelques autres Modernes ont voulu establir, sont demonstrées par
+7 L. SETTALA, De Ratione instituendae et gubernandae familiae, libri
+leurs veritables causes, Paris 1673.
+quinque, Mailand 1626.
+d’Agriculture et Mesnage des Champs, Paris 1600.
+et latitandibus animi affectibus σηµειÂωτικη moralis, Venedig 1625.
+geometrico demonstrata, in Opera posthuma, Amsterdam 1677.
+philosophiae sectio tertia de cive, Paris 1642.
+Opera omnia, Lyon 1663, Bd 1, 2, 10 [Marg.].
+partes quatuor, hoc est de rerum natura, hominum moribus, politica (cui Civitas solis juncta est) et
+13 J. VON FELDEN, Elementa juris universi et in specie publici justinianaei, Frankfurt und Leipzig 1664.
+8 S. CHIARAMONTI, De coniectandis cuiusque moribus
+10 TH. HOBBES, Elementorum
+8 O. DE SERRES, Le Théâtre
+GRAMMATICAE COGITATIONES
+Les Estats de France
+37. GRAMMATICAE COGITATIONES

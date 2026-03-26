@@ -1,0 +1,9 @@
+Sed notandum est segmenta haec circulorum quae ad transitum radiorum detecta relinquimus, multo majora esse vitro, ac duorum, pluriumve compositione, radios ab uno puncto venientes, aut parallelos omnibus modis specillis inservientibus deflectere possimus: cum id in Dioptrica praedicti Dni Des Cartes, in figuris Ellipticis, aut jam ostensum sit, aut perfacile ex iis quae ibi habentur, deduci possit.
+
+Supervacuum praeterea foret describere quales figuras conspicilla tam senibus quam myopibus inservientia; microscopia uno tantum aut pluribus vitris constantia,
+ac Telescopia, requirant: cum hoc iis qui sciunt quo modo praenominatus D. des Cartes ad haec conficienda hyperbola utatur, notum satis esse debeat. Ad cujus itaque dioptricam appello, in qua fundamenta horum omnium firmissima jacta sunt. Verum quidem est in praedicta dioptrica telescopia ac microscopia non ex pluribus quam ex duobus lentibus vitreis composita esse, cum ad eundem effectum aliquando tribus Circularibus lentibus opus habeamus; aut etiam quaedam ex pluribus componere possimus, sed eum et hic iis, qui recte intelligunt quo modo ex duobus componi possint, nulla difficultas superesse possit, addere aliquid hac de re supervacuum diximus, atque eo magis, quod semper minor vitrorum numerus, quando idem effectus per eum haberi poterit, eligendus sit. Unicum adhuc tantum verbum superaddam de iis vitris circularibus quae ab utraque parte connexa sunt, quorum exemplum in figura tertia exhibetur per MONP, in quo O est centrum, ex quo ducta est MPN, et P, ex quo NOM, semidiametris existentibus aequalibus: in talibus nempe vitris
+
+---
+Additions:
+<<: __# quam ea etc.__ et quae sequuntur ad sign. #○ vertendo prorsum sine dextrorsum: usque ad signum ⊛height 0mm depth 10mm width 0mm>>
+<<: fig. 3.height 0pt depth 10mm width 0pt>>

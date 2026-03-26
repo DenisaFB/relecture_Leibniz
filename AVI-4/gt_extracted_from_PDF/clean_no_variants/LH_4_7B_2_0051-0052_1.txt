@@ -1,0 +1,125 @@
+Si idem ponitur et detrahitur, quicquid inde in alio constituitur coincidit Nihilo, seu 15
+A (quotiescunque ponitur in aliqua re constituenda) − A (quotiescunque detrahitur in
+eadem)
+− A + A + A etc.
+Nih. seu A + A + A etc.
+constituenda; vel A + A
+Nih. si contra. Et ita porro quia per Axioma praecedens pluribus A unum 20
+vel A − A + A
+coincidit.
+Nih., si non amplius adsit A, in re de qua agitur
+Nih., si bis adsit in toto posito et semel in toto detrahendo;
+Problema aliquam rem ita constituere ex pluribus, ut pro eodem in ea expresse
+posito et detracto, non liceat substituere Nihil.
+7 ad minimum erg. L
+3 f. ( quanquam... s e ) erg. L
+etc.; − A, vel − A + A
+22 f. expresse erg. L, vel − A + A + A etc.
+in aliqua re constituenda erg.
+Nih. L
+Si a coincidentibus detrahantur coincidentia, residua sunt coincidentia. Si A
+M erit A − B
+substituendo L, et pro B substituendo [M], (ex definitione coincidentium) fit A − B
+M. Quod erat demonstrandum.
+A − B (patet per se) et in posteriori pro A
+L − M. Nam A − B
+Si A + N − M − N
+Expressa ejusdem positio et detractio in aliquo constituendo se mutuo destruunt, si
+P, et N cum A, itemque N cum M sit incommunicans, erit A −
+nulla adsit tacita.
+Nam in P nihil aliud extra N ponitur quam A. Ergo quicquid in P extra N poni tacite
+debet id poni debet in A; ergo et si id quod est in N extra N tacite ponitur in A poni debet,
+quod est contra Hypothesin. Posuimus enim [bricht ab]
+Compensationem voco, si idem ponitur et detrahitur, eamque expressam si
+expresse quod in alio exprim〈endum〉.
+Ex compensatione expressa sequitur destructio tum demum, si nihil sit in
+destruendo, quod tacite repetitum constitutionem ingrediatur extra compensationem, aut
+si praecise id omne compensationis, quod extra eam praecise tantum repetitur tam in
+positione quam detractione repetatur seu A + N − M − N
+A − M, si nihil sit in N, quod
+sit etiam in A aut in M. Ita enim + N expressum, vel quod in ipso est, erit quotiescunque
+hic ponitur; et − N expressum, vel quod in ipso est, erit quotiescunque hic detrahitur.
+Nihil.
+3 B L ändert Hrsg.
+In aliquo constituendo erg. Expressa compensatio positionis et detractionis destructioni
+P, modo
+erg. L
+positione... repetatur seu L
+14 tum demum
+20 nihil
+15 tacite repetitum erg. L
+Q + M, et B
+F. Nam explicando A et B per valores dictos, fiet:
+F hoc est (per Axioma 2) Q − P
+N + M, quae Q, M, N,
+ut quod habeant A et B commune sit M, seu sit A
+P nihil habent amplius commune, alioqui ulterius essent resolvenda. His positis nego pro
+supra dicto scribi posse A − P
+Q + M + N + M − M − N − P
+− P seu Q + M − P esse
+commune habeant; vel si A et B, itemque B et P aliquid commune habeant, nisi
+contingat, ut quod ipsis A et B commune etiam sit ipsis B et [P] commune quo posito
+succedet constructio, ut ostendet resolutio, nam sit A + B − B − P
+M − H − M. Verum quando ignoratur [bricht ab]
+N + M, et P
+Q + M + N + M − N − M − H − M
+F. Similis erit demonstratio si non A et B, sed B et P aliquid
+(per axioma 2.) Q − H, quod
+A − P. Nam resolvendo A, B, P, fiet
+H + M, dico fore F
+A − P, seu Q +
+Q + M, et
+F, et A
+F. Ergo falsum est A 5
+A + B
+A + C
+A + F
+In hoc calculo literae A, B, etc. significant certa quaedam irrepetibilia verbi gratia
+res singulares, item notiones universales, unde repetitio est inutilis; item ordinis quoque
+Subalternatur calculo de combinationibus in universum ubi non ingreditur Axioma
+A + A
+Si A + B est in L + B, A est in L, hoc non sequitur.
+B. Ergo A + N
+8 B et C L ändert Hrsg.
+sit M, L
+(per L
+hoc est
+N − M − H − M
+A − P
+Q + M + N + M −
+23 f. sequitur. Si A est in B str. Hrsg. Si L
+A. erg. L
+Probanda haec consequentia: Si A + N est in A, etiam N est in A. Nam si A + N est in
+A (per axioma). Ergo (per
+A (per propositionem). Ergo A + N
+A. Erit A + A + N
+propositionem) N est in A.
+Si A + N est in A etiam N est in A, nam N est in A + N.
+Datis duobus A et B invenire tertium ab iis diversum C, ut nihilominus A + C et B +
+B (per postulatum 1.) in quo sumatur aliquid, quod neque sit
+C coincidant. Fiat A
+neque.
+B et factum erit quod quaeritur.
+Hic prius ostendendum est, dato quolibet cujus data sunt aliqua inexistentia inter se
+diversa, posse haberi aliud a singulis diversum, nempe compositum ex omnibus vel
+aliquibus. Quod si quis velit aliquid in eo reperiri, ne compositum quidem ex
+inexistentibus datis, oportet ut inveniat eorum resolutionem, quae cum dari non ponatur
+non video quomodo haberi possit, nisi habeant aliquid commune ubi detractio adhiberi
+potest, sed ea non est hujus loci.
+Ostendendum quod pluribus datis, quae singula inter se diversa, aliquid componi
+potest ex ipsis a singulis diversum. Posset et doctrina combinationum his conjungi.
+In additione seu compositione non habetur ratio qualitatis inter res, neque ordinis,
+sed simpliciter positionis, ut eodem modo ambo considerentur ad unum aliquod
+constituendum, quod singulis positis aequivalet.
+Adhibere licebit numeros ut quaternarius, verbi gratia binarius, quaternarius,
+octonarius.
+Post definitionem de Continente et contento veniendum est ad definitionem de
+Subalternante et disparato, seu de iis quorum alterutrum est continens vel contentum.
+B posset simpliciter poni AB.
+Pro A
+Calculus de continentibus et contentis est species quaedam calculi de.
+combinationibus, quando scil. nec ordinis rerum, nec repetitionis ratio habetur. Itaque
+praemittenda esset tractatio de variationibus generalis, nisi malimus hanc considerare ut
+simpliciorem.
+Hic quae eadem nota designantur sunt coincidentia.
+2 A + A + N

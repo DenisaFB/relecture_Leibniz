@@ -1,0 +1,22 @@
+=15mm Esto globus artificialis abc in meridianos parallelosque subdivisus. Esto punctum discessus cognitum [[Cum detur]] [[Pyxide inclinatoria exacte subdivisa satisque grandi, detur minimum de miliari in miliare inclinationis mutatio (minimum) inclinationis ac proinde mutatio]] [[Detur primum punctum discessus cognitum inque globo artificiali notatum esse]] d cadens in parallelum ed meridianum ac Nave progrediente extra parallelum ed. Esto punctum observationis novae primum, quo scilicet incipit sentiri mutatio inclinationis f (quod tanto se offeret citius, ac proinde omnia erunt tanto exactiora quanto pyxis inclinatoria erit grandior, magisque subdivisa). Hujus puncti f cum detur inclinatio ex Hypothesi, dabitur et parallelus. Ponamus eum parallelum esse gh. Cadet ergo punctum f in gh. Sed ut praecise determinetur, quod punctum paralleli sit f nihil aliud sciri opus est, quam angulus quem linea df [[fecerit ad parallelum in puncto cognito]] seu distantia puncti cogniti et quaesiti faciat ad parallelum ed in puncto cognito d. Determinato enim puncto ex quo ducitur recta de parallela in parallelam, determinatoque angulo, determinabitur quoque punctum in quo secabit alteram parallelam Angulus fde ita determinabitur: Constat quem angulum linea motus navis ad punctum cognitum d initio fecerit, seu ad quam plagam mundi se direxerit. Hanc lineam cursus si servat, servabitur angulus fde ac proinde cognitum erit punctum f. Si mutat, demonstrabit acus magnetica quantitatem flexus ac proinde anguli mutationem; ac proinde punctum f quo linea cursus navis utcunque flexa, secat parallelum gh. Ponatur navis primo moveri ex d in i, et postea flecti ex i in f. Invenietur utique eadem methodo primum punctum i inde invenietur quoque punctum f. Dixi a flexu navis cognoscendo adimendas esse
+
+=15mmmagnetis declinationes. [[Esto ergo problema]] [[(4) Magnetis declinationes invenire]] Hoc [[problema communi quoque via]] non habet magnas difficultates, notari enim potest in longissimis etiam itineribus in Indiam orientalem susceptis, nautas pene quotidie, ut eorum diaria monstrant, observandarum declinationum potestatem [[Sed si verum est dari in magnete aut acu verticali Meridianum universalem sine declinatione, quod valde observo operae pretium est experimento comprobari, sine omni observatione declinationes habebuntur. Et inventum hoc ad summam perfectionem optabilem perfectum provectum erit]] habuisse. Quod ut exacte fiat an
+
+=15mm (5) __Locum navis invenire.__ Invento cursu navis per probl. 3. [[datus]] inventus erit quoque locus navis, quippe extremum cursus tempore dato. Loco navis invento, solutum est magnum hoc problema.
+
+=15mm (6) __Longitudines [[observare]] invenire, [[solis]] declinationibus tantum magneticis observatis.__ Nulla licet Theoria seu Regula [[Latitudinum]] Universali declinationum constituta.Multi hactenus ex declinationibus longitudines promisere, sed [[quia]] vel theoriam quandam universalem declinationum quae tamen falsa comperta est, vel aliorum observationes de declinationibus supposuere quae tamen tractu temporis immutatae [[fecere]] sunt. Hic vero nulla theoria, [[nulla diversorum temporum locorumque observatione]] nullis diversis observationibus, sed sola diligenti in eadem navi repetita subinde declinationum observatione opus est. Quam alioqui a bonis Navium rectoribus semper fieri debere constat.
+
+---
+Additions:
+<<unius parallelae>>
+<<df>>
+<<ed>>
+<<gh>>
+<<fde>>
+<<f>>
+<<df>>
+<<gh.>>
+<<(demtis declinationibus)>>
+<<similiter>>
+<<Notabitur in artificiali atque ita totus in eo cursus navis, tanto accuratius delineabitur, quanto pyxis erit exactius subdivisa>>
+<<am oberen Rand: (+ NB ista non procedunt. Nisi constet distantia inter quemlibet novum flexum. Alioqui non datur linea motus navis, sed tantum ei parallela. +)>>

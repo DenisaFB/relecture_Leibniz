@@ -1,0 +1,11 @@
+Maji 1675. Probleme:
+
+Un bâton estant fiché dans le fonds d'un fossé plein d'eau, [[en sorte que la partie du d]] [[et sortant 14problemate]] [[a dic]] et sortant tant soit peu hors de l'eau, juger de la profondeur de l'eau, ou du fossé, sans tirer le bâton, et sans en sçavoir la longueur: pourveu qu'on aye la liberté, de [[remuer le bâton]] le remuer.
+
+Soit le plan de l'eau, (A)((A)) le bâton AB fiché perpendiculairement dans le fonds de l'eau B et dont la partie AC sorte hors de l'eau. Remuez le bâton, sans
+le tirer pourtant, et en laissant le bout B immobile remuez le, dis je, à l'entour du centre B jusqu'à ce que le bout A, touche l'eau en (A). Faites la même chose du costé droit, jusqu'à ce que le bout A touche l'eau en ((A)). Ainsi
+
+---
+Additions:
+<<du costé gauche>>
+<<Si in ipso problemate nulla fieret mentio libertatis commovendi, tunc problematis solutio non tantum Geometriae, aut Algebrae, sed et __Combinatoriae__ esset, hoc ipsum enim ingenii est cogitare quid nobis sit datum, et quem possimus facere usum datorum in rem praesentem. NB>>

@@ -1,0 +1,243 @@
+COUTURAT, Opusc. et fragm., 1903, S. 70–77.
+ModusExaminandiConsequentiasperNumeros. 1
+Multae apud Logicos traduntur Regulae consequentiarum, et quo facilius
+retinerentur excogitati sunt Schematismi quidam quos vocant Pontem Asinorum, et
+adhibita sunt vocabula memorialia.
+Ex numeris unius termini invenire numeros alterius termini
+in propositione pro varia qualitate et quantitate.
+numerus cum nota + sit s, cum signo − sit σ
+In propositione Univ. affirm. sit aequatio:
+18 April. No (1) 4. (2) 5. erg. L
+21 retinerentur (1) excogitatae sunt figurae (2) excogitati L
+21 f. et (1) adhibitae sunt variae voces memoriales (2) adhibita L
+25 cum (1) signo (2) nota erg. L
+26 cui L ändert Hrsg.
+24 f. quantitate. (1) Subjectum sit y,
+Sed haec omnia in scholis tantum celebrata, negliguntur in vita communi; tum
+Nota m et µ, item s et σ, et p et π sunt primi inter se.
+In praedicato sit [p] aequ. s
+In partic. neg. erit vel ls aequ. mp, ponendo l et m primos inter se, vel
+Generaliter ita: ls aequ. mp, λσ aequ. µπ
+bs aequ. cp, βσ aequ. γπ
+In prop. Un. Aff. l aequ. 1 et λ 0
+In prop. part. neg. vel l vel λ vel ambo
+In univ. neg. s et π
+In partic. affirm. sunt omnes primi inter se.
+(1) Graeci et latini respondentes semper primi inter se.
+1 communi; (1) quoniam sch (2) tum L. (1) In (a) univ. (b) partic. (aa) affirm. (bb) neg. erit v aequ. mx 〈 + 〉 p et (2) in L
+25 f. se. (1) s aequ. (2) Pro L
+et latini se responde (2) sint omnes primitivi. In Univ. Aff.
+29 f. πµ. (1) lst aequ cp (2) +lst L
+31 f. −µπρ (1) graeci
+multas alias ob causas, tum vero inprimis, quia scholae solent considerare simplices fere
+tantum syllogismos, seu ratiocinationes ex tribus propositionibus constantes: cum contra
+in usu loquendi et scribendi saepe una periodus contineat decem syllogismos simplices,
+si quis eam ad logici rigoris normam exigere velit. Unde solent homines imaginationis
+vi, et consuetudine ipsa formularum sermonis, et intelligentia materiae quam tractant,
+supplere defectum logicae.
+Fatendum est tamen eos saepissime festinatione, et impatientia examinandi, et veri-
+similitudine decipi; praesertim in rebus quae oculis cerni ac manu tangi, et experimentis
+comprobari non possunt: quanquam et in his saepe sero sapiant cum suo damno. Difficile
+vero est huic malo mederi secundum artes hactenus cognitas: nam cum verbis utantur
+homines, manifestum est earum significationes parum esse constitutas, et varia phrasium
+et particularum incrustatione falsam ratiocinationem speciosissime adornari posse, ut vix
+appareat sedes erroris; et ordinem naturalem elegantia affectata, et aures mulcente saepe
+mirifice perturbari, quo fit ut plerumque homines jucunda oratione decipi quam arido
+quodam et aspero dicendi genere doceri malint.
+Ego re multum perpensa remedium video unicum, si sive Lingua sive Scriptura
+nova constituatur, excogitatis signis aptis, quibus notiones animi accurate exprimantur.
+Vera hujus rei ratio nulli hactenus in mentem venit quod sciam, et longe aberrarunt a
+scopo, qui tale quiddam hactenus tentavere. Sed si aliquando eam exequi detur
+quemadmodum concepi animo, erunt effectus ejus admirandi et usus immensi.
+Nimirum2 si notioni cuique sive vocabulo certus aliquis Characterismus secundum
+artis hujus leges assignetur, poterimus ex solis characterismis statim judicare an
+(2) In univ. aff. l aequ. 1 et λ aequ. 1.
+(3) In partic. neg. l vel λ major 1.
+(4) In univ. neg. s et π vel σ et p non primi inter se.
+2 Am Rande gestr.: Si terminus aliquis est in duabus propositionibus, ejus numerus ita
+7 tamen erg. eos (1) saepe (2) saepissime L
+9 his (1) plerumque (2) saepe erg.
+11 f. varia (1) verborum (2) phrasium et particularum L
+14 quam (1) sicco (2) arido erg. L
+17 aptis, (1) sed alia longe ratione quam cuiquam hactenus in mentem venit (2) quibus L
+Efficacia autem ejus (2) Effectus (3) Sed L
+(2) conclusio erg. L
+24 In (1) univ. ne (2) partic. L
+termino sive gestr. notioni L
+22 an (1) propositio
+conclusio aliqua sit vera, et an ex praemissis probata; id est an argumentum sit in materia
+vel forma bonum. Et hoc locum habiturum est etiamsi argumentatio sit prolixa et longe
+producta, multisque modis et phrasibus implicata et ordine perturbata, quae secundum
+Logicam communem resoluta multas paginas impletura esset; quod tamen frustra fieret,
+quia innumerabiles verborum ambiguitates accurate tollere non tantum logicae notitiam 5
+sed et maximam animi attentionem et summum judicium requirat. Adde quod saepe in
+judicando animus sit ordine ducendus, et ad multa attendendum; itaque filo quodam
+sensibili opus est in hoc labyrintho, quo dirigatur imaginatio, quod tunc cum res ipsae
+per se imaginationi subjecta non est, a characterismis peti debet; qua ratione quivis solo
+calculo de difficillimis nunc veritatibus judicabit; et imposterum non amplius
+digladiabuntur homines circa ea quae jam habent in potestate, sed ad nova invenienda
+Quoniam autem haec etiam ingeniosissimis videntur impossibilia, ideo gustum
+aliquem tantae rei dare operae pretium est; et quoniam nondum excogitatos habeo
+characterismos pro singulis terminis, et ob mirificum rerum connexum difficile est in
+paucis a reliqua rerum sylva avulsis specimen exhibere; ideo nunc quidem loco
+characterismorum in quibus aliquando Calculus vere universalis instituetur, adhibebo
+nunc numeros, et quoniam an argumentationes in materia bonae sint ex singulorum
+Terminorum characterismis dijudicandum erit, ideo nunc satis habebo ostendere in
+numeris an argumentationes quomodocunque transpositae, multiplicatae invicem,
+implexae sint in forma bonae, seu an vi formae concludant.
+Saepe enim fit ut conclusio sit vera sed non sequatur ex praemissis vi formae; et
+tunc non licet eam imitari in aliis casibus, nisi ubi par ratio est, quod difficile est
+dijudicatu, cum veras formae regulas ignoramus. Exempli causa, proponatur hoc
+Omnis sapiens est justus.3
+Quidam sapiens est fortunatus.
+Ergo quidam fortunatus est justus.
+frustra tamen, (2) quod... fieret, L
+regulas (2) notitiam L
+naturalia ubi nondum (b) sed L
+attendimus (2) ignoramus. L
+3 modis (1) implicata et perturbata erg.
+11 quae (1) demonstrationi subsunt, (2) jam... potestate erg. (a) sed ad experimenta
+5 tollere (1) no (2) summam animi attenti (3) non L
+8 f. ipsae (1) imaginationibus (2) per se erg., (2) et... perturbata L
+13 videntur (1) proba (2) impossibilia, L
+Omnis pius est beatus.
+Quidam pius non est fortunatus.
+Ergo quidam fortunatus non est beatus.
+Conclusiones verae sunt, et excogitari possunt innumerae aliae ubi etiam est vera, sed
+tamen in posteriore argumentatione non sequitur ex praemissis neque consequentia sive
+forma est bona; possunt enim dari etiam innumera exempla ubi locum non habet,
+Omne metallum est minerale.
+Quoddam metallum non est aurum.
+Ergo quoddam aurum non est [minerale].4
+Et cum in tam brevi argumentatione et simplici et naturali habitu atque situ exhibita
+facile aliquis falli potuerit, quanto facilius falletur in composita implicata et perturbata.
+Omne malleabile est metallum.
+Omne argentum vivum est metallum.
+Ergo quodd. arg. viv. non est malleabile.
+Qu. A. V. non est mall.
+O. A. V. est metall.
+E. q. met. non est mall.
+aequ. γ. Ergo c aequ. fγ.
+1 est (1) felix (2) beatus. L
+8 est (1) fusi (2) in igne sufficienti erg.
+non est (b) Quoddam L
+liquidum (3) fusile (4) fossi (5) minerale erg. (a) Quoddam aurum
+11 tam (1) facili (2) brevi L
+10 fusile L ändert Hrsg.
+3 f. beatus. (1) Conclusio vera est, (2) Conclusiones verae sunt, L
+Itaque res magna profecto est numeros ita excogitare, ut simplicissimis quibusdam
+observationibus adhibitis, statim inde judicari possit, utrum argumentatio aliqua sit
+Regula autem sive observatio pro argumentationibus sive simplicibus sive
+compositis, ordinatisque aut perturbatis, modo ex propositionibus categoricis constent,
+haec unica est, quam mutatis quibusdam etiam ad modales et hypotheticas et alias
+quascunque applicare licet, sed nunc quidem satis habebo in categoricis specimen dare.
+Cuicunque praemissarum Termino (id est subjecto vel praedicato propositionis
+possitdividiexacte ( nullomanenteresiduo ) pernumerumpraedicati,
+ex. g. omnis homo est animal5 pro homine scribamus 6, pro animali 2, quia 6 dividi
+exacte potest per 2;
+II. inpropositioneparticularinegativanonpossitdividihocmodo,
+ex. g. quoddam animal non est homo, quia 2 non potest dividi per 6;6
+5 Über animal: immortalis
+Cuicunque praemissarum Termino (id est subjecto vel praedicato propositionis
+categoricae) assignetur numerus compositus hoc modo +15 −12 vel +5 −2.
+Sit jam (Reg. I). In Propositione universali affirmativa debet numerus subjecti cum
+signo + dividi posse per numerum praedicati cum signo +, et numerus subjecti cum
+signo minus debet dividi posse per numerum praedicati cum signo −. Sed duo numeri
+diversorum signorum non debent habere divisorem communem, seu non debent dividi
+posse per eundem numerum. Ex. gr. sit propositio Omne malleabile est metallum.
+1 ut (1) simplicissima quadam versehentlich nicht gestr. observatione adhibita, (2) simplicissimis...
+4 pro (1) syllogismis categoricis (2) argumentationibus (a) categoricis (b) sive L
+9–14 talis (1) ut in propositione universali affirmativa is terminus qui est (2) utnumerus
+5 compositis, (1) et quocunque ordine (a) compositis, (b) propositis (2) ordinatisque L
+subjecti (a) propositionis (b) Praemissaeuniversalisaffirmativaepossitdividiper
+−. (1) Ex. g. (a) 〈omn〉 (b) Hom (2) Non vero debet (3) Sed L
+27 Omne (1) fusil (2) malleabile L
+(a) in propositione vero negativa (aa) constabit (bb) constet
+22 modo (1) +6 −4 (2) +〈3〉 −6 (3) +15 −12 L
+26 signorum (1) 〈cons〉 (2) non L
+15 ex. g.... per 6 erg. L
+(3) I.... per 2; erg.
+III. inpropositioneuniversalinegativavelpropraedicatovelpro
+subjectovelproutroqueduoscribanturnumeri, unuscumsigno +,
+seuplus ; altercumsigno − seu minus, h o c u n o o b s e r v a t o utnumerus
+a l i q u i s i n u n o t e r m i n o p e r s i g n u m + affectuscumnumeroaliquoin
+exempli gratia: Nullus homo est lapis vel nullus lapis est homo. Numerus pro homine sit
++6, pro lapide, +15 −8, quia +6 et −8 communem habent divisorem seu per eundem
+numerum dividi possunt, nempe 2.
+IV. QuandopropositioestparticularisAffirmativatuncidquodde
+propositioneUniversalinegativadiximusnondebetlocumhabere.
+Exempli gratia quoddam animal est homo, sunt numeri 2 et 6. Patet cum neutri sit
+numerus cum nota: − etiam quod diximus non habere locum. Et si esset numerus cum
+nota: − tamen potest id fieri ut propositio particularis affirmativa sit vera. Exempli causa
+quidam lapis est marmor, sit numerus lapidis +15 −8, marmoris, [+]13 vel [+]13 −2,
+patet neque +15 et −2 neque −8 et +13 communem divisorem habere, adeoque propositio
+Ex his paucissimis regulis per numeros demonstrari possunt et examinari omnes
+consequentiae, omnes figurae, omnes modi syllogismorum hactenus recepti, et innumeri
+Verbi gratia pro malleabile scribamus +15 −12, pro metallo +5 −2, quia patet +15
+dividi posse per +5 et −12 per −2. Sed nec +15 et −2; nec item −12 et +5 communem
+(Regula II.) Si quid horum aliter se habet propositio est particularisnegativa,
+v.g. quoddam metallum non est malleabile. [+5 −2] [+15 −12]
+Patet numerum +5 subjecti non posse dividi per numerum +15 praedicati, nec −2
+subjecti per [−12] praedicati. Quorum vel unum suffecisset ad pronuntiandum hanc
+propositionem esse veram. V.g. quoddam argentum vivum non est malleabile.
+2 velproutroque erg. L
+6 vel... homo erg. L
+12 cum (1) signo (2) nota: erg. L
+−12 dividi potest per +6 (2) +15 −8 L
+14 sit (1) sign (2) numerus L
+Quidam homo non (2) quoddam (a) 〈malleabile (+6 −4)〉 non est (aa) 〈–〉 (bb) fusile (b) metallum (+5 −2) non
+est malleabile (+6 −4) (c) metallum (+15 −12) ändert Hrsg. non est malleabile (+5 −2) ändert Hrsg. L
+25 −4 L ändert Hrsg.
+19 +5 −2, (1) patet dividi poss (2) quia erg. L
+7 lapide, (1) +15−12 quia
+12 f. cum (1) si (2) nota L
+19 scribamus (1) +6 −4 (2) +〈3〉 −6 (3) +15
+20 et (1) −4 (2) −12 L
+26 malleabile (1) (+6 −4) (2)
+(+5 −2) ändert Hrsg. L
+19 Verbi gratia erg. L
+alii magis compositi in vita communi frequentati, sed in schola ignorati. Sed nunc
+quidem satis habebo per has regulas demonstrare in numeris omnes consequentias,
+omnes figuras omnesque modos syllogismorum categoricorum simplicium in schola jam
+receptos. Observando tantum, ut numeris Terminorum secundum universalitatem aut
+particularitatem, Affirmationem aut negationem praemissarum in quibus reperiuntur
+modo praescripto adornatis, examinetur postea an sua sponte idem quod in regulis nostris
+praescripsimus, etiam in conclusione locum habere deprehendatur. Hoc enim deprehenso
+dicemus argumentum in forma legitimum esse; secus, nullius esse momenti.
+Venio7 igitur ad demonstrationes consequentiarum per Numeros. CONSEQUENTIAE
+celebratae sunt Oppositio ; Subalternatio ; Conversio.
+Oppositio est quando duae propositiones habent idem subjectum et idem
+praedicatum, et nos colligimus ex veritate unius falsitatem alterius.
+Omnis sapiens est justus
+Ut rem examinemus in numeris, sit numeris sapientis 10, justi 5, quia ille est subjectum hic praedicatum in
+praemissa [bricht ab]
+Quidam sapiens est non justus.
+7 Am Rande: Numeri terminorum ad consequentiam investigandam ita conflabuntur: si
+quis terminus est in una tantum propositione, is sumi potest pro arbitrio; et tunc alter
+assumatur quemadmodum regula propositionis requirit. Si Terminus aliquis est in
+duabus propositionibus, tunc formetur in unaquaque separatim secundum leges
+formae, adhibendo semper numeros primos unius positionis diversos ab his qui sunt in 25
+alia propositione assumti, et diversae positiones multiplicentur in se invicem + in +, et
+−in −. Productum satisfaciet pro propositionibus omnibus. Incipiendum ergo [bricht
+3 modos (1) in logica (2) syllogismorum L
+4 ut (1) prae (2) numeris Terminorum erg. L
+9 Numeros (1) et a simplicis (2). CONSEQUENTIAE L
+12 quando (1) ex pro (2) subjectum manet subjectum (3) duae L
+6 modo praescripto erg. L
+cum oppositi gestr. L
+21 (1) Si Terminus aliquis
+est in duabus propositionibus ejus numerus ita conflabitur (2) Termini ita in syllogismis seu consequentiis erg.
+conflabuntur, si (3) Numeri L
+23 Si (1) numerus (2)
+24 in (1) duobus terminis (2) duabus propositionibus L
+27 omnibus. (1) Con (2) Incipiendum L
+19 5, ita ut 10 divi erg. u. gestr. (1) patet (2) quia L
+22 quis (1) numerus est in una ta (2) terminus L
+24 tunc (1) assumatur (2)
+27 ergo a 〈termi〉 gestr. L
+Omnis sapiens est justus
+vel contra si falsa illa vera haec: Hoc patet ex regulis nostris nam si numerus sapientis v.g. 10 dividi potest per
+numerum justi v.g. per 5, utique dici non potest, quod divisio non succedat, quod tamen ad [bricht ab]
+Quidam sapiens non est justus
+Oppositiones inter universalem affirmativam et particularem Negativam (v.g.
+Omnis sapiens est justus et quidam sapiens non est justus), item inter [bricht ab]

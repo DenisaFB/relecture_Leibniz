@@ -1,0 +1,85 @@
+COUTURAT, Opusc. et fragm., 1903, S. 401–403.
+als tertium non datur formuliert) und dem principium rationis sufficientis, sowie dem als Axiom formulierten
+Quemadmodum in loco sabuloso aedificium molienti continuanda fossio est,donec
+solidam rupem firmave fundamenta offendat; et filum implicatum evoluturo quaerendum
+est initium; et pro maximis ponderibus movendis stabilem tantummodo locum postulabat
+Archimedes; ita ad humanae scientiae Elementa constituenda, desideratur punctum
+aliquod fixum, cui tuto inniti atque unde secure progredi possimus.
+Hoc principium quaerendum censeo in ipsa generali natura Veritatum, atque illud
+ante omnia tenendum: OmnemPropositionemautveramautfalsamesse.
+Esse autem Falsam quae verae contradictoria est. Contradictorias vero esse, quae
+non aliter differunt, quam quod una earum est affirmativa, altera negativa. Atque haec
+quidem talia sunt, ut frustra eorum probatio postuletur. Cum enim ad probationes non
+afferri possint nisi aliae propositiones, frustra utique afferentur, si simul concedi et
+negari aut verae et falsae esse possunt cessatque statim ab initio omnis inquisitio
+veritatis. Porro quotiescunque adhibetur aliqua propositio, censetur esse vera, nisi aliud
+admoneatur.
+16 tantummodo erg. L
+20 ante omnia erg. L
+16 f. postulabat Archimedes: ∆οÂ ς µοι πωÄ στωÄ καιÁ κινωÄ τηÁ ν γηÁ ν, überliefert von PAPPUS, Collectiones
+Vera autem propositio est cujus praedicatum continetur in subjecto, vel generalius
+cujus consequens continetur in antecedente; ac proinde necesse est quandam inter
+notiones terminorum esse connexionem, sive fundamentum dari a parte rei ex quo ratio
+propositionis reddi, seu probatio a priori inveniri possit. Idque locum habet in omni
+propositione vera affirmativa universali vel singulari, necessaria aut contingente; ut
+praedicati notio insit notioni subjecti vel expresse, vel virtualiter; expresse in
+propositione identica, Virtualiter in alia quacunque. Et propositio[nis] praedicatum ex
+subjecto vel consequens ex antecedente probari potest, vel sola antecedentis sive
+subjecti, vel et antecedentis et consequentis simul sive praedicati et subjecti simul,
+resolutione. Et quidem necessaria connexio est in propositionibus aeternae veritatis, quae 10
+ex solis ideis sive definitionibus idearum universalium consequuntur. Quodsi propositio
+sit contingens non est necessaria connexio, sed tempore variatur et ex supposito divino
+decreto, et libera voluntate pendet; eoque casu ratio quidem reddi potest semper ex
+natura rei, seu notione terminorum (saltem ab eo qui omnia novit), cur id quod factum
+est potius factum quam non factum sit. Sed illa ratio inclinat tantum, necessitatem autem 15
+non imponit. Ex his sequitur Axioma maximi Usus ex quo pleraque in re physica et
+morali derivantur: Nihilevenirecujusratioreddinonpossit, cursicpotius
+quamalitercontigerit. Exempli causa inter totius Staticae fundamenta ponitur ab
+C Archimede duo pondera aequalia A et B et aequaliter a centro
+motus, C, distantia in aequilibrio esse, quod corollarium est
+hujus axiomatis nostri, nam si qua eveniret diversitas, utique
+aliqua reddi potest diversitatis ratio ( pernostrumaxioma )
+quod non potest fieri ( exhypothesi ) cum omnia sese utrinque eodem modo habere
+ponantur; itaque nec diversa inde consequi possunt.
+3 dari erg. L
+consequuntur. erg. L
+u. gestr. utique L
+10 f. Et...
+21 diversitas, necessario erg.
+19 A et B erg. L
+22 ratio mentis erg. u. gestr.
+13 f. ex... novit) erg. L
+12 tempore... et erg. L
+20 C, erg. L
+18–20 inter... esse: vgl. ARCHIMEDES, Planorum aequeponderantium inventa, vel centra gravitatis
+Postquam igitur intelleximus omnem propositionem aut veram aut falsam esse, et
+omnem propositionem veram, quae non per se vera, sive immediata est posse probari a
+priori, sequitur ut modum probandi tradamus. Is vero continetur hoc potissimum
+axiomate: Praedicatuminlocumsubjectipropositionisuniversalis
+affirmativae, velconsequensinlocumantecedentispropositionis
+affirmativae, salvaveritatesubstituipotestinaliapropositioneubi
+subjectumpriorisestpraedicatum, velubiantecedenspriorisest
+consequens. Excipiendae autem sunt propositiones reduplicativae in quibus nos
+testamur de termino aliquo ita stricte loqui ut alium substitui nolimus. Sunt enim
+reflexivae et respectu cogitationum se habent ut propositiones materiales respectu
+vocum. Caeterum ratio axiomatis hujus patet ex praecedenti. Ponamus enim dari
+propositionem Universalem affirmativam Omne B est C, et aliam propositionem A est B,
+dico in posteriori pro B substitui posse C, nam cum A contineat B, et B contineat C (per
+axioma praecedens), etiam A continebit C, quod sufficit (per axioma idem) ut dicamus A
+esse C. Nolo autem hoc loco varietatem propositionum prosequi et logicas regulas
+tradere, cum fundamentum substitutionis indicasse sufficiat.
+Siquanotiositcompleta,
+seutalis, utexearatio [ reddi ] possit
+omniumpraedicatorumejusdemsubjecticuitribuipotesthaecnotio,
+eritnotioSubstantiaeindividualisetcontra. Nam substantia individualis est
+subjectum quod alteri subjecto non inest, alia autem insunt ipsi, itaque praedicata omnia
+ejusdem subjecti, sunt omnia praedicata ejusdem substantiae individualis; eorum ergo
+ratio reddi potest ex notione substantiae individualis, eaque sola ut ex axiomate 2do
+manifestum est. Itaque notio quae hoc praestat utique ipsius substantiae individualis
+notio est.
+alium L
+Universalem L
+14 (per... idem) erg. L
+13 f. (per... praecedens) erg. L
+20 alia... ipsi erg. L
+[April bis Oktober 1686 (?)]

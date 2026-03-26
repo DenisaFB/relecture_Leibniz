@@ -1,0 +1,149 @@
+Recepta quaedam opinio passim pro lege naturae invaluit et a Cartesii sectatoribus
+maxime celebratur, eandemincorporibusservariquantitatemmotus ; ita ut
+in concursu corporum uno partem virium in aliud transferente, summa motuum sit eadem
+post concursum quae fuerat ante.
+Est scilicet quantitasmotus factum ex multiplicatione materiae per velocitatem.
+Uti in muria quantitas salis est factum ex multiplicatione quantitatis aquae in gradum
+salsedinis. Et quemadmodum in tribus congiis muriae duplo salsioris sextuplo plus est
+salis quam in uno congio muriae simplum salsedinis gradum habentis, ita in tribus libris
+materiae duos celeritatis gradus habentis sextuplo plus est motus quam in una libra uno 15
+gradu celeritatis mota.1
+Quemadmodum autem porro si aquae salsae affundamus dulcem seu salsedine
+carentem, eadem in toto manet quantitas salis; idemque est et si duae muriae salsedine
+differentes, commisceantur; ita si corpus motu praeditum quiescenti partem virium vel
+etiam totam vim communicet, volunt tantum motus in ambobus simul manere debere,
+quantum erat ante in uno; et generaliter utcunque corpora duo aequalia vel inaequalia
+9 in concursu corporum erg. L
+11 factum (1) quoddam (2) ex fact (3) ex (a) ductu (b)
+12 in (1) aqua salsa (2) muria erg. L
+multiplicatione erg. (aa) molis in velocit (bb) materiae L
+(1) ductu (2) multiplicatione erg. (a) qua (b) quantitatis erg. L
+13 salsedinis. (1) Ut (a) dupli (b) in aqua
+duplo ma (2) Ut in duplicata aquae men (3) Sic ut duplicata (4) Sic ut muria (a) dupli (b) triplicatae mensurae
+15 materiae (1) duplo celerioris (2) duos... habentis L
+et (5) Sic ut in (a) triplis (b) tribus congiis (6) Et L
+19 ita posito eandem summam motus
+servari debere utique erg. u. gestr. si L
+20 volunt (1) idem esse (2) tantum L
+21–S. 2054.1 aequalia vel inaequalia erg. (1) agerent (2) agant L
+18 f. salsedine licet gestr. differentes L
+19 f. vel... vim erg. L
+agant in se invicem, eandem superesse quantitatem motus in summa, quasi motus instar
+salis distribueretur. Quae sententia sane tam speciosa est, ut a me ipso diu admitteretur
+donec in singulari aliquo exemplo argumentationem instituens reperi difficultatem
+inexpectatam, quam initio errori calculi imputabam, sed repetito aliquoties labore,
+tandem deceptionis originem deprehendi animadvertique non eandem quantitatem motus
+sed potentiae servari, male autem haec solere confundi inter se nec recte potentiam
+(conservandam scilicet) per ductum materiae in velocitatem aestimari.
+Sed ne quis logomachiam subesse putet ob variam potentiae acceptionem, quaestio
+circa rem ipsam huc redit. Ponamus corpus 4 librarum moveri velocitate unius gradus et
+corpus aliud unius librae quiescere. Deinde illud totam suam potentiam debere transferre
+in hoc, ita scilicet ut corpore quadruplo quiescente simplum solum moveatur. Quaeritur
+quantum velocitatis accipere debeat corpus simplum seu unius librae. Ex sententia
+Cartesianorum, passim ab aliis quoque recepta, corpus unius librae in hoc casu accipiet
+velocitatem 4 graduum, ego vero comperi non accipere nisi gradus velocitatis duos,
+alioqui, ut mox demonstrabo, habituros nos effectum causa potiorem seu motum
+perpetuum mechanicum, quem pro absurdo habendum esse tanquam axioma indubitatum
+Hac igitur occasione excitatus multa alia detexi a vulgaribus sententiis remota et
+inprimis certam potentiae notionem constituere, et novae scientiae, quam
+Dynamicam non male appelles, Elementa condere aggressus sum, quorum specimina
+dedi per propositiones quasdam Mathematico more demonstratas, hic autem nonnulla
+exponam familiarius. PotentiaeMensuram definio per determinatam quantitatem
+1 in summa erg. quasi (1) motus instar s (2) eadem quantitas motus (3) motus L
+2 distribueretur. (1)
+Haec opinio tam plausibilis est, ut me ipsum diu deceperit, non minus quam alios quibus (a) visum (b) videtur
+idem esse potentiam quod motus quantitatem. Itaque si tota potentia corporis 4 librarum
+celeritatem habentis unius gradus transferenda esset in corpus unius librae prius quiescens; ita ut postea corpus
+quatuor librarum quiescere deberet, solo corpore unius librae in motu existente (aa) sequeretur
+erg. corpus unius librae accipere velocitatem quatuor graduum, ex eorum scilicet sententia, qui quantitatem
+motus eandem servari volunt. (2) Quae L
+calculum (2) argumentationem erg. L
+(4) errori calculi erg. L
+14 graduum, ut scilicet tantum possit quantum corpus 4 librarum motum velocitate gradus unius, gestr.
+quod es (2) ut mox demonstrabo gestr. quem L
+14 accipere (1) corpus simplum nisi duplam
+4 initio (1) errori (2) calculo (3) lapsui
+14 vero certa demonstratione gestr. comperi L
+5 tandem (1) fontem (2) deceptionis L
+3 in (1) speciali (2) singulari erg. L
+11 ita (1) ut (2) scilicet ut corpore L
+16 habendum (1) sumo (2) esse L
+15 ut mox demonstrabo erg. L
+12 simplum seu erg. L
+6 haec... recte erg. L
+4 inexpectatam erg. L
+QUOD QUANTITAS MOTUS SERVATUR
+a causa praestari potest, veluti datum pondus ad datam elevare altitudinem, datum
+Elastrum ad datum tensionis gradum redigere, dato corpori quiescenti datum imprimere
+Quae igitur idem praestare possunt aequalis sunt potentiae, et quae idem
+praestare possunt aliquoties, potentias habebunt in eadem ratione in qua sunt numeri
+repetitionum. Est tamen ea in re subtili opus consideratione, unde aliquando in
+dubitationem venit, quinameffectus
+quidem comperimus tripla opus esse potentia ad idem pondus in triplam altitudinem
+elevandum, vel ad triplum pondus elevandum in eandem altitudinem; vel ad celeritatem
+eandem triplo ponderi imprimendam. Sed falsum esse deprehendimus triplam potentiam 10
+sufficere ad triplam velocitatem eidem ponderi imprimendam, opus enim est noncupla, et
+ad duplam velocitatem imprimendam opus est potentia quadrupla, ut mox patebit.
+sintpotentiisproportionales. Ac nos
+Et ratio cur de velocitate argumentari non liceat, velut de pondere et altitudine haec
+est, quod m e n s u r a potentiae seu datus effectus simplex
+praecise repetitur ter in pondere vel altitudine triplicatis, non vero 15
+in velocitate triplicata. Nam pondus trium librarum, velut LMN
+ad unum pedem PQ elevare, est ter elevare unam libram ad unum
+pedem, nempe libram L ad pedem 1L2L, libram M ad pedem
+1M2M, et libram N ad pedem 1N2N. Et pondus unius librae ad tres
+pedes elevare est etiam ter unam libram elevare ad unum pedem; 20
+nullo utique in repetitionibus discrimine. Similiter pondus trium librarum velocitatem
+habens unius gradus ter continet unam libram velocitate praeditam unius
+gradus. Sed non aeque manifestum est, corpus unius librae velocitatem
+habens trium graduum ter continere unam libram velocitate praeditam unius
+gradus. Et sane unam libram ad tres pedes elevando tres habemus casus seu 25
+tria themata inter se realiter diversa et per omnia gemella, nempe libram A
+quiescentem in C elevare per pedem CD ut sustentatum quiescat in D, et
+rursus quiescentem in D elevare per pedem DE, et postremo quiescentem in E
+elevare per pedem EF ut in F sustentetur. Sed cum una eademque libra tres habet gradus
+9 altitudinem; (1) vel etiam ad triplam (2) vel L
+13 et (1) magnitudine (2) altitudine L
+18 nempe (1) libram L, et libram M, et libram N; ad pedes 1L2L, 1M2M, 1N2N. (2) libram L
+(1) velocitate praeditum (2) velocitatem habens L
+26 et... gemella erg. L
+rursus quiescen (b) ut ibi quiescat (2) per... D, L
+23 Sed (1) dici non potest pondus (2) non ideo erg. u.
+27 quiescentem in C erg. elevare (1) ad pedem CD (a) et
+28 elevare (1) ad (2) per erg. L... corpus L
+realiter diversa, nam si tollas inde casum, seu thema librae unius praeditae velocitate
+unius gradus, restabunt duo gradus velocitatis sed sine libra seu sine subjecto quippe jam
+sublato. Sed ita non possunt constituere novos casus. Sin thema totale concipiamus ut
+compositum ex tribus impressionibus successivis aequalium graduum velocitatis in idem
+corpus, alia oritur difficultas, nam tria themata partialia non erunt gemella inter se. Et
+casus imprimendae velocitatis determinatae in corpus quiescens, non est per omne
+gemellus casui ejusdem gradus denuo imprimendi in corpus velocitate jam praeditum,
+tametsi prima specie ex vulgari doctrina de motuumcompositione, plerisque
+videatur, ejusdem esse potentiae dare quiescenti gradum unum velocitatis, et deinde jam
+moto addere adhuc unum in easdem partes, ita ut inde nascatur duplex celeritas, quod
+tamen falsum esse constabit ex sequentibus. Unde intellegi potest, quanta
+circumspectione sit opus, et quam intutum sit fidere probabilitati, ubi exactae
+proportiones quaeruntur.
+Sed ne diutius expectationem lectorum veritatis avidorum suspensam teneamus,
+Demonstrationem ipsam exponere placet.
+Si corpus quatuor librarum moveatur in horizonte, ejusque potentia omnis
+transferenda sit in corpus unius librae in eodem horizonte quiescens, ita scilicet [bricht
+3–8 gradus, (1) nullum superest subjectum reliquis duobus gradibus ad nova themata componenda. Et
+(a) potent (b) casus (aa) potentiae (bb) velocitatis determinatae imprimendae in corpus quiescens non est per
+omnia gemellus casui (aaa) velocitatis (bbb) ejusdem gradus velocitatis in easdem partes erg. u. gestr.
+imprimendae in corpus eodem gradu simplice vel duplicato jam praeditum (2) supererunt duo gradus sed sine
+libra tanquam subjecto quod locum non habet. Sin thema totale esse velis imprimere eidem librae diversas
+successive (3) non restabit nisi una libra sed (4) restabunt... quippe jam sublato erg. (a), quod non consti (b)
+7 casus (1) imprimendi unum
+4 f. ut (1) impressionem (2) compositum L. Sed... praeditum erg. L
+13 quam (1) parum fidendum (2) intutum L
+gradum (2) imprimendae L
+11 in... celeritas erg. L
+13 probabilitati, (1) ubi de mathematica rigore (2) ubi L
+18 corpus (1) quadruplum (2) quatuor
+17 f. Propositio Unica gestr.
+19 quiescens, (1) hoc est si cesset mo
+18 f. omnis (1) transferatur in cor (2) transferenda L
+(1) Non servatur eadem (2) Si L
+NOTATA QUAEDAM G. G. L. CIRCA VITAM ET DOCTRINAM CARTESII
+376. NOTATA QUAEDAM G. G. L. CIRCA VITAM ET DOCTRINAM CARTESII

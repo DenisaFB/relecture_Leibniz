@@ -1,0 +1,156 @@
+Aliquid, ut A, item B, item C.
+Si N non est A, et N non est B, et N non est C; et ita porro, tunc dicetur N esse
+Nihil. Hoc est illud quod vulgo dicunt non-Entis nulla esse Attributa.
+Ut substantiae seu subsistentis naturam investigemus, considerandum est, si plura
+attributa diversa de eodem subjecto dicantur, nullum eorum esse subsistens quiddam, ut
+calidum et lucidum, et hic, hodie situm, de hoc eodem igne dicuntur. Conceptus autem
+subsistentis, nempe hujus ignis, est qui omnia illa attributa includit, quae de eodem dici
+possunt, de quo ipsum dici potest. Ita ut subsistens nihil aliud sit quam Terminus
+completus, seu cui omnia illa insunt, quae ipsi vel eidem cui ipsum, attribui possunt.
+Itaque si idem est B et C et D et E, etc. quia ipsum est A, erit Asubstantia seu
+terminus completus. Hinc Termino completo nihil inest per accidens, seu omnia ejus
+praedicata possunt ex ejus natura demonstrari. Patet autem hoc primo intelligi de
+substantiis singularibus, sed quia universales nihil aliud significant quam quamlibet
+substantiam singularem; ideo non obstant. Cum enim dico Hominem, dico quodcunque
+singulare subsistens rationale. At cum dico rationale, non subintelligo subsistens, ideo
+rationale est adjunctum, homo substantia. Patet etiam hinc subsistens non posse esse
+praedicatum ejus quod aliquid diversum ab ipso includit. Item tot posse esse substantias
+singulares quot sunt diversae combinationes omnium attributorum compatibilium. Et
+hinc patet principium individuationis, de quo irritae habentur multorum Scholasticorum
+concertationes.
+Conceptus autem L
+13 seu erg. L
+14 ipsum erg. L
+11 nempe... ignis, erg. L
+19 singulare erg. L
+10 eodem erg. L
+9 attributa diversa erg. L
+14 si
+Titius est robustus, doctus, pulcher, quinquagenarius, sentiens, rationalis, etc. Conceptus
+autem ille ex quo omnia ista sequuntur quae de eo dici possunt, est conceptus substantiae
+ejus singularis; conceptus autem substantiae ejus universalis potest esse conceptus
+substantiae rationalis cujusque, nempe quod Titio et Cajo commune est, quatenus sunt
+personae. Possimus etiam substantias vocare res, et attributa vel certe attributorum
+concretorum abstracta, modos. Ita ignis erit res, calidum ejus attributum, calor (abs-
+tractum) erit modus.
+Attributum reale est quod demonstrari potest ex rei natura; attributum apparens
+est quod rei tribuimus tanquam sine respectu ad nos, cum tamen revera non possit rei
+tribui, nisi pro dispositione nostri qui id percipimus. Tale attributum est calor, putamus 10
+rem esse calidam plus minusve, cum tamen constet nobis eandem rem secundum
+diversas nostri corporis partes calidam et non calidam apparere.
+Ens reale autem concipimus tanquam id quod habet attributa realia, et quem-
+admodum nosmet concipimus, nam a nobis sumimus conceptus pro aliis rebus;
+Apparentia autem concipimus ut Somnia. Est quidem signum Entis Realis a posteriori
+connexio omnium apparentiarum inter se, quae deest somniis; non tamen id signum est
+demonstrativum. Itaque non alio modo sciri potest realitas objectorum quae sensus
+nostros afficiunt quam a priori, considerando nos non posse esse solos in Mundo, et
+eandem rationem pro aliis hominibus nobis apparentibus esse, quam pro nobis et illis par
+jus esse de nobis dubitandi; et licet possibile videatur in se omnia illa esse Phantasmata, 20
+non tamen est possibile in Mundo considerata ratione rerum universali. Illud tamen
+nondum demonstrare possum, quod Corpora sint Entia realia; adeo ut de meo quidem id
+asserere ausim. Sed haec pendent a vero corporis conceptu.
+Attributum aut est status aut mutatio; quanquam revera Mutatio sit aggregatum
+duorum statuum oppositorum in uno temporis tractu, nullo existente momento
+mutationis, ut in dialogo quodam demonstravi.
+2 quae... possunt erg. L
+5 substantias singulares gestr. vocare L
+Attributum L
+8 ex absoluta gestr. rei L
+20 et
+16 id signum erg. L
+26 in dialogo quodam: vgl. Pacidius Philalethi, VI, 3 N. 78, bes. S. 568.
+Qualitas est attributum quo distinguimus memoria, seu quo distinguimus ea
+quorum unum adest, aliud non adest.
+Quantitas est attributum quo distinguimus etiam similia, seu quae easdem habent
+qualitates, et proinde memoria discerni non possunt.
+Actio est status ex quo immediate sequitur mutatio in alio, quae dicitur passio.
+Relatio difficulter ab aliis praedicatis distingui videtur, nam actio quoque requirit
+aliquid quod patiatur, Magnitudo in comparatione consistit. Qualitas in dispositione ad
+agendum. Videntur ergo ad Relationem proprie pertinere denominationes extrinsecae,
+quae scilicet nascuntur, et pereunt nulla subjecti ipsius mutatione, sed tantum, quia fit
+mutatio in alio, ita pater fit pater nato filio etsi ipse qui forte in India Orientali agit, inde
+non afficiatur. Ita similitudo mea cum alio nascitur, et oritur etiam sine mutatione mei
+sola mutatione alterius.1 Fatendum tamen interim rigorose nullam esse denominationem
+extrinsecam in rebus, quia nihil contingit ullibi in mundo, quod non omnia in Mundo
+existentia reapse afficiat, seposita tamen hac rerum universali sympathia pro extrinsecis
+denominationibus haberi possunt.
+Rerum Genera sequuntur Causae. Omnis causa confert aliquid ad Effectum. Hoc
+tamen non sufficit, nam potest aliquid conferre ad effectum, qui tamen non sequitur;
+quod scilicet alia requisita desint, aut quaedam impediant, itaque requiritur, ut Effectus
+etiam sequatur. Proinde causa est conferens cum successu.
+Conferens est quod non quidem absolute ad rem requiritur, requiritur tamen ad
+eam secundum certum producendi modum. Causa igitur est requisitum rei secundum
+eum producendi modum quo reapse producta est. Requisitum est aliquid re natura
+prius, quo non posito ipsa existere non potest. At inquies ergo finis non est causa. Et sane
+1 Am Rande: Re recte expensa videtur impossibile ut aliqua propositio de aliquo fiat
+falsa, nulla in eo facta mutatione. Nimirum Mundus est quasi unum, et unaquaeque res
+aliarum omnium mutatione afficitur realiter.
+rigorose L
+6 praedicatis erg. L
+fateor finem non esse causam, non enim existit, sed ejus conceptum esse causam et
+quidem inter efficientes, nempe impellentem.
+Efficiens est causa quae confert ad effectum agendo.
+Efficiens p r i m a r i a propinqua est in qua est principium actionis illius qua
+effectus producitur.
+Instrumentum est causa efficiens, in qua producitur ab alio actio illa qua effectus
+producitur.
+Efficiens
+r e m o t a est causa efficiens efficientis propinquae.
+Impulsiva est causa efficiens voluntatis, generalius etiam quae non habent
+voluntatem intelligunt impelli, seu excitari; potest dici stimulans. Ita removens
+impedimentum agendi, ut qui arcum tensum laxat, item vim agendi indeterminatam
+determinans ad certum agendi modum, ut qui radios solis reflectit colligitque; qui irritat
+animal aliquod saevum; is etsi non agat immediate pro causa tamen haberi potest; quae
+posset dici Procurans.
+Causa M o r a l i s est quae causae physicae in moralibus aequipollere censetur, ita 15
+qui arcum tensum laxat, revera tantum impedimentum aufert; et tamen occidisse dicetur,
+item qui admovet activa passivis, ut ignem pulveri pyrio, occidisse tamen dicetur, nec in
+pulverem culpam rejiciet, quia inanimatarum quae voluntate carent actiones procuranti
+imputantur soli. Ita venenum praebenti imputatur actio veneni.
+Impellens videtur dici posse quod ad actionem principalem producentem
+immediate confert,
+Idea est conceptus in mente agentis, cui vult similem reddere effectum.
+Ty pus est aliquid extra mentem agentis, quod agens cogitat, et cui vult effectum
+reddere similem.
+Occasio est existentia conditionis casualis extra agentem sub qua agens agere
+paratum est. Ut fur paratus est agere, si sit quod furari possit, et spes fallendi. Remotio
+3 ad effectum erg. L
+4 propinqua erg. L
+Efficiens L
+efficiens L
+3 f. agendo ; si actio erg. u. gestr.
+26 f. est
+11 ut... laxat erg. L
+13 immediate erg. L
+impedimenti non est occasio, videtur Occasio locum habere tantum in causis voluntariis
+et videtur occasio esse status quidam patientis seu objecti, quo existente agens vult agere.
+Juvat, quod reddit actionem faciliorem.
+Impedit quod reddit difficiliorem.
+Finis est cujus appetitus seu desiderium est efficiens appetitus seu voluntatis
+conferentium ad ipsum sive Mediorum.
+Materia est requisitum, est internum, est re tempore prior et posterior naturaliter,
+seu potest dici: commune duobus, quorum unum producitur alterius destructione, est
+scilicet id quod est subjectum commune tum earum qualitatum quae erant in primo, tum
+earum quae sunt in secundo, tum mutationum quae contigere ut destrueretur primum et
+produceretur secundum, seu si A est C, et B est idem C, sed diverso tempore, quia A non
+est B et B non est A, erit Cmateria. Ita Truncus est lignum et Statua est idem lignum,
+et truncus non est statua nec statua truncus, Ergo lignum dicetur materia.
+Differentia ipsius A ab ipso B dicitur forma ipsius A respectu materiae C.2 Si
+definitioni substantiae supra positae addas definitionem materiae demonstrari poterit
+materiam primam, si qua datur, esse substantiam, et quidem incorruptibilem, quia
+generatio et corruptio praesupponerent materiam aliquam communem, ipsa autem cum
+BasisHomogeneorum est, quod in toto et partibus per omnia simile est. Ut in
+die et hora et omni tempore est quiddam commune, item in partibus spatii, in partibus
+materia corporum communis.
+Quid sit totum et pars suo loco explicabitur.
+2 Am Rande: Si C est A et idem C est B, sintque A et B incompatibilia, et sit Ens
+quoddam resultans ex C et A, aliud quam resultans ex C et B, erit Cmateria, A vel B
+forma, Ens resultans compositum. Resultare autem intelligo, quod his unde
+resultat positis poni immediate intelligitur.
+incorruptibilem, L
+18 materiam priorem gestr. non L
+12 Ita erg. L
+20 spatii,
+16, si... datur erg. L
+14 ipsius... C. erg. L
+[Mai 1679 bis April 1680 (?)]

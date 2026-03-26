@@ -1,0 +1,34 @@
+animal, ergo quidam homo est animal, sic colligitur (b) Conversio Logica quam vocant per accidens sic potest
+demonstrari. Omnis homo est animal. Ergo quoddam animal (2) Exempli L
+supplendo propositionem identicam. Nam syllo (3) et L
+10 perficitur (1) ope (2)
+1 Si... aequalia: EUKLID, Elementa, lib. I, ax. 2.
+Homogenea sunt quae sunt similia vel transformari possunt in similia.
+Tr ansformatio est mutatio quae fit in situ partium, nullis additis vel ademtis.
+Aequalia sunt quae sunt congrua, vel transformari possunt in congrua.
+Similia sunt quae sola comperceptione distingui possunt.
+Congrua sunt, quae per se discerni non possunt, secundum modos scilicet illius
+quod in ipsis commune est. Ut extensio est in duabus lineis, duratio in duabus horis,
+spatii et temporis relatio in duabus velocitatibus.
+Omne corpus transformari potest in aliud quod generari potest modo successivo
+uniformi quo partes generantur ante totum toti similes: seu omnecorpus
+transformaripotestincorpusuniforme. Tale est rectangulum, prisma. Item
+sphaera et omne corpus regulare, quod intelligi potest formari continua intumescentia
+uniformi in ambitum majorem. Demonstratur propositio ex natura corporis liquidi, potest
+enim infundi in vas uniforme.
+Si duo corpora uniformia sint similia inter se, seu eodem modo generata necesse est,
+esse vel aequalia cum eodem tempore absolvuntur, vel si unum absolvitur ante aliud
+necesse est partem hujus aequalem esse illi toti, quia eodem momento absolvitur pars
+hujus aliqua; quae autem uniformi generatione simul absolvuntur congrua sunt adeoque
+aequalia. Discrimen enim nisi temporis intelligi non potest.
+Hinc cum omnia corpora transformari possunt in uniformia, sequitur, duo corpora
+semper aut aequalia esse, aut unum alio majus aut minus.
+1 sunt similia vel erg. L
+3 f. congrua. (1) Congrua sunt (2) Similia L
+14 f. est, (1) unum alio (2) esse L
+12 propositio erg. L
+2 Tr ansformatio... ademtis erg. L
+3 sunt congrua, vel erg. L
+14 generata (1) ita ut solo tempore quo absolvuntur differant (2)
+20 aut (1) habere partem unius aequalem (2) unum L
+121. PRINCIPIUM INVENIENDI

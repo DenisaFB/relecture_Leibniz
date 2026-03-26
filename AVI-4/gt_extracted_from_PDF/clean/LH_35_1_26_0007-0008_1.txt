@@ -1,0 +1,167 @@
+Veteres omnem cognitionem accuratam ac demonstratam vocabant Mathematicam,
+unde Sextus libros suos quibus certitudinem tollere conatur inscripsit contra
+si vim vocis spectes sunt iidem qui docti quibus Empirici opponuntur qui non ratione
+nituntur, sed sola Experientia. Docere enim est efficere rationibus ut discipulus
+dogmatum veritatem clare comprehendat. Quod et Pythagoras observasse scribitur,
+discipulis enim veritates non vagas sed determinatas, nec tantum quid sed et quale et
+quantum in unoquoque tenendum esset, complexas, tradebat, additis rationibus. Cum ad
+auditores promiscuos tantum discipuli ejus autoritate magistri et popularibus argumentis
+uterentur. Itaque vulgo quae in Logicis, in Metaphysicis, imo in ipsa scientia civili
+12 unde (1) Sceptici (2) Sextus Empiricus gestr.
+12 suos (1) contra Dogma (2) inscripsit
+13–15 Dogmaticos; (1) et ex vita Pythagorae constat (a) alios ei (b) aliis (c) eum auditoribus
+quidem (d) auditoribus qui (e) Pythagoram (f) hunc erg. discipulis (aa) accuratas (bb) ad interiora admissis
+ipsummet (aaa) non tantum (bbb) non (aaaa) quale (bbbb) quid (aaaaa) et (bbbbb) sed et quantum in
+unaquaque re (ccc) tradidisse veritates non quaslibet, sed gestr. quae definirent non tantum quid sed et
+quantum in unaquaque re esset tenendum; (aaaa) earumque (aaaaa) additione (bbbbb) addidisse causas (bbbb)
+additis causis ac rationibus; cum auditores promiscui tantum a discipulis ejus (aaaaa) instruentur popularib
+(bbbbb) et 〈hi〉 (ccccc) docti (2) sive si vim vocis spectes doctos. (3) Mathesis... Experientia. L
+discentem e (2) efficere rationibus erg. L
+dogmatum veritatem L
+discipulis ejus popularibus argumentis (2) ad L
+(1) accurata demonstratione (2) infallibilibus demonstrationibus L
+15 f. discipulus (1) eorum quae tradantur veritatem (2)
+18 Cum (1) auditores promiscui tantum a
+19 ejus (1) dicerent (2) autoritate L
+17 non (1) popula (2) vagas L
+demonstrationibus cognoscuntur Mathematicam certitudinem habere dicimus.
+Mathematica tamen scientia ea demum hodie dici solet, quae agit de rebus quatenus
+habent magnitudinem seu possunt aestimari sive mensurari.
+Ut autem sciamus quid sit Magnitudo, altius ordiendum est. Magnitudo autem
+cognoscitur mensura quadam, sive re actu ipso data, exempli causa pede AB in aere
+inciso; cui quicquid longitudine congruum est pedale dicitur; quod
+pedi ter repetito congruum est tripedale EF, et pes rem tripedalem
+dicitur metiri. Sed si in re mensuranda GH praeter tres pedes GK sit
+particula aliqua KH pede minor, quae negligenda non videtur; utile
+est assumi pro me[n]sura partem aliquam pedis, satis parvam,
+exempli gratia pollicem, qui duodecies repetitus, metitur pedem; si
+quadragesies rem mensurandam metiatur dicemus eam rem esse
+quadraginta [pollicum], sive quod idem est trium pedum GK, et
+quatuor pollicum KH. Si vero iterum supersit portio aliqua exigua
+pollice minor, vel eam negligemus, vel si omnino exacti esse
+volumus, sumemus rursus partem pollice minorem, quam vocant
+lineam; atque ita continuabimus, donec vel mensura rem
+mensurandam accurate metiatur, vel error qui superest insensibilis
+fiat, aut negligendus videatur. Vel si omnino eum cognoscere
+volumus quoad ejus fieri potest cognoscatur saltem, quanam
+progressione in infinitum ille semper decrescat, ut fiat tam parvus, quam volumus, quod
+unum superest, quoties constat, rem cum pede seu mensura assumta non esse
+commensurabilem, seu nullam posse reperiri particulam, quae pedem simul et rem
+metiendam accurate metiatur. Idque non tantum in lineis, sed et temporibus, et
+ponderibus, et potentiis machinarum, et gradibus qualitatum locum habet, nec minus
+hora horae congrua est, quam pes pedi. Ex quibus manifestum est cum
+2 f. quatenus (1) possunt mensurari (2) habent L
+congruit, ei aequale (b) congruum est, ei aequale di (2) exempli L
+6 est (1) aequale dicitur, si vero (2) pedis magnitudinem habere dicitur, (3) pedale L
+si supersit particula pede minor; videndum est, an pa (2) et L
+11 pedem; (1) hanc videbimus (2) quod (3) si L
+quadraginta pedum, ändert Hrsg. L
+14 vero iterum erg. L
+〈fugiat〉, aut (2) vel L
+exactam (2) ut... rem L
+16 volumus, (1) quaeramus (2) sumemus erg. L
+19–24 Vel... metiatur. erg. L
+17 donec (1) error sensum
+21 f. decrescat, (1) quoties constat mensuram
+24 et (1) ponderibus (2)
+26 est (1) Magnitudinem accurate cognosci numero partium rei (a) partibus (b) inter se
+5 data, (1) cui quicquid (a)
+6 longitudine erg. L, (1) quod
+12 f. rem erg. esse (1) trium pedum et quatuor (2)
+22 f. esse (1) consum (2) commensurabilem L
+13 quod idem est erg. L
+Magnitudinem alicujus rei accurate quaerimus a nobis desiderari modum determinandi
+numerum partium ejus datae cuidam mensurae (aut parti ipsam accurate metienti)
+aequalium. Unde omnis magnitudo concipi potest ut numerus partium, et ideo scientia
+calculi, seu de numero vel indefinito quem tractat Logistica sive Algebra, vel definito,
+quem tractat Arithmetica, nihilo differt a scientia Magnitudinis per se consideratae et a
+rebus quantitatem habentibus abstractae.
+Solet quidem in Mathematicis praeter quantitatum comparationem saepe agi de
+comparatione qualitatum, sive de similitudine ut cum duos quoslibet circulos dicimus
+esse similes inter se et saepe ope similitudinis compendiose investigantur, quae per
+solam magnitudinem, id est per solam sectionem rerum in partes partiumque inter se
+congruentiam difficilius demonstrantur, exempli causa duos circulos esse inter se, ut
+quadrata circumscripta, ex definitione
+similitudinis facillime ostenditur, cum
+tamen demonstratio Euclidis sit una
+difficillimarum, quia sola magnitudinis
+consideratione usus est. Verum licet
+similia sint qualitate quadam
+convenientia, qualitates tamen quae in
+determinantur, ut figurae, et potentiae, itaque manet quod diximus, quicquid in
+Mathematicis tractatur esse mensurabile. Caeterum quia definitionem dedi Magnitudinis,
+danda erit et definitio Similitudinis, quae ut intelligatur exemplo utendum erit, nempe
+fingamus duas esse naves unam altera paulo majorem, sed ita structas, ut qui non ambas
+1 modum (1) enuntiandi (2) determinandi erg. L
+3 Unde (1) Arit (2) omnis L
+7 praeter Magnitudinem, et gestr. (1) Magnitudinum (2) quantitatum erg.
+2 ejus (1) int〈e〉 (2) datae L
+4 vel (1) definito vel (2) indefinito L
+mensuram (2) ipsam L
+(1) tamen (2) quidem erg. L
+10 f. se (1) cons (2) congruentiam L
+8 cum (1) duo triangula di (2) duos quoslibet erg. L
+13 facillime (1) patet, quod Euclides (2) demonstratur (3) ostenditur, L
+20 figurae, (1) motus, (2) et erg.
+22 f. Similitudinis, (1) itaque Similia sunt, quae per se erg. non possunt discerni (quatenus scilicet
+dicuntur similia) nisi (a) ambo si (b) per quandam comperceptionem. Exempli gratia (2) quae... nempe erg.
+(a) si ego (b) duo palatia perfecte similia esse dicentur, si ita structa sint, ut is qui
+Exempli gratia str. Hrsg.
+clausis oculis primum in unum deinde in alterum ductus est, non possit ea discernere; nisi forte (aa) per (bb)
+vel (aaa) situm (bbb) viam (aaaa) quibus (bbbb) ad (cccc) eo d (dddd) qua eo pervenit aliaque externa
+respiciat, vel forte utrumque palatium simul videat, ita enim agnoscet fortasse unum (c) fingamus L
+23 naves (1) per omnia ita similes (2) in eodem portu, (3) per omnia similes (4) ita structas, ut qui unam
+tantum videat, non possit dicere (5) utram 〈si〉 (6) unam L
+13–16 cum... est: vgl. EUKLID, Elementa, lib. V, prop. 16.
+videat, eas discernere nullo modo possit; nisi forte mensuret aliquid ut altitudinem
+cujusdam portae, hanc enim mensuram retinens, posteaque iterum in aliquam navium
+ductus, et utra sit interrogatus, mensura denuo applicata facile pronuntiabit. Hae duae
+naves dicentur esse similes; et ita duo similia non per sensum unius, et memoriam
+alterius ut alia dissimilia, sed per sensum duorum, ut hoc loco navis praesentis, et
+[mensurae] actu nobiscum [allatae] ex navi altera, et huic navi [applicandae], discerni
+debent. Eodem modo quamdiu quis unum Circulum contemplabitur, quicquid in eo
+metiatur, nihil reperiet quo possit eum discernere ab alio circulo, nisi quicquam
+cum circumferentia, mensuret quoties una chorda alteram contineat; et quae fecit notet; 10
+postea tentet eadem omnia in altero aliquo Circulo, reperiet, eadem succedere nullumque
+inde principium reperiet unum circulum ab alio discernendi. Idque demonstrari potest ex
+circuli generatione, quae est similis, nam tantum opus est rectam in aliquo plano moveri
+circa punctum aliquod immotum, unde nullum discrimen reperiri potest, inter duos
+circulos, quam quod diversa puncta, diversa plana, et diversae rectae assumi possunt, sed 15
+punctum puncto, recta rectae, planum plano indefinite simile; sive per se ab altero
+Dicendum de coincidentibus quae per omnia eadem sunt, de congruis, quae etiam
+collata discerni non possunt; de similibus, quae discerni non possunt sine applicatione
+quadam seu collatione. Aequalia sunt quae in congrua transmutari possunt, similia sunt 20
+quae in homogenea transmutari possunt.
+Mathematica Scientia ea demum hodie dicitur quae agit de rebus quatenus earum
+magnitudo consideratur. Nulla intelligi potest magnitudo sine aliqua varietate seu
+diversitate in rebus quibus tribuitur, et quidem rerum diversitas, si specialis earum natura
+non consideretur, si spectata tantum prout cogitatur, multitudinem rerum seu numeros
+4 per (1) memoriam solam, sed 〈sem〉per (2) sensum L
+1 forte (1) Mensura qua (2) mensura sumta (3) mensuret (a) aliquam partem, (aa) et (bb) v.g. (b) aliquid
+2 portae, quod jam est (1) per (2) comperceptio quaedam navis et mensurae erg. u. gestr. (a)
+10 contineat; (1) reperi (2) et L
+13 generatione, (1) cum enim circuli sint per (2) quae L
+eandemque mensuram retinens (b) hanc L
+6 mensuram... allatam... applicandam L ändert Hrsg.
+11 succedere eodem modo gestr. nullumque L
+13 similis, (1) assumitur enim punctum et cir (2) nam L
+16 simile est gestr.
+(2) quarum (3) in quibus magnitudo aliqua aesti (4) quatenus (a) in illis magnitudo aliqua aest (b) earum L
+(a) lineis (b) extensione, denique in mutationibus, et in qualitatibus a quibus mutatio aliqua proficiscitur.
+Ubicunque aliqua intelligi potest varietas seu differentia, (2) Nulla... tribuitur quoniam autem 〈u〉 str. Hrsg.
+25 consideretur, (1) cogitat
+(2) si (a) ut cogit (b) consideretur tantum prout cogitationi observari potest, (c) spectata... cogitatur erg. L
+26 si (1) ut percipitur (2) consi (3) ponatur L
+18 de (1) congruis, de similibus (2) coincidentibus L
+erg. (a) quae quidem si sola mente (b) et L
+14 discrimen (1) reperies (2) reperiri L
+24 si (1) nihi (2) specialis L
+ponatur non cogitari tantum, sed et simul percipi, hinc oritur situs atque extensio.1
+Denique si diversitas percipiatur in eodem diverso tempore, oritur mutatio sive
+Si duo per se nullo modo discerni possint, ea dicuntur congrua, ut hora ab hora, pes
+a pede, locus unus corporis ab alio loco ejusdem corporis. Si discerni non possint, nisi
+per applicationem quandam, seu perceptionem simultaneam, dicuntur Similia. Dissimilia
+enim discerni possunt, perceptione unius, et cogitatione alterius; similia non nisi
+utrumque immediate discernendorum percipiatur, possunt tamen duo mediate discerni,
+interventu tertii, quod successive utrique applicatur.
+93. SYNTHESIS, ANALYSIS. COMBINATORIA, ALGEBRA

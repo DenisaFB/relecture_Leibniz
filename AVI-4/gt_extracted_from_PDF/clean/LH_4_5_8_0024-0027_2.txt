@@ -1,0 +1,211 @@
+COUTURAT, Opusc. et fragm., 1903, S. 84–89.
+9 negatum (1) transferemus de subjecto in (a) nu (b) divisorem, non ut dividat, sed ut (2) separabimus L
+13 miscemus (1) numeros
+10 signum (1) ut a y ut doctus imprudens non justus (2) non-... non-justus L
+15 aequatione (1) Hinc (2) Duo L
+Calculusconsequentiarum
+Duo sunt quae in omni argumentatione dijudicari debent: Forma, nimirum et
+Materia. Contingere enim potest ut argumentum aliquando succedat in certa materia,
+quod aliis omnibus exemplis ejusdem formae applicari non potest.Exempli causa si ita
+Omne Triangulum est trilaterum
+Quoddam Triangulum non est aequilaterum
+Ergo quoddam Aequilaterum non est Trilaterum.
+possunt, quae non succedunt, exempli causa:
+Omne metallum est minerale
+Quoddam metallum non est aurum
+Ergo quoddam aurum non est minerale.
+Itaque et calculus qui Materiam tangit a calculo formali separari potest. Cum enim
+invenissem cuilibet sive Termino sive notioni, suum ascribi posse numerum
+characteristicum, cujus interventu idem futurum est calculare et ratiocinari; et vero ob
+mirificam rerum complicationem, nondum veros numeros characteristicos exhibere
+possim, antequam summa plerarumque rerum capita in ordinem redegero; consideravi
+consequentiarum formam nihilominus calculo comprehendi ac numeris demonstrari
+posse fictitiis, qui loco verorum numerorum characteristicorum interim adhiberentur.
+Quod ita patefaciam.
+In omni propositione Categorica (nam ex his caeteras dijudicari posse alias
+ostendam, paucis in calculo mutatis[)] duo sunt Termini subjectum et praedicatum;
+quibus accedunt: copula (est), affirmatio vel negatio, seu qualitas, et denique signum id
+8 (1) Modus (2) CalculusL
+12–15 ratiocinemur: (1)
+Omnis pius est felix Quidam (a) fortunatus (b) pius non est fortunatus Ergo quidam fortunatus non est felix.
+(2) Omne... Trilaterum L
+plerarumque (a) m (b) rerum L
+31, (est) (1) negatio (2) affirmatio L
+25 antequam (1) pleraque (2) summa
+23 cujus... ratiocinari; erg. L
+vel quidam seu quantitas. Exempli gratia in hac: Pius est felix, pius et felix sunt termini,
+ex quibus pius est subjectum, felix praedicatum; est, copula. QualitasPropositionis
+est Affirmatio vel Negatio. Ita haec propositio: pius est felix, affirmat; illa vero:
+sceleratus non est felix, negat. Quantitaspropositionis est universalitas vel
+particularitas. Ut cum dico: Omnis pius est felix, vel si dicam nullus sceleratus est felix;
+sunt propositiones universales, illa universalis affirmativa, haec negativa. Sed si dicam:
+quidam sceleratus est fortunatus, quidam pius non est fortunatus, Propositiones sunt
+particulares, illa affirmativa, haec negativa.
+In omni propositione praedicatum inesse dicitur subjecto, seu praedicati notio in
+subjecti notione involvitur. Nam in propositione Universali affirmativa cum dico: Omnis 10
+homo est animal; hoc volo: animalis conceptum involvi in hominis conceptu (nam
+hominis conceptus est, esse animal rationale). Et cum dico Omnis pius est felix, significo
+eum qui intelligat naturam pietatis, etiam intellecturum in ea felicitatem veram contineri.
+Itaque in propositione universali affirmativa manifestum est praedicatum in subjecto per
+se spectato contineri. Sed si propositio sit particularis affirmativa, tunc praedicatum non 15
+continetur in subjecti notione per se spectata, sed in subjecti notione cum aliquo addito
+sumta; id est in aliqua subjecti specie. Fit enim speciei notio ex notione generis, cum
+addita aliqua differentia.
+Similiter in Propositione Negativa cum negamus praedicatum hoc modo quo dixi
+subjecto inesse; eo ipso affirmamus negationem praedicati sive terminum praedicato
+contradictorium subjecto inesse. Ut cum dico: Nullus sceleratus est felix: idem est ac si
+dicerem: Omnis sceleratus est non-felix, seu non-felicitatem scelerato inesse. Et cum
+dico: [quidam] pius est non-fortunatus, hoc volo: τοÁ non-fortunatum inesse cuidam
+speciei seu exemplo pii.
+Considerandum porro est, omnem notionem compositam, constare ex pluribus aliis 25
+notionibus, interdum positivis, interdum et negativis. Exempli gratia cum dico: numerus
+primitivus, intelligo hoc: numerus non-divisibilis per majorem unitate.
+1 quantitas. (1) In omni autem propos (2) Exempli L
+9 propositione affirmativa erg. u. gestr.
+12 f. felix, (1) hoc volo, si quis
+17 enim (1) species (2) speciei notio L
+intelligat naturam pietatis, eum (2) significo... pietatis, L
+17 sumta (1). Nam (2) ; id L
+19 Negativa (1) dicimus prae (2) cum L
+(a) subjectum contineri in termino (b) negationem L
+fortunatus, (b) est non-fortunatus, L
+26 notionibus, (1) iisdem (2) iisque (3) interdum (a) affirmativis, interdum negativis, (b) interdum (c)
+negationem involvit. (2) Ideo L
+27 numerus (1) indivisibilis (a) per numerum (b) nisi per unita (c) per numeru (2) non-
+27–S. 224.1 unitate. (1) Et vero sola notio Dei pure positiva est, nullamque limitationem seu
+13 veram (1) 〈 – 〉 (2) contineri. L
+20 inesse; (1) vel quod idem est dicimus (2) eo ipso affirmamus
+25 notionem (1) componi (2) compositam, constare L
+23 dico: (1) quidam scelerat (2) pius (a) non est
+Ideo ut generaliter procedamus: quamlibet notionem exprimemus duobus Numeris
+characteristicis, uno cum nota + seu plus, altero cum nota − seu minus. Exempli gratia:
+Primitivus est numerus indivisibilis.
+Considerandum etiam est Terminos omnes negativos, hanc habere proprietatem, ut
+quando positivi se habent ut genus et species, contra negativi eorum se habeant inverso
+modo, ut species et genus. Exempli gratia Corpus est genus, Animal est species; latius
+enim patet corpus quam animal, quia corpus continet animalia et plantas aliaque. Sed
+contra non-animal est latius quam non-corpus. Omnia enim non-corpora sunt etiam
+non-animalia; sed non contra; dantur enim non-animalia, quae tamen non sunt non-
+corpora, verbi gratia plantae. Itaque quemadmodum plura dantur corpora quam animalia;
+ita contra plura dantur non-animalia quam non-corpora.
+His ita intellectis possumus vera ponere fundamenta calculi nostri. Nimirum omnis
+notionis positivae (negativae) numerum characteristicum positivum (negativum) seu nota
++ (vel −) affectum conflabimus ex multiplicatione in se invicem omnium numerorum
+characteristicorum earum notionum positivarum (negativarum), ex quibus ipsius termini
+positiva (negativa) notio componitur.
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+1 duobus (1) notis (2) Numeris L
+7 species; nam Corporis erg. u. gestr.
+8, quia corpus continet (1)
+10 f. enim (1) non-corpora,
+metalla plantas, animalia (2) animalia... aliaque erg. L
+12 f. non-corpora (1)
+quae tamen non sunt non-animalia. (a) Pla (b) itaque pl (2) non-animalia... Itaque L
+Ex his jam possumus exstruere calculi nostri fundamenta. Nam si termin (2) His L
+omnem (2) omnis notionis (a) pos (b) t (3) omnem (a) notionem (b) partem (4) omnis notionis (a) positivae (b)
+terminum (c) positivae erg. (negativae) erg. numerum characteristicum positivum (negativum) erg. seu (aa)
+signo (bb) nota + (vel −) erg. affectum erg. L
+17 positiva (negativa) erg. L
+21 fiet (1) homo +13, 8 −5, 7 seu (2) Termini L
+17–19 componitur. (1) Eodemque modo (2) Ita L
+15 omnium (1) notionum (2) numerorum L
+Hoc unum tantum in ista Numerorum efformatione cavendum est ne idem aliquis
+numerus in positivis et in negativis contineatur, id est ne positivus et negativus numerus
+dividi possint per unum eundemque numerum, seu habeant communem divisorem. Nam
+si sic scripsissemus:
+scripsissemus absurdum. Nam notio quae significatur per +5, contradictoria est ejus quae
+significatur per −5. Itaque cum in rationalis notione positiva 10 contineatur 5 (nam 10 10
+dividi potest per 5 seu 10 fit ex multiplicatione 5 in 2), seu cum in rationali ponatur 5; in
+animali autem contra negetur 5, seu contineatur contradictorium ipsius 5, sequetur
+animal et rationale esse incompatibilia, adeoque hominem ex ipsis compositum
+implicare contradictionem quoniam ita tam positivus ejus numerus +130, quam
+negativus dividi potest per 5, quod cum falsum sit consequens est absurdam fore hanc
+exprimendi rationem, adeoque semper cavendum esse, ne numerus positivus et negativus
+habeant eundem divisorem.
+Intellectis jam terminis sigillatim sumtis, videamus et quomodo conjungi possint;
+seu quomodo propositionum quantitas, qualitas, et veritas (in quantum id fieri potest
+ratione, seu numeris characteristicis) dignoscatur. Nimirum generaliter omnis propositio 20
+falsa quae cognosci potest sola vi rationis, seu quae in terminis implicat; haec est: in
+qua subjectum et praedicatum continent notiones incompatibiles, sive in qua duo quidam
+numeri characteristici diversorum terminorum (subjecti unum praedicati alterum)
+diversarumque notarum (unum cum nota +, alterum cum nota −) habent communem
+divisorem. Exempli causa sit propositio:
+2 in (1) signo plus et (2) positivis L
+14 implicare (1) contradictorium (2) contradictionem L
+11 per (1) 5) (2) 5 L
+16 ne (1) notio pos (2) numerus L
+2) (1) et in animali (2) seu L. per 5 erg. L
+18 quomodo (1) propo (2) conjungi L
+subjecti et praedicati f (2) in terminis vi formae (3) est, (4) quae L
+continent notiones L
+(subjecti (a) unus praedicati alter (b) unum... alterum) erg. L
+unus (4) unum... nota, −) erg. L
+19 f. et (1) ex his veritas (2) veritas (in quantum (a) ex forma
+21 falsa (1) est in qua
+22 praedicatum (1) terminos habent (2)
+23 terminorum (1) ejusdem (2)
+24 notarum (1) ej (2) in eadem propo (3)
+25–S. 226.2 propositio: (1) homo est lapis (2) metallum est animatum
+17 f. divisorem (1), sive ne (2). Intellectis L
+22 duo (1) numeri characteristici (2) quidam L
+Patet terminos +10 (id est +bis 5) et −5 esse incompatibiles, significant enim
+contradictoria, ac proinde statim ex numeris ipsorum characteristicis patet propositionem
+cui hi numeri conveniunt esse falsa m in terminis, et contradictoriam ejus esse ex
+Porro antequam specialibus Propositionum formis secundum quantitatem et
+qualitatem suos numeros characteristicos accommodemus, illud in genere repetendum
+est, quod supra diximus, Notionem praedicati semper inesse subjecto aut ejus speciei.
+Hoc jam in Numeros characteristicos ita transferamus:
+Esto propositio Universalis affirmativa:
+Patet praedicatum inesse debere notioni subjecti per se sumtae, quia in omni casu inest,
+adeoque numeros characteristicos subjecti dividi posse per numeros characteristicos
+praedicati ejusdem notae, ut: +70 per +10, et −33 per −3.
+Patet +130 dividi posse per +13 et per +10; et −35 dividi posse per −5 et −7.
+2 Am Rande: Omne animal non-homo est corpus sentiens non rationale.
+Omnis quinarius non binarius Omnis quaternarius non-major denario
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+non-quadratoquadratus.
+4 terminos (1) +10 et −5 (2) id est (3) +10 L
+7 f. veram. (1) Quantitas
+autem et qualitas propositionum ita dignoscetur: (a) Omnis pro (b) PropositioUniversalisAffirmativa
+est, (aa) in qua (bb) (verbi gratia: Omnis Sapiens darunter: +70 (aaa) −33 (bbb) −13 est pius darunter: +10
+−9 ) in qua quilibet numerus characteristicus subjecti (v.g. +70 et −33 (2) Porro L
+considerandum est; semper (2) repetendum L
+10 f. speciei (1), id est (a) 〈 – 〉 (b) re ad stylum numerorum
+characteristicorum translata, Numeros charactericos subjecti, aut speciei ejus semper dividi posse per numeros
+12 f. Esto... affirmativa: erg. (1) Homo (2) Omnis (a)
+characteristicos praedicati ejusdem 〈 – 〉 (2) Hoc L
+Homo est animal (b) sapiens L
+15 quia... inest erg. L
+16 f. characteristicos (1) subjecti (2) praedicati erg.
+16 characteristicos (1) praedicati (2) subjecti erg. L
+15 Patet (1) subjectum (2) praedicatum L
+23 Omnis (1) octonarius (2) quinarius L
+23 binarius (1) Omnis binarius minor vicenario (2)
+CALCULUS CONSEQUENTIARUM
+In Propositione autem Affirmativa particulari, quemadmodum supra diximus,
+sufficit notionem praedicati inesse notioni subjecti, additamento aliquo auctae, seu
+praedicatum inesse speciei subjecti, id est characteristicos numeros subjecti multiplicatos
+per alios numeros reddi posse divisibiles per characteristicos numeros praedicati.
+Cumque id semper possit fieri, quilibet enim numerus multiplicando reddi potest per
+alium numerum quemlibet divisibilis; hinc patet propositionem particularem
+affirmativam semper habere locum; nisi aliqua ex supra dicto capite incompatibilitas seu
+pugna oriatur. Exempli causa:
+Patet effici posse, ut miseria sit in aliqua fortunati specie; in eo scilicet qui fortuita
+aeternis praefert. Jam species aliqua fortunati habet notionem compositam ex notione
+fortunati tanquam genere, et notione differentiae hujus fortunati ab alio qui miser non
+erit, haec differentia sit +15 −28, fiet
+Jam 15, 11 dividi potest per [5] et 28, 9 per 14. Itaque patet effici posse, ut praedicatum
+insit speciei subjecti.
+Eadem mutatis mutandis etiam ad propositiones negativas transferri possunt.
+Exempli gratia: [bricht ab]
+(3) supra dicto capite (a) repug (b) incompatibilitas seu
+3 est (1) num (2) praedicatum alia (3) characteristicos L
+5 multiplicando erg. L
+notionem praedicati L
+enim (2) quando nulla est repugnantia in pri (3) quilibet L
+capitibus (2) supra dictis versehentlich nicht gestr.
+(aa) repugna (bb) pugna L
+18 11 L ändert Hrsg.
+20 f. possunt. (1) Ubi hoc unum observandum est quod (2) Exempli L
+12 fortunati (1) expri (2) habet L
+12 praefert. (1) expri (2) Jam L

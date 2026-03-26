@@ -1,0 +1,21 @@
+observationes requirant altitudines sideris observandi aequales, aut observationem unicam, sed sideris in summa altitudine positi, seu meridianum transeuntis. Unde nec Refractionum error magnopere metuendus est hac methodo nostra. [[Cum eni]] Nam solis supra horizontem altius evecti refractio non est magni momenti. Et noctu si unum sidus apparet, apparent etiam plura, eaque diversae ascensionis, ac proinde refractionum quoque differentium, ut proinde duo simul observari, et inde collatione facta error exterminari possit.
+
+Contra si solis ortus occasusque observandus est, vereor ne difficile sit verum ortus occasusque tempus reperire,   quia constat solem [[in aperto mari surgentem aut cadentem]] in horizonte sensibili libero mari definiti surgentem aut cadentem, miram sui speciem iri, extremi marginis undis exhibere, ac falsa sui varieque detorta. Imagine sibi ipsi jam [[depresso]] summerso, superesse at postea etiam specie illa fallaci subito evanescente noctem celerrime ac velut de improviso ingruere, [[Crepusculo exiguo admodum]] brevissimo ac parum notabili Crepusculo interjecto,
+
+Problema ergo meum ita concipitur: __Data [[Horologio exacto, dataque]] Latitudine oci navis Horologique exacto, et accedente unica, quacunque, sideris (motus explorati,) cujuscunque observatione Longitudines, ac [[quod idem est]] per consequens locum navis, reperire.__
+
+[[Hoc ita fiet: Dato Horologio exacto datur locus sideris in coelo, quodcunque sit, in ordin respectu, ad locum, ubi ho discessus, ad quem horologium direximus, qui]] [[Cum]] [[Datur enim hora loci discessus, ac per consequens situs omnium siderum qui posito quod nobis loci discessus latitudo et longitudo cognita sit. Datur vero praeterea circulus aequatori parallelus in quo navis nunc versatur, Latitudine quippe navis data. Ac datur denique angulus quem facit sidus cujus aspectus nobis conceditur (et cujus per priora, locum praesentem in mundo, scimus) ad horizontem navis seu ad circulum parallelum navis. Idem enim est angulus ad horizontem navis, et ad parallelum tangentem circuli paralleli navis. Quia seu ad tangentem globi telluris in puncto navis, aut ad radium ductum ex centro terrae in punctum navis Facit aut Cognitum autem est quem angulum faciat Circulus Parallelus datus ejusve tangens, aut radius ad radium aut tangentem telluris a quo producto tangitur aut secatur. Ergo quem angulum faciat linea ex sidere ducta seu radius sideris ad Parallelum. Jam idem punctum cognitum ex uno puncto extra circulum (aut saltem extra circuli centrum) posito ad eundem circulum non possunt duci duae lineae eundem angulum facientes Est ergo Determinato ergo circulo, et puncto extra angulo puncti lineae circulum puncto connectentis ad circulum (id est ad circuli radium vel tangentem) determinatum erit punctum in circulo, ad quod linea connectens facit angulum datum]] [[Hoc ita fiet]] Problema jam propositum ita solvetur. ordin? unklare Lesung [Rechnungen nicht zum Text gehörig.] 
+
+
+
+
+
+---
+Additions:
+<<interdiu>>
+<<diu>>
+<<praeterquam quod saepissime accidet ut una observatione facta, altera altitudinis aequalis ab aeris navisve statu impediatur>>
+<<[[et]] Turbare non debet quod hoc loco ad Inventionem Longitudinum, Latitudines inventas praerequirimus; nam et alioquin Latitudinum quoque inventio jam tum necessaria est ad cursum navis gubernandum, et ut Latitudo sine Longitudine, ita contra Longitudo quoque sine latitudine non sufficit. Ut taceam hoc loco spem esse magnam, inveniri posse, aut ad perfectionem deduci quam primum inventionem Latitudinis seu elevationis Poli universalem, ab omni observatione coelesti, ac proinde aeris marisque injuria independentem, de quo alias fusius dicendi locus erit>>
+<<[[(inprimis meridiano]] [[meridiano non nimis vicini]] __(in horizonte navis motum satis sensibilem habentis, seu polo non nimis vicini)__>>
+<<cognoscetur>>
+<<[[Uti]] Commodissimum autem est eligi stellam ejusdem paralleli cum nostro, aut saltem vicini, eamque meridiano non nimis 5 vicinam>>

@@ -1,0 +1,41 @@
+Xb 1674.
+
+__Schediasma de Calculo Elastico__
+
+1Cum viderem [[staticen]] [[cadentium]] accelerationem gravium cadentium
+praeclaris summorum Geometrarum Galilaei et Hugenii inventis [[sub leg]] [[certis legibus subjectam]] ad certas quasdam leges revocatam; ad Elateria gradum putavi promovendum, intacta fere Geometris, et certe non paulo intractabiliora. Eligam autem in exemplum considerationem Elaterii simplicissimi et purissimi, scilicet quod in aere [[extra controversiam]] deprehensum est.
+Sit massa aeris capax replendi rectanguli solidi ABCD redacta intra spatium BEFC. In producta BC sumatur recta CG, jungaturque DG et ipsi CG parallela ducatur FH.
+
+Cum omnis vis quam aer ad se restituendum exercet, oriatur a parvitate spatii materiam continente, manifestum est, aequalibus spatii decrementis aequalia esse virium incrementa.
+
+Ductis ergo rectis Basi BC parallelis numero infinitis, AD, (E)(H), IK, LM aequalibus intervallis [[distantibus]] AE, EI, IL, distantibus. Patet operculo quodam [[solido]] rigido AD uniformiter versus BC progrediente [[aequalibus temporibus aequalia]] percurri spatia AEFD, EIKF, ILMK etc. adeoque aequalia esse virium Elaterii incrementa. [[Quod si ergo]] Unde sequitur [[virium progressione]] vires Elaterii [[tempore]] quovis loco quaesitas, repraesentari posse [[applicatis]] Trianguli DCG applicatis, (F)(H), KN, MP cum applicatas Trianguli uniformiter crescere constet. Vis ergo quaesita [[in, erit ad vim]] operculo existente in IK, est ad vim quaesitam operculo existente in LM ut Triangulum DKN, ad Triangulum DMP.
+
+Eadem valet demonstratio si ABCD sit [[columnare]] cylinder, aut prisma vel cylindricum quodlibet. Sed si sit conoeides parabolicum, et loco trianguli DCG describenda erit parabola; si sit conus vel sphaera [[describenda erit parabola cubica]] describendae erunt parabolae cubicae [[cubicae sed modo convexa modo concava]] quae satis paradoxa rationem non intelligenti. Cum autem Elateria quibus in Automatis utimur in spiram intorta esse soleant; eam utique formam considerare operae pretium erit, ut [[certis]] discamus qua ratione fusi ad aequabilitatem motus considerandam additi, deminutio, Geometrica lege fieri debeat: quam artifices postea quantum licet in materia exprimere possint. [[Sed cum ille sit potiss]] Sed de eo quidem postea, nunc non vires tantum sed et accelerationes Elaterii inter restituendum consideremus. Manifestum est autem ex his quae diximus, ut sunt in descensu gravium celeritates seu vires pro ratione temporum, ita esse in Elaterio cylindrico vires seu resistentias pro ratione locorum.
+
+Sed ut de temporibus quoque ratiocinemur, ponamus operculum AD operari pondere, quod aequale sit Elaterio aeris compressi in EF ac proinde ei eousque comprimendo par futurum. Patet hujus ponderis vim progressu continue [[ob resi]] decrescere, quod resistentiam semper majorem inveniat. Itaque initio in A ejus vis erit ut DFH, [[in erit]] at in I erit KNHF, in L erit MPHF, donec in E plane destruatur et evanescat. [[Sed]] Et haec quidem ita habent si nulla aut detrimento parietis vasis destructa esse intelligatur ponderis inter descendendum quaesita acceleratio.
+
+Sed si illam quoque in rationes venire velimus paulo subtilior sese inquisitio offert. Primum si pondus quoddam per perpendicularem tempore AQ descendat motu gravitatis constat ex demonstratis a Galilaeo spatia
+
+fig. 2. percursa fore in duplicata temporum ratione descripta ergo parabola AR, cujus axis AB tangens verticis ATQ. Si tempora sint ut AT, spatia fore ut TR applicatae ad tangentem verticis. Quod si contra spatia sint ut [[partes]] AS abscissae ex axe, erunt tempora ut SR ordinatae parabolae ad axem.
+
+Si tempora sint AB celeritates quaesitae CD [[vires]] erunt celeritates quaesitae BC. [[Spatia autem qu]] Sit AFE parabola cujus vertex A Tangens verticis AB applicatae BF et FG ipsis AB vel BC [[Ergo abscissae ex axe ⊓]] proportionales. Patet cum AB sint tempora [[vires]] incrementa [[virium]] uniformia DC celeritates quolibet momento B quaesitae BC, spatia infinite parva quolibet momento seu tempore infinite parvo [[viribus homogenea]] percursa celeritatibus proportionalia, FG (proportionalia ipsis BC) horum spatiorum infinite parvorum summa seu spatia quolibet tempore AB percursa erunt BF erunt ergo spatia quolibet momento percursa in duplicata virium eo momento ⟨compo⟩sitarum ratione [[. Ergo si vicissim tempora]] sive si vires sint x, erunt spatia percu⟨rsa AB⟩ (posito AB ⊓ BC). Ergo contra ponendo spatia erit x ⊓ √2ay0mm10mm.
+Erunt ergo ⟨−⟩ in subduplicata spatiorum ratione [[, adeoque si spatia sint crescant uni]]. Quare si corpus ⟨−⟩ per pedis altitudinem acquisivit vim [[ut]] unius gradus, labendo per duos acquir⟨et.⟩ Hinc et incrementa virium in quolibet [[momento temporis]] puncto spatii supposito perpendicularem descensus in infini⟨tum⟩ aequales infinite parvas divisam investigari possunt nempe x ⊓ differentiae inter duas √2ay proximas investigandae seu inter ⟨−⟩ fiet
+√2ay - 2aβ - √2ay ⊓ z sive 2ay + 2aβ ⊓ z^2 + 2z√2ay + 2ay, sive z^4 - 4aβz^2 + 4a^2β^2 ⊓ 8⟨z^2ay⟩⟨ - ⟩aβ^2 ⊓ 2z^2y0mm10mm et [[MATH]] seu erunt z, incrementa virium in quolibet spatio.~
+⟨--⟩ [[Habent enim haec applicatae Hyperbolae ut]] subduplicata. Habet enim Parabola hanc proprietatem sane memorabilem, ut progressio ordinatarum, sit progressioni incrementorum per quae ipsae ordinatae assurgunt reciproce proportionales. [[Nam]] Quod eo magis annotandum est, quo difficilius foret in casu necessitatis [[analytice invenire figuram]] solvere hoc problema: invenire figuram, in qua [[differentiae]] ordinatae sint incrementis ordinatarum reciproce proportionales. Incrementa autem ordinatarum seu z sunt EF vel (E)F.
+
+---
+Additions:
+<<naturaliter>>
+<<sive aeri ab operculo adimi>>
+<<inter se aequalia>>
+<<applicatis>>
+<<videbuntur>>
+<<fig. 3>>
+<<et tangenti>>
+<<seu applicatorum ad axem reciprocae seu in altitudinum ratione reciproca>>
+<<ad axem>>
+<<per terminos>>
+<<: Adde schediasma de progressionibus et Geometria arcana et methodo Tangentium, item schediasma de Methodo Tangentium inversa exemplum, eod⟨em mense.⟩>>
+<<aequalia esse: __Error__>>
+<<: Si tempora sunt … spatiorum ratione,: Demonstratio verissima satis elegans>>
+<<celeritates quaesitae: non incrementa>>

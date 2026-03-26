@@ -1,0 +1,15 @@
+Nam ex hac observatione praecise colligetur __aetas Lunae,__ quod ita ostendo.
+
+Constat Lunae revolutionem a primi mobilis revolutione 13. gradibus relinqui, ac proinde Lunam continue per totum Mensem, situm in sphaera fixarum mutare, ergo dato loco Lunae in sphaera fixarum, dabitur tempus mensis seu aetas Lunae.
+
+Videamus tantum an mutatio illa loci seu situs, in respectu fixarum, exiguo tempore sit sensibilis, ad tempus mensis satis accurate supputandum; quod ita inveniemus: cum Luna singulis 24. horis primi mobilis, 13. gradibus retardet, ergo una hora retardabit 13/24tis gradus, et minuto horae 13/1440mis gradus id est amplius paulo, quam parte gradus centesima vigesima, seu paulo amplius dimidio minuto primo gradus, quod [[scil]] scilicet in circulo latitudinis seu Parallelo in quo Luna versatur, est [[aestimanda]] [[aestimandum, quod tanto]] aestimandum. Idque tanto exactius poterit [[observationibus]] per observationes aestimari, quanto et ipsa __Luna aequatori est proprior,__ et nos propriores __ipsi Lunae.__ Quanquam certe, quod ad primum casum attinet,, paralleli aequatoris, seu circuli latitudinis intra aequatorem, in quibus scilicet solis luna versari potest, non admodum inter se et ab aequatore magnitudine differant; et quantum ad secundum, vicissim nos quanto magis a Luna versus Polum absumus, seu quanto major Poli elevatio est, eo minus exactitudine observationum indigeamus, quia error circa longitudines in Parallelo minore, seu ab aequatore remotione minus est sensibilis.
+
+Determinato ergo loco Lunae in sphaera fixarum, quanta fieri potest exactitudine; patet per Ephemerides ad institutum istud debite accomodatas, determinatum esse aetatem Lunae, seu tempus mensis [[, et]]. Et omnium
+
+---
+Additions:
+<<Lunae>>
+<<seu a puncto sphaerae fixarum sub quo antea fuerat, praevenietur>>
+<<differet>>
+<<(nam )>>
+<<licet Luna ab aequatore sit remotior>>

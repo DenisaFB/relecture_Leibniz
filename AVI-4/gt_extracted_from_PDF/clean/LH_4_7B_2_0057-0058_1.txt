@@ -1,0 +1,190 @@
+Affirmatioidentica : a est a, ut animal est animal. Vel ab est a, seu animal
+rationale est animal. Posses generalius dicere:
+7 NB. Idem. Si omne ergo et idem
+etiam omne erg. AB L. si omne erg. A... C.). erg. L
+est C (a) etiam (b) per L
+vel a est ab. Propositiovera : a est c si c est ab. (3) Propositio
+3 Si omne erg. A est C (1) ergo AB (2)
+9 nam (1) si (2) quia A
+19 (1) De propositionibus univ (2) Propositio (a) vera (b) identica : a est a
+(4) Propositio a f f i r m a t i v a (5)
+20 dicere: (1) Propositio (2) Propositio a f f i r m a t i v a (3) Affirmatio erg.
+3 f. Nam omne erg. AB est A per prop. 2. omne erg. A L
+idem erg. A est C etiam etiam idem A L
+Affirmatioidentica est haec: ab est a, nam aliquando potest b haberi pro non
+adjecto vel nihil significante, ut inde fiat a est a.
+Affirmatio vera est: c est d posito c aequipoll. ab et d aequipoll. a. Hinc patet
+identicam etiam esse veram cum scilicet loco c scriptum ab initio est ab, et loco d
+scriptum a. Patet etiam identicam esse per se veram, caeteras autem quatenus ad
+identicas revocantur. Si quis dubitat an propositiones identicae si[n]t verae, seu an
+animal sit animal, cum eo sermonem mihi esse nolo. Nam frustra disputabimus, etiamsi
+enim probem rem aliquam esse, respondebit ille eam etiam non esse. Qui ergo aliam
+quaerunt veritatem, eam alibi quaerent.
+Si c aequipoll. ab, erit cdefinitum, et ab definitio, verbi gratia homo est idem 10
+quod animal rationale, quadratum est idem quod quadrilaterum rectangulum.
+Te rminusprimitivus est cujus nulla est definitio, seu qui non nisi per se
+concipitur cum scilicet nihil aliud in ejus conceptum ingreditur quod cum alio concurrens
+Danturterminiprimi, nam si nihil per se concipimus, omnino nihil
+concipimus. Perinde enim esset ac si quaerenti responderem semper per voces quas non
+intelligit et harum explicationem quaerenti rursus per alias quas non intelligit, utique si
+sic semper pergam, nihil intelliget.
+Resolutio est substitutio definitionis in locum definiti, Compositio est
+substitutio definiti in locum definitionis.
+E j u s d e m d e f i n i t i m u l t a e p o s s u n t e s s e definitio n e s. Sit enim definitum
+a, ejusque definitio bcd sitque bc aequ. l et bd aequ. m, et cd aequ. n, tunc oriuntur tres
+novae ipsius a definitiones, nempe: a aequ. ld, a aequ. mc, a aequ. nb cui accedet quarta
+3 c est d (1) posito esse
+3 f. patet (1) omnem veram revocari posse ad identicam, et
+c aequ. ab et d (2) posita propos (3) posito c L
+4 scilicet (1) c est 〈 – 〉 (2) pro c scriptum est a (3)
+ipsam identicam contineri sub vera (2) identicam L
+7 esse (1) 〈fido〉 (2)
+6 f. seu... sit animal erg. L
+9 veritatem, (1) aliud (2) eam L
+8 esse. (1) Definitio (2) Qui L
+9–19 quaerent. (1) Ratio (2) Definitio (a) c est ab. (b) c aequ. ab (3) Definitio est ab, si erg. c aequipoll.
+ab. (4) Definitio est ab posito c aequipoll. erg. u. gestr. verbi gratia homo est animal rationale. Quadratum
+(5) Si... definitum (a) ab est (b) et...
+est (a) quadrilaterum rectan (b) aequilaterum rectangulum.
+rectangulum. (aa) Te rminusprimusestqui (bb) Res simplex seu terminus primus, seu notio per se
+concepta (cc) Res per se concepta vel terminus primus, vel notio simplex est cujus nulla est definitio seu quae
+resolvi non potest (dd) Te rminus... intelliget. erg.
+Requisitum (ccc) Resolutio L
+(aaa) Requisitum est a, item b. si (bbb)
+7 eo (1) sermo ne〈–〉 (2) sermonem L
+a aequ. bcd. Exempli causa: 24 est 2, 3, 4. Iam 2, 3 est 6, et 2, 4 est 8, et 3, 4 est 12.
+Ergo fiet: 24 aequ. 6, 4; 24 aequ. 8, 3; 24 aequ. 12, 2; et denique 24 aequ. 2, 3, 4.
+In definitionibus ad amussim exasciatis et ad calculum aptatis, opus est ut quaelibet
+terminorum combinatio reliquum aliquem non contineat, exempli causa definitio haec:
+Homo est substantia sentiens rationalis non est ad calculum aptata, nam jam tum patet
+sentiens rationale esse substantiam.
+Si termini b, c, d essent iterum resolubiles multo plures orirentur definitiones.
+Omnis proprietas reciproca potest esse definitio. Definitio eo perfectior est quo
+minus resolubiles sunt termini qui in eam ingrediuntur.
+Definitio satis perfecta est, si ea semel explicata dubitari non potest an definitum sit
+possibile. Itaque definitio ista quadratum est planum aequilaterum rectangulum non est
+perfecta, adhuc enim dubitari potest an detur figura plana aequilatera cujus omnes anguli
+sunt recti, sed si definias figuram factam ductu rectae in rectam aequalem cui ad angulos
+rectos insistit, dubitari non potest an sit possibilis hujusmodi figura. Sunt tamen interdum
+causae cur aliae definitiones aliis praeferantur pro ratiocinandi commoditate, et certe
+nihil refert quanam proprietate utaris pro definitione, modo ex una proprietate alias
+Si una ex definitionibus eligatur caeterae ex ea demonstrabuntur ut proprietates.
+Unaquaeque proprietas reciproca totam subjecti naturam exhaurit, seu ex unaquaque
+proprietate reciproca duci possunt omnia.
+Sit enim subjectum a et proprietas reciproca ld. Patet per ipsius l resolutionem inde
+caetera posse duci, nempe a aequ. bcd, a aequ. mc, et a aequ. nb.
+Si proprietas una ex alia facilius demonstrari potest, verbi gratia sit a aequ. bcdefg,
+sit bc aequ. l, de aequ. m, gf aequ. n, et lm aequ. s, sitque bdg aequ. t, et cef aequ. v,
+1 a aequ. bcd. (1) Et quidem si termini b, c, d iterum resolvi possint fient multo plures: (a) Exempli
+causa. (aa) Homo est (aaa) animal (bbb) substantia extensa rationalis. (ccc) sentiens rational (bb) Homo est
+(aaa) vivum sentiens rationale. Vivum sentiens est animal (bbb) organicum sentiens rationale. Organicum
+sentiens est animal (cc) Homo est substantia sentiens conscia. Substantia sentiens est animal. Substantia
+conscia est (b) Qua (c) Verbi gratia: (aa) Quadratum est planum quadrilaterum aequiangulum. (bb) Homo est
+(aaa) exte (bbb) sen (ccc) sensibile sentiens rationale. (2) Exempli L
+terminorum combinatio (1) tertium non (2) reliquum L
+possibilis (2) definitum L
+quia dubitari potest an detur (3) quadratum est str. Hrsg. planum L
+(1) quadrilaterum aequiangulum (2) figuram L
+21 enim (1) definitu (2) subjectum L
+sitque (a) bcd (b) bdg L
+11 est (1) aequilaterum (2) quadrilaterum erg. rectangulum non est perfecta,
+16 quanam (1) utaris definitione, modo (2) proprietate L
+22 f. nb. (1) ubi patet etiam
+24 s, (1) erit a aequ. sn (2)
+5 nam (1) in (a) sub (b) sentiente jam latet substantia, et (2) jam L
+22 duci, (1) ideoque (2) nempe L
+23 f. bcdefg (1) sit bcd aequ. l. ef aequ. g. (2) sit L
+24 v, (1) fiet: (2) patet ex proprietate: definitione bcd (3) sintque L
+3 f. quaelibet duorum gestr.
+12 aequilatera erg. L
+sintque tres definitiones ipsius a nempe bcdefg, sn, vt. Patet ex bcdefg facile demonstrari
+sn vel vt, sed sn et vt ex se invicem difficilius et non nisi post multas resolutiones
+Requisitum est quod definitionem ingredi potest ut in praecedenti g, n, s. Est
+itaque requisitum ad definitionem, ut pars ad totum, seu ut numerus factor ad productum.
+Ratio est probatio a priori, seu probatio facta per analysin in simpliciora, v.g. a est
+sn, quia a est lmn, et s est lm.
+Causa est Res cujus existentia vel modus existendi est ratio existentiae alterius
+quae dicitur effectus, v.g. miles est causa paupertatis rustici, nam ex quodam
+praedicato militis, quod est licentia sequitur rustici paupertas seu ex hac propositione:
+miles est licentiosus sequitur haec propositio: rusticus est pauper. In abstractis, si a est b
+quia c est d, erit c causa, ab effectus, vel erit: cd causa, ab effectus. Sed quid si a est b
+quia c est d et e est f, quodnam erit causa quodnam effectus? Inspiciemus in quonam sit
+actio seu principium mutationis. Certe uniuscujuscunque propositionis ratio reddi potest
+tum per unam tum per multas, sed homines quaerunt aliquam stationem seu principium 15
+motus, cum causam quaerunt. Ut causa homicidii est qui ferit letaliter non qui irritat,
+nam ex hoc non sequitur homicidium; quia homo irritatus non se habet mere passive dum
+irritationem suscipit. At qui ferit est causa homicidii, non gladius, nam in ipso est
+principium motus, ex quo sequitur homicidium. Saepe tamen varie causam sumimus, pro
+variis gradibus quibus aliquis ad effectum concurrit.
+Agens est ex cujus statu sequitur mutatio aliqua. Patiens est cujus mutatio
+sequitur ex statu alterius. In abstractis: si a fit b quia c est d, erit c agens, et a patiens.
+Ens est id quod intelligi potest de a, b, c, quibuscunque.
+Si a est b, et b est a, erit a et b idem.1 Secus a et b erunt diversa, si scilicet vel a
+non est b vel b non est a, vel neque a est b, neque b est a.2 Si a est m, et nihil praeterea 25
+1 Am Rande: Si a est b nec tamen b est a erit aspecies, et bgenus.
+2 Am Rande: Quae ultima dicuntur disparata, diversa scilicet quae non se habent ut
+5 seu ut (1) factor (2) numerus L
+8 est (1) cujus existentia (2) Res L
+3 f. demonstrari. (1) Requisitum est quod ingreditur definitionem, ut (2) Requisitum L
+5 f. productum. (1) Causa est (2)
+essentiam ut (2) definitionem L
+9 effectus (1) Simplici (2) Natura prius darüber:
+simpl erg. u. gestr. est (a) cujus requisita conti (b) quod aliqua tantum ex requisitis alterius habet, seu quod
+paucioribus indiget. (3) v.g. (a) fur est causa paupertatis ejus cui furatur, nam ex quodam praedicato furis, v.g.
+13 et quia gestr. e L
+13 erit (1) ef (2) causa L
+21 Patiens est (1) ex cujus
+tunc (2) ponitur (a),
+statu (a) st (b) non sequitur mu (2) cujus L
+tunc (b) esse m tunc L
+12 effectus. (1) Videtur tamen plerumque desiderari ut (2) Sed L
+16 f. irritat, (1) non qui (2) nam ex (a) his omnibus (b) hoc L
+10 seu (1) sequitur haec propo (2) ex L
+25–S. 154.1 praeterea (1) est m gestr.
+21 statu aliquo gestr. sequitur L
+11 pauper. Ergo gestr.
+ponitur esse m tunc m est unum. Si a est m et b est m, et c est m, etc. plura sunt m,
+modo a, b, etc. sint diversa. Scilicet duo,
+Si a est b erit asubjectum, et b erit praedicatum.
+Si a est bc etiam a est b, quia bc est b quae novissima est propositio fundamentalis
+Si a est b et b est a, potest unum pro altero substitui salva veritate.
+Subjectum substitui potest in locum praedicati seu si a est b, et b est c, etiam a est c.
+Nam qui dicit b est c, nihil aliud dicit quam omne subjectum cujus praedicatum est b, est
+c, atqui a est tale subjectum ex hypothesi bc est b, seu animal rationale est animal, est
+etiam propositio fundamentalis.
+Una tantum est propositio fundamentalis: bc est b.
+Et una tantum est consequentia fundamentalis a est b, et b est c, ergo a est c.
+Hinc si a est b, et b est a, potest unum in alterius locum substitui salva veritate. Sit
+propositio: b est c, poterit substitui a est c, quia a est b. Sit porro propositio d est b,
+substitui poterit d est a, quia b est a. Nimirum quia a est b potest a substitui in locum b
+subjecti. At quia b est a poterit a substitui in locum b praedicati.
+Idem est a et b, si unum ubique in alterius locum substitui potest. Simile est idem
+tale, seu quorum eadem qualitas.
+Similia sunt quorum diversitas probari non potest a priori, quatenus hoc sunt quod
+dicuntur, ita figurae similes sunt, quorum diversitas probari non potest quatenus sunt
+figurae, nempe ex situ et magnitudine.
+Si a est c, et b est c, et a et c esse abstracta probari non potest per variationes ipsius
+c quatenus est c seu per abstracti ipsius c variationes, erunt haec duo c inter se similia,
+2 diversa. (1) Hinc (2) Seu si a est m, et m est a, erit (a) a unum (b) unum a, et unum m. (3) Scilicet L
+4 f. a est b (1). Si ac est b etiam a (2). Est propositio fundamentalis (a) circa usum characterum hu (b) hujus
+characteristicae (3) quia... characteristicae L
+10 fundamentalis (1) Itaque hae tantum (a) pro (b) duae (c) propositio (d) 〈cons〉 (e)
+14 propositio (1) b est c.
+17–19 Simile... qualitas erg. (1) Simile est cujus
+(2) d est a. (3) d L
+19 priori, (1) quatenus (2) seu (3) quatenus L
+diversitas probari aliqua ratione non potest. (2) Similia L
+24 sed... aliter. erg. L
+23 quatenus est c erg. L
+7 praedicati (1) est regula fundamen (2) seu L
+23 per (1) abstractum (2) abstracti L
+14 propositio: (1) a est b (2) b L
+16 subjecti (1), quia (2) At L
+12 b. (1) Ergo (2) et L
+Qualitasseu Ta l e est praedicatum quod per se memoria retineri potest.
+Quantitas seu tantum est praedicatum quod sine adminiculo externo retineri non potest.
+Ita calidum est praedicatum quod retineo, nam si iterum redeat bene id agnosco. At
+magnitudo retineri non potest sine aliquo adminiculo nempe mensura aliqua, aut nomine
+Solo Numero differunt quae non nisi tempore et loco distinguuntur, seu quae per se
+discerni non possunt. Similia sunt quae per se discerni possunt si simul sint.
+[1. Hälfte 1679 (?)]

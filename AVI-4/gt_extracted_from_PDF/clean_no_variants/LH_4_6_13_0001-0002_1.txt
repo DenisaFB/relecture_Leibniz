@@ -1,0 +1,104 @@
+S. 225–227. 2. SCHMIDT, Fragmente, 1960, S. 445–449. 3. BIANCA, Scritti filos., 1967, Bd
+289–294.
+dem principium contradictionis und principium rationis sufficientis, sowie mit der Bedeutung der identischen
+Inquisitiones setzen wir es danach an.
+erg. L
+7 nobis meditando gestr. paramus. L
+4 prioris cognitionis
+Cum animadverterem plerosque omnes de principiis meditantes aliorum potius
+exempla quam rerum naturam sequi, et praejudicia etiam cum id maxime profitentur, non
+satis evitare; de meo tentandum aliquid, altiusque ordiendum putavi.
+Quoniam autem probando in infinitum iri non potest, consequens est aliqua sine
+probatione esse assumenda, non quidem tacita quadam obreptione, dissimulando hanc
+indigentiam nostram, quemadmodum fere solent philosophi, sed diserte admonendo
+quibusnam velut Assertionibus primis utamur, exemplo Geometrarum, qui ut suam
+usuri, ut sciant omnes sequentia saltem ex his positis hypothetice esse demonstrata.
+Ante omnia assumo Enuntiationem omnem (hoc est affirmationem aut negationem )
+aut veram aut falsam esse. Et quidem si vera sit affirmatio falsam esse negationem, si
+vera sit negatio falsam esse affirmationem. Quod verum esse negetur, (vere scilicet)
+falsum esse; et quod falsum esse negetur, verum esse. Quod negetur affirmari, aut
+affirmetur negari, id negari; quod affirmari affirmetur et quod negari negetur, id
+affirmari. Similiter quod falsum esse verum sit, aut verum esse falsum sit id falsum esse;
+quod verum esse verum sit, et quod falsum esse falsum sit verum esse. Quae omnia sub
+uno nomine Principiicontradictionis comprehendi solent.
+Videndum jam est, quaenam illa sint, quae vere affirmari negarique possint, unde et
+contradictoria eorum falsa esse intelligatur. Sunt autem verarum propositionum primae
+quae vulgo dicuntur identicae, ut A est A; non A est non A; si vera est propositio L,
+sequitur quod vera est propositio L. Et quamvis coccysmus inutilis in his enuntiationibus
+esse videatur, levi tamen mutatione utilia inde Axiomata nascuntur. Sic ex eo quod A est
+A, seu quod tripedale verbi gratia est tripedale, manifestum est unumquodque tantum
+3 altiusque sic gestr. ordiendum L
+ante omnia cognoscere debemus quid sit veritas, seu quibus criteriis verum a falso dignoscatur. Constituendae
+profitentur, L
+omnium gestr. quae L
+13 et erg. L
+19 f. primae
+12 (vere scilicet) erg. L
+(nunc) esse quantum est, seu esse sibi ipsi aequale. Unde (ut exemplo usum ostendam
+identicarum ) demonstratum est jam dudum a philosophis partem esse Minorem Toto;
+posita hac definitione: Minus est quod parti alterius (majoris) aequale est. Demonstratio
+ita absolvitur: Pars est aequalis parti totius (nempe sibi, per axioma identicum), quod
+parti totius aequale est id toto minus est (per definitionem minoris ), ergo pars toto minor
+est. Quod erat demonstrandum. Similiter ope propositionis identicae demonstratur
+subalternatio, seu collectio particularis ex universali. Omne A est B, ergo quoddam A est
+B supposito syllogismo primae figurae. Collectio talis est: Omne A est B (ex hypothesi ),
+quoddam A est A (per identicam ). Ergo quoddam A est B. Quae etsi non sint hujus loci,
+tamen exempli causa affero, ut appareat, identicas quoque suum usum habere.
+Nullamque veritatem, utcunque tenuis esse videatur, plane sterilem esse. Imo
+fundamenta caeterarum in his contineri mox apparebit.
+Nimirum ut identicae propositiones omnium primae sunt, omnisque probationis
+incapaces atque adeo per se verae, nihil enim utique reperiri potest, quod medii instar
+aliquid secum ipso connectat; ita per consequentiam verae sunt, virtualiter identicae,
+quae scilicet per analysin terminorum (si pro termino notio vel aequivalens vel inclusa
+substituatur), ad identicas formales sive expressas reducuntur. Manifestumque est omnes
+propositiones necessarias, sive aeternae veritatis esse virtualiter identicas, quippe quae ex
+solis ideis sive definitionibus (hoc est terminorum resolutione ) demonstrari seu ad
+primas veritates revocari possunt, ita ut appareat oppositum implicare contradictionem,
+et cum identica aliqua sive prima veritate pugnare. Unde et Scholastici notarunt veritates
+quae sunt absolutae seu metaphysicae necessitatis ex terminis posse demonstrari,
+opposito quippe contradictionem involvente.
+Generaliter omnis propositio vera (quae identica sive per se vera non est) potest
+probari a priori, ope Axiomatum, seu propositionum per se verarum, et ope definitionum 25
+seu idearum. Quotiescunque enim praedicatum vere affirmatur de subjecto, utique
+censetur aliqua esse connexio realis inter praedicatum et subjectum, ita ut in propositione
+quacunque ut A est B (: seu B vere praedicatur de A :) utique B insit ipsi A, seu notio ejus
+7 universali supposito. Omne L
+syllogismo primae figurae erg. u. gestr.
+fundamenta L
+verae erg. L
+erg. L
+20–23, ita... involvente erg. L
+8 supposito... figurae erg. L
+in notione ipsius A aliquo modo contineatur, idque vel absoluta necessitate in
+propositionibus aeternae veritatis, vel certitudine quadam ex supposito decreto
+substantiae liberae pendente, in contingentibus, quod decretum nunquam omnimode
+arbitrarium et fundamenti expers est, sed semper aliqua ejus ratio (inclinans tamen, non
+vero necessitans) reddi potest, quae ipsa ex notionum analysi (si ea semper in humana
+potestate esset) deduci posset; et substantiam certe omnisciam, omniaque a priori ex ipsis
+ideis suisque decretis videntem, non fugit. Constat ergo omnes veritates etiam maxime
+contingentes probationem a priori seu rationem aliquam cur sint potius, quam non sint
+habere. Atque hoc ipsum est quod vulgo dicunt, nihil fieri sine causa, seu nihil esse sine
+ratione. Haec tamen ratio utcunque fortis (quanquam qualiscunque sufficiat ad majorem
+in alterutram partem inclinationem ) etsi certitudinem in praesciente constituat,
+necessitatem tamen in re non ponit, neque contingentiam tollit, quia contrarium
+nihilominus per se possibile permanet, nullamque implicat contradictionem, alioqui quod
+contingens esse supposuimus, necessarium potius seu aeternae veritatis foret.
+Hoc autem Axioma, Quod Nihilestsineratione, inter maxima et
+foecundissima censendum est totius humanae cognitionis, eique magna pars
+Metaphysicae, physicae, ac moralis scientiae inaedificatur, quin et sine ipso nec
+existentia Dei ex creaturis demonstrari, neque a causis ad effecta vel ab effectis ad causas
+argumentatio institui, neque in rebus civilibus quicquam concludi potest. Adeo ut
+quicquid non mathematicae necessitatis est (quemadmodum formae Logicae et veritates
+numerorum), id omnino hinc sit petendum. Exempli causa Archimedes vel quisquis est
+autor libri De aequiponderantibus assumit duo pondera aequalia, eodem modo in libra
+respectu centri vel axis sita, esse in aequilibrio. Quod corollarium est tantum hujus nostri
+Axiomatis, cum enim omnia utrinque eodem modo se habere ponantur, nulla ratio fingi
+potest, cur in alterutram potius partem libra inclinetur. Hoc autem assumto caetera jam
+mathematica necessitate ab Archimede demonstrantur.
+4 f. (inclinans... necessitans) erg. L
+fundamenti erg. L
+sint L
+18 vel... causas erg. L
+21–23 Vgl. ARCHIMEDES, Planorum aequeponderantium inventa, vel centra gravitatis planorum
+(Kolumnentitel: De aequeponderantibus) in Opera, Basel 1544, S. 125.
+[April bis Oktober 1686 (?)]

@@ -1,0 +1,10 @@
+Propositiones circa tempus atque ordinem plurimae fieri possunt, quarum
+demonstratio debet ex calculo nostro pendere:
+quicquid futurum est id praesens erit,
+quicquid futurum est praeteritum erit,
+quicquid praeteritum est semper praeteritum erit,
+quicquid futurum est adhuc futurum erit, sed non semper,
+quicquid praeteritum est futurum fuit,
+quicquid praeteritum est praesens fuit.
+19 semper erg. L
+[Ende 1687 bis Ende 1688 (?)]

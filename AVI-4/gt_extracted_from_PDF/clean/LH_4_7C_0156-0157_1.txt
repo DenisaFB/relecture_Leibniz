@@ -1,0 +1,147 @@
+COUTURAT, Opusc. et fragm., 1903, S. 429–432.
+DeOrganosiveArteMagnacogitandi
+Felicitas hominis summa consistit in perfectione ejus quam maxime aucta.
+Vigor seu status perfectionis auctae in tantum est supra sanitatem, in quantum
+Morbus est infra sanitatem. Est enim perfectio excellentior sanitatis gradus. Uti
+morbus consistit in laesa facultatum functione, ita perfectio consistit in potentiae
+seu facultatis adjumento.
+21 perfectione (1) 〈natu〉 (2) hominis (3) ejus erg. (a) augenda (b) quam L, ubi agitur de vera Characteristica, Cabbala, Algebra, Arte Combinatoria, (1) Lingua
+(2) Scriptura Naturae (3) Scriptura universali, lingua naturae gestr. L
+21 (1) Ars (2) Organon est ars
+juvandi rationem per imaginationem (3) Organon sive Ars magna cogitandi est ars juvandi cogitationem (a)
+per co (b) ipso cogitandi modo. (4) Cum max (5) Felicitas (a) maxim (b) hominis (aa) maxima (bb) summa
+Perfectionum humanarum potissima est potentia cogitandi. Perfectionem autem augere, nihil aliud est quam
+potentiam juvare. Quemadmodum Morbus consistit in laesa (a) sanitate (b) facultatis alicujus erg. functione
+ita (aa) perfectionis (bb) Vigor seu (aaa) poten (bbb) perfectionis incrementum, quae est excellentior quidam
+crescentis (2) auctae L
+24 laesa (1) facultatis alicujus (2)
+24 f. in (1) facultatum (2) potentiarum seu facultatum (3) potentiae seu facultatis L
+23 enim (1) Vigor ea (2) perfectio L
+DE ORGANO SIVE ARTE MAGNA COGITANDI
+Humanarum facultatum potissima est v i s cogitandi.
+Vis cogitandi juvari potest, vel per remedia corporis vel per remedia mentis.
+Remedia corporis sunt corpora quae ipsis organis corporeis applicantur quibus
+torpor discutitur, imaginatio firmatur, sensus acuuntur. Sed haec non sunt hujus loci.
+Remedia Menti praescripta consistunt in certis cogitandi modis, quibus aliae
+cogitationes faciliores redduntur.
+Maximum Menti Remedium est si inveniri possint cogitationes paucae, ex quibus
+exurgant ordine cogitationes aliae infinitae. Quemadmodum ex paucis numeris ab unitate
+usque ad denarium sumtis caeteri omnes numeri ordine derivari possunt.
+Quicquid cogitatur a nobis aut per se concipitur, aut alterius conceptum involvit.
+Quicquid in alterius conceptu involvitur id rursus vel per se concipitur vel alterius
+conceptum involvit. Et ita porro.
+Itaque vel eundum est in infinitum, vel cogitationes omnes resolvuntur in eas quae
+per se concipiuntur.
+Si nihil per se concipitur, nihil omnino concipietur. Nam quod non nisi per alia
+concipitur, in tantum concipietur in quantum alia illa concipiuntur et hoc rursum ita: ac
+proinde tum demum actu ipso aliquid concipere dicemur, cum in ea quae per se
+concipiuntur incidemus.
+Similitudine rem illustrabo. Dono tibi centum accipienda a Titio; Titius ad Cajum te
+remittit; Cajus ad Maevium, quod si ita perpetuo remittaris nunquam quicquam accepisse 20
+Necesse est eorum quae per se percipiuntur plura esse. Sit enim a, quod concipitur
+per b, seu quod b involvit; ajo ipsum a necessario non solum b, sed etiam aliquid aliud
+praeterea involvere; nam si per solum b concipitur, utique nihil aliud concipi poterit in a,
+quod non concipi possit in b, itaque nullum erit discrimen inter a et b. Quod est contra 25
+hypothesin, posuimus enim a per aliud nempe b concipi. Itaque necesse est a minimum
+per duo concipi, verbi gratia b et c.
+1 f. cogitandi. (1) Cogitationes juvantur multis modis (2) Vis L
+7 si (1) excogitari (2) inveniri L
+2 corporis (1) per corpora ut si remediis utamur (2) vel L
+cogitationes (2) remedia L
+quae... applicantur erg. quibus (1) sensus discutitur, memoria (2) torpor... imaginatio L
+per artem (2). Quemadmodum L
+9 ordine (1) nascuntur. (2) derivari possunt. L
+15–17 quod (1) per aliud concipitur, in tantum concipitur in quantum (a) aliud (b) illud alterum concipitur et
+hoc rursum ita: ac proinde tum demum (aa) incipi poterit (bb) dicere nos (cc) absolute ac sine conditione (aaa)
+dici (bbb) nos (2) non... ipso L
+18 f. incidemus. (1) Exemplo (2) Similitudine L
+23 f. non (1) per solum b, sed etiam aliquid aliud praeterea concipi; (2) solum... involvere; L
+8 f. paucis (1) numerorum characteribus (2) numeris... caeteri L
+13 vel (1) ad ea (2) veniendum est (3) cogitationes L
+7 cogitationes (1), quibus (2) paucae, L
+2 per (1) corpora vel per alias
+Tametsi infinita sint quae concipiuntur, possibile tamen est pauca esse quae per se
+concipiuntur. Nam per paucorum combinationem infinita componi possunt.
+Imo id non tantum possibile sed et credibile seu probabile est, nam natura solet
+quam maxima efficere quam paucissimis assumtis, id est operari simplicissimo modo.
+Fieri potest, ut non nisi unicum sit quod per se concipitur, nimirum Deus ipse, et
+praeterea nihilum seu privatio, quod admirabili similitudine declarabo. Numeros vulgo
+explicamus per progressionem decadicam, ita ut cum ad decem pervenimus, rursus ab
+unitate incipiamus, quam commode id factum sit nunc non disputo; illud interea
+ostendam, potuisse ejus loco adhiberi progressionem dyadicam, ut statim ubi ad
+binarium pervenimus rursus ab unitate incipiamus; hoc modo:
+1001 1010 1011 1100 1101 1110 1111 10000
+Immensos hujus progressionis usus nunc non attingo: illud suffecerit annotare quam
+mirabili ratione hoc modo omnes numeri per unitatem et nihilum exprimantur.
+Quanquam autem spes nulla sit homines in hac vita ad hanc seriem rerum arcanam
+pervenire posse, qua pateat quanam ratione cuncta ex Ente puro et nihilo prodeant,
+sufficit tamen analysin idearum eousque produci, quousque demonstrationes veritatum
+Omnis idea tum demum perfecte resoluta est, cum demonstrari potest a priori eam
+esse possibilem. Nam si definitionem aliquam demus, nec ex ea appareat ideam quam rei
+ascribimus possibilem esse, non possumus demonstrationibus fidere quas ex definitione
+duximus, quia si idea illa forte contradictionem involvit, fieri potest ut contradictoria
+etiam de ea simul sint vera, adeoque demonstrationes nostrae erunt inutiles. Unde patet
+definitiones non esse arbitrarias. Atque hoc est arcanum vix cuiquam satis
+1 concipiuntur, (1) fieri tamen potest, ut pauca sint (2) possibile... esse L
+Alphabetumcogitationumhumanarum est catalogus eorum quae per se concipiuntur, et quorum
+combinatione caeterae ideae nostrae exurgunt. (2) Fieri L
+hoc (2) ostendere quam (3) annotare quam erg. (a) adm (b) mirabili L
+sufficit assumi aliqua (c) sufficit L
+5 quod (1) percipi (2) per se (a) percipitur, (b)
+18 ex (1) Deo (2) Ente et nihilo
+18 f. nihilo (1) oriantur; ostendam tamen (2) prodeant, (a) possunt (b) illud tamen
+15 (1) Mirabiles hujus expressionis (2) Immensos... progressionis L
+DE ORGANO SIVE ARTE MAGNA COGITANDI
+Quoniam vero non est in potestate nostra perfecte a priori demonstrare rerum
+possibilitatem, id est resolvere eas usque in Deum et nihilum, sufficiet nobis ingentem
+earum multitudinem revocare ad paucas quasdam, quarum possibilitas vel supponi ac
+postulari, vel experimento probari potest. Ita omnes lineae motuum in tota Geometria,
+revocantur ad duos tantum motus, unum in linea recta, alterum in linea circulari. His
+duobus enim suppositis demonstrari potest alias omnes lineas exempli causa, Parabolam,
+Hyperbolam, Conchoidem, Spiralem, possibiles esse. Rectam autem duci et circulum
+describi Euclides non docuit, sed postulare satis habuit. Quanquam posito spatio,
+corpore, linea recta et motu continuo, possit etiam demonstrari possibilitas circuli. Imo et
+linea recta demonstrari potest posito spatio et corpore et motu continuo. Quid autem de 10
+tribus his continuis sentiendum sit videtur pendere ex consideratione perfectionis
+divinae. Sed Geometria ad haec assurgere necesse non habet. Nam etiamsi non darentur
+in natura nec dari possent rectae ac circuli, sufficiet tamen dari posse figuras, quae a
+rectis et circularibus tam parum absint, ut error sit minor quolibet dato. Quod satis est ad
+certitudinem demonstrationis pariter et usus. Posse autem dari hujusmodi figuras non
+difficulter demonstratur, modo admittatur hoc unum; aliquas dari lineas.
+Quarum idearum definitiones perfectas (id est possibilitatem rei a priori
+ostendentes) habere ab initio difficile est, earum interim adhibebimus definitiones
+nominales, id est ideam ejus rei resolvemus in alias ideas, per quas concipi potest, etsi
+non possimus progredi usque ad primas. Et hoc tum sufficiet cum experimento constat
+rem esse possibilem. Exempli gratia ignem definire possumus vaporem calidum et
+lucidum, iridem definire licet arcum in nubibus coloratum, satis enim constat
+experimento hujusmodi conceptus esse possibiles, tametsi non statim initio possimus
+ostendere eorum possibilitatem a priori, explicando generationem seu causam.
+1 nostra (1) dem (2) perfecte L
+7 Spiralem, etiam gestr. possibiles L
+8 f. Quanquam (1) posita
+10 f. de (1) cont (2) tribus L
+14 quolibet (1) as (2)
+17 idearum (1) cau (2)
+10 posito (1) motu continuo et (2) spatio L
+12 Geometria per se erg. u. gestr. ad L
+16 f. lineas (1), qualescunque (2). Quaecunque ideae (3). Quarum L
+linea recta, (2) posito... et L
+11 videtur (1) sequi ex (2) pendere L
+definitiones (a) causales (b) reales (c) perfectas erg. L
+18 ostendentes) (1) non habemus (a) earum
+adhibebimus defi (b) eas adhibebimus interim (c) earum initio interim adhibebimus (2) habere ab initio erg.. adhibebimus L
+vaporem... lucidum erg. L
+23 f. possimus (1) ex (2) ostendere (a) ejus (b) eorum erg. possibilitatem ejus str. Hrsg. a L
+24 explicando ejus gestr. generationem L
+21 f. ignem... possumus (1) corpus (2)
+22 coloratum, (1) tametsi (2)
+22 f. constat (1) hujusmodi conceptum esse possibilem, (2) experimento... possibiles, L
+19 quas (1) concipitur, (2) concipi potest, L
+Ignis est corpus calidum et lucidum.
+22 definire (1) posse (2)
+Sunt quaedam quorum nullae dantur definitiones nominales. Ita ipsius caloris et
+lucis nullae dantur definitiones nominales, ignoranti enim quid caloris nomine
+significatur non aliter succurri potest, quam vel rem de qua agitur exhibendo vel nomina
+aequipollentia in lingua ipsi nota nominando; aliave ratione memoriam ejus excitando, si
+olim calorem sensit. Causam tamen caloris aliquam nemo dubitat, quae si nota esset
+perfecte, utique daretur caloris definitio.

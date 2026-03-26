@@ -1,0 +1,211 @@
+E 1 ERDMANN, 1840, S. 82–85.
+Omnia quae certo cognoscimus, vel demonstrationibus vel experimentis
+constant. Et in utroque dominatur ratio. Nam ipsa arsinstituendiexperimenta,
+iisque utendi certis rationibus nititur, quatenus scilicet a casu sive fortuna non pendet.
+Missis nunc experimentis, quippe quae sumtibus et apparatu et [tempore] indigent,
+quin et fortuna adjuvantur, dicamus tantum deperficiendisscientiisquatenus
+rationenituntur.
+Progressus Artis inventoriae rationalis pro magna parte pendet a perfectione Artis
+Causa cur non nisi in solis Numeris et Lineis, et rebus quae his repraesentantur
+Demonstrationes quaeri ab hominibus soleant, nulla alia est, quam quod characteres
+tractabilesnotionibusrespondentes extra Numeros non habentur. Quae causa
+est etiam, cur ne Geometria quidem hactenus Analytice tractata sit, nisi quatenus ad
+numeros revocatur per Analysin Speciosam, in qua numeri generales literis designantur.
+Datur tamen alia AnalysisGeometriaesublimiorperproprios
+Characteres, qua multa pulchrius breviusque quam per Algebram praestantur, cujus et
+specimina habeo.
+Et dari demonstrationes etiam extra Magnitudines, vel Logicorumformae
+documento esse possunt, quin et Jurisconsulti in Digestis quaedam exhibent vere
+demonstrata, cujus rei specimina produxi dissertatione de Conditionibus; et Joh[annes]
+Suisset dictus Calculator aliique post ipsum, etiam inMetaphysicisdedere
+demonstrationes de gradibus intensionibusque formarum; et quaedam a Platonicis et
+Aristotelicis dicuntur, quae non difficulter demonstrationis forma indui possent.
+Hrsg.
+soleant, L
+inter erg.
+12 non nisi erg. L
+7 f. quippe... adjuvantur, erg. L
+7 tempora L ändert
+22 cujus...
+22 G. W. LEIBNIZ, Disputatio juridica de conditionibus und Disputatio juridica posterior de
+conditionibus, Leipzig 1665 (VI, 1 N. 5 u. 6).
+DE ARTE CHARACTERISTICA
+Si daretur vel lingua quaedam exacta (qualem quidam Adamicam vocant) vel
+saltem genusScripturaeverephilosophicae, qua notiones revocarentur ad
+Alphabetumquoddamcogitationumhumanarum, omnia quae ex datis ratione
+assequi licet, inveniri possent, quodamgenerecalculi, perinde ac resolvuntur
+problemata Arithmeticae aut Geometriae.
+Atque ea vera foret sive Cabbala vocabulorum mysticorum, sive Arithmetica
+numerorum Pythagoricorum, sive Characteristica Magorum hoc est Sapientum.
+Rei tantae suspicionem aliquam hausi pene adhuc puer, et qualemcunque de-
+scriptionem obiter inserui libello ab adolescente olim edito de Arte Combinatoria.
+Possibilem esse, imo facilem, et intra aliquot annos ab aliquot intelligentibus
+conspirantibusque pro suo primo gradu absolvendam, Geometrica sane certitudine
+possum demonstrare.
+Verissima pulcherrimaque compendia AnalyticaehujusGeneralissimae
+Mathematicae, cui tanto studio incubui, ut nescio an sint hodie multi, qui plus in ea
+operae posuerint.
+Certe abdita quaedam in Mathesi a me primum fuisse evicta cum applausu
+summorum Mathematicorum, constat inter eos qui studiis istis impensius delectantur.
+Loco AxiomatumetTheorematum Euclidaeorum de magnitudine et
+Proportione inveni ego alia multo majoris momenti, ususque generalioris, de
+Coincidentibus, Congruis, Similibus, Determinatis, de causaet
+effectu, sive de potentia ; de relationibus
+contento, de eo quod per se et per accidens fit; de generali natura substantiae, deque
+perfecta spontaneitate et ingenerabilitate atque incorruptibilitate
+substantiarum, deque unionererum ac conspiratione substantiarum inter se. Unde et 25
+modusque quo operantur substantiae, et concursus Dei, et causa mali et libertas
+conciliata providentiae certitudinique seu determinatae contingentium veritati; et
+metamorphosis pro metempsychosi.
+inuniversum, de continente et
+Proportione erg. L
+23 substantiae individualis gestr.
+27 f. et libertas... veritati erg. L
+11 pro... gradu erg. L
+9 ab adolescente erg. L, deque L
+19 f. et
+11 sane erg. L
+9 G. W. LEIBNIZ, Dissertatio de arte combinatoria, Leipzig 1666 (VI, 1 N. 8).
+Duobus utor in demonstrando principiis, quorum unum est: falsum esse quod
+implicat contradictionem, alterum est, omnis Veritatis (quae immediata sive identica
+non est) reddi posse ratione m, hoc est notionem praedicati semper notioni sui subjecti
+vel expresse vel implicite inesse; idque non minus in denominationibus extrinsecis quam
+Discrimen inter veritatesnecessariasetcontingentes fere idem est quod
+inter numeros commensurabiles et incommensurabiles. Ut enim in numeris commensu-
+rabilibus resolutio fieri potest in communem mensuram, ita in veritatibus necessariis
+demonstratio sive reductio ad veritates identicas locum habet. At quemadmodum in
+surdis rationibus, resolutio procedit in infinitum; et acceditur quidem utcunque ad
+communem mensuram ac series quaedam obtinetur, sed interminata; ita eodem pariter
+processu veritates contingentes infinita analysi indigent, quam solus Deus transire potest.
+Unde ab ipso solo a priori ac certo cognoscuntur. Etsi enim semper ratio reddi posset
+status posterioris ex priore; hujus tamen rursus ratio dari potest, neque adeo ad ultimam
+suo quodam modo extra seriem in Deo rerum autore poterat statim ab initio intelligi, a
+quo priora aeque ac posteriora et magis quam a se invicem dependent. Quaecunque igitur
+veritas analyseos est incapax demonstrarique ex rationibus suis non potest, sed ex sola
+divina mente rationem ultimam ac certitudinem capit; Necessaria non est. Talesque sunt
+omnes quas voco Ve ritatesFacti. Atque haec est radixcontingentiae, nescio an
+hactenus explicata a quoquam.
+DiscrimeninterNotionem obscuram et claram, confusam et distinctam,
+adaequatam et inadaequatam, suppositivam et intuitivam jam in Schediasmate quodam
+Actis Lipsiensibus inserto a me est explicatum.
+temere controversiasfiniri neque sectis silentium imponi posse, nisi a
+ratiocinationibus complicatis ad calculos simplices, a vocabulis vagae incertaeque
+significationis ad characteres determinatos revocemur.
+idque erg. L
+5 locum habere erg. L
+obtinetur L
+Facti. erg. L
+21 a quoquam erg. L
+26 temere erg. L
+10 f. utcunque
+11 quaedam infinita gestr.
+13–20 Etsi...
+27 complicatis erg. L
+27 simplices erg. L
+27 f. vagae incertaeque significationis erg. L
+28 determinatos erg. L
+24 Meditationes de cognitione, veritate, et ideis, in A.E., Leipzig, November 1684, S. 537–542 (N. 141).
+DE ARTE CHARACTERISTICA
+Id scilicet efficiendum est, ut omnis paralogismus nihil aliud sit quam error
+calculi, et ut sophisma in hoc novo scripturae genere expressum, revera nihil aliud
+sit quam soloecismus vel barbarismus, ex ipsis grammaticae hujus philosophicae
+legibus facile revincendus.
+Quo facto quando orientur controversiae, non magis disputatione opus erit inter
+duos philosophos, quam inter duos Computistas. Sufficiet enim calamos in manus
+sumere sedereque ad abacos, et sibi mutuo (: accito si placet amico :) dicere:
+calculemus.
+Ne quis autem a me impossibilia jactari aut sperari putet, sciendum est hac arte ea
+tantum convenienti studio adhibito posse obtineri, quaecunqueexdatis,
+quantocunqueingenio, possintelici, sive quae ex datis sunt determinata,
+prorsus ut in problematibus Geometriae. Quae vero facti sunt, et a fortuna vel casu
+pendent eatenus ad artem inveniendi non pertinere manifestum est.
+Et ne quis porro post hanc limitationem existimet, exigui igitur usus hanc artem fore
+naturalium, in arte examinandi corpora naturalia vel personas intelligentes; adeoque in
+vita communi, in medicina, jure, militaribus et reipublicae gubernatione; sciendum est
+quantum in his omnibus valet ratio (: valet autem plurimum :), tantum et multo magis
+posse hanc artem, quae nihil aliud est quam summa quaedam exaltatio, et
+compendiosissimuspersymbolanotasveusushumanaerationis.
+Itaque quando ex datis quaesitum non est determinatum aut exprimibile, tunc
+alterutrum hac analysi praestabimus, ut vel ininfinitumappropinquemus, vel
+quando conjecturis agendum est, demonstrativa saltem ratione determinemusipsum
+gradumprobabilitatis, qui ex datis haberi potest; sciamusque quomodo datae
+circumstantiae in rationes referri debeant, et quasi in bilancem, acceptis expensisque
+similem, redigi queant, ut quod maxime rationi consentaneum est, eligamus: in quo etsi
+fallamur aliquando, quemadmodum is qui perfectissime etiam mistos rationi aleae ludos
+novit, agemus tamen quicquid ratio jubet, et plerumque quemadmodum boni lusores
+fortunaeque ipsius fabri, quos ut proverbio dicitur, pilae talique quaerunt,1 optatum
+1 Am Rande: (Les balles cherchent les bons joueurs)
+6 duos erg. L
+6 enim erg. L
+10 convenienti studio adhibito erg. L
+21 f. tunc erg. L
+27 f. aliquando
+26 queant erg. L
+13 eatenus erg. L
+consequemur, et hoc ipsum judicabimus, quid non tantum verisimilius sed et tutius sit
+et quatenus conveniat spempretioemerepericulove. Quibus sane nihil majus ab
+humana ratione postulari potest. Itaque inter caetera molior ego Logicaepartem
+quandam, hactenus prope intactam, deaestimandisgradibusprobabilitatis, et
+statera probationum, praesumtionum, conjecturarum, indiciorum. Possum etiam
+ostendere, quomodo non minus in Calculo hoc generali, quam in Calculo Numerico
+examina sive indicia veritatis excogitari possint abjectioninovenariae talibusque
+aliis similibus respondentia. Prorsus quemadmodum abjectio haec per me a numeris
+communibus ad Algebram translata est.
+In hoc tamen semper discrimen manebit, interingenia, etiam post inventam et
+vulgatam hanc analysin, ut alii aliis promtius et majori extemporalitate ratiocinentur.
+Quemadmodum reperta licet Arithmetica et eo perfectionis redacta, ut pro communi usu
+nihil magnopere requiratur, nihilominus sunt quidam qui pene sine calculis aut calamo
+sola vi mentis maximas operationes promtissime absolvunt.
+Atque in his etiam dominabitur semper experientia, et homines in usu versati,
+etiam tunc cum haec ars prostabit, prae aliis minus exercitatis ingenio et scientia
+paribus, valebunt. Ut enim qui saepe calculavit certo quodam modo (exempli gratia per
+florenos et solidos), is memoria tenens proventus quos saepe expertus est, multo
+promtius computos tales absolvet, quam qui in aliis monetis magis quam in hac sunt
+versati; ita qui multa in aliquo genere experti sunt, illi memoria eventorum saepe
+ratiocinandi necessitatem praevenire possunt, atque adeo extemporalitate
+praepollent.
+Interim certum est, si haec ars analytica generalis vera aliquando absoluta et in
+consuetudinem traducta haberetur, homines ejus intelligentes atque exercitatos tantum
+aliis praestituros caeteris paribus, quantum sciens ignaro, doctus rudi, Geometra
+praestans tironi; Algebrista insignis vulgari calculatori. Ita enim debita diligentia
+adhibita, possunt
+3 inter caetera erg. L
+2 periculove erg. L
+3–9 Itaque... est. erg. L
+10 f. et vulgatam erg. L
+paribus L
+26 insignis erg. L
+20 in aliquo genere erg. L
+26–S. 915.9 Ita... imponunt. erg. L
+20 illi erg. L
+23 aliquando erg. L
+8 f. Vgl. De examine per abjectiones novenarii pro algebra, um 1680, in E. KNOBLOCH, Der Beginn der
+DE ARTE CHARACTERISTICA
+tandem reperiri omnia a quovis, et methodo certa, quantum ratione ex datis a maximo
+etiam ingenio atque exercitatissimo obtineri possent, solo promtitudinis discrimine
+manente; cujus majus in agendo quam in meditando inveniendoque momentum est.
+Plerumque enim, praesertim cum de scientiis augendis agitur, res meditandi moram
+ferunt. Quin et in agendo saepe homines festinatione peccant, culpa sua, et ut fit mora
+priore festinandi necessitatem sibi imponentes; ut proverbio etiam increbuerit, pigros
+semper festinare. Nempe qui rebus agendis vacant, nimia meditationis dilatione in
+ultimos agendi articulos, quasi ex re capturi consilium, praecipitando deinde
+deliberationis necessitatem inconsultam sibi imponunt.
+Et ut finiam, si inventio Telescopiorum et Microscropiorum tantum cognitioni
+naturae lucis attulit, facile intelligi potest, quantum praestare debeat novumhoc
+Organon, quo ipse MentisOculus, quantum in humana potestate est instruetur.
+Equidem temerarium foret promittere a primis aggressionibus postremam tantae
+artis perfectionem, quae crescet cum ipsa hominum experientia, prout (ipsa hac arte
+manuducente) plura semper et potiora Data eruentur. Quemadmodum tamen apud
+Sinenses ferunt, qui aliquot characterum millena norit, eum potissima scribere posse,
+caeteris magis reconditis vel cuique proprio artifici, vel majori Magistro servatis; ita hic
+quoque proportioneprogressuum sive hominis cujusque, sive totius generis
+humani fructus quoque artis hujus major sentietur.
+Interim hoc consequemur, ut sempercertaserieprogredivaleamus,
+quantum in potestate est, et quod hactenus minime factum est, ex datis quicquid fieri
+ac perfectionem mentis, utamuretfruamur, quantum fas est.
+1 tandem erg. L
+1 et... certa, erg. L
+14 hac arte erg. L
+17 proprio erg. L, et... vacant L
+190.DE CHARACTERIBUS ET DE ARTE CHARACTERISTICA
+[Sommer 1688 (?)]

@@ -1,0 +1,319 @@
+SCHMIDT, Fragmente, 1960, S. 315–326. 3. PARKINSON, Logical Papers, 1966, S.
+122–130. 4. M. MUGNAI, Leibniz e la logica simbolica, Florenz 1973, S. 79–86. 5.
+1 f. utrumque... rectangulum. erg. L
+DEF. 1. Eadem sunt quorum unum potest substitui alteri salva veritate. Si sint A et
+B et A ingrediatur aliquam propositionem veram, et ibi in aliquo loco ipsius A pro ipso
+substituendo B, fiat nova propositio, eaque itidem vera idque semper succedat in
+quacunque tali propositione; A et B dicuntur esse Eadem, et contra, si Eadem sint A et
+B, procedet substitutio quam dixi. Eadem etiam vocantur coincidentia. Aliquando
+tamen A quidem et A vocantur idem ; A vero et B si sint eadem vocantur
+DEF. 2. Diversa sunt quae sunt non eadem, seu in quibus substitutio aliquando
+B significat A et B esse eadem vel coincidentia.
+COROLLARIUM. Unde etiam, quae non sunt diversa sunt eadem.
+DEF. 3. Si plura simul sumta coincidant uni; plurium quodlibet dicitur inesse vel
+contineri in uno isto, ipsum autem Unum dicitur continens. Et contra, si quid insit
+alteri, erit inter plura simul coincidentia illi alteri. Ut si A et B simul sumta coincidant
+ipsi L; A, ut et B dicetur inexistens vel contentum ; at L dicetur continens. Fieri
+L, et coincidant A et
+tamen potest, ut continens et contentum coincidant, ut si sit A + B
+L, tunc enim B nihil aliud continebit quam A, sed si non significet A, significabit Nihil.
+A, significat A et B esse diversa.
+SCHOLIUM. Non omne inexistens est pars, nec omne continens est totum, ex. gr.
+quadratum inscriptum, et diameter circulo inest; et quadratum quidem est pars circuli,
+15–17 Eadem... coincidentia. erg. L
+23 DEF. 3. (1) Coincidentia (2) Si L
+24 f. Et... alteri, (1) possint plura intelligi,... alteri erg. (a) quorum ipsum sit unum (b) 〈 – 〉 (c) quanquam si id quod inest erg. u.
+23 uni; (1) illorum unumquodque (2) plurium quodlibet L
+(2) erit inter plura erg.
+28 si (1) aliquo (2) non L. Ut L
+29 f. ex. gr. (1) Diameter (a) la (b) et (2) quadratum (a) et latus quadrati (b) inscriptum, (aa) et latus ejus
+circulo inest, (bb) et L
+NON INELEGANS SPECIMEN DEMONSTRANDI IN ABSTRACTIS
+diameter vero non est pars ejus. Addendum est ergo aliquid ad notionem totius et partis
+accurate explicandam, quod non est hujus loci. Et vero non insunt tantum, sed et detrahi
+possunt ea quae partes non sunt, ex. gr. centrum ex circulo ita ut in residuo sint omnia
+puncta praeter centrum; id enim residuum erit locus omnium punctorum intra circulum,
+quorum distantia a circumferentia est minor radio, cujus loci differentia a circulo est
+punctum, nempe centrum. Ita locus omnium punctorum quae moventur, sphaera duobus
+ejus punctis diametro distantibus, immotis, mota, fit si a sphaera detrahas axem seu
+diametrum per duo puncta immota transeuntem.
+Iisdem positis, A et B simul sumta dicuntur constituentia, L autem
+L significat A inesse ipsi L, vel contineri a [L].
+SCHOLIUM. Etsi A et B habeant
+aliquid commune, ita ut ambo simul
+sint majora ipso L; nihilo minus locum
+habebunt, quae hoc loco diximus aut
+dicemus. Exemplo rem declarare utile
+erit: L significet rectam RX, et A
+partem ejus, rectam scilicet RS, et B
+aliam ejus partem, rectam scilicet XY.
+Ponatur quaelibet harum partium RS,
+vel XY major esse dimidio totius RX;
+utique non potest dici A + B aequ. L
+seu [RS] + XY aequ. RX. Nam revera
+quia YS est pars communis ipsarum RS
+et XY, erit RS + XY aequ. RX + SY, et
+tamen vere dici potest rectas RS et XY simul, coincidere rectae RX.
+DEF. 4. Si aliquid M insit ipsi A itemque insit ipsi B, id dicetur ipsis commune, ipsa
+autem dicentur communicantia. Si vero nihil commune habeant, ut A et N (verbi
+gratia rectae RS et XS) dicentur i n communicantia.
+2–9 Et... transeuntem. erg. DEF. 4. gestr.
+Iisdem positis (1) A (2) si enumerata sint omnia in-
+existentia, quae simul (3) si praeter (4) A L
+et B esse constituentia, C esse constitutum. Idem est, si pro A + B, ponantur A + B + C, etc. (2).
+27 insit (1) duplus A et B (2) ipsi... B L
+3 partes (1) sunt, (2) non sunt L
+11 ipsi (1) C, (2) L erg. L
+23 RX L ändert Hrsg.
+DEF. 5. Si ipsi L insit A, et efficiatur aliud N, in quo omnia manent, quae sunt in L,
+exceptis iis quae etiam sunt in A, quorum nihil manere debet in N, dicetur Adetrahi vel
+removeri ab L, at N dicetur Residuum.
+CHARACT. 4. Si sit L − A
+N, signi[fi]catur L esse continens, a quo si detrahasA
+DEF. 6. Si unum aliquod pluribus simul positis aut remotis coincidere ponatur, plura
+illa dicuntur constituentia, unum autem constitutum.
+SCHOLIUM. Hinc omnia quidem inexistentia sunt constituentia, sed non contra, ut L
+N, utique non inest L in [N].
+DEF. 7. Constitutio (hoc est positio aut detractio) vel tacita vel expressa est.
+Expressa ipsius [M] patet ut M vel −M, tacita ipsius M, ut A vel −A cui inest M.
+DEF. 8. Compensatio est, cum idem ponitur et detrahitur in eodem, expressa cum
+expresse. Destructio est cum quid ob compensationem abjicitur, ut non amplius
+exprimatur, ut pro M − M ponendo Nihil.
+AXIOMA 1. Si idem secum ipso sumatur, nihil constituitur novum, seu A + A
+SCHOLIUM. Equidem in numeris 2 + 2 facit [4], seu bini nummi binis additi faciunt
+quatuor nummos, sed tunc bini additi sunt alii a prioribus; si iidem essent, nihil novi
+prodiret, et perinde esset ac si joco, ex tribus ovis facere vellemus sex, numerando
+primum 3 ova, deinde uno sublato residua 2, ac denique uno rursus sublato residuum 1.
+AXIOMA 2. Si idem ponitur et detrahitur, quicquid inde in alio constituitur, coincidit
+Nihilo. Seu A (quotiescunque in aliqua re constituenda ponitur) − A (quotiescunque ex
+SCHOLIUM. Unde A − A vel A + A
+ggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggg
+POSTULATUM 1. Plura quaecunque simul sumi possunt ad unum constituendum, ut
+si sint A, et B, potest inde fieri A + B, quod appellari potest L.
+11 Expressa ipsius N ändert Hrsg. erg. patet ut (1) N, −N, tacita vero (2) M L
+11 tacita (1), ut B vel −B si 〈 er 〉 (2) ipsius L
+16 numeris (1) 4 + 4 (2) 2 + 2 L
+Nihilo (3) Si coincidant id quod ponitur et id quod
+AXIOMA 2. (1) Si idem ponitur et detrahitur (2) A − A
+detrahitur superest Nihil, seu A − A
+Nih. (4) Si... Nihilo. (a) Seu si pro A quotiescunque in aliqua re (aa)
+ponitur (bb) constituenda (aaa) ponitur et detrahitur (bbb) ponas A et quotiescunque in ea constituenda (aaaa)
+detrahitur (bbbb) itidem detrahitur (ccc) ponas A (secundum Ax. 1) (aaaa) A − A (bbbb) in ea re pro (ccccc) A...
+Nihil. (b) Seu A (quotiescunque in aliqua re constituenda erg.... quotiescunque ex eadem erg.
+18 joco Scholastico gestr.
+NON INELEGANS SPECIMEN DEMONSTRANDI IN ABSTRACTIS
+POSTULATUM 2. Detrahere aliquid A ab eo cui inest nempe ab A + B seu L, si reliqua
+dentur, ut B, quae cum ipso A constituunt continens L, seu iisdem positis invenire
+SCHOLIUM. Ope hujus postulati postea modum dabimus inveniendi differentiam
+inter duo quorum unum A alteri L inest, licet reliqua quae cum illo hoc constituunt, non 5
+dentur; seu modum inveniendi L − A, seu A + B − A, licet solum dentur L et A, non vero
+Q u a e s u n t eadem u n i t e r t i o, eadem s u n t i n t e r s e.
+C. Nam si in propositione A
+substituatur C in locum B (quod facere licet per def. 1, quia B
+S i d u o r u m q u a e s u n t eadem i n t e r s e, unumdiversumsitatertio,
+etiamalterumabeoeritdiversum.
+C. Nam si in propositione B non
+hyp.) substituatur A in locum B (quod facere licet per def. 1, quia A
+1 Am Rande: Hic inseri posset Theorema tale: Quodinestunicoincidentium,
+C etiam A est in C. Nempe in prop. A est
+etiamalteriinest. Si A est in [B] et B
+1–7 POSTULATUM 2. (1) Si quid alicui insit potest ab eo auferri
+(2) Unum ex constituentibus a
+constituente cogitatione gestr. auferri potest (3) Si dentur plura quae simul sumta unum constituunt, unum
+eorum quod libuerit a constituto seu continente detrahi potest, erg. ut (a) aliquod (b) habeatur residuum, (aa)
+ut si ipsi L insit A, potest haberi M quod restet sublato A ex L. (bb) verbi gratia si detur A + B
+L, poterit reperiri L −
+potest detrahi B (cc) hoc est si dentur A + B ab A + B potest detrahi B, seu si sit A + B... continens
+L, (a) ita ut ea (b) seu... unum A erg. alteri L erg....
+11 (quod (1) fieri potest (2) facere
+licet L... cum illo (aa) inexistente continens (bb) hoc erg.
+S i e idem a d d a n t u r coincidentia, f i u n t coincidentia.
+B + C. Nam si in propositione A + C
+per se) pro A semel substituas B (quod facere licet per def. 1, quia A
+A + C (quae est vera
+S i coincidentibus a d d a n t u r coincidentia, f i u n t coincidentia.
+B + M. Nam (per praesens theorema) quia L
+A + M et in hac assertione pro A semel ponendo B (quia A
+C o n t e n t u m c o n t e n t i e s t contentum c o n t i n e n t i s.
+Seu si id cui aliud inest, insit tertio, id quod ei inest eidem tertio inerit, vel si A est
+in B et B est in C, etiam A erit in C. Nam A est in B (ex hyp.). Ergo est aliquod, cui
+nomen imponemus L tale, ut sit A + L
+ostendimus) fiet A + L + M
+C. Ergo A est in C (per def. 3). Q. E. Dem.
+B (per def. 3 vel charact. 3). Similiter quia B est
+C in qua assertione pro B ponendo A + L (quae coincidere
+C. Jam pro L + M ponendo N (per postul. 1) fiet A + N
+C u i s i n g u l a i n s u n t e t i a m e x i p s i s constitutum i n e s t.
+Si A est in C, et B est in C, etiam A + B (constitutum ex A et B, def. [3]) erit in C.
+C (per def. 3). Similiter
+C (per Axiom. 1). Ergo A + M + B + N
+Nam quia A est in C erit aliquod M tale, ut possit fieri A + M
+quia B est in C poterit fieri B + N
+Et proinde (per def. 3) A + B est in C. Q. E. Dem.2
+2 Am Rande: Intermiscendus familiaris sermo, cui jungendae expressiones
+propositionum familiares illustrandae exemplis.
+1 S i (1) iisdem (2) e idem erg. L
+3 (quod (1) fieri (2) facere L
+B (per def. 3 et charact. 3) (2) est L
+21 (per def. 3) erg. L
+25 jungendae (1) demonstrationes, (2) expressiones L
+22 C (1) erit (2) poterit (a) dici (b) fieri L
+8 hac (1) proposit (2)
+13 f. cui nomen imponemus erg.
+21 ut (1) sit (2) possit
+24 proinde (1) A + B (2)
+NON INELEGANS SPECIMEN DEMONSTRANDI IN ABSTRACTIS
+Constitutumexcontentis
+est in M + N (per def. 3). Ergo B est in M + N (per th. 4). Jam si A est in M + N, et B est
+inestconstitutoexcontinentibus.
+Siquidadditureicuiinest, nilconstituiturnovi.
+Seu si B est in A erit A + B
+A. Nam si B est in A potest fieri B + C
+B + C (per axiom. 1),
+A (per dicta hic). Q. E. 10
+S i q u i d addendo a l t e r i nilconstituiturnovi,
+S i coincidentibus d e t r a h a n t u r coincidentia, Residuasunt
+A − B (quod est verum per
+se) et in alterutro pro A substituendo L, et pro B substituendo M (ex definitione
+L − M. Quod Erat Dem.
+coincidentium) fit A − B
+3 Am Rande: Aliud est detractio in notionibus, aliud negatio. V.g. Homo non
+rationalis est absurdum seu impossibile; sed licet dicere Simia est homo nisi quod non
+est rationalis; Homines nisi qua bestiis differt homo; ut in Jambo Grotii. Homo −
+homo non rationalis est impossibile. Homo − Animal − rational est Nihilum. Hinc
+detractiones possunt facere nihilum seu non-Ens simplex, imo minus nihilo, sed
+negationes possunt facere impossibile.
+7 f. VII (1). PARS 1 (a) Si A est in B erit (b) Si qu (2) SiL
+15 (per... 3) erg. L
+20 et (1) in (a) posteriori (b)
+alterutro (2) semel (3) in alterutro erg. L
+1) Excompensationeexpressasequiturdestructiocompensati, s i
+nihilsitincompensationedestruenda, quodtaciterepetitum
+constitutionemingrediaturextracompensationem ; 2 ) i t e m s i q u i c q u i d
+e s t h o c r e p e t i t u m i n g r e d i a t u r e t p o s i t i o n e m e t detractio n e m e x t r a
+compensati o n e m. 3 ) Sihorumneutrumcontingat, destructiopro
+compensationesubstituinonpotest.
+Casus 1mus. Si A + N − M − N est
+enim nihil est in compensatione destruenda + N − N, quod sit extra ipsam in A vel M, seu
+quod in + N ponitur, id quotiescunque hic ponitur, continetur in + N; et quod in −N
+detrahitur, id quotiescunque hic detrahitur, continetur in − N, ergo (per ax. 2) pro + N −
+N poni potest, Nihilum.
+Casus 2. Si A + B − B − G
+F et omne quod tam A et B, quam G et B commune
+A − G. Ponamus praeterea omne quod A et G commune habent
+esse E; si quod habent, ita ut si nihil commune habent, E sit
+incommunicantes; ideo (per casum praecedentem) fiet
+E + Q + M − E − H − M
+Casus 3. Si A + B − B − D
+cum eo quod commune est ipsis B et D, non erit C
+C et id quod commune est ipsi A et B non coincidit
+K + F, sic ut haec ingredientia non sint amplius communicantia, nec
+E + Q + M + N + M − N − M − E − H− M, qui termini omnes (E, Q, M, N, H) sunt
+#. (a) Si sit (b) A + N − N
+A si A non continet N. Nam (c) Seu si A + N − M − N
+P modo M non sit in A et N non sit in A vel (aaa) non (bbb) nec erg. sit in M (bb) et N sit
+1 f. IX (1) Expressa ejusdem erg. positio et detractio in aliquo constituendo erg. u. gestr. se mutuo
+destruunt, si in eodem ingrediente gestr. nulla adsit tacita extra expressam erg. u. gestr.; si vero tacita adsit
+P. erg. Nam si (aaa) N non est in A (bbb) N nil habet commune
+incommunicans cum A et M, fiet A − M
+cum A erg. erit expressum + N, quicquid ejus ponitur in P tacita enim positio (aaaa) in solo A esse potest
+(bbbb) ejus quod est in N, extra N, in solo [bricht ab] erg., (aaaaa) et si N non est in M, erit − N quic (bbbbb)
+et si N nil habet commune cum M, erit expressum − N, quicquid ejus detrahitu (2) 1) L
+5 r e p e t i t u m e x t r a compensati o n e m gestr.
+quod in ipso est, (b) continebit omne ipsius N quod hic sumitur vel quod in ipso est (2) nihil L
+14 G (1). Nam resolvendo A, B, G (2), nam (3). Ponamus L
+16 M; (1) erunt omnes termini incom (2) et L
+9 enim (1) + N expressum (a) vel
+13 f. et (1) A et B et G et B habeant commune (2) omne... sit L
+14 praeterea (1) A et G habere (2) omne L
+20 3. (1) Si vero neutrum horum contingat destructio (2)
+3 i n (1) repetendo (2) compensati o n e erg. L
+10 continetur (1) et in + (2) in L
+4 constitutionem erg. L
+NON INELEGANS SPECIMEN DEMONSTRANDI IN ABSTRACTIS
+ulteriore adeo resolutione sit opus, fiet C
+Eadem demonstratio foret, etsi A et D aliquid habuissent commune inter se.
+F seu commune inter B et A idem cum communi inter B et D, contra Hyp.
+D e t r a c t u m e t Residuum s u n t i n communicantia.
+N. Dico A et N nihil habere commune. Nam ex definitione detracti et
+Residui omnia quae sunt in L manent in N praeter ea quae sunt in A, quorum nihil manet
+Induobuscommunicantibusidcuiinestquicquidutrique
+communeest, e t d u o p r o p r i a s u n t tria i n communicantia i n t e r s e.
+Sint A et B communicantia et A
+N + M, sic ut quicquid est in A et
+B, sit in M, nihil vero ejus in P et N, dico P, M, N esse incommunicantia. Nam tam P
+quam N sunt incommunicantia cum M, quia quod est in M est in A et B simul, at nihil
+tale est in P aut N. Deinde P et N sunt incommunicantia inter se, alioqui itidem quod
+ipsis commune est foret in A et B.
+Efficere u t e x n o n coincidentibus addata coincidentia a d d i t i s
+t a m e n coincidentia.
+A dico reperiri posse duo B et N, sic ut B non sit
++ N. Solutio. Sumatur aliquid quod insit ipsi A ut M, et sumto N pro arbitrio, sic tamen
+M + N. Et factum erit quod quaeritur.
+ut neque M sit in N neque contra N in M, fiat B
+M + N ex hyp. et M atque N sibi non insunt ex hyp., et tamen A + B
+N et tamen A + B sit
+H + E + E + F + G − K − F id est (per casum 1) C
+H + G − K (2) fiet L
+2–4 Nisi... Hyp. erg. (1) Idem etsi (2) Eadem... etsi L
+11 i d (1) quodin (2) cuiL
+12 tria erg. L. (1) THEOREMA XI (2) THEOREMA XI... B. erg. PROBLEMA (a) Fieripotest
+coincidentibus erg. addata erg. L
+20 f. coincidentia. (1) Sit A
+P + M dico reperiri posse (a) 〈duo –〉 (b) B non
+21 posse (1) B non (2) duo L
+fiet (2) posito (3) quia (a) B non (b) B L
+parte 1 erg. u. gestr. quia L
+M + N (b) Ergo (per th. 7 (aa) parte (bb) convers.) str. Hrsg. erg. et L
+19 e x (1) i n coincidentibus
+9–19 N, jam quicquid est in A etiam est in L
+D dico reperiri posse B non
+N (a) Ergo (b) ex hyp. (2) ex... hyp. erg. (a)
+N, sic ut tamen A + N sit
+I n incommunicantibus q u a e coincidentibus addita f a c i u n t
+coincidentia, e a i p s a s u n t coincidentia.
+incommunicantia. Nam A + B − C
+et (per eandem rationem) C + D − C
+D, modo A et B itemque C et D sint
+B (per th. 9 cas. 1, quia A et B incommunicantia)
+Generaliter S i coincidentibus addendo alia f i a n t coincidentia, addita
+s u n t i n t e r s e communicantia.
+Sint coincidentia vel eadem A et A, fiatque A + B
+A + N dico B et N esse
+Q + M, ponendo M quicquid commune est inter A et B et nihil tale in P et Q.
+communicantia. Nam si A et B sunt incommunicantia, item A et N, erunt B
+praeced.). Ergo communicantia sunt B et N. Sin A et B sint communicantia, sit A
+Ergo (per ax. 1) A + B
+(per th. 11). Ergo si etiam N cum A seu cum P + M est incommunicans, ex P + Q + M
+Si vero iisdem positis (nempe P + Q + M
+etiam communicet cum P + M seu A, tunc N vel communicabit cum M, quo facto
+communicabit etiam cum B (cui inest M) et habebitur intentum; vel N communicabit
+cum P, ergo faciamus similiter P
+habent aliquid commune. Q. E. D.
+N. Ergo N est in B. Ergo N et B sunt communicantia.
+P + M + N seu A communicante cum B), N
+F + H sic ut G, H, F sint
+PORISMA ex demonstratione hac discimus: S i e idem v e l coincidentibus
+addanturaliqua, e t f i a n t coincidentia, s i n t q u e addita u t r a q u e e i c u i
+a d d u n t u r i n communicantia, ipsacoincidereinterse (quod et patet ex th.
+12[)]. S i n u n u m s i t communicans e idem i l l i c u i u t r u m q u e a d d i t u r,
+2 incommunicantibus (1) coincidentia i n c o (2) quaeL
+A + N (2) THEOREMA L
+11 N saltem gestr. esse L
+L, B et N sunt communicantia. Nam A + B
+9 addendo (1) n o n coincidentia (2) alia erg.
+14 ponendo M (1) totum quod commune (2) quicquid... et Q erg. L
+18 f. N (1) tamen (2) etiam L
+25 discimus: (1) C u m coincidentibus addanturaliqua, e t
+15 f. incommunicantia (1) (ex constructione) (2) (per L
+fiet (2) ex str. Hrsg. (3) aeq (4) et L
+28 communicans (1) eicuialte (2) e idem L
+alterumveronon ; t u n c i n communicans e r i t i n c o m m u n i c a n t e ; denique,
+s i a m b o s i n t communicantia c u m e o c u i a d d a n t u r, adminimum
+communicabuntinterse ( q u a n q u a m a l i o q u i n o n s e q u a t u r q u a e
+c o m m u n i c a n t e idem t e r t i o c o m m u n i c a r e i n t e r s e ).
+A + N. Si A et B incommunicantia, item A et N incommunicantia,
+N; si A et B communicantia, at A et N incommunicantia, N erit in B; denique si B
+communicet cum A, et N itidem communicet cum A, tunc B et N ad minimum
+communicabunt inter se.

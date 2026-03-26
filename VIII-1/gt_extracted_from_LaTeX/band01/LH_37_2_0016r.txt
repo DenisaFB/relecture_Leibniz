@@ -1,0 +1,14 @@
+Notitia Opticae Promotae
+autore G. G. L. L.
+
+[[Utilissimam Humanarum scientiarum]] Cum saepe mecum cogitarem quantum a perfectione Opticae [[rebus humanis]] in res humanas redundare utilitatis necesse sit, pandente nobis natura arcanos sinus, faciemque mundi centuplicante, atque insensibiles illas machinas detegente, quibus pleraeque etiam in corporibus nostris in peius meliusque mutationes peraguntur: officii mei esse putavi [[putavi cogitationes]] nonnihil temporis, quod mihi [[imo]] plurimum distracto exiguum superest, impendere __scientiae__ sancti fructus; sed more scilicet atque instituto meo, quo [[periisse mihi]] assuevi [[ea studia]] eam operam studiis insumtam pro perdita habere, qua didici tantum, [[non et]] [[et]] sed quod adjicerem non inveni.
+
+Audio tale quiddam alios nonnullos egregios viros animo concepisse, sed cum publicare refrigerint, quam ingressi sint illi viam mihi non constat. Occasio rem penitius scrutandi haec fuit: diu est, ut amici norunt, quod mihi in mentem venit __ratio,__ quaedam __Optica metiendi ex una statione distantias magnitudinesque veras objectorum,__ ita comparata ut spes sit ad coelestia usque extendi posse, quando et fundamentum illud alii innititur, eousque vim notabiliter exerit.
+
+Hanc cum nuper poliendam resumerem fuit in optices interiora inquirendum paulo diligentius, atque inprimis cogitandum de Figuris quibusdam quas ego novis nominibus __Isoptricas, Dioptricas,__ et __Paro__
+
+---
+Additions:
+<<(ultra parallaxes)>>
+<<__quibus ex pluribus stationibus metimur__>>
+<<(quando et res aliis intacta est)>>

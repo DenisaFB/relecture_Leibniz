@@ -1,0 +1,100 @@
+Konzept: LH XXXV 1, 5 Bl. 41 u. 43. 1 Bog. 4o. 3 S.
+Si quid ego judicare possum, vera Geometriae Analysis nondum tradita est, et
+Calculusqui habetur potius numericus est quam Geometricus, literis enim inter
+calculandum denotari solent non puncta, quemadmodum opus esset in calculo
+Geometrico, sed magnitudines, hoc est numeri indefiniti. Itaque magnitudo directe
+calculo illo repraesentatur, situs vero sive figura tantum indirecte et per circuitus. Quae
+res facit ut ex brevibus delineationibus Geometricis prolixissimi saepe exurgant calculi
+Algebraici, et contra ut difficile sit ex calculo Algebraico eruere commodas
+constructiones. At in calculo vere Geometrico per puncta, ipsa formula calculo designata
+vel reperta debet esse ipsius delineationis et constructionis expressio. Manifestum etiam
+est Calculum Algebraicum non exprimere totum id quod considerandum est, sed
+pleraque ex Elementaribus propositionibus, aut inspectione figurae supponere, unde fit,
+18 f. inter calculandum erg. L
+24 f. designata vel erg. L
+25 delineationis et erg. L
+quasi abrupta obhaerescat nec ad finem usque perducatur, ac proinde nec omnium
+transformationum sit capax, quas natura rei suppeditat. Quodsi vero Analysis ad situm
+directe exprimendum accommodetur et ad prima principia usque perducatur, unde ipsa
+Geometriae Elementa demonstrantur, omnia per eam delineari atque inveniri directe
+poterunt, quodam calculi combinationumque genere, quae nunc vix magno figurarum
+apparatu, et imaginationis fatigatione reperiuntur. Quo vix quicquam in inquisitionibus
+Physicis et Mechanicis utilius praestari posset ad mentem sublevandam ac rerum
+naturam quae mathematice operatur in penitissimas usque latebras prosequendam.
+In rerum situ atque extensione consideranda menti ante omnia occurrit plura simul 10
+percipi, sed hoc non sufficit, nam si simul frigus et dulcedinem percipiam non ideo noto
+extensionem. Itaque opus est ut percipiam etiam quandam relationem inter ea quae simul
+percipio; et quidem relationem cujusdam uniformitatis, ut si simul percipiam chartam
+albam, et murum album. Quin etsi charta sit alba, et murus niger attamen uniformitatem
+quandam percipio, quae consistit in aliquo quod albo et nigro commune est, et quo
+manente concipio, album ex nigro fieri posse. Praeterea percipio quandam distinctionem
+uniformium (ut duarum partium chartae albae) quatenus duo aliter percipio cum eodem
+tertio, seu aliter A cum C quam B cum C. Percipio tamen me similia omnia percipere
+posse in uno, quae in alio.
+Si quid percipio, et ideo plura alia simul percipere supponor quae aliquam habent
+inter se et cum priore uniformitatem [bricht ab]
+Assumimus autem esse spatium, seu quoddam extensum infinitum, ubique sibi simile in [bricht ab]
+Assumimus autem ante omnia esse quoddam extensum absolutum, in quo per se spectato nihil aliud 25
+est quam extensio, et in quo sunt omnia situm habentia. Hoc solet appellari spatiumuniversum. Id per se
+simul gestr. percipiam L
+esse L
+26 omnia alia gestr. situm L
+12 ut
+25 absolutum, quod vulgo spatium infinitum vocatur, gestr.
+10 ante omnia erg. L
+20 simul erg. L
+ubique sibi simile est, ac proinde procurrit in infinitum, et quod in eo ponitur, continue in eo mutare
+situm potest, et quod in [bricht ab]
+Si quia percipitur A eo ipso percipi supponatur B, tunc dicitur BesseinA.
+Punctum intelligimus quod omnium eorum quae situm habent simplicissimum est
+est in
+atque adeo extensione caret, sive in quo nihil aliud est situm habens quam ipsummet.
+Itaque si ideo quia
+sic exprimo si
+omnium
+soleo enim per literas designare puncta, nisi aliud admoneatur. Item punctum esse puncto
+congruum, seu esse A, coincidere necesse sit
+locus
+est in
+) erit punctum. Sequitur et punctum puncto esse simile, seu esse A
+punctum. Et, si
++ < *
+punctum. Quod
+et ideo
++ < *
+*, erit
+Spatium intelligimus quod in extensione absolutissimum est, adeoque situ caret,
+atque ideo in eo sunt omnia alia situm aut extensionem habentia, et proinde plura
+quaecunque simul existentia et situm habentia habent et situm inter se. Et dato
+quocunque aliud simile vel congruum constitui potest ad datum punctum. Hinc si Y
+locus omnium Y seu Y
+erit spatium infinitum.
+Duorum statuum diversorum unus ex alio fieri potest per mutationem continuam. Si
+diversi illi status sint similes inter se, mutatio continua talis esse poterit ut transeat per
+meros status similes extremis, et ea transibit per omnes status similes intermedios, seu
+minus diversos ab extremis quam extremi sunt inter se; et quidem si simplicissima est
+non nisi per solos intermedios, alioqui transibit plus semel per eundem. Quod non esse
+opus mox patebit. Mutatio continua potest esse et similis, etsi sit per non similia; quod
+fit, si transitus ab A ad E per C similis transitioni ab A ad C per B et a C ad E per D et ita
+porro subdividendo, quo posito necessarium est status per quos transitur esse intermedios
+seu minus diversos ab extremis quam extremi inter se, alioqui nunquam absolvetur
+8 f. Et,... punctum erg. L
+13 habentia, est etiam ubique simile gestr. et L
+quodcunque in eo moveri potest, donec perveniat ad datum punctum gestr.
+15 punctum vel datum
+14 habent et erg. L. Hinc L, L
+6 atque..
+transitus. Si mutatio continua sit similis secundum unam assumtionem, erit et similis
+secundum aliam assumtionem, ut si sit mutatio ABCDEFGHL et sit AEL
+et ita porro erit et ABC
+Mutatio similis seu uniformis, et similium si praeter extrema adhuc per unum transit
+simile, transit per mera similia intermedia, intermedia inquam seu minus distantia ab
+extremis quam haec inter se, hoc enim praestat omnis mutatio uniformis. Mutatio
+determinata inter similia est uniformis per similia, ac proinde vicissim mutatio uniformis
+per similia est unica seu determinata. In dissimilibus non semper datur determinata
+mutatio, v.g. ex quadrato in circulum concentricum; imo nec uniformis. Datur tamen
+determinata mutatio in dissimilibus, si omnia determinantia in statu a quo et in statu ad 10
+quem singula singulis sint similia et respondentia in respondentia mutentur mutatione
+uniformi per similia, sic ut eadem utrobique proportio servetur. Ita circuli determinata est
+mutatio in Ellipsin datam. Determinatam voco mutationem cum determinata sunt per
+quae fit transitus.

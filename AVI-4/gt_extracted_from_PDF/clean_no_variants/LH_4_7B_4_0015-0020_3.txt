@@ -1,0 +1,152 @@
+COUTURAT, Opusc. et fragm., 1903, S. 324–326.
+2 Am Rande: Multiplici cognitione hominibus opus est
+8 praesertim... societas erg. L
+PROPOSITIONES PRIMITIVAE
+Affirmatio est cogitatio de duobus, quatenus conceptus unius conceptum alterius 30
+continet.
+Affirmatio absoluta est cum conceptus rei continet conceptum rei.
+Subjectum est res continens.
+Praedicatum est res contenta.
+Aliquid. a. b. Homo. Chimaera. Circulus oblongus. Semper autem adhibebo concreta.
+Propositio. Sapiens est felix. Justus non est miser. Si sapiens est felix, certe justus non est miser. Si sapiens
+est felix non statim felix est sapiens. Si quidem; si sapiens est felix, certe justus non est miser: utique; si justus
+est miser sapiens non est felix. Ex quibus propositionibus prima est absoluta affirmativa, secunda absoluta
+negativa, tertia est conditionalis simplex a [bricht ab]
+Propositio n e s p e r s e n o t a e :
+a est a.
+Si a est b certe a est b. Si verum est quod a est b; certe a est b.
+Si a est b certe verum est quod a est b.
+Si a est b certe falsum est quod a non est b.
+Si falsum est quod a non est b, certe a est b.
+Si falsum est quod a non est b, certe verum est quod a est b.
+Si verum est quod a non est b certe a non est b.
+Si a non est b certe verum est quod a non est b.
+a est a.
+Si a est b certe a est b.
+Si quid [bricht ab]
+Si subjectum et praedicatum sit idem vera propositio est: a est a.
+Propositiones intellectuales primitivae
+Si antecedens et consequens sit idem vera propositio est. Ut: Si a est b certe a est b. Si [bricht ab]
+Absoluta vel Affirmativa vel Negativa. Affirmativa Sapiens est felix. Negativa Justus non est miser.
+3 f. si... sapiens. erg. L
+est b certe e est f utique si g est h certe k est l. Atque ita porro conditiones replicando. Potest enim tam
+15 certe L
+11 certe erg. L
+PROPOSITIONES PRIMITIVAE
+Propositiones intellectuales primitivae
+Si subjectum et praedicatum sit idem vera est propositio affirmativa, ut a est a, ex.
+Si antecedens et consequens sit idem vera est propositio affirmativa, ut Si A est
+verum certe A est verum. Ex. gr. Si Deus est sapiens certe Deus est sapiens, vel si
+sapiens non est miser, certe sapiens non est miser.
+Si aestb, certe aestb.
+Si anonestb, certe anonestb.
+Si quidem s i aestb c e r t e c e s t d utique s i aestb c e r t e c e s t d.
+Si quidem s i aestb n o n s t a t i m c e s t d utique s i aestb n o n s t a t i m c e s t
+Si quidem s i anonestb c e r t e c nonestd, utique s i anonestb c e r t e c
+nonestd.
+Si quidem s i anonestb c e r t e c e s t d utique s i anonestb c e r t e c e s t d.
+Si quidem s i aestb c e r t e c nonestd utique s i aestb u t i q u e c nonestd.
+Si una contradictoriarum est vera altera est falsa.
+Si a est b, certe anon non-est b.
+Si anon non-est b, certe a est b.
+sentiens 6 seu 2, 3, e seu abc seu dc homo seu corpus sentiens rationale, seu animal
+rationale, 30 seu 6, 5 seu 2, 3, 5. f lapis, g Petrus.
+d vel 30
+6, homo est animal) significat in
+autvox est (ex. grat. e
+locum e vel 30 vel hominis substitui posse d vel 6 vel animal.
+similibus. Si qua propositio non est vera, ea est falsa. Si qua propositio non est falsa, ea est vera. Si qua
+18 est
+corpus 2. L
+d et d
+a tunc e
+d et d
+d sive d
+a. Si homo est animal, et animal est corpus tunc homo
+est corpus.
+Nam quia d
+aexhypothesi, ergo pro d substitui potest aperartic. 2. Jam e
+dexhypothesi, substituatur ergo a pro d, fiet e
+a tunc f
+d et d
+demonstrationis. Ergo f
+e et e
+d et d
+eexhypothesi et e
+Nam e
+Porro f
+aperpartemprimamhujus
+a per artic. 4. Quod erat demonstrandum.
+a. Quod erat demonstrandum.
+aperartic. 4. Quod est primum.
+d falsum est e non
+d, et si verum est e non
+d falsum est e
+d et f non
+d, tunc f non
+e, est autem e
+ergo f
+e, per artic. 8. Quod erat demonstrandum.
+d sequitur e non
+f et e
+e, ergo f non
+d. Falsum est
+Homo.
+6, 5.
+Animal Rationale
+Idem 30
+animal rationale.
+6, 5, a
+b, significat 30 et 6, 5 sibi substitui posse. Ut hominem et
+a. Homo est homo. Patet per se.
+c erit a
+b et b
+c, patet ex significatione ipsius.
+d et f non
+d tunc f non
+a tunc e non
+d tunc e non non
+d et d
+d tun f non
+d et f non
+d tunc e
+d tunc g
+e Nam si e
+23 f. se. PROPOSITIO gestr. Si L
+b, erg. L
+6, 5.
+2, 3, 5
+d 9) Si e
+14 per
+DE CALCULO ANALYTICO GENERALE
+d significat d substitui posse in locum ipsius c. Idem significat etiam d
+c sit homo d sit animal vulgo sic enuntiatur Homo est animal.
+c. Ut si
+Hinc si c
+Si c non
+Contra si a
+b et b
+b erit a
+substantia.
+d significat d substitui posse in locum ipsius [c] sed non contra.
+d erit c non
+d erit c
+d et c non
+d et d non
+a, et erit a non
+a erit a
+b et b
+b et b
+c, erit [a]
+b et b non
+c, ut si homo sit animal et animal sit substantia, homo erit
+bc, significat si a
+Hinc si d
+Si a non
+b erit a
+bc erit d
+bc erit a
+b et d
+b et erit a
+b erit a non
+47.DE CALCULO ANALYTICO GENERALE

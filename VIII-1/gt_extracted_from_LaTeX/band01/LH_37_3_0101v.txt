@@ -1,0 +1,14 @@
+At si liquor aere purgatus est, nihil est quod locum descensu liquoris in tubo relinquendum implere possit, nisi id scilicet aut ex corpore ipsius liquoris eliciatur, aut ab externo per ejus poros intret. Ergo si majore vi opus sit ad talis corporis interni expressionem aut externi comminutionem in partes tam subtiles quae penetrationi sufficiant; quam est liquoris ultra altitudinem ordinariam 27 pollicum in Tubo comprehensi (qui enim infra illam altitudinem est ejus pondus aeris externi aequipondio destruitur, praeterquam in Recipiente exhausto) necesse est liquorem suspensum manere. Ratio difficultatis est, quia corpus ejusmodi subtile ad locum implendum in satis magna quantitate cogi non potest, quin alia corpora quibus exprimitur tantundem comprimantur; at huic compressioni insuetae, circulatio universalis, omnia continue ad uniformitatem, resistit.
+Etsi haec resistentia possit superari, quoniam vero maximis Tubis opus esset, ut proprio pondere liquor avellatur; poterit compendium [[saltuum]] sumtuum taediique fieri ad postremum altitudinis gradum inveniendum, si pro liquore embolus exacte adaptatus tubo; pro pondere liquoris ac tubi longitudine pondus embolo appensum, aut si id magnum nimis esse deberet, vis Mechanica ut cochlea adhibeatur. Ita enim facile supputari potest quanta altitudine Tubi opus futurum fuisset ad divulsionem procurandam.
+
+Hactenus dicta sufficiunt ad rationes eorum omnium facile reddendas, quae novissime ab Illustri Hugenio detecta sunt; alia postea experimenta [[quibus res videtur indubitabilis reddi posse]] afferemus, quae Hypotheseos nostrae veritatem prorsus convincent.
+
+Cur in Experim. 1 [[ab eo]] in proximo diario memorato liquor in Recipiente manserit suspensus dictum est. Nec major difficultas in Experimento 2do. Nam liquor descendere conatur nisu propriae gravitatis. Haec in fundo seu prope orificium tubi major, ergo et major ibi pressio. Ergo et maxima aeris [[pressionem]] post purgationem quantamcunque residui ad locum in summo implendum expressio. Cum vero bullae aeris nimis exiguae ab aquae crassitie retineantur, necesse est eas colligi in unam majorem, [[ad]] ut ascendere possint, confluereque in eam canalibus insensibilibus seu rimis in aqua actis. Bulla semel nata, aqua levior, satisque virium ad perrumpendum nacta ascendet, reliquumque aerem in itinere colliget, ac proinde continue augebitur. Ubi vero fissura sibi aperta parte sui ad summum usque seu supra, liquorem emicuerit, liquor descendet, gravitateque sua bullam ita distendet, ut spatio toti implendo sufficiat. Tubi vero concussionem ad primam bullae generationem multis modis conferre posse manifestum est, facere enim potest, ut partes aeris
+
+---
+Additions:
+<<pondere liquoris>>
+<<__hoc experimento__>>
+<<avulsione facta>>
+<<aere purgatus>>
+<<: __Experiment. 4__>>

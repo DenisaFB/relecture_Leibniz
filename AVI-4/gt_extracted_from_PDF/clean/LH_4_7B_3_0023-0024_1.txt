@@ -1,0 +1,167 @@
+Ut in multis linguis plebs vocabula inprimis propria contrahit et mutilate effert,ita
+nihil prohiberet linguae generalis vocabula ideo longiora ut motionem perfecte
+exprimant, mutilate in loquendo proferri, modo in scribendo vel cum seriae et gravis
+inquisitionis res agitur, defectus suppleatur. Haec autem mutilatio inprimis in illis
+vocabulis condonari poterit, quae crebrius usurpari debent, fortasse etiam aliquando pro
+his quae frequentius adhibenda sunt alia vocabula velut primitiva brachylogiae causa
+substituantur, quae postea ex Tabula quadam resolvere non difficile erit.
+1 Am Rande: His paucis omnis forma logica continetur. Si dicam A B non est, idem est 25
+ac si dicerem A continet non B, seu B continet non A, seu A et B sunt incompatibilia.
+Si dicam A non B non est, idem est ac si dicam A continet non-non B, seu A continet B,
+seu non B continet non A.
+1 AB non (1) datur, (2) est, L
+3 quod (1) non est A non est B (2) est... non B L
+Omne (2) nullum non B est non A, (3) Omne... B (a) et omne (b) et L
+22 crebrius (1) adhib (2) usurpari L
+7 ut (1) A non B (2) ABCL
+19 prohiberet (1) linguam generalem (2) linguae L
+5 scilicet (1) exclusi (2)
+De Linguis contractis notabilis consideratio est, quomodo lingua aliqua contrahi
+possit ad vocabula quam paucissima, quibus adhibitis vel comprehensis unusquisque
+sensa animi in lingua illa exprimere, et cum alio quoque qui pauca haec tantum didicerit
+conferre possit. Ita ut hac arte possit aliquis intra diem discere quantum satis est, ut
+omnia in lingua aliqua ignota efferre possit. Hoc egregii usus foret apud missionarios, ut
+quamprimum discant loqui linguam Barbaram, etsi nondum ipsi barbaros intelligant.
+Ante omnia poterunt omitti omnes voces abstractae, quaecunque enim per abstracta
+efferri possunt, etiam possunt efferri per concreta. Deinde omittantur omnia vocabula,
+quae commode possunt definitione vel descriptione explicari. Flexiones quoque redigi
+poterunt ad [casus]. Caeterum multum interest utrum quis linguam aliquam loqui velit
+intelligibiliter, non curando soloecismos, quo casu facile erit scopum obtinere; an vero
+velit etiam secundum usum linguae loqui. Quo casu danda opera est, ut ea tantum
+vocabula excerpantur, quae nihil habent irregularitatis, planeque servant paucos quasdam
+regulas analogicas. Caeterum qui linguam contractam discere volet, libenter utetur
+regulis flexionum, quae sunt paucae, et compendium praebent circumlocutionum. Sed
+cum de linguarum contractione agitur cum respectu ad condendam linguam generalem,
+explicanda sunt omnia quae analysin capiunt, resque omnis ad ea tantum reducenda est,
+quae absolute in lingua sunt necessaria; atque ita etiam verba eliminantur, quippe quae
+reduci possunt debentque ad nomina.
+Praepositiones et casus adhibentur ad multos obliquitatis respectus inter se
+discernendos, praesertim cum inter se concurrunt, ex. gr. Mitto tibi pecuniam Johannis
+cambio. Hoc est sum missor pecuniae Johannis cambiatae cujus tu eris acceptor.
+Cambiatam autem voco pecuniam, ut evitem abstractum: cambium. Missor cambiati
+potest una etiam voce appellari campsor.
+Abstractis interdum non admodum commode careri potest, ut cum dico Agelastus
+semel risit, non possum commode eliminare adverbium remque ad sola nomina reducere,
+nisi adhibitis abstractis. Etsi enim Agelastus risit exponere possim: Agelastus est ridens;
+tamen Agelastus risit semel, non possum exponere: Agelastus est ridens unus, sed Una
+est risio Agelasti. Quodsi velimus vitare abstractum videtur relinquendum esse
+2 possit (1) qu (2) ad (a) verba a (b) vocabula L
+4 intra (1) pauca (2) diem L
+9 explicari. (1) Caeterum (2) Flexiones L
+adhuc res (2) facile L
+contracta lingua agitur ad usum linguae generalis, (2) Caeterum L
+12 f. tantum (1) verba (2) vocabula erg. L
+25 dico (1) semel (a) ride (b) risit (2) Agelastus L
+14 analogicas. (1) At cum de
+21 gr. (1) Ego (2) Dono tibi gladium
+adverbium semel. Nisi velimus adhibere nomen vice dicendo: Agelastus ridet una vice,
+sed revera ipsum vice videtur rursus abstractum. Sic et Amat solum non potest exponi
+amat solus, sed amor in eo est solus. Si tamen de ipsa propositione enuntietur
+adverbium, careri potest abstracto. Amat solum id est hoc solum est verum (ex his de
+quibus agitur) quod amat. Calidus valde non potest exponi quasi idem esset quod calidus
+Jam alias notavi: rectius ad Logicos poni Homo est non -lapis quam homo non est
+lapis. Sane Omnis homo non est lapis, etiam latinis satis obscure dicitur; nec satis
+apparet an sensus sit quendam hominem non esse lapidem, seu non omnem hominem esse 10
+lapidem, an vero omnem hominem esse non lapidem, seu nullum hominem esse lapidem.
+Sane Non hic afficere debet aut praedicatum aut copulam, si praedicatum, utique valet:
+omnis homo est non-lapis, si copulam afficit, utique nihil aliud facere debet, quam
+negare propositionem seu dicere: falsum est quod omnis homo est lapis. Quo facto
+propositionis omnis homo non est lapis sensus erit non omnis homo est lapis. Veniamus 15
+ad aliud exemplum. Quidam homo non est lapis. Hic si non afficit copulam perinde esset
+ac si dicerem: falsum est quod quidam homo est lapis; adeoque nullus homo est lapis.
+Quod tamen non volumus dicere. Itaque sensus est: quidam homo est non-lapis, ac
+proinde non utique non copulam seu totius propositionis connexionem seu veritatem
+afficit, sed praedicatum. Quare et in aliis. Nisi velimus in universali Omnis homo non est 20
+lapis, afficere copulam, in particulari: Quidam homo non est lapis, afficere praedicatum.
+Quae variatio parum congrua est. Praesertim cum particularis ex universali omnibus
+manentibus iisdem fluere debeat. Et sane Germani non dicunt Omnis homo non est lapis,
+Petrus est doctus cum Johanne, Pierre est docte avec Jean, quasi esset Petrus est 25
+doctus cum Johannes, non est enim opus casu, cum vis ejus jam contineatur in particula,
+cum. Latine: Petrus est doctus u t - e t Johannes, itaque uti ex lingua particulari
+transferatur aliquid in universalem, mutentur casus vel flexiones in particulas, ita ut solo
+nominativo vel terminatione principali possimus esse contenti. Et particulae quaeratur
+significatio sive expressio per linguam generalem.
+1 Agelastus (1) est ridens (2) ridet L
+4 verum (1). Amati (2) (ex L
+8 notavi: (1) non dice (2) rectius ad (a) usu (b) Logicos L
+3 f. enuntietur (1) parti (2) adverbium, (a) non est opus ab (b)
+5 exponi (1) calidus (2)
+5 agitur) (1) amat (2) quod L
+9 lapis, (1) satis (2) etiam L
+12 utique (1) est (2) valet erg. L
+22 Quae (1) proposit (2) variatio L
+19 non (1) non (2) utique L
+Ut ratiocinatio ex characteribus procedat, debent esse quidam characteres qui signi-
+ficant aliquid alteri substitui posse, item alii qui significant inverti posse totam
+dispositionem, et similes. Verbi gratia si sit: Petrus est doctus ut et Johannes debet ipsum
+utet ita esse formatum, ut inde colligi possit inverti posse, seu posse Johannem
+substitui pro Petro et contra in hac ipsa propositione. Differuntque multum particulae
+quae dicunt utcunque in alia quavis oratione substitutionem posse fieri, et quae dicunt
+eam posse fieri in illa ipsa oratione proposita.
+Scopus nostrae Characteristicae est tales adhibere voces, ut omnes consequentiae
+quae institui possunt, statim ex ipsis verbis vel characteribus eruantur, verbi gratia David
+est pater [Salomonis]. Ergo Salomon est filius Davidis. Haec consequentia ex his
+vocabulis latinis nisi resolvantur in alia aequipollentia demonstrari non potest; in lingua
+generali debet ex vocabulorum analysi in suas literas demonstrari posse. Itaque si
+controversia quaecunque nascatur, tantumque placeat utrinque eam hujus linguae verbis
+exprimere, controversia statim calculo poterit definiri. Et sciendum est tanto perfectiores
+esse characteres, quanto magis sunt αυÆ ταÂ ρκεις ita ut omnes consequentiae inde duci
+possint. Exempli gratia perfectior est characteristica numerorum bimalis, quam decimalis
+vel alia quaecunque, quia in bimali ex characteribus omnia demonstrari possunt quae de
+numeris asseruntur, in decimali vero non item. Neque enim ex charactere ternarii, et
+novenarii demonstrari potest ter tria esse novem, quod in bimalibus omnino fit. Nam in
+bimalibus ter est 11 et 9 est 1001. Jam 11 in 11 facit 1001:
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+Notandum autem est linguam hanc esse judicem controversiarum, sed tantum in
+possunt recipere analysin istam, alioqui perfecte intelligerentur, nec ullum in illis esset
+mysterium. Et quoties vocabula communia ex necessitate quadam transferuntur ad
+4 ut (1) signi (2) inde L
+9 f. consequentiae (1) quae ex verbis (2) quae L
+10 gratia (1) Salomon (2) David L
+11 Johannis L ändert Hrsg.
+19 charactere (1) de (2) ternarii L
+30 revelatis, (1) quae in ea non possunt (2)
+revelata, alium quendam induunt sensum eminentiorem. Itaque qui termini combinari
+possint secundum υë ποτυÂ πωσιν υë γιαινοÂ ντων λοÂ γων Ecclesiae judicio relinquendum
+est, non ex usitatis definitionibus characteribusque ducendum.
+Characteres debent nobis indicare, quando et quomodo locum habere possint
+transpositiones, omissiones, additiones, et substitutiones, quae sunt compositae ex
+omissione et additione.
+A est B significat B ubique substitui posse pro A, significat etiam A et quoddam B
+coincidere seu mutuo sibi substitui posse. Si dicas A est idem quod B, sensus est A et B
+sibi mutuo substitui posse. Terminus semper intelligetur universaliter, nisi adjiciatur
+modificatio quanquam possit et censeri quasi Ellipsis τουÄ omnis.
+Si characteres quoslibet molirer, sive effabiles, sive non, faciliora multa essent,
+liceret enim characterum partes variis lineolis connectere, quia simul in charta visuntur,
+cum soni evanescant, et ideo sonus prior ad posteriorem referri non queat, nisi aliquid in
+se habeat respondens ei quod fuit in priore. Itaque errat Dalgarnus qui putat aeque facile
+esse Linguam et characterem mutum comminisci. Itaque non abhorreo a tentando
+primum charactere. Hoc enim perfecto deinde forte ad linguam licebit progredi facilius.
+Sunt quaedam quae semper addi possunt, exempli causa cuilibet propositioni verae
+ascribi potest verum est: A est B ascribi potest verum est quod A est B, et huic ipsi rursus:
+verum est quod verum est A est B. Similiter si sit: falsum est quod A est B praescribi
+potest: verum est quod falsum est A est B, vel falsum est quod verum est A est B.
+Putem aliis casibus eliminatis genitivum, qui simplicissimum continet obliquitatis
+respectum, posse retineri. Nam accusativus quem regit verbum, potest mutari in
+genitivum quem regit nomen verbale. Ita Ego laudo Titium, idem est quod: Ego sum
+laudator Titii. Utiliter adhibebitur quaedam particula significans, ordinarie, regulariter,
+vel aliud quiddam quo denotetur, verba non esse secundum rigorem accipienda, ut cum 25
+dicitur corpus extensum, Philosophi intelligunt regulariter, seu naturaliter, quasi diceres
+extensicum, per potentiam enim Dei absolutam separari potest extensio. Ita res
+immobilis, scilicet ordinarie, viribus humanis, etc. talis est domus. Accuratioribus autem
+definitionibus non semper est opus in re vaga, si quis tamen summam pro usu
+7 A, (1) vel (2) significat L
+8 dicas (1) homo est idem quod (2) A L
+successivum, (2) evanescant L
+14 habeat (1) simile priori (2) respondens L
+13 soni (1) sint aliquid
+18 potest (1) hoc signum,
+2 υë ποτυÂ πωσιν υë γιαινοÂ ντων λοÂ γων: 2. Tim. 1, 13.
+character universalis et lingua philosophica, London 1661, cap. 2.
+14 f. G. DALGARNO, Ars signorum, vulgo
+exactitudinem quaerat, habebit eam cum nolet, pro rei cujusque natura voces reddendo
+Item utilis erit particula significans τοÁ quasi, ut scintilla dici potest punctum ignis,
+hoc est quasi-punctum. Sic arena punctum lapidis.
+[April bis Oktober 1686 (?)]

@@ -1,0 +1,205 @@
+1 nisi (1) in (2) ejus L
+3 deductio. (1) Unde
+7 aliud (1) efficere (2) agere
+8 f. assumo (1) form (2) principium reflexum seu indirectum (3) principia... primo erg. quod
+1 quae (1) plura asserit sive concedit (2) plures L
+4 principiis (1), quia nec proinde (2) directis L
+categoricae reduci possunt ad hypotheticas. Hoc ergo faciendum est, si universalia
+hypotheticam Si a est b, a erit c, verbi gratia: Omnis homo est animal, id est, si quis est
+Omnis negativa mutari potest in a non est c, ergo [bricht ab]
+432. ENDGÜLTIGE FASSUNG
+D e Va rietatibusEnuntiationumquatenusCategoricaeaut
+Hypotheticae, affirmativaeautnegativae, simplicesautcompositae
+UbietdeLogicaultraScholaeterminosprovehenda.
+Propositiones Categoricae eo tantum variatae, quod sunt affirmativae vel negativae,
+simplices vel compositae:
+universalia quaerimus omnes (2) Hoc L
+(a vel erg. Titius) (2) est L
+omne b (a) est (b) non est c quae dicere videtur: non omne b est c (2) Vel L
+11 non-c. (1) Nolim enim hac uti:
+11 hanc (1) negativam: (2)
+13 in (1) affirmativam, (a) a est c, ergo a (b) hoc modo a non est c, ergo a est non-c. (2) a
+6 quaerimus. (1) Omne a est b (2) PropositioL
+10 negativa : (1) Omne (2) Nullum L
+sceleratus non est felix
+Deus est justus et felix
+homo non est sceleratus et felix
+id est: verum non est hominem simul esse sceleratum et felicem,
+itaque id volumus alterutrum saltem esse falsum: tametsi non
+dicamus, an non forte falsum sit utrumque.
+a est b et d resolvi potest in duas a est b et a est d, nempe Deus est justus et Deus
+est felix. Sed h non est c et d, non potest resolvi in duas. Nam etsi dicam homo non est
+sceleratus et felix, non ideo nego esse sceleratum, neque etiam nego esse felicem.
+Non (simul) a est b et c est d
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+Non (simul) Deus est justus et sceleratus est felix.
+Non (simul) a est b et e non est d
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+Non (simul) Deus est justus et pius non est felix.
+Propositiones Hypotheticae eo tantum variatae, quod sunt affirmativae vel negativae,
+simplices vel compositae:
+Si a est b sequitur quod e est d
+Si Deus est justus, sequitur quod pius est felix.
+Si a est b sequitur quod c non est d
+Si Deus est justus, sequitur quod sceleratus non est felix.
+Si a non est f, sequitur quod e est d
+Si Deus non est mendax sequitur quod pius est felix.
+4 est (1) justus et fortunatus (2) sceleratus et felix L
+6 alterutrum (1) esse falsum (2) duorum (3)
+17 compositae: (1) Propositio est, (2) a est b, a non est (3) a est b, c non est d. Deus est
+(a) Malus (b) impius (c) sceleratus erg. non est felix. (4) Si L
+18 justus, (1) ideo (2) sequitur quod L
+(1) Ideo (a) hic (b) is (c) impius (2) non (3) sequitur quod sceleratus L
+22 mendax (1) ideo (2) sequitur quod L
+21 f (1) ideo (2) sequitur quod L
+19 b (1) ideo (2) sequitur quod L
+Si a non est f sequitur quod c non est d
+Si Deus non est mendax sequitur quod sceleratus non est felix.
+Si a est b non sequitur quod e est g
+Si Deus est justus non sequitur quod pius est fortunatus.
+Si a est b non sequitur quod c non est g
+Si Deus est justus, non sequitur quod sceleratus non est fortunatus.
+Si a non est f non sequitur quod e est g
+Si Deus non est mendax non sequitur quod pius est fortunatus.
+Si a non est f non sequitur quod c non est g
+Si Deus non est mendax non sequitur quod sceleratus non est fortunatus.
+Si a est b, et h est e sequitur quod l est m
+Si Deus est justus et homo est pius, sequitur quod mors est bonum.
+Si a est b et h non est e sequitur quod l non est m
+Si Deus est justus et homo non est pius sequitur quod mors non est bonum.
+Non opus est caeteras similes enumerare formas eo solo ab his differentes, quod
+propositiones insertae modo affirmativae modo negativae sunt.
+Si a est b et h est e, et n est c sequitur quod l est m
+Si Deus est justus, et homo est pius, et mundus est sceleratus sequitur quod
+Et similes aliae substitutis alicubi categoricis negativis in antecedente vel consequente.
+12 quod (1) felicitas est futura (2) mors est bonum L
+16 sunt. (1) Si a est b et h est g non sequitur quod l non est m. Si Deus est justus et homo
+est fortunatus non sequitur quod mors non est bonum (nam et fortunatus aliquis (a) 〈est bonu〉 (b) pius (c)
+potest esse pius adeoque beate moriturus. Quanquam hoc sit non adeo frequens). Hic rursus variae prodeunt
+formae similes, eo solo ab hac differentes quod propositiones insertae modo affirmativae modo negativae sunt,... consequente. erg. (a)
+Si a est b et h est e et n est c non sequitur quod l est p. Si Deus est justus et homo est pius et mundus est
+sceleratus, non sequitur quod mors est consciscenda. Et similes atque etiam complicatiores. (b) Habuimus
+exempla antecedentis compositi (c) Hae L
+20–S. 129.1 Et... alicubi (1) negativis (2) partibus (3) categoricis erg.
+Hae formae habent partem antecedentem compositam ex pluribus propositionibus, sed
+consequentem ex pluribus propositionibus compositam, nam haec:
+Si a est b sequitur quod e est d et l est m
+Si Deus est justus sequitur quod pius est felix, et mors est bonum.
+Si a est b sequitur quod e est d
+Si Deus est justus sequitur quod pius est felix.
+Si a est b sequitur quod l est m
+Si Deus est justus sequitur quod mors est bonum.
+consequens composita non facit ut ideo propositio in plures resolvi possit.
+Si a est b non sequitur quod e est d et b est m
+Si Deus est justus non sequitur quod (simul) pius est felix et justus est
+Etsi enim unum ex justitia Dei sequatur, scilicet felicitas pii, non tamen
+alterum ex ea sequitur, nempe fortuna justi. Aliud enim est felicitas, quae est
+aeternum quiddam, aliud fortuna, quae caduca est.
+12 possit. (1) Si a est b non sequitur quod (a) c est g (b) l est m
+erg. et e non est d. Si Deus (aa) non (bb) est justus non sequitur quod (aaa) sceleratus est fortunatus (bbb)
+mors est bonum erg. et pius non est felix (2) Si L
+17 felicitas (1) aliud fortuna q (2) quae L
+18–S. 130.1 est. (1) Omitti vero possunt (2) Dubitare...
+Dubitare licebit an omitti possint Hypotheticae negativae in quibus pars antecedens
+est composita nam et illae in plures resolvi possunt ut haec:
+Si a est b et h est g non sequitur quod l non est m
+Si Deus est justus, et homo est fortunatus non sequitur quod mors non est
+Nam et fortunatus aliquis potest esse pius, ac proinde beate moriturus.
+Si a est b non sequitur quod l non est m
+Si Deus est justus non sequitur quod mors non est bonum
+Si h est g non sequitur quod l non est m
+Si homo est fortunatus non sequitur quod mors non est bonum.
+Nam certe quod ex duobus non sequitur multo minus ex uno sequetur. Eodem modo
+in tres propositiones resolvi posset haec:
+Si a est b et h est e et n est c non sequitur quod l est p
+Si Deus est justus et homo est pius et mundus est sceleratus non sequitur quod
+mors est consciscenda.
+Sed differt tamen composita a simplicibus, nam etsi verae sint duae simplices, non tamen
+ideo vera est composita, negativa.
+Si a est b non sequitur quod l est m
+Si Deus est justus non sequitur quod mors est bonum.
+Impio enim malum erit.
+Si h est e non sequitur quod l est m
+Si homo est pius non sequitur quod mors est bonum.
+Nisi enim Deus esset, frustra speraremus aliquid post mortem.
+essemu (2) speraremus L
+11 Si (1) Deus (2) homo L
+17–S. 131.3 Sed... bonum erg. L
+Si a est b et h est e sequitur quod l est m
+Si Deus est justus et homo est pius sequitur quod mors est bonum.
+simplices; sed formari etiam possunt in quibus categoricae sunt compositae; intelligo
+Categoricas compositas quae non possunt resolvi in plures simplices, nam alioqui
+redibitur ad formas priores. Sic ergo exempli causa:
+Si non (simul) a est b et c est d sequitur quod h non est (simul) c et d
+Si non (simul) Deus est justus, et sceleratus est felix; sequitur quod homo non
+est (simul) sceleratus et felix.
+Si non (simul) a est b et e non est d non sequitur quod non (simul) a est b et c est g
+Si non (simul) Deus est justus et pius non est felix, non sequitur quod non
+(simul) Deus est justus et sceleratus est fortunatus.
+Id est: Si Dei justitia et pii felicitas necessario cohaerent, non ideo Dei justitia
+et scelerati infortunium necessario cohaerent. Hujusmodi enuntiandi modus
+clarior est, quia brevior, etsi non aeque rem distincte explicet.
+Sequuntur Hypotheticae replicatae, quarum ipsae partes, antecedens nimirum aut
+consequens, aut ambae simul constant ex Hypotheticis, iisque rursus vel primi gradus vel
+replicatis, itemque vel compositis et compositis vel ex simplicibus vel ex hypotheticis,
+quae omnia infinitis modis variari et replicari possunt. Unum exemplum sufficiat nunc 20
+Siquidem, si n est c et h est e sequitur quod l est m, certe colligi potest, quod si a est b
+non sequitur quod e est g
+Siquidem, si mundus est sceleratus et homo est pius sequitur quod mors est
+bonum; certe colligi potest quod si Deus est justus non sequitur quod pius est 25
+9 quod (1) non (simul) (2) homo L
+17 f. nimirum (1) et consequens, constant ex Hypotheticis (2) aut... aut L
+10 felix. (1) (〈Non,〉 ex hac propositione 〈s〉 (2) Si L
+Siquidem, si Deus est justus et homo est pius, sequitur quod mors est bonum (2) Siquidem L
+quod (2) certe... quod L. sceleratus erg. L
+13 sceleratus non gestr.
+23 f. est g. (1) Si l est c et h est e sce (2) Siquidem (a) si Deus est justus (b) si..
+25 certe (1) sequitur etiam (2) colligi L
+11 c non gestr. est L
+Brevius: a mundi sceleribus pium mors immunem praestat, itaque Deus justus
+esse potest, etsi pii in terris non sint fortunati (quia morte ad meliora et aeterna
+Sed haec in exemplum sufficiant; qui bonos autores leget, et periodos paulo
+productiores resolvet, etiam propositiones longe magis compositas et implicatas
+deprehendet. Quemadmodum autem logici judicii est detracto ornatu de nuda veritate
+judicare, ita vicissim eloquentis est asperas et fastidiosas per se enuntiationes verborum
+amoenitate vestire. Cui usui inventae sunt in linguis cultioribus variae particulae,
+flexiunculae, et compendia dicendi, et distinctiones, et parentheses et formulae plus
+quam dicere videntur insinuantes. Nec jam varietates attingo quae a signis universali
+particularive, a modalibus (quorum multo plures quam quatuor) et ab indirecta quadam
+enuntiandi rectione, oriuntur. Quin et si a propositionibus ad consequentias transeamus,
+suppressiones et transpositiones praeterea considerandae erunt. Itaque tum demum
+praecepta Logicae recte tradita fatebor, cum ex illis statim et primo obtutu ostendi poterit
+integram paginam in Cicerone vel alio bono autore recte conceptam esse, quidque sit
+suppressum, quid supplendum: ita tamen ut taediosa et prolixa reductione ad primas
+simplicesque enuntiationes scholastico more opus non sit. Quemadmodum enim qui
+tabulam pythagoricam tenent non amplius digitis supputant, ita productioribus
+quibusdam et complicatioribus, usitatis, tamen et commodis enuntiandi aut ratiocinandi
+formis semel demonstratis promtius et melius quam scholae formulis utemur. Itaque
+quemadmodum rideretur qui moneret mercatores ut majoris securitatis causa digitis aut
+lapillis computarent: ita mirum non
+1 Notandum est disjunctivam esse ex hypotheticis compositam, ex. gr. aut unus est
+Deus, aut nullus. Id est si Deus non est nullus est unus; et si Deus non est unus est
+nullus. Seu unus Deus et nonnullus Deus est idem. Item notandum hypotheticas
+negativas exprimi per etsi et tamen, ut: Si Deus est justus non sequitur quod pius est
+fortunatus, hoc ita enuntiari solet: etsi Deus sit justus, non tamen continuo pius est
+6 detracto verborum gestr. ornatu de (1) nudis enuntiationibus (2) nuda veritate L
+11 a (1) modis (2) modalibus L
+12 consequentias (1) acceda (2) transeamus L
+14 statim... obtutu erg. L
+distinctiones, et parentheses erg. L
+16 ut (1) fastidiosa illa (2) taediosa et prolixa L
+(1) homines (2) mercatores erg. L
+20–S. 133.10 Itaque... fateamur. erg. L
+21 f. aut lapillis erg. L
+27 tamen (1) pius (2) continuo L
+PRAECOGNITA AD ENCYCLOPAEDIAM
+est a viris ingenio valentibus et verum falsumque utcunque involutum uno obtutu di-
+gnoscentibus sperni scholarum coccysmos qui omnem humanam patientiam prolixitate et
+taedio lassare possunt. Quemadmodum tamen in re magni momenti, ubi de salute mea
+omnibusque fortunis agatur, malim digitis supputando ridiculus haberi, quam in periculo
+esse, ita in rebus maximis ubi de aeterna beatitudine, de salute reipublicae, de summa
+vitae quaeritur malim profecto ad scholarum formulas redire, cunctaque morose
+resolvere quam impatientiam luere fatali errore. Sed si Deus mihi compendium judicandi
+praebeat, si promte simul ratiocinari liceat, et tuto, si examen novenario in numeris
+simile imo melius id est reciprocum detur summum humanae vitae beneficium tribui,
+necesse est fateamur.

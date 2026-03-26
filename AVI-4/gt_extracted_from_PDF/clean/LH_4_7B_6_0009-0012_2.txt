@@ -1,0 +1,382 @@
+Idealibricuitituluserit
+Haec Elementa Matheseos universalis,1 multo plus different a Speciosa hactenus
+cognita,quam ipsa Speciosa Vietae aut Cartesii differt a Symbolica veterum.
+Ostendetur hic Methodus Calculum Geometricum ad illa quoque problemata
+porrigendi quae Algebram (hactenus receptam) transcendunt.
+quae sub imaginationem cadunt, sive ut ita dicam Logicam imaginationis.
+1 Am Rande: Elementa Matheseos Universalis talia esse debent ut prodesse possint
+etiam ad Cryptographemata interpretanda, ad ludum Schaccorum ludendum, et alia id
+16 Elementa (1) Novissima (2) NovaL
+Analysin, seuCombinatoriametAlgebram, gestr. L
+19 Methodus (1) perveni (2) Calculum L
+23–S. 514.1 imaginationis. (1) Itaque Metaphysica, seu Methodus circa pure intelligibilia, non est hujus loci,
+licet sint quaedam in Mathesi, quae subtilitate cum Metaphysicis certant. erg. Est tamen Specialis quaedam
+imaginatio exempli causa circa situm, quae est Geometriae propria; et circa Motum quae Mechanicae, (a) quae
+(b) ea vero erg. huc non pertinent. (2) Itaque L
+24 Universalis erg. L
+Itaque hic excluduntur Metaphysica circa res pure intelligibiles, cogitationem,
+Imaginatio generaliter circa duo versatur, Qualitatem et Quantitatem, sive
+magnitudinem et formam; secundum quae res dicuntur, similes aut dissimiles, aequales
+aut inaequales. Et vero similitudinis considerationem pertinere ad Mathesin generalem
+non minus quam aequalitatis, ex eo patet quod Mathesis specialis, qualis est Geometria,
+saepe investigat figurarum similitudines.
+Similia sunt quae per se singulatim discerni non possunt; qualitates vero seu formae
+sunt quibus res per se discernuntur. Discernuntur tamen similia comparatione, quae fit
+tum compraesentia comparandorum, tum ipsius tertii compraesentia cum utroque.
+Quando igitur res forma vel qualitate discerni non possunt, tunc si inter se discerni
+possunt (id est si plus quam numero differunt ), discerni possunt Quantitate. Quae vero
+nec forma nec magnitudine discerni possunt, ea dici possunt Hypallela, quia unum
+alteri substitui potest, et si similitudo in sola extremorum consideratione consistit,
+dicuntur Congrua. Possunt enim nonnulla esse similia et convenientia secundum
+aliquam formam, quae non sunt secundum aliam, ut globus aureus et argenteus possunt
+esse congrui seu extremis convenientes id est et aequales, et respectu extremorum similes
+adeoque convenientes respectu corporeitatis in genere, sed non ideo per omnia similes
+sunt, cum differant qualitate materiae. Numero differunt quae ne quidem comparatione
+inter se discerni possunt, sed referenda sunt ad externa locum scilicet et tempus, an
+autem possibile sit dari res solo numero differentes in natura, hoc solo scilicet quod
+sufficit talia reperiri posse, quae imaginatione, sive sensuum apparentia discerni non
+possint. Cum autem res ne numero quidem differunt, etsi forte ne differant expressione
+nostra seu diversae appareant diverso respectu, dicentur coincidentes. Ita coincidet
+10 f. utroque ; unde cognoscitur ipsa differre Magnitudine erg. u. gestr.
+forma vel qualitate erg. L
+15–19 Possunt... esse (1) convenient (2)
+Hypallela, quia... potest erg. (a) aut etiam speciali (b) et L... materiae. erg. (a) Denique si omnino ne numero quid (b) Numero L
+similia... adeoque... genere erg.
+19 quae (1) per omnia similia sunt (2) ne L
+25 nostra... respectu erg. L
+25–S. 515.2 Ita (1) coincidunt Ellipsis secta ex cono, et secta (2) coincidet... et str. Hrsg. sectae erg. ex
+cylindro; (a) si certa quaedam utrobique detur (b) tunc (c) quod apparet erg.
+secant (bb) et... oblique (aaa) secant (bbb) secare intelliguntur. erg. L
+13 f. possunt (1) Convenientia,... conus (aa) et Ellipsis se
+21 f. hoc... plura erg. L. Quando L
+ex cono, cuidam Ellipsi sectae ex cylindro; quod apparet scilicet cum conus et cylinder
+se oblique secare intelliguntur.
+Patet autem quae sunt coincidentia ea multo magis esse Hypallela, et haec multo
+magis congrua, et congrua multo magis esse similia. Plura autem requiri ut aliqua
+demonstrentur coincidentia quam ut congrua, et plura ut demonstrentur congrua, quam ut
+demonstrentur tantum aequalia, vel tantum similia.2
+Quaecunque similibus et similiter determinantur, ea sunt similia. Et quae secundum
+unum determinandi modum similia, ea etiam secundum alium determinandi modum
+similia sunt. Determinata autem dicuntur, cum conditiones datae sunt, quibus aliqua ab
+aliis omnibus discerni possunt.3
+Si duo sint similia, tunc nulla alia in ipsis institui potest comparatio quam Ratio
+ipsorum inter se, et proportio sive eadem ratio, respondentium. Sunt autem
+respondentia, unum ex pluribus ab una parte, cum alio ex pluribus ab alia parte, si
+illud secundum quandam relationem eodem modo refertur ad sua complura, ut hoc ad
+sua complura, quae in Triangulis similibus dicuntur homologa latera. Responsus tamen 15
+potest esse et in dissimilibus, exempli causa si duae sint Ellipses dissimiles nihilominus
+peripheria, axis major axis minor, centrum, vertices, foci, unius, respondent iisdem
+alterius. Centrum centro, peripheria peripheriae.
+Similitudines interdum cognosci possunt per Magnitudines; ita similes sunt figurae,
+cum anguli respondentes sunt aequales; item cum latera respondentia sunt proportionalia. 20
+Proportionalitas autem seu identitas duarum rationum intelligitur, cum numeri
+provenientes si antecedens dividatur per consequens, utrobique sunt aequales.
+Homogenea sunt quae vel sunt vel transformatione reddi possunt similia.
+Aequalia sunt quae vel sunt vel transformatione reddi possunt congrua vel quae si 25
+similia sint congrua sunt.
+3 Am Rande: Data aliqua possunt intelligi vel cognitione, ut si sciam orgyiam esse sex
+pedum; vel actu ipso ut si quis mihi filum vel lignum det, quod orgyiae magnitudinem
+3 autem (1) coincidentia (2) quae... ea L
+3 f. esse (1) convenientia (2) Hypallela... magis erg.
+5 coincidentia (1) et erg. congrua, quam ut demonstrentur similia (2) quam L
+11 comparatio Magnitudinis gestr. quam L
+homo (2) respondentium. L
+16 f. nihilominus erg. L
+(3) ita eadem ratio agnosci potest (4) item L
+24 vel sunt vel erg. L
+25 vel sunt vel erg. L
+14 ad (1) alia, (2) sua L
+12 et (1) analogia (2) proportio erg. L
+16 dissimilibus, (1) ut (a) diameter (b) axis major
+20 aequales; (1) et cum (2) item cum ae
+21 seu (1) aequalitas duorum (2) identitas duarum rationum L
+Contra Magnitudines vicissim inveniuntur per similitudines, ut Magnitudines
+Angulorum per similitudines figurarum, magnitudines numerorum, per identitates
+rationum. Et interdum evenit, ut quod prolixa indiget demonstratione secundum viam
+magnitudinis, facillime demonstretur secundum viam similitudinis, exempli causa,
+Triangula aequiangula habere latera Homologa, item circulos esse ut quadrata
+Quod vulgo vocant comparationem Aequationum, nihil aliud est, quam cum
+supponitur duas formulas licet diverse expressas esse revera coincidentes, unde
+respondentes quoque magnitudines quae unamquamque determinant, debent inter se esse
+magnitudinum, imo non tantum in formulis magnitudinum, sed et in formulis quibusvis
+aliis, ut si literae designarent non magnitudines sed puncta. Combinatoria enim seu
+doctrina de formulis generalior est Logistica seu doctrina Magnitudinis.
+Comparatio4 autem similium locum habet, etiam cum non sunt coincidentia,
+exempli causa si sit yy + xx aequ. aa seu 25 et y + x aequ. b seu 6, necesse est, quia tam x
+yy + xx + 2xy aequ. bb
+Ergo bb − aa aequ. 2bx − 2xx
+Eodem modo statim certo scribere [bricht ab]
+9 f. esse (1) aequales. (2) coincidentes. erg. L
+10 in (1) magnitudin (2)
+12–14 Combinatoria... Magnitudinis. erg. (1) Potest locum habere et alia comparatio,
+cum duae formulae licet (2) Simili (3) Comparatio L
+15–S. 517.1 est (1) tam x quam y similiter determinari (2) valores (3) quia... determinantur erg. ex a et b
+etiam (a) valorem (b) valores eorum erg. L
+bb (1) seu x aequ. 2
+(1) et y eri (2) statim L
+27 sit (1) 4 (2) 〈7〉 (3) 9 (4) 6 L
+similiter determinantur ex a et b etiam valores eorum [determinari] per formulam scilicet
+ambiguam seu duplicem. Qualis formula ambigua seu duplex est 2
+tam +2 quam −2, seu radix quadrata de 4 est tam +2 quam −2, quia utraque in se ducta
+2. Itaque si esset yy + xx aequ. aa et y + x aequ. b ut diximus calculo instituto fiet
+b. Cum tamen differant, discrimen apparebit explicatione
+b. Unde statim dicere possumus, etiam y esse aequal.
+bb significat vel +2
+duobus, x et y, dicemus valere 1
+Ex consideratione autem similitudinis id commodum habemus, quod unius valore
+invento statim et alterius valorem scribere possumus, sine novo calculo. Constructio
+quoque quae circulo et recta fieri poterit, vide figuram circuli adjectam, nullum inter ipsa 15
+discrimen ostendet.5
+bb, minus dicemus valere
+Ita consideratio figurarum amphidextrarum quae qualibet diametro per centrum
+ducta semper in duas partes inter se aequales et similes secantur, utilis est in Geometria,6
+13 quod (1) uno scripto po (2)
+14–16 Constructio... ostendet. erg. L
+quae semper in partes inter se aequales et similes distingui possunt, (2) consideratio... secantur, L
+25 aequ. aa gestr. L
+namdeillisdubitarinonpotesthabeantnecentrumgravitatisannon.Cumcentrum
+magnitudinisinillissitipsumcentrumgravitatis,sedhincdemonstraripotestomnia
+etiamaliacorporahaberetalecentrum,omniaenimcontinueresolvipossuntin
+Ostendemusetiamproblematahomoeoptotautitadicamfaciliussolviposse,tum
+calculo; quia una radice inventa inveniuntur omnes, et praeterea depressiones facilius
+apparent; tum vero et constructione, nam Circulus quoque est figura cujus aequatio est
+respectu incognitarum (ordinatarum et abscissarum) homoeoptota, cum Hyperbolae
+aequatio, quando ad quadrata incognitarum assurgit, talis non sit. Unde utile est
+problemata caetera reducere ad Homoeoptota. In calculando quoque et construendo, ut
+vias meliores inveniamus, utilissimum deprehendi observare regulam justitiae, quae
+jubet ut ea quae in problemate sunt eodem modo se habentia, etiam a nobis eodem modo
+tractentur, ne quid alteri sine ratione posthabeatur.
+Notandum autem posse formulas esse similes, quibus duarum quantitatum inter se
+invicem relatio exprimitur, nec ideo tamen quantitatum eandem esse rationem, nec ideo
+ex ipsis aliquid compositum foret simile, exempli gratia sint tres magnitudines a, x, y, et
+aliae tres b, z, v, et sit aa aequ. xx + yy; item bb aequ. zz + vv. Verum non ideo a, x, y sunt
+ex tribus rectis a, x, y, licet aequatio pro illis sit similis aequationi pro his. Aliquid tamen
+convenientiae colligemus ex hac similitudine formularum, nimirum curvas quae sunt
+loca ipsarum x et y itemque ipsarum z et v esse ejusdem naturae, nempe circulos. Nam x
+et y sunt sinus rectus unus, complementi alter vel contra in circulo cujus radius sit a; at z
+et v in circulo cujus radius b.
+Multum autem differunt ea quae eandem habent rationem, ab his quae eandem
+habent relationem. Ita in uno aliquo circulo sinus rectus anguli 45 gradu[u]m eandem
+habet relationem ad suum sinum complementi quam habet in alio angulo quolibet sinus
+rectus, ad suum sinum complementi, nam in quolibet angulo quadrata duorum sinuum,
+5 problemata etiam str. Hrsg. homoeoptota L
+respectu incognitarum (ordinatarum et abscissarum) erg. est str. Hrsg. homoeoptota, L
+abscissa sunt Homoeoptoti, quod non est in (3) quadrata incogn (4) cujus L
+quadratum (2) quadrata incognitarum erg. L
+exprimunt locum ipsarum x et y esse circulum. (3) curvas L
+similitudo a (2) differunt L
+16 tres (1) liter (2) magnitudines L
+22 contra in (1) uno circulo; et z, v in alio circulo p (2) circulo L
+25 in (1) omni circulo ordinata ad absci (2) uno L
+7 figura (1) habens (2) cujus respectu ordinata et
+7 f. est (1) homoe (2) est str.
+13 ratione (1) praeponatur (2)
+20 nimirum (1) ambae (2) haec erg. aequationes
+22 sinus (1) ille complementi hic rectus (2)
+25 rectus erg anguli
+nempe sinus recti et sinus complementi simul addita faciunt
+quadratum radii. Sed non ideo sinus complementi et sinus recti
+sunt proportionales, seu eandem semper habent rationem. Nam
+in angulo 45 graduum sinus rectus et sinus complementi sunt
+aequales quod nuspiam alibi contingit. At diversos circulos
+comparando et sinus angulorum eorundem sunt proportionales.
+Et hoc inprimis tirones notare debent, quibus solenne est relationes confundere cum
+rationibus. Est autem Ratio relationum simplicissima, cum scilicet ad duarum
+magnitudinum comparationem nullam quantitatem tertiam ipsis homogeneam assumi
+necesse est. Hoc, signum perutile inveniendi quae quibus proportionalia, ita hinc deduxi 10
+in balisticis celeritatibus proportionales resistentias mediorum. Ita applicatae et abscissae
+trianguli sunt proportionales. Sed sinus recti sinubus complementi non erant
+proportionales nam ad exprimendam unam illam relationem generalem sinus recti ad
+suum sinum complementi, assumenda erat quantitas nova, nempe radius cujus quadrato
+utebamur. Interdum assumendae ipsorum comparandorum potentiae, licet nulla alia nova 15
+quantitas assumitur, ut circuli sunt ut quadrata diametrorum, non vero ut ipsae diametri.
+In Magnitudinum Calculo consideranda sunt Operationes et Usus ad problemata.
+Operationes constant additione et subtractione, Multiplicatione et Divisione, potentiae
+vel formulae constitutione et radicis extractione. Numeri absoluti et logarithmi
+inventione. Seriei vel Tabulae constructione, et clavis investigatione. Seriei differentia et 20
+summa. Et cum innumera supersint, ea his duobus comprehendi possunt generalibus,
+data proprietate aliqua rei, invenire ejus genesin seu constructionem; et data operatione
+per gradus invenire operationem per saltum, seu compendia.
+2 sinus (1) anguli (2) angulorum (3) complementi L
+4 angulo (1) complementi (2) 45 L
+13 illam (1) rationem (2) relationem L
+6 comparando (1) sinus angulorum et sumendo 〈inter〉 (2) et L... proportionales, erg. L
+9 comparationem (1) nihil aliud assumi (2) nulla quantitas tertia assumitur, sed (3) nullam L
+cum quadrata sunt (2) circuli L
+quantitatum generib (2) Operationes L
+et summa Seriei (c) Seriei differentia et summa (2) potentiae vel formulae erg. L
+inventione. erg. Seriei (1) construct (2) vel L
+10 f. Hoc,... mediorum. erg. (1) At hoc loco cum eadem relatio perpetua inter (2)
+14 nempe (1) quadratum radii (2) radius L
+17 f. ad problemata erg.. (1) Operationesque fiunt (a) tam (b) in variis
+18 constant (1) Algorithmo, (2) additione (a) di (b) et erg.
+18 f. Divisione, (1) potentia et radice; Tabulatione, et Clave. (a) Differentia (b) Differentiis
+22 data (1) operatione (a) prolixa (b) composita, invenire (2)
+potentiae vel formulae vel Seriei vel Tabulae constructionem; alias esse analyses, nempe
+subtractionem, divisionem, extractionem radicum; inventionem geneseos seu clavis; et
+quidem quoad licet compendiosae.
+Operationes aliae fiunt actu ipso, aliae fiunt per solam designationem, quae notat,
+quod actu ipso fieri debeat, cum licebit aut commode licebit, exempli gratia a + b
+signi[fi]cat a debere multiplicari per a + b, at operatione actu ipso peracta fiet aa + ab. Et
+utile est saepe operationes tantum designare, interdum enim in progressu continget, ut
+hoc ipsum aa + ab seu a + b
+proinde inutilis fuit tam multiplicatio actualis, quam divisio actualis ad eam iterum
+destruendam necessaria.
+a iterum dividi debeat per a + b, quo facto redibit a, et
+gggggggggggggggggggggggggggggggggggggggggggggg &
+ggggggggggggggggggggggggggggggggggggggggggggg &
+Interdum etiam operatio actu ipso facienda vel pro tempore vel omnino est
+impossibilis, saltem in nostris characteribus etsi construendo exhiberi possit aut a natura
+jam exhibita sit. Ita impossibile est subtrahi cum nihil adest, et tamen hoc in natura
+repraesentatur, cum quis plus debet, quam habet in bonis. Item numerum integrum
+primitivum impossibile est actu dividi per alium; unde fit fractio, quae repraesentat
+divisionem esse faciendam, re quae isto numero designatur divisa in partes ad eam
+divisionem exhibendam aptiores. Eodem modo oriuntur quantitates incommensurabiles,
+seu radices surdae ubi extractio non habet locum. Et quaedam extractiones tales sunt, ut
+radices illae surdae nec in natura rerum extent, tunc dicuntur imaginariae, et problema est
+impossibile, ut cum analysis ostendit punctum quaesitum debere exhiberi per
+intersectionem certi circuli et certae rectae, ubi fieri potest ut ille circulus ad illam rectam
+nullo modo perveniat, et tunc intersectio erit imaginaria; utile tamen est eam perinde
+considerari ad realem, quia radices imaginariae computandae cum realibus; ut integer
+numerus radicum alicujus aequationis habeatur; aliaque multa de ea utilia possint
+determinari. Quin imo deprehendi interdum necessario quantitatum realium valores
+exprimi debere per interventum quantitatum imaginariarum formulasque inde natas non
+minus utiles esse ad omnia analyseos opera quam formulas communes. Et has quantitates
+appello inspeciemimpossibiles ; cum reapse sint reales, praeceptaque trado,
+quibus id agnosci possit.
+1 ut (1) additionem et subtractionem, alias esse (2) additionem, L
+radicis extractionem. Alias esse (2) vel erg. Seriei vel erg. L
+13 impossibilis, (1) quod contingit cu (2) saltem L
+quo (3) et tamen quod provenire deberet (4) unde L
+19 locum. (1) Et cum exponens potentiae non (a) habetur (b) est rationalis, recurrendum est ad Logarithmos.
+(2) Et cum non habet locum expressio (3) Et L
+21 ostendit (1) circulum
+26 f. valores (1) sumpti (2) exprimi L
+18 divisionem (1) reddendam (2) exhibendam L
+24 imaginariae (1) adde (2) computandae L
+22 illam (1) parallelam (2) rectam L
+19 f. ut (1) ex (2) radices L
+2 formulae (1), constitutionem,
+8 designare, (1) pone enim (2) interdum L
+16 alium; (1) sed tam (2) hoc ergo
+Multum autem interest inter quantitates imaginarias, seu impossibiles per accidens,
+et impossibiles absolute quae involvunt contradictionem, ut cum invenitur ad problema
+solvendum opus esse, ut fit 3 aequ. 4 quod est absurdum. Imaginariae vero seu per
+accidens impossibiles, quae scilicet non possunt exhiberi ob defectum sufficientis
+constitutionis ad intersectionem necessariae, possunt comparari cum Quantitatibus
+infinitis et infinite parvis, quae eodem modo oriuntur. Nam sit recta indefinita AB
+transiens per punctum A ad quam sit perpendicularis CA. Et ex puncto C educta secare
+debet ipsam AB in aliquo puncto B, ut 1B, vel 2B, vel 3B, etc. Patet prout recta CB ad
+rectam AB angulum facit propiorem recto eo minorem esse AB, adeo ut in casu anguli
+recti 1B incidat in A, seu A1B sit infinite parva sive nulla. Contra quo angulus vel
+major quam A3B. Et quando recta CB fit omnino parallela ipsi AB, tunc punctum
+commune B, est imaginarium seu nullum, infinite
+scilicet hinc distans, et recta AB, est infinita.7 Et
+tamen hujusmodi imaginaria egregium usum
+habent tum in Conicis, tum alibi passim; ad
+constructiones universales inveniendas; quod adeo
+verum est ut saepe calculus ad eas necessario ducat,
+ubi harum rerum nondum satis periti mire
+torquentur et in absurdum se incidisse putant.
+Intelligentes vero sciunt apparentem illam
+impossibilitatem tantum significare, ut loco rectae
+angulum quaesitum facientis ducatur parallela;
+hunc parallelismum esse angulum illum seu quasi
+7 Am Rande: Discrimen tamen inter haec duo imaginaria, quod uno modo problema
+solubile, altero non; hoc tamen commune, quod saltem per angulum solubile non est,
+parallelismus enim revera non est angulus.
+4 f. sufficientis (1) 〈distan〉tiae (2) constitutionis erg. L
+6–8 Nam (1) si rectam (a) CB (b) AB
+indefinitam (aa) seduc (bb) secare debeat recta ex puncto C educta (aaa) patet quo m (bbb) in puncto B, ut 1B,
+2B, 3B, etc. (2) sit... etc. erg. Patet (a) quo linea CB magis a recta recedit (b) quo m (c) prout (aa) angulus in
+〈 – 〉 (bb) angulus in B est pro (cc) recta L
+facientis qui quaeratur (b) quaesitum facientis L
+25–S. 522.1 quaesitum. (1) Incommensurabiles vero Reales (2) Reales... quantitates L
+22 f. loco (1) anguli qui quaeratur (2) rectae angulum (a)
+24 parallelismum (1) dare (2) esse erg. L
+Reales vero licet incommensurabiles quantitates possunt in natura exhiberi: eaeque
+sunt vel Algebraicae vel Transcendentes. Algebraicae cum inveniuntur extractione
+radicis certi gradus. At Transcendentes cum gradus aequationis aut est incertus, aut non
+est enuntiabilis. Et ad Transcendentes pertinent Logarithmi. Et varii sunt modi
+Quantitatem Transcendentem exprimendi, tum ad instar Logarithmorum, tum certis
+operationibus quae supponuntur in infinitum continuatae, eae finities actu ipso praestitae
+quantitati quaesitae quantumlibet accedere debent, unde oriuntur
+appropinquationes. Huc pertinent etiam calculus differentialis seu per maximas et
+minimas, cum data differentiarum seriei proprietate quaeritur ipsa seriei proprietas, et
+calculus replicatus, cum scilicet data proprietate seriei replicata, quaeritur proprietas
+In quibus omnibus notandum est, plerumque ex eo oriri difficultatem problematum
+Transcendentium, quod non habentur rationes ad eas perveniendi, nisi justo ampliores, id
+est quae si succederent, plus darent quam quod quaerimus; ita viae quae ducunt ad
+quadraturam circuli, solent etiam ducere ad quadraturam cujuslibet sectoris generalem,
+quae algebraice est impossibilis, quemadmodum demonstrari potest. Itaque arteopus
+est, utidquodquaerimusquaeramusvia, quaeipsisolisitpropria.
+Haec eadem ratio est etiam in problematibus communibus seu Algebraicis cur
+aequationes altiorum graduum sunt difficiles resolutu, quia scilicet unam radicem forte
+quaerimus, qua essemus contenti si eam solam invenire daretur. Verum talis est natura
+problematis saltem ita ut a nobis concipitur ut non possit una inveniri, quin et reliquae
+Quin imo indeterminatio causa est incommensurabilitatis, nam cum quaesita quantitas
+non potest per naturam rerum exprimi quin simul et alia exprimatur eodem valore,
+necesse est exhiberi radices irrationales.
+In his autem omnibus quantitatibus irregularibus quales sunt Nihilo minores, fracti,
+Irrationales, Transcendentes, Imaginarii, peculiares sunt observationes modo instituendi
+4 est (1) ex (2) enuntiabilis. L
+7 quantumlibet (1) accedunt, (2) accedere debent, L.. minimas L
+9 seriei (1) proprietates, item (2) proprietas, L
+13 habentur (1) viae (2) rationes erg. L
+8 f. etiam (1) aequationes differentiales; (2) calculus.
+10 replicata, (1) datur (2) quaeritur erg.
+14 quae (1) plus praestant, qu (2) si L
+17 u t (1) problemata method (2) idL
+20 quaerimus, (1) at eadem opera invenimus plures (2) qua essemus contenti erg. si L
+(1) quantitatem cujus (2) quadraturam L
+21 problematis (1) aut ut non p (2) saltem ejus (3) saltem L
+27 f. Imaginarii, (1) peculiaria (a) legere (b) modo instituendi additiones, subtractiones (2) peculiares...
+subtractionem erg. L
+In omnibus operationibus utile est adhibere quasdam literas capitales, secundum
+quas formula ordinetur. Formulae rationales constant ex Formis sive terminis. Formulae
+sunt eodem modo compositae quae sunt completae respectu literarum; Formae ipsae
+quoque sunt vel completae vel incompletae, possunt tamen formae incompletae omnes in
+unam additae dare formulam completam. Dantur et formarum seu terminorum
+coefficientes (+ aliter alias utor voce formae +). Omnes formulae reduci possunt ad
+simplices, seu non exaltatas, si loco potentiae ut aa, pro uno a ponatur sumi α, et
+separatim annotetur aequatio a aequ. α. Ita enim per solam resolutionem omnium
+aequationum simplicium, habebitur resolutio omnium aliarum.
+In resolutione problematum, habentur determinationes, aequalitates, rationes,
+relationes. Considerandum quando et quomodo ex pluribus determinationibus possit
+veniri ad veram aequalitatem; item agendum de mutatione analogiae in aequalitatem, et
+Methodus solvendi problema est vel synthetica, vel analytica. Utraque vel per
+saltum vel per gradum. Synthetica vel combinatoria est cum alia problemata percurrimus 15
+et incidimus tandem in nostrum, et huc pertinet Methodus eundi a simplicibus ad
+composita problemata. Analytica est, cum a nostro inchoantes regredimur ut
+perveniamus ad conditiones quae ad ipsum solvendum sufficiunt. Quanquam is ipse
+saltum, cum ipsum problema solvere ordimur nullis aliis praesuppositis. Eodem modo et 20
+synthesis est per saltum cum a primis oriendo omnia necessaria percurrimus ad nostrum
+usque problema. Sed per gradum Analysis est, cum problema propositum revocamus ad
+facilius, et hoc rursus ad facilius, et ita porro, donec veniamus ad id quod est in potestate.
+Ad hanc analysin pertinet solutio per loca cum scilicet incognitum debet reperiri in
+duabus seriebus vel locis, nam terminus communis vel intersectio dabit quaesitum.
+Cum plures dantur conditiones seu aequationes, opus est reductione ad unam; quam
+in rem utile erit Tabulas condi ut compendium fiat operationum. Contra vicissim opus est
+arte unam aequationem utiliter dissuendi in plures constructionum causa. De problemate
+reducendo ad aliud facilius peculiariter meditandum est. Hoc enim nondum satis
+6 Omnes (1) formae reduci possun (2)
+12 agendum erg. L. problemata erg. L
+19 partibus progressus gestr. seu str. Hrsg. synthesis L
+21 f. cum... problema erg. L
+25 communis (1) 〈ut〉 si cur (2) vel L
+(3) a tabulis (4) unam L
+10 f. rationes, aequationes seu gestr. relationes. Considerandum (1) an et quo (2) quando L
+13 f. contra. (1) Item de (2) Methodus L
+15 vel combinatoria erg. L
+18 sufficiunt. (1) Per saltum cum nuspiam haerentes ad primas (2) Quanquam L
+20 aliis (1) praecedentibus (2) praesuppositis. L
+25 seriebus (1), eas enim (2), earum enim (3) vel locis nam L
+27 condi calculumque institui gestr. ut L
+examinavi. Cum sit tamen inter potissima habendum. Utilissimum autem est problemata
+incompleta seu disquicomposita revocare ad completa seu aequicomposita.
+Subjicienda: modus problema Geometricum revocandi ad Calculum, et contra
+Modus Calculum exprimendi tam demonstratione quam constructione.
+Dicendum et de his quae demonstrari directe non possunt per aequalitatem, sed per
+duas determinationes hinc inde, cum ostenditur aliquid nec esse majus nec minus. Et
+talia sunt omnia Transcendentia sua natura.
+[Sommer 1683 bis Anfang 1685 (?)]

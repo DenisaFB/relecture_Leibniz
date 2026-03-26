@@ -1,0 +1,632 @@
+133–153.
+ANALYSIS PARTICULARUM
+Analysisparticularum
+Cum omnes Notionum respectus particulis exprimantur, magni erit momenti
+particularum Analysis ad notiones intelligendas quae respectus involvunt. Particulae
+sunt praepositiones, conjunctiones, Adverbia et Nomina; sub nominibus enim pronomina
+comprehendo. Incipiam autem a praepositionibus et conjunctionibus quippe minus
+numerosis. Praepositio nomen variat secundum casus, uti conjunctiones quaedam
+verbum variant secundum modos. Adverbium est quasi adjectivum respectu verbi. Sed
+his omissis praestat ad ipsam venire Enumerationem.1
+Praepositiones. A vel ab. Ante. Apud. Circa. Citra. Contra. Coram. Cum. De. E
+vel Ex. Erga. Extra. In. Inter. Intra. Iuxta. Ob. Per. Post. Prae. Praeter. Pro. Prope.
+Notandum est omnes has praepositiones Latinorum in propria sua significatione
+notare respectum localem, translate vero aliis quoque respectibus designandis adhiberi.
+Explicemus primum respectus locales, ut facilius deinde ad reliquos explicandos
+perveniamus. Est autem respectus localis vel simplex, vel motum localem continens.
+Intra, Extra, quibus addi possunt et pro, prae, ante, post, supra, infra, trans vel ultra,
+citra, tenus.
+Ex his simplicissimae sunt cum, et sine. Nam A esse cum B, significat A et B habere
+unum locum, at A esse sine B significat A et B non habere unum locum. Hinc patet
+consequentia talis: si A est cum B, sequitur B esse cum A. Item si A est sine B, sequitur B
+esse sine A.
+1 Observo autores qui scripsere de particulis ut Tursellinus, Stewechius, Durrerus parque
+Thomasius annotare tantum usus quosdam et significationes non vulgares
+communibus et maxime propriis omissis quod nollem factum.
+nomen L
+17 f. quibus... tenus erg. L
+9 Cum. De erg. L
+15 localem
+u. verm. v. J. THOMASIUS, Jena 1651 u. ö.); G. STEWECHIUS, De particulis linguae latinae, Köln 1580 u.ö.; A.
+A est apud B si loca ipsorum A et B sint contigua, hinc etiam colligi potest, si A est
+apud B, etiam B esse apud A. Iuxta idem quod apud. Item prope; ut prope urbem.
+A est in B si locus ipsius A sit pars loci ipsius B, vel potius, si nulla sit pars loci
+ipsius A, quae non sit pars loci ipsius B, potest enim contingere, ut id A, quod in B esse
+dicitur, totum locum impleat ipsius B, ut quando A et B coincidunt.
+Si pars loci ipsius B quae restat demto loco ipsius A, sit locus ipsius C, dici poterit C
+esse circa A, et A esse intra C. Unde patet differentia inter in et intra, dicimus enim intra
+muros peccari, non in muris. Quod neque in neque intra est, dicitur esse extra. Patet
+etiam quod est circa me componi posse ex talibus quae sint apud me.2
+Si D et E possint intelligi partes ipsius C, dicetur A esse inter D et E. Si item A est
+ante E respectu ipsius D, et E post A, quodsi id locum habeat non tantum respectu ipsius
+D, sed aliorum multorum, dicetur esse A ante E, absolute, et E post A. Et pro ac prae si
+locales tantum respectus intueamur, nihil ab ante distinguit. Communi usu si A sit homo
+cujus oculi sint viciniores ipsi E, terga ipsi D, dicitur E esse ante A, et D post A. Si caput
+ipsi E vicinius pedes ipsi D erit E super, D erit sub. A quibus non semper differunt supra
+et infra vel etiam habetur respectus ad centrum terrae.
+fig. 3
+fig. 4
+C circa A
+A intra C
+E extra D
+A apud E
+E cum D
+A inter D et E
+A ante E
+E post A
+fig. 1
+fig. 2
+7 A, circa me comp erg. u. gestr. et L
+12 multorum, omnino gestr. dicetur L
+ANALYSIS PARTICULARUM
+Quod est post etiam est trans vel ultra; et quod ante est etiam citra; tenus est apud
+et citra simul.
+Hae definitiones satis sunt exactae. Locum enim ipsius A intelligo non minimum,
+qui scilicet nihil continet praeter A, sed utcunque sumtum licet ampliorem ipso A, ita
+punctum aliquod in corpore aliquo esse judicamus, si constet punctum ad aliquod corpus
+pertinere, quod prioris corporis sit pars. Praeterea si A est inter D et E semper intelligi
+potest locus aliquis communis ipsorum A, D, E, qui sit locus ipsius B, et ab hoc poterit
+talis adimi locus ipsius A, ut restet C, cujus partes sint D et E.
+Relatio loci cum respectu ad motum est in praepositionibus sequentibus a, per, ad,
+versus, ex, in cum accusativo; secundum, propter, ob.
+Ab A venio si fui apud A, vel saltem fuissem, si motus assumeretur retro
+continuatus.
+Ad A tendo, si ero apud A, posita continuatione motus imposterum. Versus A idem
+est, nisi quis ita distinguere malit, ut [ad] A tendam, quoties destinatum mihi est eo
+venire, versus A autem tunc quoque cum destinatum est tantum appropinquare.
+Per A venio vel tendo, si intermedio tempore motus fui vel ero in A.
+Ex A venio, si initio motus fui in A, initio scilicet utcunque assumto.
+In locum A tendo (praepositione in regente accusativum) si motu continuato ero in
+Secundum A, id est motu apud A, ut qui secundum litus navigat, hoc est ita ut
+durante navigatione maneat apud litus. Idem est propter, propter aquae ripam. Ut se
+habet secundum ad apud, ita se habet ob ad ante, ut ob oculos versari.
+habuisse, quia initio res tantum sensibiles sive corporales spectarunt; quibus proprias
+voces postea per tropos ad res invisibiles transtulerunt. Nobis autem veram notionum 25
+analysin quaerentibus, altius assurgendum est.
+Si A sit L, et B sit L, dicetur A cum B esse L.
+5 aliquod aliud gestr.
+9–11 ad, versus... accusativo erg.
+corpus L
+13–15 Versus... appropinquare. erg. L
+vel... continuatus. erg. Ad L
+Si A sit L, non vero B sit L, dicetur A sine B esse L.
+Si A sit requisitum immediatum ipsius B dicitur A esse in B, hoc est A debet esse
+non posterius natura ipso B, et, posito A non existere, debet sequi etiam B non existere,
+eaque consequentia debet esse immediata, independens ab ulla mutatione sive actione et
+passione; his positis dicetur A esse in B.
+Latini dicunt manu, gladio etc. occidere, Germani, Galli, et alii cum manu. Scilicet
+quasi et Titius sit homicida, et manus ejus vel gladius. Manu caedit, id est caedit
+quatenus manum habet vel movet. Eruditione vincit id est vincit quatenus eruditionem
+habet.
+Apud retinet loci significationem.
+Secundum carnem, spiritum, Deum etc. agere, vivere, hoc est ita ut caro, spiritus,
+Deus etc. sit regula, seu quemadmodum carni, spiritui, etc. convenit. Operae pretium est
+autem investigare, quaenam convenire inter se dicantur. Convenire autem inter se
+dicuntur A et L quae ita sese habent, ut si paucis assumtis in A, verbi gratia b et c,
+totidem alia assumantur in L, nempe m et n quae habeant eandem relationem communem
+b ad m, quam c ad n; tunc quibuslibet aliis in A sumtis, possint similiter respondentia
+assumi in L. Convenientia sunt, in quibus respondentium eadem relatio est.
+Respondentia sunt, si y quocunque assumto in A, datur secundum constantem
+regulam z aliquod in L. Aliter convenientia sunt quorum unum ab alio juvatur, naturae
+convenienter vivere, id est, quemadmodum necesse est, ut natura conservetur vel juvetur,
+vivere secundum carnem,
+A... natura prius str. Hrsg. ipso... sequi L
+et B habeant eandem vel vicinam positionem, A dicetur esse apud B vel contra. Positio autem non tantum est
+compatibilia in natura erg.
+20 vel juvetur erg. L
+14 A et L erg. L
+ANALYSIS PARTICULARUM
+id est ita ut caro juvetur, seu quemadmodum carni placet, vivere secundum Deum, id est
+quemadmodum Deo placet; secundum legem, id est quemadmodum is vult qui fecit
+legem. Et vero non est opus ut nunc magnopere de communi notione inde abstrahenda
+soliciti simus.
+ponimus: naturapropinquum seu quorum uno intellecto, alterum facile intelligitur.
+Cognata sunt quorum causae habent effectum communem vel quorum effectus habent
+causam communem, et eo magis cognata sunt, quo propinquiores sunt causae et effectus.
+Circa rem versari id est in vicinis, cognatis, ad rem pertinentibus.
+Pertinere ad aliquid, generale admodum est, et vix notionem constantem habet,
+respondet τ ìωÄ Habere. Habemus enim quae ad nos pertinent. Habemus partes nostras,
+habemus affectiones nostras; habemus et res externas, quae pars sunt nostrae substantiae
+civilis, seu nostri patrimonii. Vel habemus quae a nobis quodammodo dependent seu
+quorum status fluit ex nostro statu.
+Penes nos seu in nostra potestate esse dicuntur, quae talia fiunt qualia ipsa esse
+volumus.
+De aliquo agere, dicere, id est dicere quod ad aliquid pertinet, vel saltem id quod
+involvit ea quae [ad] aliquid pertinent, vel de A dicere est, enuntiationes proferre,
+quarum subjectum est A. In Germanico, Gallico et similibus, ein man von verstand, un
+homme d’entendement quasi homo de intellectu participans. Homo de Schola, id est non 20
+tam a schola veniens, quam de schola participans.
+A Titio occisus est Cajus; id est quatenus Titius est occidens eatenus Cajus est
+occisus. Vel ut magis verbotenus exprimamus: Cajus est occisus, quatenusagensest
+Titius.
+Venio ab Urbe hoc est venio, et fui apud urbem, sive venio sic, ut fuerim apud
+Haec villa mille passibus ab urbe distat. Haec propositio resolvi potest in has
+propositiones quarum unaquaeque vera est cum respectu ad alias, quas ideo voco
+rem erg. L
+7 f. vel... communem erg. L
+erg. L
+respectivas: Haec villa est distans. Urbs est distans. Via est terminata Mille passus
+distat ab urbe passibus mille; fiet: Haec villa est distans quatenus urbs est distans et
+haec distantia mille passus habet. Vel explicando distans. Distans est quod est terminus
+quatenus via minima est terminata. Itaque sic resolvetur denique: Haec villa est terminus
+quatenus urbs est terminus et quatenus via est terminata et est totum quatenus pars
+millesima est passus.
+Ad. Tendo ad urbem. Ad insaniam cupit, hoc est usque ad insaniam, sive tamdiu
+cupit, donec prope vel apud insaniam sit. Pertinet ad me, hoc est pertingit ad me,
+Metaphoricum est, significatque aliquam rem esse meam, hoc est esse in me, vel esse in
+numero earum rerum quae sunt in mea potestate.
+Accusativus sine praepositione, ut cum verbum activum asciscit accusativum
+patientis, ut Titius laudat Cajum, seu Titius laudat, quatenus Cajus est patiens.
+Quoad. Aethiops est albus quoad dentes, id est Aethiops est albus quatenus dentes
+(qui sunt partes quatenus Aethiops est totum) sunt albi. Nam ut hac occasione et vim
+Genitivi in hoc casu explicemus, Dentes Aethiopis idem est quod dentes qui sunt
+partes, quatenus Aethiops est totum. Si Accusativum in quoad hominem tollere velimus,
+possumus pro eo substituere: quatenus respicitur homo.
+Per. Per procuratorem agere, per virtutem inclarescere. Per se expetendum. Per
+omnia similis. Per urbem ire. Ago per procuratorem, id est ego ago, quatenus
+procurator agit. Videtur tamen hic non satis exprimi, quod eadem sit procuratoris et mea
+actio, vel potius quod ego ago ut procurator agat. Itaque: ego sententiam peto per
+procuratorem, id est ego sum quasi is qui petit sententiam, quia procurator meus petit
+sententiam. Ego sum clarus per patrem, hoc est ego sum clarus, quia patrem talem seu
+certo modo constitutum
+erg. L
+erg. L
+urbem ire. erg. L
+20 Per
+17 f. Si... homo. erg. L
+ANALYSIS PARTICULARUM
+habeo. Et proinde eodem modo: sententiam peto per procuratorem, id est sententiam
+petere dicor, quia procuratorem talia facientem (scilicet ob quae sententiam petere
+dicor) habeo. Per se expetendus id est expetendus quia ipse est talis.
+Propter, quid significet ex exemplis intelligi potest in quibus est per. Plerumque
+enim substitui posset propter. Nisi quando relatio localis significatur.
+Ex. Tabula facta est ex auro. Hoc est Tabula esse coepit immediate, quia aurum fuit
+taliter figuratum, seu eo ipso dum aurum fuit taliter figuratum. Aurum scilicet est
+materia tabulae, et quidem permanens in Tabula. Ita ut dici possit, Tabula esse coepit eo
+ipso dum aurum fuit taliter variatum. Va riatio enim est mutatio permanentis. Materia
+est id cujus mutatione (an variatione?) facta eoipso existit aliquid. Seu: Si posito quod 10
+A mutatum est eo ipso sequitur quod B existit, A est materia, et B est materia tum.
+Pro aliquando idem quod propter. Pro loco id est propter locum. Aliquando pro
+opponitur τ ìωÄ contra. Pro me, contra me, id est bonum meum, malum meum. Aliquando
+pro significat loco. Pro Mercede hoc mihi erit, id est loco mercedis, seu hoc erit tale
+quale est merces.
+Prae illo id est magis quam ille.
+Ex his autem satis manifestum est, praepositionibus omnino posse careri,
+commodeque omnia circumscriptione exponi posse, sine praepositionibus.
+Similiter cessant Casus nominum, sunt enim idem quod modificationes cum
+praepositione, vel implicita vel expressa. Ut occidere gladio, hoc est, ut Galli Germanive 20
+exprimunt, per gladium aut cum gladio. Desunt tamen interdum praepositiones usitatae
+quibus relationem exprimamus, ut verberare aliquem. Genitivum tamen multae linguae
+exprimunt per praepositionem, ut gladius Johannis, l’espée de Jean, significat autem
+possessionem seu rem patrimonialem, ut sensus sit: gladius qui est res patrimonialis,
+quatenus Johannes est dominus. Caput hominis, seu caput quod est pars quatenus homo 25
+est totum. Punctum lineae seu punctum in linea seu punctum quod est contentum
+relatio L
+Johannis L
+24 qui erg. L
+2 procuratorem
+23 gladius est erg. u. gestr.
+26 seu punctum... seu erg. L
+12 aliquando erg. L
+quatenus linea est continens. Vel punctum quod est terminus, quatenus id quod est pars
+quatenus linea est totum est terminatum. Ego subjicio me tibi, id est ego subjicio
+quatenus ego patior (vel sic: quod ego patior) et quatenus tu es incipiens quatenus es
+superior. Inventum meum de Circulo. Inventum meum quod est enuntiatio quatenus
+circulus est subjectum. Reparavi domum in quantum reparari potest. Ego sum reparans
+quatenus Domus est patiens et quatenus domus est possibilis quatenus patiens. Separo
+partem A a parte B, id est ego separo quatenus pars A est patiens et quatenus
+pars B
+incipit esse remota quatenus pars A incipit esse quaedam sita. Ego respicio finem. Ego
+respicio quatenus finis est patiens. Video hoc ex iis quae sunt dicta. Id est video quatenus
+hoc est patiens quia ea quae sunt dicta sunt talia seu sunt dicta.
+In vertendo ex lingua particulari in universalem possunt casus vel modi omitti, et
+pro iis scribi particulae, ita ut res omnis transferatur a flexionibus ad vocabulorum
+interpretationem, verbi gratia pro Petrus est doctus cum Johanne, perinde erit ac si
+scriptum esset Petrus est doctus cum Johannes, Pierre est docte avec Jean, seu Petrus
+est doctus ut et Johannes, tantum igitur ipsius ut-et quaerenda expressio in lingua
+generali. Ipsius autem ut-et vel cum talis adhibenda est expressio, ut consequentiae quae
+inde duci debent, haberi possint, verbi gratia ex eo quod dicitur Petrus est doctus cum
+Johanne sequitur etiam Petrus est doctus, item Johannes est doctus, item Johannes est
+doctus cum Petro. Itaque hoc etiam ex ipsis characteribus debet esse agnoscibile, scilicet
+ex characteribus agnosci debet, quando salva veritate locum habeant transpositiones,
+omissiones, additiones, substitutiones; sunt enim substitutiones simul additiones et
+omissiones respectu ejusdem loci.
+Conjunctiones potissimae sunt: Alioqui. Atqui. Attamen. Aut. Caeterum. Cum.
+Denique. Ecce. Ergo. Et. Etiam. Etsi. Exempli gratia. Hinc. Jam. Inquam. Ita. Nam. Ne.
+Nunc.3 Praeterea. Quidem vel Equidem. Sed. Si. Sin. In Summa. Tamen. Vel. Velut. Ut.
+3 vel... patior erg. L
+11 vel modi erg. L
+Si. L
+25 In Summa. erg. L
+24 Inquam erg. L
+25 Praeterea erg. L
+ANALYSIS PARTICULARUM
+Alioqui.4 Puer studebit, alioqui plorabit, hoc est: aut plorabit, seu: si puer non
+studebit, plorabit. Puer seu A erit studens seu B, siAnoneritB erit plorans. Ita
+evitabitur repetitio, alioqui verbotenus interpretando fiet: puer erit studens, si puer non
+erit studens, erit plorans. Est tamen adhuc opus animadversione aliqua, nam qui dicit
+puer studebit, alioqui plorabit, vel puer studebit aut plorabit, est quasi correctio
+praecedentis, est videndum an hoc ferendum in lingua generali, ut quis proferat falsum
+seu corrigat sermonem suum. Nam qui dicit puer studebit aut plorabit, is utique dicit,
+puer studebit, sed mox agnoscit se falsum dixisse, itaque correctivum subjicit; vel saltem
+plorabit. Ut igitur falsitas evitetur nec correctione opus sit, forte aut vel alioqui ita
+exponi poterit: puer studebit nisi ploraturus est. Scilicet resectiones seu omissiones non 10
+succedunt in casu conditionis, nec si dicere licet puer studebit nisi ploraturus est, inde
+inferri potest absolute puer studebit. Malim in lingua generali istud conditionale
+assertum distingui ab absoluto, malim enim posse semper procedere omissiones. Perinde
+ac si dicerem: Sequitur quod puer studebit, si non est ploraturus.
+Ex characteribus Si et non5 debet demonstrari conversio simpliciter propositionis
+conditionalis negativae. Si falsum est A esse B sequitur quod C est D. Ergo inversione
+per contrapositionem: Si falsum est C esse D sequitur falsum esse quod falsum sit A esse
+B. Hoc est si falsum est C esse D sequitur quod A est B. Cumque ex charactere ipsius
+falsi seu τουÄ non debeat demonstrari quod falsum est falsum esse, id verum esse. Restat
+tantum ut ex charactere ipsius Si6 demonstretur conversio per contrapositionem. Si ex
+propositione L (circa A est B) sequitur propositio M (circa C est D) (propositio L scilicet
+affirmativa vel negativa; propositio M itidem affirmativa vel negativa) tunc contra ex
+5 Am Rande: s i, non, sin
+6 Am Rande: S i, sequitur
+4 opus
+falsitate propositionis M sequitur falsitas propositionis L. Si Non sequitur, ponamus
+simul M esse falsam, et L esse veram. Hinc instituetur ratiocinatio talis: L est vera p e r
+H y p o t h e sin. Ergo perpropositionemHypotheticamM est vera, quod est
+c o n t r a H y p o t h e sin. Ergo posita veritate propositionis Hypotheticae L et M sunt
+incompatibiles. Itaque si dico Si L est vera sequitur quod M est vera, sensus est, non
+simul supponi potest quod L est vera, et quod M est falsa. Quae est vera Analysis τουÄ Si
+et τουÄ Sequitur. Quasi pro hoc: Si L est vera sequitur quod M est vera, scriberem: Quod
+L est vera non simul supponi potest et quod non, M est vera. Ergo si supponitur L est
+vera, supponitur non quod non M est vera, seu supponitur quod M est vera. Si supponitur
+quod M non est vera, seu quod M est falsa, non supponi potest quod L est vera, sed
+supponendum est quod L est falsa.
+Attamen vel Tamen7 idem esse videtur quod nihilominus; seu hoc non obstante. Ut:
+Magister est diligens, et tamen discipulus est ignarus; vel quanquam magister est
+diligens, discipulus tamen est ignarus. Cujus sensus est: Magister est diligens, unde
+videtur sequi, quod discipulus non sit ignarus, sed falsa est consequentia, quia discipulus
+est ignarus. Vel generalius: Magister est doctus, et meretur considerari quod simul
+discipulus est ignarus. Seu quod simul et magister est doctus et discipulus est ignarus
+meretur considerari. Hinc locum habet et inversio. Nam si recte dico: Magister est
+diligens et tamen discipulus est ignarus, etiam recte dico: Discipulus est ignarus et
+tamen magister est diligens. Unde patet Etsi et tamen involvere quandam relationem ad
+mentem, seu esse reflexivas. Habet tamen aliquando peculiarem significatum,8 ut: Nunc
+incorrectum populi pervenit in ora, in populi quicquam si tamen ore meum est, id est si
+modo; wo anders, saltem si. Significat quandam correctionem ejus quod absolute dictum
+est, subjecta mox conditione. Quanquam saltem non semper hic adhiberi posse videatur
+ni fallor enim innuit, alio casu praeter appositum forte etiam fieri posse, sed certe tamen
+7 Am Rande: Etsi, Ta men
+8 Am Rande: Saltem, Modo, zum wenigsten, adminimum
+subjecta L
+ANALYSIS PARTICULARUM
+casu apposito esse futurum. Quod non licet dicere, si alio casu manifeste est impossibile
+id quod dicitur, ut hic manifeste impossibile est librum incorrectum in populi ora
+venisse, si omnino in populi ora non venit. Itaque non licet dicere: Liber meus
+incorrectus in ora populi venit, si non in aliis casibus, quod suo loco relinquo, saltem in
+hoc casu: si in populi ora venit. Absurdum enim est, id suo loco relinquere tanquam
+dubitabile, quod dubium non habet. An tamen τοÁ saltem hanc semper significationem
+habeat dubito. Patet autem ut post etsi habetur tamen, ita et poni posse post si, ut si est
+imperitus, tamen est bonus. Nempe si dicam: etsi est imperitus tamen est bonus, affirmo
+esse imperitum, si vero dicam: si est imperitus tamen est bonus, non affirmo esse
+imperitum, sed tantum esse bonum. Quo casu tamen hanc habet analysin: considerandum 10
+est quod simul Titius videri potest imperitus, et est bonus.
+Quidem et Sed itidem explicatione indigent: verbi gratia ille quidem est doctus,
+hic vero est disertus. Sunt signa notantia diversitatem, quasi dicerem, notatu digna est
+diversitas, quod ille est doctus, et quod hic est disertus. Itaque ut Etsi et tamen
+significant notabilitatem, ita et quidem et sed, differentia in eo est quod etsi et tamen
+significant duas propositiones con-verificari, quae non videntur posse consistere; At
+quidem et [sed] significant notabilem esse inter duo diversitatem. Hinc plerumque ubi
+etsi et tamen locum habent, etiam quidem et sed locum habent. Unde fit ut plerumque
+ipsi etsi subjici possit quidem, et ipsi sed vel vero vel at subjici possit tamen. Ut: etsi
+quidem Magister sit doctus, attamen discipulus est ignarus.
+Cum vel Quum. Cum ita sit, id est quia ita est. Cum ita esset, id est quando ita
+erat.
+Quando vel quandoquidem interdum idem significant quod quia vel quoniam
+quidem. Quando vel q u a n d o quidem nihil in humanis stabile est, convertendus est
+animus ad cogitationem rerum divinarum.
+1 Quod hoc loco gestr. non L
+7 dubito. Si non potes
+impossibile L
+quod L
+esse peritus, sis tamen bonus; si non potes esse peritus, gestr. quod suo loco relinquo saltem sis bonus.
+10 analysin: suo loco gestr. considerandum L
+19 vel at erg. L
+21 est vel quando ita est erg. u. gestr.
+24 vel q u a n d o quidem erg. L
+17 etsi L ändert Hrsg.
+affirmatur, estque in illis quaedam oppositio. Itaque cum unum solum et aliud etiam
+opponantur, illo negato hoc affirmato dicitur, non illud solum sed hoc etiam. Itaque
+rursus sed est tantum signum notabilitatis in diversitate vel oppositione.
+Etiam Titius est doctus, significat alium esse doctum, et Titium esse doctum.
+Eandem vim habet quoque. Itaque ut sed notari jubet diversitatem, ita etiam vel quoque
+convenientiam.
+Hinc patet, Etsi, tamen, quidem, sed, etiam esse particulas quibus per se careri
+potest, sed quae admonent animum ut advertat aliquas collationes aut connexiones.
+Tandem, demum, denique, quod superest, quod reliquum est perinde reflexivae sunt,
+ac principio, porro, primo, secundo, tertio, etc. ultimo, quae initium, continuationem,
+finem significant. Reflecti enim animum jubent ad dicendi ordinem.
+Ecce forte ad interjectiones referri posset, ut Euge, Age. Idem est quod ιÆδουÂ, vide,
+siehe, voyés, voy. Admonitio, ut animus advertatur ad observandum aliquid singulare.
+Ergo seu igitur. Nota illationis. Cum dico Sapiens est Rex, ergo felix est civitas, non
+tantum dico si sapiens est Rex sequitur quod felix est civitas, sed etiam affirmo
+sapientem regem et civitatem felicem esse, ac proinde totus syllogismus hypotheticus in
+his absolvitur. Ut proinde revera nullum hic sit Enthymema, neque suppressio, seu
+Ergo interdum subjicitur interrogationibus, quid ergo est. Alio sensu Germani et
+Galli substituunt in interrogando, hi donc, illi denn. Qu’est ce donc? Was ist es denn?
+Sed hoc tantum particulae istae significant sciendi festinationem, un empressement.
+Quasi dicerem quid est quaeso?
+Inquam, est reassumtio sermonis, post ambages. Cum nihil sit felicius sapiente, ut
+ex eo constat, quod providentia est Omnipotentis substantiae quae omnia gubernat, et
+quod animae rationis compotes dissoluto corpore perire non possunt, etc; cum inquam
+nihil sapiente felicius sit, consequens est justitiam non esse stultitiam. Ita ut inquam idem
+sit, quod: quemadmodum jam dixi.
+ANALYSIS PARTICULARUM
+Quemadmodum, ita. Verbi gratia: ita est, ut dixi, seu sic est. U t Johannes est
+doctus, ita Petrus est prudens. Significat convenientiam duarum assertionum, itaque
+etiam inverti potest, dicique: Ut Petrus est prudens, ita Johannes est doctus. Dici et
+potest ita Johannes est doctus uti Petrus est prudens. Est haec nota convenientiae,
+interdum non nisi animadversionis sive notabilitatis causa adhibetur, ut in hoc exemplo.
+Interdum vero magis necessaria est, quando scilicet servit ad supplendum aliquid in una
+assertione ex altera.9 U t gubernatoris scientia navem conservat, ita et in civitate evenit.
+Id est qualis est assertio haec: gubernatoris scientia navem conservat, talis est assertio
+aliqua quae est totum quatenus civitatis notio est pars.
+Alio sensu Ut, item ita ut, sic ut adhibentur, cum ut significat non velut, sed dass, et 10
+asciscit conjunctivum.10 Ita est potens u t sit formidabilis, hoc est, quia est potens talis,
+est formidabilis.
+Caeteroquin volo u t sis pius, et video quod es pius, differunt,11 ut intellectus et
+voluntas, et priore casu non asseritur te esse pium, posteriore omnino asseritur. Fateor
+tamen interdum ut involvere assertionem, quod non involvere, ut si dicam: feci u t sit
+pius. Dicitur quod Petrus est doctus. Re tamen recte expensa, priore casu oritur assertio
+ex eo quod veritatem assertionis includit additum feci; posteriore casu non abest omnino
+assertio sed ponitur, licet tantum relative nec cum plena approbatione. Resolutio talis est:
+volo u t sis pius id est Ego sum volens quatenus volitum est hoc: tu es pius. Vel adhibita
+definitione voluntatis; conor quatenus cogito: tu es pius. At feci u t sis pius significat,
+quia ego egi tu es pius. Scio quod tu es pius, audio quod tu es pius, addi potest: scio
+verum esse quod tu es pius, audio verum esse quod tu es pius. Caeterum ipsum, quod hoc
+sensu usurpatum videtur esse ex numero earum conjunctionum quae sine ulteriore
+resolutione possunt retineri.
+11 Am Rande: Quod
+talis L
+feci L
+feci erg. L
+Et est etiam particula qua (puto) careri commode non potest. Titius et Cajus adsunt.
+Possum quidem resolvere in duas propositiones: Titius adest, Cajus adest, sed
+compendia enuntiandi non sunt negligenda. Conjungit etiam integras propositiones vel
+etiam periodos. Ut: omnes homines debent quaerere felicitatem, e t omnes sapientes
+debent adjuvare alios in quaerenda felicitate.
+Nam et quia sibi substitui possunt. Pii sunt felices, quia Deus existit. Vel: pii sunt
+felices nam Deus existit. Hoc saltem interest, quod ex usu latini sermonis quia poni
+potest sive causalis enuntiatio praeponatur sive postponatur consequenti; nam vero non
+habet locum, nisi postponatur causalis, exempli causa possum quidem dicere quia Deus
+existit, ideo pius est felix, non vero: nam Deus existit, ideo pius est felix; sed omisso
+ideo, dicendum est: pius est felix, nam Deus existit. Si vero praeponas causalem
+simpliciter, consequens potest poni praefixo: Ergo. Ut: Deus existit, ergo pius est felix.
+Unde patet haec omnia non tam substantia quam usu linguae differre.
+Exempli gratia etiam instar particulae haberi debet: aliquis homo est beatus,
+generali.12
+Adeoque et id est, et proinde, seu et igitur in Tursellino non reperio.
+Hinc, v.g. Hinc factum est, substitui potest, ideo.
+Ne, idem est quod Ut non, jubeo n e facias, id est ut non facias.
+Jam. Verbi gratia Jam vero res eo rediit, Nun ist es aber an dem, Gallis, or. Par
+exemple Or l’affaire est maintenant dans un tel Estat. Galli non possunt addere mais, uti
+Germani et Latini, aber, et vero. Ubi jam videtur significare non qualis res sit praesenti
+tempore, forte enim de praeteritis aut futuris loquimur, sed quid impraesentiarum
+prioribus jam excussis de re sit statuendum vel cogitandum.
+12 Am Rande: Praeterea est conjunctio transitionis quasi: missis jam his de quibus nunc
+dixi.
+In summa est etiam conjunctio transitionis significans quid dicendum sit si
+praecedentia simul spectentur.
+Videndum an cur pertineat ad conjunctiones ut quia.
+ideo erg. Deus est justus, non vero
+1 commode erg. L
+20 f. Par exemple erg. L
+impraesentiarum L
+ANALYSIS PARTICULARUM
+syllogismorum. Omnis pius est Deo gratus. Jam, atqui, sed, omnis sapiens est pius,
+seu: omnis autem sapiens est pius; vel Gallis or est il que tout sage est pieux, Germanis,
+Germanicum nun, Latinum jam vel nunc, est enim ab italico hora, id est nunc, seu hac 5
+hora. Sensus est, habes majorem: omnis pius est felix, nunc vero accipe aliquid aliud
+magis ad subjectum (sapientem) faciens, nempe quod omnis sapiens est pius. Atque ita
+conjunctiones absolvimus.
+Adverbia duorum sunt generum, alia magis ad materiam sermonis pertinent, qualia
+sunt innumera, scilicet tot, quot adjectiva, ut enim dicimus homo pius, prudens, doctus, 10
+ita et dicimus homo agens pie, prudenter, docte. Alia vero adverbia magis pertinent ad
+formam orationis et constituunt particulas. Et ut paucis dicam Adverbia vel sunt
+vocabula (scilicet primaria) vel particulae.
+Adverbia quae particularum vim habent, sunt: Loci, temporis, Numeri,
+Magnitudinis, Modi, Assertionis.
+Adverbia Loci, ut: Alibi. Aliorsum. Circum. Deorsum. Hac. Hic. Hinc. Huc. Illac.
+Illic. Inde. Sursum. Tenus. Ultra. Usque.
+Adverbia Te mporis, ut: Abhinc. Adhuc. Alias. Aliquando. Antea. Deinde. Demum.
+Denique. Diu. Donec. Dum. Dudum. Ex quo. Jam. Identidem. Imposterum.
+Impraesentiarum. Inde. Inde usque. Interim. Interdum. Saepe. Modo. Mox. Nunc. Olim. 20
+Postea. Quando. Quandiu. Simul. Statim. Tandem. Usque.
+Adverbia P l u r a l ita t i s e t D i v e r s ita t i s. Alias. Alibi. Aliter. Alioqui. Ad-unum.
+Ante. Itidem vel Identidem. Iterum. Item. Mutuo. Praeterea. Primo. Secundo. Tertio etc.
+Ultimo. Postea. Semel. Solum. Simul. In Summa. Toties (quoties, vigesies, etc.).
+Utcunque. Valde. Vix.
+Gallicum L
+16 Hinc. Huc erg. L
+20 Inde. Inde usque erg. L
+gestr. Longe erg. L
+18 Aliquando erg. L
+21 Quandiu erg. L
+21 Postea erg. L
+24 Semel erg. L
+19 Ex quo. erg. L
+16 Aliorsum erg. L
+7 subjectum
+Adverbia Modi. Aeque. Aliter. Circiter. Cur. Eatenus. Fere. Hactenus. Hujusmodi.
+Ita. Quam. Quasi. Qualiter. Quatenus. Quodammodo. Sic. Taliter. Tam. Velut.
+Adverbia Assertionis. An. Annon. Certe. Dummodo. Forte. Ita vel etiam,
+Germanis ja, Gallis ouy. Omnino. Necessario. Non.
+Adverbia Loci ita digeri possunt; sine motu: Hic. Istic. Illic. Alibi. Circum. Citra.
+Ultra. Cum motu: Hinc. Illinc. Hac. Illac. Huc. Illuc (vel Horsum. Illorsum). Aliorsum.
+Sursum. Deorsum. Antrorsum. Dextrorsum. Trans. Tenus. Usque.13
+Hic. Istic. Illic. Alibi. Id est in hoc, isto, illo, alio loco. Circum, id est in magna parte
+loci ambientis. Citra, id est in loco propiore, vel in loco qui est vicinior lateri respicienti
+locum in quo sumus. Ultra id est in loco remotiori, vel in loco qui est vicinior lateri
+respicienti locum in quo non sumus.
+Hinc. Illinc. Inde. Id est ab hoc loco, ab illo loco. Ab hoc loco id est antea apud hunc
+locum qui nunc est mutatus.
+Hac. Illac. Id est per hunc locum, per illum locum sive durante motu aliquando in
+illo loco.
+Huc. Illuc. Aliorsum. Sursum. Deorsum. Antrorsum. Dextrorsum etc. Id est ad hunc
+locum, ad illum locum, ad alium locum, ad superiorem locum, ad inferiorem, ad
+anteriorem, ad posteriorem, ad dexteriorem, ad sinisteriorem. Ad locum moveri est, ita
+moveri ut continuato motu in loco aliquo sis futurus. Interdum non ad locum sed in
+locum interpretabimur si mobile dicatur non huc tendere, sed huc venisse.
+Trans, id est ad locum vel in locum ulteriorem. Tenus usque ad citeriorem.
+Ex his observari potest Adverbia formari ex casibus vel praepositionibus una cum
+nomine aliquo generali sumtis. Ut Hic id est in hoc loco. Praeterea id est praeter ea.
+Antea id est Ante ea. Istiusmodi seu istius modi, vel secundum istum modum.
+13 Am Rande: dummodo
+1 Aeque erg. L
+Hactenus. Hujusmodi erg. L
+autem ex his quomodo adverbia fiant ex praepositionibus cum nominibus generalibus, ut praeterea; hoc est
+3 Certe erg. Circiter. gestr. Dummodo,
+12, Inde erg. L
+17 locum. Aliorsum gestr.
+16 Aliorsum... etc. erg. L
+21 Trans locum gestr.
+5 sine motu: erg. L
+4 Omnino. erg. L, ad alium L, id L
+ANALYSIS PARTICULARUM
+Adverbia Te mporis ita digeri possunt: Antehac. Olim praeteriti. Dudum. Nunc.
+Jam. Modo. Adhuc. Posthac. Mox. Olim futuri. Ut Olim ita Abhinc praeteriti est vel
+futuri. Ut et abinde. Quando. Aliquando. Prius. Antea. Tunc. Simul. Alias. Statim.
+Posterius. Postea. Deinde. Denique. Tandem. Ex quo seu Posteaquam (scilicet prius et
+posterius vel respectu τουÄ Nunc praesentis, vel respectu alterius accipi potest). Interdum 5
+simul connotatur magnitudo temporis vel multitudo, ut abhinc vel abinde, annis tot
+abhinc vel abinde. – Diu. Quamdiu. Tamdiu. Aliquandiu. Donec seu tamdiu donec. Dum.
+Interim. Toties. Aliquoties. Identidem. Interdum. Saepe. Haec autem adverbia temporis
+omnia explicari poterunt tribus tantum assumtis, quae vel retineri, vel per aequipollentia
+nomina efferri possunt, quae tria adverbia sunt: prius, simul, posterius, seu tempore
+priore, eodem, posteriore.
+Antehac id est ante nunc seu prius quam nunc. Antea id est ante certum aliquod
+tempus seu ante tunc. Olim id est ante vel post tempus magnum. Dudum id est olim et
+nunc. Adhuc id est antea et nunc. Posthac seu imposterum id est post nunc. Postea seu
+post tunc. Nuper ante tempus breve. Mox post tempus breve. Abhinc quod incipit vel
+desinit post nunc sive antrorsum sive retrorsum. Abinde quod incipit vel desinit post tunc
+seu post certum aliquod tempus. Ex quo id est immediate post tunc, seu statim post tunc.
+Tunc seu certo aliquo temporis momento. Simul seu eodem temporis momento. Statim id
+est sine mora seu tempore notabili intercedente. Interim id est durante aliquo temporis
+intervallo.
+Annis abhinc, abinde tot. Seu tot annis qui incipiunt a nunc, seu a tunc. Diu id est
+tempore magno seu in tempore magno. Donec. Metus duravit donec sol illuceret, seu
+usque ad tempus quo sol illuxit, seu toto tempore post quod statim sol illuxit. Aliquando,
+id est aliquo tempore. Aliquoties seu identidem id est aliquando et adhuc aliquando, etc.
+praeteriti. Dudum erg. L
+2 f. futuri.
+3 f. Prius. Antea. erg.
+Ex... Posteaquam erg. L
+7 Quamdiu erg. L
+6 vel multitudo erg. L
+7 Donec seu erg. L
+12 ante nunc seu erg. L
+12 f. Antea... tunc. erg. L
+tempus L
+Aliquoties seu identidem erg. L
+23 f. Aliquando,
+13 vel post erg. L
+14 f. Postea... tunc. erg. L
+21 abinde erg. L
+indefinite. Bis id est aliquando et aliquando. Ter id est bis et aliquando, generaliter:
+Toties. Saepe seu multoties, seu multis vicibus. Sed haec ut semel, bis, ter, quoties, toties,
+etc. quia non tantum de tempore, sed et omni multitudine intelligi possunt, rectius
+Adverbia igitur d i v e r s ita t i s sic digeri poterunt: Semel. Solum. Iterum. Pluries
+seu aliquoties. Toties. Bis. Ter. etc. Saepe. Raro. Plerumque. Identidem. Praeterea.
+Primo; deinde, ultimo; secundo, tertio etc.
+Nimirum semel idem est in adverbiis quod unum in nominibus. Etsi autem dicam
+semel risit, non tamen possum dicere fuit ridens unus. Sed fuit risio una. Unde abs -
+tractorum utilitas quaedam apparet. Nescio autem an prosit ut hic et nunc exponimus
+hoc loco, hoc tempore, possimus semel exponere una vice. Solum quoque non potest
+commode sine abstracto exponi; amat solum, non significat amat solus, sed amor est
+solus in eo. Nisi reflectamur in propositiones nempe Pamphilus solum amat. Id est ex
+enuntiationibus quarum subjectum est Pamphilus, praedicatum id quod agit Pamphilus
+haec sola est vera: Pamphilus amat.14 Iterum id est secundum semel, seu secunda vice.15
+Pluries seu aliquoties, id est aliquot vicibus. Toties id est Tot vicibus. Saepe multis
+vicibus. Raro paucis. Plerumque plerisque vicibus, id est omnibus praeter paucas. Unde
+tamen videretur sequi, plerumque et saepe esse idem. Itaque plerumque idem videtur
+esse quod saepissime. Est autem saepissime omnibus vicibus praeter paucissimas.
+Identidem seu subinde, est aliquoties per intervalla quae intervalla temporis, loci, vel
+alterius interstitii sumantur quanquam re considerata attentius videtur omnem vicem
+posse reduci ad tempus; nam et in loco spectari potest tempus locum consideratione
+percurrentis.
+15 Am Rande: Vicem hoc loco idem esse puto quod suppositionem quae specialibus etiam
+de tempore solet sumi. Sic adverbia diversitatis pleraque (exceptis paucis ut mutuo)
+possent referri ad adverbia temporis, quia in omnibus suppositionibus etiam tempus
+quo fiunt spectari potest.
+9 Unde rursus gestr.
+sequentia gestr. Adverbia L
+considerata L
+ANALYSIS PARTICULARUM
+Praeterea id est His missis; de quibus diximus; seu si ea mittamus de quibus nunc
+diximus. Unde videtur praeterea potius esse conjunctio, quemadmodum et dummodo; sic
+et jam et nunc et tandem, interdum conjunctionum potius quam adverbiorum vices
+obeunt. Mutuo seu reciproce id est ita ut duobus in una propositione de qua agitur
+positis, locum habeat permutatio. Petrus et Paulus se amant mutuo. Id est Paulus amat
+Petrum, et contra.
+Adverbia Magnitudinis sic digero: Valde. Parum. Mediocriter. Maxime. Minime.
+Satis. Nimis. Nondum satis. Vix. Utcunque. Tantopere: Quantopere. Quam: Tam. Adeo
+ut. Magis. Minus. Aeque.
+Calidus valde non potest exponi quasi esset idem quod calidus magnus, sed
+significat habens calorem magnum. Est igitur calidus valde, parum, Mediocriter, etc.
+idem quod habens calorem magnum, parvum, mediocrem etc. Obiter ergo haec nomina
+erunt explicanda: Magnus est major ordinario. Parvus est minor ordinario. Maximus est
+quo nullus vel rarus est major. Minimus quo nullus aut maximus est minor. Mediocris
+neque magnus neque parvus tamen aliquantus. Satis seu sufficiens: id est aliquantus 15
+necessarius. Nimius id est damnosus quia magnus. Insufficiens seu Nimis parvus, est
+damnosus quia parvus. Tantus id est aliquantus certus, quantus est relativum ad tantus.
+Vix id est paucissimum seu cui paucissimum adimi potest salva appellatione. Minus quod
+est aequale parti majoris. Et aequale quod est idem quatenus est aliquantum, seu si ad
+abstracta accedimus, quorum eadem est magnitudo.
+Fere et vix sese habent ut citra et ultra; ambo tamen propinqua termino. Fere
+doctus, id est qui nondum est doctus, sed si paululum ejus materiae ut ita dicam accedat,
+quae doctum facit, erit doctus. Vix doctus id est qui jam est doctus, sed si paulum ejus
+materiae decedat, non erit doctus. Quemadmodum qui 99 annos et 360 dies implevit
+fere est centenarius, et qui 100 annos et aliquot dies habet vix est centenarius. Itaque 25
+qui fere est centenarius est vix non-centenarius. Et qui vix est centenarius est fere
+non-centenarius. Ut autem materia centenarii sunt dies, ita materia non-centenarii sunt
+non-dies, seu dierum subtractiones, seu unitates dierum, quibus praefigitur signum minus
+seu −, sed subtractae a majore quam 100. Sed haec alias accuratius. In summa magis est
+conjunctio.
+8 Vix. Utcunque. erg. L
+18 seu erg. L
+17 parvus.
+Adverbia Modi. Quomodo. Sic. Quodammodo. Eodem modo. Aliter. Velut et ita.
+Horum expositio facilis est adhibito nomine modi: Nempe Sic id est hoc modo.
+Quomodo id est quo modo. Idem est de Eodemmodo et Quodammodo. Aliter Alio modo.
+Velut et ita id est quo modo illud, eo modo hoc. Hactenus, Eatenus, Quatenus id est
+quoad hunc modum, eum modum, quem modum. Quatenus generaliter idem significat,
+quod respectu habito ad hanc propositionem quae sequitur v.g. Homo est immortalis
+quatenus homo est mente praeditus. Id est Homo est immortalis respectu habito ad hoc:
+homo est mente praeditus. Unde ego particula ista in resolvendo saepissime utor.
+Videtur nomen modi etiam adhiberi posse ad explicanda adverbia magnitudinis,
+verbi gratia: valde calidus id est magnum in modum, sive magno modo; quemadmodum
+pro mirifice calidus dici potest mirum in modum. Itaque adhibito loco, tempore, modo,
+vice, quae sunt nomina generalia omnia fere adverbia hactenus posita reduci possunt ad
+nomina.
+Restant Adverbia Assertionis, quae sunt Ita vel utique seu ja. Non. An vel
+annon. Omnino. Forte. Certe. Necessario. Ex his quidem utique et non, quae sunt signa
+affirmationis et negationis, seu veritatis et falsitatis in Enuntiatione, non possunt evitari.
+Saltemque in illis notandum est, unum aut alterum horum signorum vel praefigi omni
+propositioni, vel sub ea intelligi. Item signum affirmationis relinquere omnia qualia sunt,
+signum negationis mutare. Et proinde negationem praefixam negationi facere
+affirmationem. Nam affirmatio et negatio feruntur non tantum supra propositionem, sed
+et super propositionem una cum signo praefixo sumtam. Praeter signum negationis et
+affirmationis dantur et alia, ut dubitationis, forte, affirmationis [plenissimae], ut certe,
+omnino, affirmationis perpetuae seu necessariae, ut necessario. An autem significat
+quaeri quodnam signum assertionis vel enuntiationis sit ponendum. Possunt tamen etiam
+assertionis seu Enuntiationis adverbia converti in nomina, si loco rerum loquamur de
+ipsis Enuntiationibus, ut A utique est B, id est verum est quod A est B, seu propositio A
+est B est vera.
+7 v.g. erg. L
+hunc L
+23 plenissime, L ändert Hrsg.
+15 vel utique erg. L
+25 signum
+13 fere erg. L
+DE EXTENSO, SPATIO, CORPORE ET PUNCTO
+Vel generalius si Enuntiatio sit L, dici poterit L est vera. Et ponendo M pro Enuntiatione
+L est vera, rursus dici potest M est vera. Quasi dicerem Verum est quod L est vera. Sed si
+M sit falsa, Etiam L erit falsa. Quod si dicam L est falsa, eamque propositionem
+appellem M, et dicatur M est falsa, tunc L est vera.16
+156. DE EXTENSO, SPATIO, CORPORE ET PUNCTO
+1561. ERSTE FASSUNG

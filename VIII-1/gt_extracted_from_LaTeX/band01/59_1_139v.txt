@@ -1,0 +1,10 @@
+
+
+vous avez trouué trois points (A) A ((A)) de l'arc de cercle (A)A((A)) et par consequent il est aisé d'en trouuer le centre B et [[et par consequent]] la longueur AB, ou CB en traçant des lignes sur le papier proportionelles à celles qu'on a fait effectivement; ce qui se fait en mesurant la ligne (1) AC vel (2) AC, item la ligne (A)C vel L((A))C et les transportant sur le papier avec une echelle.
+
+Mais pour sçavoir la longueur de AB en nombres, mesurez les lignes AC, (A)C. Supposez que AC fasse 5 pouces, et que (A)C en fasse dix. Multipliez 5 par soy même, et vous aurez 25. Multipliez aussi 10 par soy même et vous aurez 100. La somme de 25 et de 100 fait 125. Divisez cette somme par 10, et vous aurez 
+
+pouces qui est la longueur de AB dont ostant 5 pouces, longueur de AC. Il vous en restera, 
+
+longueur de BC. Autre exemple: Supposez que AC (1) fasse (2) donne L 1 pouce et (A)C en contienne 9. CB en aura 40 suivant la calcul que voicy: 
+

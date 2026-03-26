@@ -1,0 +1,12 @@
+COUTURAT, Opusc. et fragm., 1903, S. 255.
+Die gewöhnliche Definition von eadem durch quae substitui bzw. ubique substituti potest salva
+der Koinzidenz »A coincidit ipsi B« (d.h. der Schluß »si A coincidit ipsi B, B coincidit ipsi A«) beweisen, wie
+Theorema tale formo: Si A ubivis substitui potest in locum ipsius B,etiam B ubivis
+substitui potest in locum ipsius A; salva veritate. Quod demonstro ope Axiomatis: B
+ubivis substitui potest in locum ipsius B. Nam si A ubivis substitui potest in locum ipsius 20
+potest in locum ipsius B; et fiet inde: B ubivis substitui potest in locum ipsius A. Quod
+erat demonstrandum. Hinc ut obiter notem, patet discrimen inter ubivis et ubique. Nam si
+dixissemus: A ubique substitui posse in locum ipsius B, tunc nihil inde potuisset inferri,
+nam ex Axiomate: B ubique substitui potest in locum B, factum fuisset: A ubique posse 25
+substitui in locum ipsius A, quod per se patet.
+18 (1) Aliud est Ubivis, aliud Ubique. Exempli causa (2) Theorema L

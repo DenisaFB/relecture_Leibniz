@@ -1,0 +1,263 @@
+Papers, 1966, S. 40–46 (nach E 2 ).
+AdSpecimenCalculiuniversalisaddenda
+Ut calculi hujus natura intelligatur, notandum est quicquid a nobis enuntiatur in
+quibusdam literis, quas pro arbitrio assumsimus, idem intelligendum enuntiari posse
+eodem modo in aliis quibusvis assumtis. Ut cum dico propositionem hanc ab est a
+semper esse veram, intelligo non tantum hoc exemplum: animal rationale est animal
+esse verum, ponendo animal significari per a, et rationale per b, sed intelligo etiam hoc
+exemplum: animal rationale est rationale esse verum ponendo rationale significari per
+a, et animal per b. Et idem in quolibet alio exemplo procedere, ut corpus organicum est
+organicum; ac proinde etiam pro ab est a dici poterit: bd est b.
+Notandum etiam nihil referre sive dicas ab, sive dicas ba, nihil enim refert sive
+dicas animal rationale, sive rationale animal.
+Repetitio alicujus literae in eodem termino inutilis est et sufficit eam retineri semel,
+exempli causa aa, seu homo homo.
+Hinc si a sit bc, et b sit d et c etiam sit d, inutile est dici a est dd, sufficit a esse d,
+exempli causa: Homo est animal rationale. Omne animal est sentiens. Item Omne
+rationale est sentiens, inutile tamen est dici, homo est sentiens sentiens, nam hoc nihil
+aliud est dicere quam dicere homo est sentiens. Si quis tamen dicere velit hominem ex
+duplici capite esse sentientem, id alio modo ipsi erit exprimendum, secundum
+characteristicae nostrae regulas.
+12 nobis (1) annotatur (2) enuntiatur indefinit gestr. L
+13 f. posse... modo erg. L
+Animal est sentiens. (2) Omne L
+22 et (1) rejici potest una erg., (2) sufficit... semel L
+Diversa praedicata in unum conjungi possunt, ut si constet a esse b, itemque aliunde
+constet: a esse c, poterit dici a esse bc, ut si homo est animal, et si homo est rationale.
+Erit homo animal rationale.
+Vicissim unum praedicatum compositum in plura divelli potest. Ut a est bc ergo a
+est b et a est c, verbi gratia homo est animal rationale, ergo homo est animal, et homo est
+Haec divisio cum sit per se nota, poterit ex ea demonstrari compositio. Pone enim
+hominem esse animal, et hominem esse rationale, nec tamen hominem esse animal
+rationale. Ergo haec propositio erit falsa homo est animal rationale. Quae falsitas non
+potest probari nisi tribus modis, uno, ut ostendendo non esse animal, quod est contra
+simul utrumque, seu haec duo esse incompatibilia, quod est etiam contra hypothesin,
+nam simul et animal et rationale esse posuimus.
+In subjecto procedit compositio, non procedit divisio. Nam si b est a, et c est a,
+etiam bc erit a, si omne animal vivit, et omne rationale vivit, profecto etiam omne animal
+rationale vivit. Quod sic demonstratur:
+bc est b, b est a, ergo bc est a
+bc est c, c est a, ergo bc est a.
+In subjecto et praedicato simul procedit compositio. Hinc ex quatuor propositionibus fieri potest una:
+a est b, a est c, d est b, d est c. Ergo ad est bc.
+Imo ex pluribus adhuc propositionibus fieri potest una, ut:
+a est b, a est c, a est d
+e est b, e est c, e est d
+i est b, i est c, i est d
+Miscendo etiam varie compositiones et divisiones terminorum, orientur multae
+consequentiae hactenus Logicis intactae, praesertim si negativas praeterea et particulares
+14 divisio. (1) Possum enim dicere: (2) Nam L
+15 a, nam gestr. si L
+(2) tribus (3) quatuor erg. L
+29 f. particulares (1) adjiciamus 〈et〉 (2)
+Si b est c, tunc ab erit ac. Seu si homo est animal, sequitur hominem sapientem esse
+animal sapiens. Quod ita demonstratur:
+ab est b, b est c. Ergo ab est c per regulam consequentiarum primam.
+ab est c, ab est a. Ergo ab est ac per demonstrata supra.
+Retrorsum autem colligi non potest: ab est ac ergo b est c. Nam potest fieri ut a sit
+ad, et bd sit c. Sed si a et c nihil habeant commune, valet consequentia: ab est ac. Ergo b
+est c. Nobis autem hoc loco generales tantum consequentias persequi propositum est.
+Postea accedemus ad specialiores, quae tamen majoris momenti sunt quam generales,
+nec hactenus pro dignitate tactae. Nam tota analysis nititur consequentiis quibusdam,
+quae videntur peccare in formam, non peccant tamen ob generalem quandam terminorum 10
+habitudinem semper observatam.
+Si a est b et a est d et d est b, erit ad aequ. bd.
+Hoc demonstratur ex superiori:
+a est b, a est c, d est b, d est c. Ergo ad est bc, ponendo c esse d. Verum ex praecedenti
+patet ad idem concludendum non esse opus tot suppositionibus, et sufficere hanc: a est b. 15
+Hinc enim sequitur ad est bd.
+Si a est b et d est c, tunc ad erit bc. Hoc est praeclarum theorema, quod
+demonstratur hoc modo:
+a est b, ergo ad est bd per priora,
+d est c, ergo bd est bc rursus per priora,
+ad est bd. Et bd est bc. Ergo ad est bc.
+Quod erat demonstrandum.
+Generaliter si sint quotcunque propositiones: a est b, c est d, e est f, inde fieri poterit
+una: ace est bdf, per additionem illinc subjectorum, hinc praedicatorum.
+Generaliter si sit propositio m est bdf, hinc fieri poterunt tres, m est b, m est d, m est f. 25
+Omnia haec facile demonstrantur, hoc uno tantum posito subjectum esse ut
+continens, praedicatum ut contentum simultaneum seu conjunctivum; vel contra:
+subjectum esse ut contentum, praedicatum ut continens alternativum seu disjunctivum.
+1 f. hominem (1) rationalem esse animal rationale (2) sapientem... sapiens L
+8 tamen (1) longe me (2) majoris L
+14 d est c. (1) ponendo (a) c aequ. d (b) c esse d (2) Ergo L
+8 momenti ususque gestr. sunt L
+8 ad (1) speciales (2)
+28 seu disjunctivum erg. L
+Possent omnes regulae logicae circa
+propositiones universales demonstrari per
+figuram geometricam seu quadratum; utendo
+hac sola regula, Totum esse aequale omnibus
+partibus ideoque majus uno seu totum omnes
+Sed ni fallor melius omnia demonstrantur
+per totum disjunctivum ejusque partes, id est
+Utile est oblata consequentia non semper succedente statim posse reperire
+instantiam: et proposita regula reperire exempla quae ex aliis regulis non sequuntur, sed
+huic demum propria sunt.
+Te rminus est a, b, ab, bcd, ut homo, animal, animal rationale, rationale mortale
+PropositionemUniversalemaffirmativam sic designo: a est b seu
+(omnis) homo est animal. Semper enim hic signum universalitatis intelligi volo ubi a
+subjectum et bpraedicatum, est copula.
+Postulatum : permissum esto supponere literam uni literae vel pluribus simul
+aequivalere, ut d aequivalere ipsi a et alterum in alterius locum substitui posse, vel c
+aequivalere termino ab, verbi gratia Homo idem quod animal rationale. Hoc intelligo, si
+nihil his suppositionibus contrarium jam suppositum sit.
+1) a est a. Animal est animal.
+2) ab est a. Animal rationale est animal.
+3) a non est non-a. Animal non est non animal.
+4) non-a non est a. Non animal non est animal.
+5) Qui non est a est non-a. Qui non est animal est non-animal.
+6) Qui non est non-a est a. Qui non est non-animal est animal.
+1 Possent (1) omnia (2) omnes L
+5 majus (1) una (2) uno L
+10 est (1) artem habere in promtu,
+animal. (2) Postulatum : L
+18 copula. (1) Propositiopersevera est ab est a. Seu omne animal rationale est
+21–23 verbi... sit. erg. (1) Principiacalculi (2) PropositionesL
+Ex his duci possunt plures.
+Consequentiapersevera :
+a est b et b est c. Ergo a est c. Deus est sapiens, sapiens est justus. Ergo Deus est
+justus. Haec catena longius continuari potest, v.g. Deus est sapiens, sapiens est justus,
+justus est severus, ergo Deus est severus.
+1) Quicquidconclusumestinliterisquibusdamindefinitis,
+intelligidebetconclusuminaliisquibuscunqueeasdemconditiones
+habentibus, ut quia verum est, ab est a, etiam verum erit bc est b, imo et: bcd est bc.
+Nam pro bc substituendo e ( perpostulatum ) idem est ac si dixissemus: ed est e.
+2) Tr anspositioliterarum in eodem termino nihil mutat, ut ab coincidit cum
+ba, seu animal rationale, et rationale animal.
+3) Repetitioejusdemliteraeineodemterminoestinutilis, ut: b est
+aa, vel bb est a, homo est animal animal, vel homo homo est animal. Sufficit enim dici a
+est b seu homo est animal.
+4) Exquotcunquepropositionibusfieripotestunaadditisomnibus
+inunumsubjectumetomnibuspraedicatis
+praedicatum, a est b, et c est d, et e est f, inde fiet ace est bdf. Ut: Deus est
+omnipotens. Homo est corpore praeditus. Crucifixus est patiens. Ergo Deus homo
+crucifixus est omnipotens corpore praeditus patiens. Nec refert, quod interdum quae
+conjunguntur hoc modo incompatibilia sunt, ut circulus est null-angulum. Quadratum est
+quadrangulum. Ergo circulus-quadratum est nullangulum quadrangulum. Nam haec
+propositio vera est ex hypothesi impossibili. Utilis est haec observatio praesertim in
+catenis longius productis verbi gratia hoc modo: Deus est sapiens. Sapiens est justus.
+Deus est omnipotens. Justus omnipotens punit malos. Deus non punit aliquos malos in 25
+hac vita. Qui punit, et non punit in hac vita punit in alia vita. Ergo Deus punit in alia
+5) Ex quacunque propositione cujus praedicatum est ex pluribus terminis
+compositum possunt fieri plures, quarum quaelibet idem quod ante habet subjectum; sed
+1–5 Ex... plures. erg. Consequentia... Deus est severus. erg. L
+8 intelligi (1) potest concl
+8 quibuscunque (1), hinc (2) 〈Hinc〉 (3) Hinc quia conclusiones (4) easdemL
+11 ab (1) idem est qu (2) coincidit L
+literae sunt indefinitae possumus substituere b in locum a, et a in locum b. (2) seu L
+modo quae in unum addi debent sint compatibilia. Ut gestr. a L
+20 f. quae (1) compati (2) conjunguntur L
+impossibile gestr. Utilis L
+26 punit aliquos malos gestr.
+24 sapiens. (1) Deus est omnipotens. (2) Sapiens L
+12 ba, (1) patet ex (a) praecedentibus (b) praecedenti, quia enim
+23 impossibili. Nimirum de impossibili concluditur
+19 est (1) ignominia (2) patiens L
+praedicati habet aliquam prioris praedicati partem, a est bcd, Ergo a est b, et a est c, et a
+est d. Veluti: homo est rationalis mortalis visibilis. Ergo homo est rationalis. Homo est
+mortalis. Homo est visibilis.
+Si a est b et b est a, tunc a et b dicuntur esse idem. Ut omnis pius est felix. Et
+omnis felix est pius. Ergo idem est felix et pius.
+Hinc facile demonstratur alterum in alterius locum ubique substitui posse salva
+veritate seu, si a est b, et b est a, et b est c, vel d est a, etiam a esse c, vel d esse b. Ut
+omnis pius est felix, et omnis felix est pius. Et omnis felix est electus. Et omnis martyr est
+pius. Ergo omnis pius est electus, et omnis martyr est felix. (Nota per pium intelligo hic
+perseverantem seu in gratia morientem.)
+Diversa sunt quae non sunt eadem ut homo et animal, quamvis enim omnis homo
+sit animal, non tamen omne animal est homo.
+Disparata sunt a et b, si a non est b, et b non est a, ut homo et lapis. Nam homo
+non est lapis. Et lapis non est homo. Itaque omnia disparata sunt diversa, non contra.
+Si a est m, et b est m, atque a et b sunt idem, tunc m dicitur esse unum. Ut
+Octavianus est Caesar, et Augustus est Caesar. Sed quia Octavianus et Augustus idem
+est, hinc quidem non nisi unus Caesar numerabitur..
+modo a, b, c, d sint disparata.......
+Si assumsimus terminum aliquem simplicem velut composito alicui aequivalentem,
+seu eandem rem exprimentem, terminus simplex erit definitum, terminus compositus
+erit definitio. Hoc definitum charactere expressum subinde vocabimus rei Nomen.
+1 partem, ut gestr. a L
+2 f. homo est (1) rationale mortale visibile. Ergo Homo est rationale.
+Homo est mortale. Homo est visibile. (2) rationalis... visibilis L
+(1) pius (2) felix L
+est m, et a et b sunt idem, tunc m dicitur esse unum (2) Diversa L
+25 disparata. (1) Qu (2) Ve rapropositio est (3) Si Terminus simplex et Terminus compositus sunt res
+eadem, simplex quidem dicetur Definitum, com (4) Si L
+10 morientem.) (1) Si a est m et b
+14 Itaque... contra. erg. L
+8 omnis (1) pius (2) martyr L
+4 f. Ut... et pius. erg. L
+Ut si pro ab: animal rationale, dicamus nos compendii causa dicere imposterum velle c
+seu homo; tunc c seu vox: homo, erit nomen ejus rei cujus definitio est animal rationale,
+seu vox: homo, erit nomen hominis.
+Si in propositione universali affirmativa subjectum sit res, praedicatum autem non
+sit res nec definitio, sed alius quidam terminus, tunc is terminus dicetur esse
+Attributum. Ita rei cujus nomen est Deus, definitio est: Ens perfectissimum, attributa:
+misericors, omnipotens, creator, Ens, Ens a se. Itaque si c sit res et ab definitio, et c sit d
+(et d non sit terminus ab), tunc d dicetur attributum ipsius c.
+Si in propositione universali affirmativa praedicatum sit res, subjectum vero non sit
+res nec rei definitio, sed alius terminus, is terminus dicetur proprium. Exempli causa: 10
+Omnis homo est animal, itaque homo est proprium animalis. Nam non nisi animal esse
+potest homo, quamvis non omne animal sit homo, neque enim definimus hoc loco
+proprium in quarto modo, sed proprium in genere, seu quod soli competit. Itaque si c est
+res, ab rei definitio, et datur propositio (Universalis affirmativa) d est c, erit d
+proprium ipsius c, modo per terminum d non intelligatur terminus c vel ab.
+Genus est attributum commune, ut terminorum d et e genus est a posito d esse ab
+et e esse ac, seu si d est a, sed non tamen a est d.
+Genus proprium est attributum commune pluribus sed solis ut animal hominis
+[et] bruti. Seu si d est a et e est a et si quid est non-d et non-e est non-a, erit a genus
+proprium ipsarum specierum d et e.
+Accidens est [praedicatum] pariter in propositione particulari affirmativa et
+negativa ejusdem subjecti. Ut: quidam homo est doctus, et quidam homo non est doctus,
+ergo doctus est accidens hominis. Si quoddam a est b et quoddam a non est b, tunc b est
+Attributum proprium est scilicet quod simul et attributum et proprium est,
+nempe si rei c (ut hominis) definitio est ab (animal rationale) danturque duae
+propositiones, una c est d (homo est rationale mortale) cujus causa d est attributum;
+4 affirmativa (1) prae (2) subjectum L
+3 seu... hominis. erg. L
+(2) idem terminus qui (3) terminus erg. L
+homo L... est d erg. L
+vel c est ef gestr. (homo est (1) anim (2) rationale L
+gestr. est (1) proprium (2) attributum; L
+16–24 Genus... ipsius a. erg. L
+7 sit (1) rei nomen (2) res erg. L
+10 rei (1) terminus (2) definitio, L
+6 Ita (1) Dei nomen est (a) Deus (b) hic
+8 non sit (1) idem quod
+11 itaque (1) ani (2)
+21 propositione (1) affirmativa
+26 si (1) c est ab (2) rei L
+16 terminorum (1) ab et ac genus est a (2) d L
+27 mortale) (1) altera (2) cujus L
+28 c vel ef est c gestr.
+21 subjectum L ändert Hrsg.
+23 b, (1) ergo (2) tunc erg. L
+(rationale mortale est homo) cujus causa d est proprium, patet d esse attributum
+proprium. Patet etiam nomen, et definitionem, et attributum proprium, esse terminos
+aequivalentes, seu eandem rem exprimentes. Et hoc est quod vulgo dicunt proprium in
+quarto modo seu proprietatem reciprocam.
+Substantivum 1 est (nomen ) quod includit (nomen) Ens vel res; Adjectivum
+quod non includit. Ita animal est substantivum, seu idem quod ens animale. Rationale est
+adjectivum, fit enim demum substantivum, si adjicias Ens, dicendo Ens rationale, vel per
+compendium una voce (si jocari libet) Rational. Ut ex termino: Ens animale, animal.
+Genus est substantivum quod est plurium attributum commune, quae dicuntur
+Attributum potest esse specifica
+Differentiaspecifica est adjectivum quod
+cum genere constituit terminum speciei
+aequivalentem (an potius speciei definitionem? ).
+Differentiagenerica est quae est
+differentia specifica generis.
+Definitio est terminus compositus substantivus speciei aequivalens.
+Proprium est subjectum adjectivum propositionis universalis cujus praedicatum
+Accidens est praedicatum adjectivum de subjecto substantivo tantum in
+propositione affirmativa particulari.
+characteribus necesse non est differentiam nominis substantivi atque adjectivi
+apparere, neque illa vero usum habet ullum.
+1 causa d vel ef gestr. est L
+1 patet d vel ef gestr. esse L
+2 proprium hominis gestr.
+8 Rational (1), ut ex (a) an (b) termino Ens animale, animal. Verum discrimen inter nomen
+substantivum et adjectivum in characteribus inutile est, semper enim subintelligo Ens (2). Ut L
+(1) Genus est nomen substantivum erg. u. gestr. attributum commune erg. u. gestr. pluribus solis. Ita homo
+est attributum commune homini et (2) Genus L
+9 est nomen gestr. substantivum L.
+71. CONVERSIO LOGICA

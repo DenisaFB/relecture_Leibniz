@@ -1,0 +1,77 @@
+COUTURAT, Opusc. et fragm., 1903, S. 561–563.
+DE ARTE COMBINATORIA Libellus componi posset utilis, jucundus, pulcher. Multa
+in eo inseri possunt perelegantia, ut de variis ludorum generibus. De eo quod interest
+solvendo ad vitam, ut vocant; ubi de moriendi verisimilitudine; et de catalogis
+mortuariorum. Addatur Caramuelis Mathesis audax, ubi etiam de quibusdam ludis.
+3 usu (1) ad scientias (2) in (a) scientiis ubi (b) disciplinis L
+4 De (1) arte mo (2) logica L
+(1) Hexametris possibilibus (2) lib (3) magnitudine L
+19 de (1) apparentia (2) moriendi L
+10 Vratislaviensis erg. L
+Architectonicis fundamentis substruens exponensque, Löwen 1642 u. 1644.
+DE ARTE COMBINATORIA SCRIBENDA
+Combinatoria Kircheri. Izquierdo Pharos scientiarum. Excogitandum aliquid Lullianae
+arti vicarium eaque melius. P. Ivo Capucinus subjecta omittit. De arte observandi aliquid
+Curiosum ex oblatis Tabulis. Keplerus ex calculo conjecit hyperbolam fore aptam
+dioptricae, quod postea Cartesius demonstravit. Huddenius ex Tabulis aliquot millium
+qui Amstelodami reditus ad vitam habebant inde ab 80 annis condidit regulam quam
+alibi retuli. Tabulae condendae de declinationibus magneticis, unde homo aliquis ingenio
+Quomodo a simili ratiocinandum. Veterum methodus pro demonstranda aequalitate
+angulorum refractionis et incidentiae; hanc Fermatius egregie transtulit a catoptrica ad
+dioptricam. Ita ex eo quod ostensum est in omni machina semper centrum gravitatis
+descendere, ingeniosus aliquis inferet, ergo centrum gravitatis semper eadem celeritate
+ferri, etiam in eodem plano, et corporibus non connexis.
+De Cryptographicis, tentandum quomodo possit inveniri clavis, si forte sit nomen
+aliquod, remotis auxiliis quae a lingua sumuntur. De non valentibus.
+Solutio problematis quod Fr. Christian Rosencreuz proposuit. De arte casus
+formandi, fingendi casus difficiles, formandi dubia, faciendi instantias. De arte casuandi
+Datis duabus rebus earum convenientiam et disconvenientiam invenire magis est
+analyticum. Sed data re aliam invenire valde similem aut valde dissimilem magis
+Combinatorium. Caput praemittendum de differentia Methodi Analyticae et
+Combinatoriae, et de differentia ingenii Analytici et ingenii combinatorii. In analysi
+magis opus attentione ad pauca, sed valde acri, in combinatoria opus respectu ad multa
+simul, itaque simile est discrimen atque inter pictores rerum minutissimarum et
+statuarios. Analytici magis
+6 retuli. (1) Similis Tabula condenda ex (2) Tabulae condendae de L
+9 a catoptrica erg. L
+20 differentia (1) Alge (2) Ana (3) Methodi L
+1 A. KIRCHER, Ars magna sciendi sive Combinatoria in XII libros digesta, 2 Bde, Amsterdam 1669.
+3 f. Keplerus... demonstravit: vgl. J. KEPLER,
+Bde, Paris 1643; editio secunda, 3 Bde, Paris 1659–1660.
+Dioptrice seu demonstratio eorum, quae visui et visibilibus propter conspicilla non ita pridem inventa
+accidunt, 1611, prop. LIX; R. DESCARTES, Discours de la Methode, La Dioptrique, VIII, La Géometrie, II.
+4 J. HUDDE, De reductione aequationum, in R. DESCARTES, Geometria, hrsg. v. F. van Schooten, Amsterdam
+vgl. IV, 3, S. 432–436, 439–446.
+9 f. Fermatius... dioptricam: vgl. R. DESCARTES, Lettres, Bd 3, L u. LI
+(Fermat an Cureau de la Chambre, S. 246–276; vgl. III, 2 S. 842 u. 899; III, 3 S. 71. f.
+casuandi: vgl. J. GOTHOFREDUS, Manuale juris, Genf 1651, 8. Aufl. Genf 1672, Praefatio; vgl. VI, 2 N. 281.
+Myopes; Combinatorii magis similes presbitis. Analysis ubi semel reperta est, solam
+requirit attentionem seu firmitatem mentis cui respondet in exercitiis corporeis firmitas
+manuum; et tali ingenio sunt, qui non vagi sunt, sed possunt etiam sine calamo, sola
+imaginatione calculare. At Combinatoria magis requirit subitam per multa
+discursationem cui in corporis exercitiis agilitas respondet. Et ut his qui imaginatione
+qui memoria non valent, nec multa simul sibi exhibere possunt, succurritur ope
+Characteristica vera et tabulis et analysi auxiliatur. De Tabulis ita condendis ex
+cognitis, ut ex interpretatione vel continuatione seriei divinentur incognita.
+Ex multis modis unam eandemque rem quaerendi et inveniendi semper est aliquis,
+qui longius ducit et ad altiora servire potest. Ex inquisitione rei ejusdem per diversas vias
+efflorescit quaedam ut ita dicam aequatio seu comparatio non inter duas quantitates sed
+inter duas methodos, unde semper nova et praeclara theoremata condi possunt. Est ars
+quaedam condendi theoremata. Combinatoria non semper demonstrativa est, sed saepe
+agit variis divinationibus et tentamentis.
+Methodus exclusiva Freniclii.
+Algebra non est res magna, hic indignabuntur, qui eam pro mysterio aliis venditant.
+Est tamen nihil aliud quam talis calculi gubernatio ut incognitum quantum licet solum
+vel paucis expressum habeatur. Haec est investigatio aequationis. Resolutio autem
+aequationis species est tantum artis inveniendi clavem rei involutae. Hoc fit hic non
+Algebra plurimum habet de synthesi. Datur methodus quaedam magis analytica, qua
+problema aliquod reducitur ad aliud problema facilius unum vel plura; hoc vere est
+retrorsum vestigia legere.
+2 f. attentionem (1), qualis est la main ferme (a) ut (b) qua (c) ut omnis calculus; (2) seu... in (a)
+7 valent, (1) succurritur ope tabularum (2) nec L
+(1) me (2) imaginatione L
+8 f. Tabularum. (1) Tabulae (2) Characteristica L
+12 Ex (1) arte eandem (2) inquisitione L
+5 cui... respondet erg. L
+17 Methodus exclusiva Freniclii: vgl. VI, 3 S. 410 u. S.
+CATALOGUS INVENTIONUM

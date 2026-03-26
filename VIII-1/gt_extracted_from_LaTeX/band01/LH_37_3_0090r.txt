@@ -1,0 +1,39 @@
+[[Vis Elastica est conatus corporis ad mutandum Volumen. Volumen est spatium a corpore occupati. Volumen Violentum (Naturale) est ad quod mutandum corpus conatum (non) habet. Compressio est status corporis conatum habentis ad augendum (minuendum) Volumen. Tensio est status corporis conatum habentis ad minuendum Volumen. Restitutio est motus corporis ad mutandum Volumen]] __Vis Elastica__ (__Restitutio__) est conatus (motus) corporis ad mutandum Volumen.
+
+__Intensio__ est Vis Elasticae procuratio.
+
+__Volumen__ est quantitas spatii a corpore occupati.
+
+__Volumen Violentum__ (__Naturale__) est ad quod mutandum corpus conatum (non) habet.
+
+__Compressum__ (__Tensum__) est corpus conatum habens ad augendum (minuendum) Volumen.
+
+__Sustentatio__ est impedimentum [[ulterioris]] intensionis aut restitutionis seu detensionis. __Potentia Contendens__ est Elaterium sustentans, et ab Elaterio sustentata. Elaterio scilicet impediente ulteriorem a potentia intensionem, et potentia impediente ulteriorem Elaterii restitutionem. Ut in fig. 2.
+materia in Tubo comprehensa Elastica esto. Cui incumbat pondus ab vel aabb. Si pondus in ab positum a materiae Elaterio sustinetur, ne ultra descendat, et contra in aabb positum a materiae Elaterio levatur, sed non ultra quam in ab ubi scilicet potentia Elaterium, et Elaterium potentiam sustinet, __Volumina sustentantia__ sunt post absolutam intensionem producta. __Relaxare__ est dare libertatem restitutionis.
+
+__Vis Elastica specifica__ est quae speciebus corporum, [[non qu]] inter se collatis aestimatur.
+
+(1) Vis Elastica tanta est, quanta est [[Vis minima impediens restitutionem, seu sustinens Elaterium seu impediens restitutionem, vel potentia maxima ab Elaterio sustentabilis]] potentia contendens est sustendens et sustentata, seu __simul__ impediens et impedita. Nam generatim: omnis potentia tanta est, quantum est minimum ejus impedimentum sufficiens,, ut in Metaphysicis demonstratum [[demonstratum jam contendens]] suppono.
+
+Pone Rotae A Elaterium esse ita applicatum, ut restitutione [[restitutione ejus]] Elaterii Rotam circumagi necesse sit. Rotae autem dentis, dentibus columnae ac a pondere appenso detractae [[detractae vel depressae]] esse insertos, ac proinde non posse Elaterium vel minimum restitui, nisi pondus elevetur tantundem. Esto pondus d justo minus, quod scilicet Elaterii restitutionem non impediat: Pondus DD justo majus, quod scilicet Elaterium plus quam impediat, __pondus justum,__ D quod sit Elaterii impedimentum minimum sufficiens, seu quod auctum sit plus quam sufficiens, [[seu quod sufficiet]] suffecturum scilicet impediendo etiam fortiori: et imminutum sufficiens esse [[Est ergo pondus Elaterio]] cesset.
+
+Sunt ergo duae potentiae ponderis D et Elaterii A [[(2) Vis Elastica compressorum corpori intestina fit ex ductu materiae in motum]] [[Vim corpori intestinam voco quam cujus principium in ipso corpore est, seu quae exerceretur aliis corporibus nihil agentibus]] [[(2) Vis Elastica totius fit ex additione Virium Elasticarum omnium partium. Nam generatim potentia totius fit ex aequalis est summae ex potentiis partium collectae]] [[(2) Si duae Vires Elasticae comparandae sunt inter se, ratio ita inibitur Si duae Vires Elasticae sustineant Potentias aequales, erunt ut Volumina]] aequales. [[erunt inter se ut Volumina cum aequales potentias contendentes sustinent]]
+
+(2) Vires Elasticae Specificae sunt inter se ut Volumina sustentantia, caeteris paribus seu duae Vires Elasticae Specificae ita comparabuntur: Si duo corpora Elastica diversarum specierum eodem pondere seu eadem [[contendente]] potentia intendente urgeantur, erunt inter se, ut volumina [[sustinentia seu]] bc et de post absolutam compressionem residua, (aut post absolutam tensionem [[Quia si eadem potentia in diversa obstacula diversos habet effectus, erunt obstacula ut effectus, ut in Metaphysica demonstratum suppono. Sed quia tales Metaphysicas, quibus ejusmodi propositiones demonstrentur, malo publico non habemus, hoc loco obiter demonstrabo]] [[Esto potentia obstaculum effectus constat ajo constat effectum esse. Esto aliud obstaculum effectus in hoc, erit. Jam ccccc &est ad&&ut&
+10 - 4&&10 - 5&&4 ad 5
+6&&5&& Nam in numeris Error ergo seu falsa propositio utcunque speciosa]] [[Nam Vires Elasticae simpliciter materiae et tum materiae tum sunt aequales per prop. 1. Sustinent enim aequales potentias]] producta).
+
+---
+Additions:
+<<(vel procuratio status)>>
+<<[[id est]] seu quod impedit et impeditur, aequale est>>
+<<(qualis Lamina Ferrea est)>>
+<<inter se>>
+<<in fig. 2. 3>>
+<<et>>
+<<ut aeris aut lanae, vel aeris ordinarii aut rari pressive>>
+<<seu aequali>>
+<<vel>>
+<<enim>>
+<<(vel minuatur)>>
+<<seu post aequilibriumaequilibrium|textit>>

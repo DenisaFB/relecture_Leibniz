@@ -1,0 +1,29 @@
+@@@ Keine Article Tradition gefunden. @@@
+
+De legibus refractionis
+
+
+
+Ante omnia constat radium perpendicularem non refringi.
+
+Videamus, an [[ponend]] sumendo quod experientia certum est, refractionem ex aere in aquam esse ad perpendicularem, concludi possit quaenam sit lex refractionis. [[Ante omnia pono refractionem ad angulos rectos esse nullam, deinde]] [[Ante omnia pono fig]] [[Refractionem in angulo perinde fieri ac si fieret]] __Primum dispiciamusquomodo fiat refractio in angulo videri posset eam perinde fieri ac si esset [[an verum sit]]ad rectam angulum bisecanti perpendicularem. Sit [[angulus]] in fig. 1.__
+
+__prisma vitreum, [[cujus sectio axi perpendicularis sit tria facta a plano radii RB]] cujus sectio axi perpendicularis sit ABC et in eo plano radius RB occurrat [[an]] triangulo in ipso angulo B, ajo refractionem perinde fieri ac si esset ad rectam DBE quae sit perpendicularis ad BF, angulum ABC bisecantem.__
+
+[[Hoc]] __Sed jam video id esse falsum. Ponatur enim RBA esse situ in directum, et ABC esse angulum rectum, utique nulla ipsius radii RB fiet refractio, quae tamen utique contingeret, si consideraretur radius ut perpendicularis ad DBE. Itaque quaerenda refractio tum secundum rectam CB tum secundum rectam AB, angulusque bisecandus__.
+
+[[Ante omnia autem constat radium perpendicularem non refringi]] Sit porro in fig. 2. 
+
+circulus descriptus centro A radio AB. Ponatur semicirculo BDC dari vis radium FA refringendi, quae vis sit ut a et praeterea adhuc dari semicirculo DCE vim refringendi ut b erit portioni communi seu sectori ADC data vis refringendi ut a+b.
+
+Refractio ita fiet ut primum quaeramus quae sit refractio secundum separatricem BC et resistentiam a deinde quae secundum separatricem DE et resistentiam b Angulus inventus bisecetur.
+
+Quod si jam ponamus radium repercussum perpendiculariter eadem via redire qua venit considerationem aliquam hinc provenire necesse est.
+
+Ponatur ex medio BFE in medium BDC cognita refractio, et secundum eam seu secundum resistentiam a (b.) (1) refractionem (2) radium LFA iri refractum in AG (AH) ergo bisecto angulo GAH per AL erit radius (1) refractus GAH (2) FA refractus L in AL. Nunc rursus invertendo si radius LA ponatur incidere in (1) duas superficies (2) duo L media DBE et BEC, (1) illiusque flexio (2) refringendi vis L (sed in contrariam priori partem) cujusque medii sit data, habebitur modo priori et rectae AF ubi nota aliam plane esse relationem medii DAC ad DBE
+
+(1) vel DE (2) et LBEC; quam BFE ad BDC et DCE.
+
+Si jam plures adhibeantur hujusmodi radii puto aliquid hinc duci posse.
+
+a 2.

@@ -1,0 +1,128 @@
+Rectalinea est in qua puncti cujusque ad duo data punctasitus congrui
+coincidunt.
+Linea est locus punctorum numero indefinitorum quae ex certis punctis datis
+ordine per certam regulam determinari possunt.
+Linea s p e c i e d a t a intelligitur cum regula cognita est; licet puncta certa ex
+quibus puncta indefinita determinari possunt, positione data non sunt. Potest tamen plus
+minusve dari specie, prout scilicet aliqua ex punctis illis certis, aut de ipsis dantur.
+Linea p o s i t i o n e d a t a
+est, cum certa illa puncta omnia data sunt ex quibus
+positis indefinita lineae puncta quaeque determinari possunt.
+Linea d e t e r m i n a t a est quae simul positione et extremis data est.
+Exhibitum est, quod percipimus cum volumus.
+Notum est quod intelligimus cum consideramus.
+indefinita lineae puncta quaeque erg.
+24 quod existere gestr.
+certis erg. punctis datis L
+determinari possunt erg. L
+percipimus L
+exhibita sunt, caetera nota sunt seu datum est, quod exhibitum esse si velimus notum est. Determinatum est
+20 f. ex quibus positis erg.
+Datum est quod exhibitum notumve est prout opus est.
+Adme pertinere dicitur, de quo cogitari non potest quin ego cogiter.
+Extrame esse dicitur quod cogitari potest ita ut ego non cogiter.
+Vo luntas est cogitatio perfectionis ut in nobis.
+Perceptio est cogitatio quam statim sequitur voluntas.
+An sic: Perceptio est cogitatio sui et alterius simul.
+Exhibitum est, quod percipimus cum volumus.
+Notum est quod intelligimus cum consideramus.1
+Considerare est intelligere velle.
+Sentire est percipere mutationem aliquam cujus causam in me non percipio.
+Percipere est cogitare ita ut inde statim sequatur actio in me et mutatio aliqua
+cujus causa est in me.
+Exhibitum est quod ab alia re qualibet sensu discernere possumus.
+1 Über cum consideramus: si velimus
+Notum L
+Sentire L
+Notum est quod a quolibet alio discernere possumus intellectu.
+Datum est quod exhibitum notumve est prout opus est.
+Speciedatum est cujus forma nota est, sive ut si aliud exhiberetur ei simile, id
+ipsum agnosci possit.
+Similia sunt quae ejusdem sunt formae, seu quae discerni non possunt nisi ambo
+Magnitudinedatum est, cujus magnitudo seu ratio ad aliquod exhibitum, nota
+Determinatum est quod ex datis unicum est. Determinatum est, quod non est
+datum, ut ratio circuli ad quadratum.
+Linea p o s i t i o n e d a t a est, cujus punctum quodlibet determinatum exhiberi seu
+dari potest.
+Linea p o s i t i o n e d a t a est, quae duci potest usque ad terminos datos.
+Recta est linea quae ex duobus punctis datis positione determinata est, seu cujus
+omnia puncta determinata sunt, usque ad ea quae pro ultimis assignantur HDBFMCGL.
+Nimirum data sunt puncta B, C, determinata erunt puncta H, D, F, M, G, L, item
+quae cadunt inter duo quaelibet ex his.
+Inter duo puncta (ut HD, FM, DC) recta unica est, nam puncta inter H et D sunt
+puncta rectae BC indefinitae, ergo determinata sunt, jam eadem sunt omnia puncta inter
+Rectalinea est, quae duobus punctis datis in eam si opus est productam
+cadentibus, determinata est.
+Linea d e t e r m i n a t a est cujus omnia puncta sunt determinata.
+Punctumlineaedeterminatum est, cum proposito aliquo puncto ex positis
+sequitur utrum ipsum in linea proposita sit vel non.
+intellectu L
+11 f. seu dari erg. L
+9 f. Determinatum... quadratum. erg. L
+Sint itaque duo puncta A, B et proponatur aliud punctum C hoc utrum in rectam
+cadat, si opus est productam, in quam si opus productam cadunt A et B determinatum est.
+Caeterum haec omnia nondum exhibent modum exhibendi lineam rectam, si nulla
+adhuc detur, is ergo modus talis est.
+Sit corpus aliquod quantulumcunque in quo duo sumantur puncta quaecunque A, B 5
+quae statuantur immota. Sumatur aliud quodcunque punctum C certo modo situm ad
+poterit aut non poterit. Si non potest utique ex his duobus punctis et situs forma ad ipsa
+data, erit determinatum. Sin potest transferri poterit unum in
+locum alterius idemque intelligendo de quibuscunque punctis in 10
+solido, quae situ retento ad puncta A, B locum mutare possunt.
+Itaque moveri potest solidum A, B immotis.
+Sed ut rem rectius demonstremus: sit corpus quodcunque
+in quo duo assumta sint puncta A, B. Sumatur aliud punctum
+extra ipsum D, ita situm ad puncta A, B, ut solide licet ipsis
+connexum locum mutare possit. Itaque mutabit locum ad puncta
+quaedam corporis. Ergo vicissim quia mutatio situs res
+respect〈us〉 est intelligi possunt omnia illa corporis solidi puncta
+situm mutare licet tribus illis A, B, D manentibus.
+Duo hic demonstranda supersunt, primum quod dentur
+aliqua puncta in solido proposito quae non moveantur punctis A,
+B manentibus immotis; secundo quod ea puncta cadant omnia in lineam non in solidum
+neque in superficiem.
+Sumatur aliud solidum simile priori, B, E ita positum et annexum priori, ut A, B, E
+simul sint immota, etsi solidum moveatur. Verum video adhuc probandum restare, quod 25
+puncta hujusmodi dari possint. Id est semper adhuc probandum restat dari posse rectam.
+5 f. A, B erg. L
+5 quantulumcunque erg. L
+6 statuantur immobilia, et gestr.
+nihilo minus corpus moveri potest, seu partes ejus mutare possunt locum etsi a duobus punctis non divellantur,
+24 et... priori erg. L
+Nondum ergo hinc demonstratur rectae generatio, nisi constet
+prius rectam esse possibilem.
+Sit solidum sibi simile, utcunque producatur, ita ut maneat
+sibi simile erit productio in recta, seu puncta respondentia erunt
+in eadem recta, sed nec tale solidum intelligi potest nisi
+intellecta recta, seu quod ita moveri potest, ut unumquodque
+punctum novum occupet locum et locus percursus sit locuto similis, motus erit in recta.
+Recta est cujus omnia puncta ex duobus tantum in ea si opus est producta datis
+determinata sunt. Id est datis duobus punctis B, C et tertio aliquo D, determinatum est eo
+ipso utrum D cadat in rectam (si opus productam), in quam (si opus productam) cadunt
+Recta est l i n e a nam fit motu puncti tali, ut loca ejus omnia ex duobus locis
+datis determinentur. Non potest autem inde oriri superficies, sive Recta non potest esse
+superficies, neque altior dimensio, quia superficies fit motu lineae, itaque primum linea
+opus est, quae duobus minimum punctis determinatur, deinde motus lineae adhuc nova
+indiget determinatione, itaque superficies et adhuc minus altior dimensio determinari
+potest duobus punctis.
+Rectam sic exprimo: 1A2AB3A4AC5A6A etc. Pars rectae est recta. Nam cujus omnia
+puncta inter duo ejus extrema sita determinata sunt duobus tantum punctis determinatis
+id est recta at rectae 1AC partis 1A2A omnia puncta determinata sunt (quia omnia ejus
+puncta sunt puncta Rectae cujus pars est;
+omnia autem puncta rectae sunt determinata ),
+ergo pars rectae recta est.
+Duaerectaediversaenonpossunthabereamboextremacommunia,
+seu duae rectae quarum duo extrema communia sunt coincidunt. Nam omnis recta cujus
+extrema sunt data habet omnia puncta determinata per duo quaedam puncta data per
+definitionem. Haec duo puncta sint ipsa extrema. Ergo omnis recta habet omnia puncta
+3–6 ita... recta erg. L
+est recta erg. L
+erg. L
+27 f. per definitionem erg. L
+25 diversae erg. L
+21 id
+20 inter... sita erg. L
+determinata extremis datis. Ergo omne punctum inter haec duo extrema in recta datum,
+est in una tantum recta inter haec extrema comprehensa. Ergo una tantum recta inter haec
+extrema comprehensa est.
+[Sommer 1678 bis Sommer 1679 (?)]

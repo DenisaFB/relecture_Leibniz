@@ -1,0 +1,424 @@
+11 B. DE SPINOZA, Renati des Cartes Principiorum philosophiae pars I, et II, more geometrico
+demonstratae, pars I, prop. IV, axioma IX, S. 155–157 [Marg.].
+Definitio 1. Causasui
+estidcuiusEssentiainvolvitexistentiam.
+Definitio 2. obscura est, quod res sit finita quae alia sui generis terminari potest.
+Quid est enim cogitationem cogitatione terminari? An qua datur alia major? uti corpus
+terminari ait quo aliud majus concipi potest. Adde infra prop. 8.
+Definitio 3. Substantiaestquodinseestetper
+Etiam haec obscura. Quid enim in se esse. Deinde quaerendum est cumulative an
+disjunctive inter se conjungat: in se esse, et per se concipi. Id est an hoc velit: substantia
+est id quod in se est, item substantia est id quod per se concipitur. An vero velit
+substantiam esse id in quo utrumque hoc concurrit, ut nempe et in se sit, et per se
+concipiatur. Aut necesse erit ut demonstret, qui unum habeat etiam alterum habere, cum
+contra videatur potius, esse aliqua quae sint in se, etsi non per se concipiantur. Et ita
+vulgo homines substantias concipiunt. Subjicit: Substantia est cuius conceptus non
+indiget alterius rei conceptu a quo [formari] debeat. Sed in hoc quoque difficultas, nam 15
+in sequenti definitione ait attributum ab intellectu de substantia percipi tanquam eius
+essentiam constituens. Ergo attributi conceptus necessarius est ad formandum conceptum
+substantiae. Si dicas attributum non esse rem, te vero requirere saltem ut substantia non
+indigeat conceptu alterius rei; respondeo: explicandum est ergo, quid vocetur res, ut
+intelligamus definitionem, et quomodo attributum non sit res.
+Definitio 4. etiam obscura est, quod attributum sit id quod intellectus de
+substantia percipit, ut essentiam eius constituens. Quaeritur enim an per attributum
+intelligat omne praedicatum reciprocum, an omne praedicatum essentiale sive
+reciprocum sive non; an denique omne praedicatum essentiale primum seu
+indemonstrabile de substantia. Vide defin. 5.
+Definitio 5. Modus est quod in alio est, et per aliud concipitur. Videtur ergo in
+eo differre ab attributo, quod attributum est quidem in substantia, attamen per se
+concipitur. Et hac explicatione adjecta cessat obscuritas definitionis 4.
+Definitio 6. Deum inquit definio, Ens absolute infinitum, vel substantiam
+constantem infinitis attributis, quorum unumquodque aeternam et infinitam essentiam 30
+2 Pars... Deo erg. L
+10 est, (1) vel (2) item erg. L.. indiget (1) alio (2) alterius rei...
+25 vide defin. 5. erg. L
+firmari ändert Hrsg. debeat erg. Sed... res. erg. L
+exprimit. Ostendere debebat has duas definitiones esse aequipollentes; alioqui unam in
+alterius locum substituere non potest. Erunt autem aequipollentes, ubi ostensum erit
+plura esse in rerum natura attributa, seu praedicata [quae] per se concipiuntur; item ubi
+ostensum erit plura praedicata posse stare inter se. Praeterea omnis definitio imperfecta
+est (tametsi vera et clara esse possit) qua intellecta dubitari potest an res definita sit
+possibilis. Talis autem ista est, dubitari enim adhuc potest an Ens infinita habens attributa
+non implicet. Vel ideo quia dubitari potest, an eadem essentia simplex pluribus diversis
+attributis exprimi potest. Equidem plures sunt definitiones rerum compositarum, sed rei
+simplicis non nisi unica est, nec eius essentia nisi unico modo exprimi posse videtur.
+libera quae ex suae naturae necessitate existit et ad
+agendum determinatur, rescoacta quae ab alio determinatur ad existendum et
+essentia sequi concipitur.
+Has definitiones probo.
+Axioma 1. Omnia quae sunt vel in se vel in alio sunt.
+Axioma 2. Id quod per aliud non potest concipi per se concipitur.
+Axioma 3. Ex data determinata causa sequitur effectus, si non detur non
+Axioma 4. Effectus cognitio ex cognitione causae dependet et eam involvit.
+Axioma 5. Quae nihil commune secum invicem habent etiam per se invicem
+intelligi non possunt.
+Axioma 6. Idea vera debet cum suo ideato convenire.
+Axioma 7. Quicquid ut non existens potest concipi, eius essentia non involvit
+Circa Axioma t a haec noto: Primum tamen obscurum est, quamdiu non constet
+quid sit esse in se. Secundum et septimum annotari nihil necesse erat. Sextum parum
+congruum videtur; omnis enim idea cum suo ideato convenit, nec video quid sit idea
+falsa. Tertium, quartum, quintum demonstrari posse arbitror.
+defin. 5. dixit, se per substantiae affectiones intelligere modos. Caeterum non explicuit
+quid sit esse naturaprius, ideoque nec potest haec propositio ex praecedentibus
+demonstrari. Videtur autem per natura prius alio intelligere, id per quod aliud concipitur.
+4 erit ea gestr. plura L
+7 f. diversis (1) modis (2) attributis seu modis gestr.
+10–26 Definitio 7.... existentiam. erg. (1) Axioma t a (a) proba (b) sunt (2) Circa...
+13 f. rei (1) aeternae necessitate (2) essentia L
+noto: (a) Tantum (b) Primum tamen erg. L
+imo et debere, gestr. arbitror. L
+Caeterum fateor et in hoc aliquam esse difficultatem, videntur enim non tantum
+posteriora per priora, sed et priora per posteriora concipi posse. Licebit tamen natura
+prius hoc modo definire, quod concipi potest non concepto alio; ita ut contra alterum
+concipi non possit nisi concepto ipso. Verum ut dicam quod res est natura prius paulo
+latius est: Nam exempli causa proprietas denarii ut sit 6 + 4 posterior natura est hac, ut sit
+6 + 3 + 1 (quia ista est propior omnium primae: denarius est 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1
++ 1 + 1) et tamen concipi potest sine priore, imo quod amplius est potest sine ea
+demonstrari. Addo aliud exemplum: in Triangulo Proprietas illa, quod tres anguli interni
+sint aequales duobus rectis; posterior natura est hac: quod duo anguli interni sint
+aequales externo tertii, et tamen illa sine ista concipi, imo forte (etsi non aeque
+commode) sine ipsa demonstrari potest.
+Propositio 2. Duae substantiae diversa attributa habentes nihil inter se
+commune habent. Si per attributa intelligit praedicata quae per se concipiuntur, concedo
+propositionem posito duas esse substantias A et B, et substantiae A attributum esse c,
+substantiae B attributum esse d, vel si substantiae A attributa omnia sint c, e, substantiae 15
+vero B attributa omnia d, f. Secus est si duae illae substantiae quaedam habeant attributa
+diversa, quaedam communia, ut, si attributa ipsius A sint c, d, et ipsius B sint d, f. Quod
+si negat hoc fieri posse demonstranda est impossibilitas. Propositionem ipsam in casu
+objectionis forte demonstrabit hoc modo: quia d pariter et c eandem essentiam exprimit
+(cum eiusdem substantiae A attributa sint ex hypothesi); et ob eandem rationem etiam d 20
+et f (cum etiam ex hypothesi eiusdem substantiae B attributa sint), Ergo et c et f, unde
+sequitur eandem esse substantiam A et B, contra hypothesin, absurdum ergo duas
+substantias diversas aliquid commune habere. Respondeo, non concedi a me quod
+possint dari duo attributa quae per se concipi, et tamen idem exprimere possint. Nam
+quandocunque id contingit, tunc duo illa attributa idem diverso modo exprimentia
+tandem resolvi possunt, vel saltem eorum alterutrum. Quod facile possum demonstrare.
+Propositio 3. Quae res nihil commune inter se habent, earum una alterius causa
+esse non potest, per axiom. 5. 4.
+Propostio 4. Duae aut plures res distinctae vel inter se distinguuntur ex
+diversitate attributorum substantiarum, vel ex diversitate affectionum. Demonstrat ita:
+9 anguli (1) sint a (2) interni L
+1 f. tantum (1) priora per posteriora, sed et posteriora (2) posteriora L
+15 d (1). Non vero concedo, si duae illae substa (2), vel L
+19 f. exprimit (1) (quia ejusdem
+18 f. impossibilitas.
+21 (cum... substantiae (1) A (2) B... sint)
+definitionibus. Modo ponas (2) Per (3) Nam (axiom. 1) id est (4) Per axiom. 1, defin. 3, 5. (5) Demonstrat ita:
+(a) extra intellectum nihil datur praeter substantias ejusque affectiones (b) Omnia L
+21–23 unde... ergo (1) dari (2) duas... habere erg. L
+(1) Si fortasse (2) Propositionem... forte erg. L
+quae sunt vel in se vel in alio sunt per axiom. 1, hoc est per defin. 3 et 5 extra intellectum
+nihil datur praeter substantias earumque affectiones. (Hic miror eum oblivisci
+attributorum nam defin. 5. per substantiae affectiones intelligit tantum modos. Sequitur
+ergo aut eum ambigue locutum, aut attributa non numerari ab eo inter res extra
+intellectum existentes sed tantum substantias et modos. Caeterum propositionem facilius
+poterat ostendere, modo addidisset; res quae scilicet concipi possunt per attributa vel
+affectiones necessario cognosci adeoque et distingui. )
+Propositio 5. In rerum natura non possunt dari duae aut plures substantiae
+ejusdem naturae seu attributi.
+(Hic annoto obscurum videri, quid sit hoc: in rerum natura. An intelligat: in
+universitate rerum existentium; an vero in regione idearum vel essentiarum possibilium.
+Deinde obscurum est an velit dicere non dari plures Essentias ejusdem attributi
+communis; vel an velit non dari plura individua ejusdem essentiae. Miror etiam cur hic
+vocem naturae et vocem attributi pro aequipollentibus sumat, nisi per attributum
+intelligit quod totam continet [naturam. Quo posito non] video quomodo possint dari
+plura attributa ejusdem substantiae quae per se concipiantur.) Demonstratio: Si di-
+stinguerentur, aut affectionibus aut attributis distinguerentur; si affectionibus, ergo cum
+distingui debent, ergo attributis. Si attributis ergo non dantur duae substantiae ejusdem
+attributi. Respondeo subesse videri paralogismum. Nam duae substantiae possunt
+distingui attributis, et tamen habere aliquod attributum commune, modo etiam aliqua
+praeterea habeant propria. Ex. gr. A et B quorum illius attributum sit c, d, huius d, e.
+Annoto: prop. 1. non esse utilem nisi ad hanc. Verum ea potuisset careri, quia
+sufficit substantiam concipi posse sine affectionibus, sive sit natura prior, sive non.
+Propositio 6. Una substantia non potest produci ab alia substantia, nam duae
+substantiae per prop. 5. non sunt eiusdem attributi, ergo nihil commune habent per prop.
+2, ergo non potest unum esse alterius causa, per axiom. 5. Idem aliter et brevius quia
+quod per se concipitur, non potest concipi per aliud velut causam per axiom. 4. Caeterum
+5 f. facilius (1) explicare (2) poterat L
+21 etiam (1) aliquod (2) aliqua L
+sequentem. Et tamen sequens sine ea melius demonstrari potest. (2) Adhibebitur... 8. sed str. Hrsg.
+29 4. (1) (Unde patet rem semper vel priore vel posteriore modo resolvi in axiom. 4.
+nam et prop. 3. pendet ab axiom (2) Propositio 7. ad naturam substantiae pertinet existere (3) Caeterum L
+16 quae... concipiantur
+24–26 non. (1) Imo haec ipsa propositio non est utilis ad
+respondeo concedi a me demonstrationem si substantia sumitur pro re quae per se
+concipitur. Secus est si sumatur pro re quae in se est, uti vulgo homines sumunt, nisi
+ostendatur idem esse in se esse, et per se concipi.
+Propositio 7. Ad naturam substantiae pertinet existere. Substantia non potest
+produci ab alio prop. 6. Ergo est causa sui, id est per defin. 1. ipsius [essentia] involvit
+existentiam. Hic non immerito reprehenditur quod causam sui modo ut definitum aliquod
+sumit, cui peculiarem significationem defin. 1. ascripsit, modo et eo in communi ac
+vulgari suo significatu utitur. Remedium tamen facile est, si definitionem illam 1. in
+axioma convertat, et dicat: Quicquid non ab alio est, id est a se ipso, seu ex sua essentia.
+Verum aliae hic supersunt difficultates: Nempe procedit tantum ratiocinatio, posito
+substantiam existere posse. Necesse est enim tunc ut quia ab alio produci non potest, a se
+ipso existat, adeoque necessario existat; possibilem autem substantiam id est concipi
+posse demonstrandum est. Demonstrari posse videtur ex eo quia si nihil per se
+concipitur, nihil etiam per aliud concipietur, adeoque nihil omnino concipietur. Quod ut
+distincte ostendatur considerandum est, si ponatur a concipi per b in conceptu ipsius a 15
+esse conceptum ipsius b. Et rursus si b concipitur per c in conceptu b esse conceptum
+ipsius c, et ita conceptus ipsius c, in conceptu ipsius a erit et ita porro usque ad ultimum.
+Quid si quis respondeat non dari ultimum, respondeo nec dari primum, quod sic ostendo.
+Quia in eius quod per aliud concipitur conceptu, nihil est nisi alienum, ideo gradando per
+plura, aut nihil omnino in eo erit aut nihil nisi quod per se concipietur. Quam
+demonstrationem novam plane, sed infallibilem esse arbitror. Eiusque ope demonstrari
+potest id quod per se concipitur concipi posse. Sed adhuc tamen dubitari potest, an ideo
+sit possibile; eo modo quo hoc loco sumitur possibile. Nimirum non pro eo quod concipi
+potest, sed pro eo cuius aliqua concipi potest causa; resolubilis tandem in primam. Nam
+quae a nobis concipi possunt non ideo tamen omnia produci possunt, ob alia potiora
+quibus incompatibilia sunt. Ideo Ens quod per se concipitur actu esse probari debet
+adhibita experientia, quia existunt quae per aliud concipiuntur, ergo existit etiam id per
+quod concipiuntur. Vides quam longe alia sit opus ratiocinatione, ad accurate probandam
+rem per se existentem. Forte tamen hac ultima cautione non opus.
+Propositio 8. Omnis substantia est necessario infinita quia alioqui terminaretur 30
+ab alia eiusdem naturae per defin. 2. et darentur duae substantiae eiusdem attributi contra
+prop. 5. Haec propositio ita intelligenda: res quae per se concipitur in suo genere infinita
+5 est (1) si existit (2) ip (3) per L
+24 primam actu existentem gestr.
+20 plura aliena gestr.. Nam L
+24 causa (1) ; Multa enim (2), resolubilis L
+11 substantiam produci seu
+est, et ita admittenda. Demonstratio autem laborat tum obscuritate, quoad illud:
+ad probandum rem quae per se concipitur esse unicam in suo scilicet genere, quia
+ponantur esse plura individua, ideo debet esse ratio in natura cur sint tot non plura.
+Eadem cum faciat cur sint tot, faciat cur sit hoc et hoc. Ergo et cur sit hoc. Ea ratio autem
+non est in uno horum potius quam in altero. Ergo extra omnia. Una objectio fieri posset,
+si dicatur numerum [eorum] esse interminatum, sive nullum, sive omnem numerum
+excedere. Verum corrigi potest, si aliqua tantum ex ipsis sumamus, et quaeramus cur illa
+extiterint, vel si sumamus plura aliquid commune habentia, v.g. in eodem loco existentia,
+cur illa in hoc loco extiterint.
+Propositio 9. Quo plus realitatis aut esse unaquaeque res habet eo plura
+attributa ipsi competunt (explicandum erat quid intelligatur per realitatem aut esse, sunt
+enim haec obnoxia aequivocationibus). Demonstratio: patet ex defin. 4. Haec autor. Mihi
+eam inde patere non videtur. Nam potest una res plus realitatis habere quam alia, ideo
+quod ipsa major est in suo genere, seu majorem attributi alicuius partem habet. V.g.
+circulus plus extensionis habet quam quadratum inscriptum. Et dubitari adhuc potest an
+plura dentur attributa eiusdem substantiae, eo modo quo autor attributa sumsit. Fateor
+interim hoc admisso et posito attributa esse compatibilia eo perfectiorem esse
+substantiam, quo plura habet attributa.
+Propositio 1 0. Unumquodque unius substantiae attributum per se concipi debet,
+per defin. 4 et 3. Sed hinc ut aliquoties objeci sequitur non dari nisi unicum unius
+substantiae attributum, si quidem totam essentiam exprimit.
+Propositio 1 1. Deus seu substantia constans infinitis attributis quorum
+unumquodque aeternam et infinitam essentiam exprimit, necessario existit. Tres affert
+demonstrationes. Prima. Quia substantia. Ergo per prop. 7 existit. Sed hoc supponit et
+substantiam necessario existere quod ad prop. 7 non fuit satis demonstratum, et Deum
+esse substantiam possibilem. Quod non aeque facile demonstratu est. IIda. Semper causa
+esse debet tam cur res sit quam cur non sit. At nulla ratio esse potest cur Deus non
+existat, non in ipsius natura, neque enim implicat contradictionem, non in altero nam
+1 f. Demonstratio... prop. 5. erg. L
+3 probandum (1) substantiam in suo genere esse (2) rem L
+6 Una (1) responsio (2) objectio L
+(1) Hoc tantum sequitur quo plus realitatis res habet, eo plus de uno aliquo attributo ipsi competere (2) Nam L
+21 f. Sed... exprimit. erg. L
+24 existit. (1) Probat per prop. 7 (2) Tres L
+27 est. (1) (Corpora (2)
+18 admisso (1) eo perfectio (2) et L
+25 supponit (1) Deu (2) et L
+9 vel (1) cur illa (2) si L
+7 earum L ändert Hrsg.
+illud vel erit eiusdem naturae et attributi adeoque jam erit Deus, vel non erit, adeoque
+nihil habebit commune cum Deo, adeoque existentiam eius nec ponere nec impedire
+potest. Respondeo 1) nondum probatum Dei naturam non implicare, tametsi id asserere
+autor sine probatione absurdum esse dicat. 2) Poterit esse eiusdem naturae cum Deo in
+quibusdam non in omnibus. 3) Entia finita existunt (per experientiam). Ergo si infinitum 5
+non existit, erunt ipsa potentiora Ente infinito. Respondetur si implicet Ens infinitum
+nullam potentiam habebit. Ut taceam improprie dici potentiam de existendi vi.
+Propositio 1 2. 1 3. Nullum substantiae attributum potest vere concipi, ex quo
+sequatur substantiam posse dividi, seu substantia absolute sumta est indivisibilis. Nam
+destruetur dividendo, partes non erunt infinitae adeoque nec substantiae. Darentur plures 10
+substantiae eiusdem naturae. Concedo de re per se existente.
+Corollarium. Hinc sequitur nullam substantiam adeoque nec corpoream esse
+Propositio 1 4. Praeter Deum nulla dari neque concipi potest substantia. Quia
+Deo omnia competunt attributa, nec dantur plures substantiae eiusdem attributi, ideo
+nulla datur substantia praeter Deum. Omnia haec supponunt definitionem substantiae,
+quod sit Ens quod per se concipitur, et alia multa supra notata non admittenda. (Mihi
+nondum certum videtur corpora esse substantias. Secus de mentibus.)
+Corollarium 1. Deum esse unicum.
+Corollarium 2. Rem cogitantem vel rem extensam esse vel Dei attributa vel [per 20
+axiom. 1] affectiones attributorum Dei. (Hoc est confuse loqui; praeterea nondum
+ostendit extensionem et cogitationem esse attributa seu per se concipi.)
+Propositio 1 5. Quicquid est in Deo est, et nihil sine Deo esse neque concipi
+potest. Quia enim nulla praeter Deum substantia prop. 14, ideo omnia alia erunt
+affectiones Dei seu modi, quia praeter substantias et modos nil datur. (Rursus omittit
+Propositio 1 6. Ex necessitate divinae naturae infinita infinitis modis, hoc est
+omnia quae sub intellectum infinitum cadere possunt sequi debent, per defin. 6.
+Corollarium 1. Hinc sequitur Deum omnium quae sub intellectum cadunt esse
+1 eiusdem (1) attrib (2) naturae L
+9–11 Nam (1) partes (2)
+destruetur... naturae. erg. Concedo... existente. erg. L
+substantias.... mentibus) erg. L
+vel gestr. affectiones L
+21 f. praeterea nondum (1) attendit (2) ostendit... concipi erg. L
+17 f. (Mihi... esse (1) substantiam. (2)
+21 est (1) obscure (2)
+24 f. erunt vel attributa
+2. Deum esse causam per se non vero per accidens.
+3. Deum esse absolute causam primam.
+Propositio 1 7. Deus ex solis naturae legibus et a nemine coactus agit, quia nihil
+Corollarium 1. Hinc sequitur 1 o nullam dari causam quae Deum extrinsece vel
+Corollarium 2. Solum Deum esse causam liberam.
+In Scholiis fusius explicat Deum omnia quae in ipsius intellectu sunt creavisse (cum
+tamen videatur ea tantum creasse quae voluit). Dei intellectum etiam in essentia a nostro
+intellectu ait differre, nec nisi aequivoce tribui posse utrique nomen intellectus, quem-
+admodum canis signum coeleste, et canis animal latrans. Causatum differt a sua causa in
+eo quod a causa habet. Homo ab homine quoad existentiam quam ab homine habet, a
+Deo quoad essentiam quam a Deo habet.
+Propositio 1 8. Deus est rerum causa immanens non vero transiens. Sequitur ex
+eo quod supra visus sibi est ostendisse, Deum solum esse substantiam, caetera eius
+Propositio 1 9. Deus sive omnia eius attributa sunt aeterna. Nam essentia eius
+involvit existentiam, et attributa eius involvunt eius essentiam. Citat praeterea autor ac
+probat modum quo id demonstravit prop. 19. Principiorum Cartesii.
+Propositio 2 0. Dei [existentia] et eius essentia unum et idem sunt. Quia omnia
+eius probat ex eo, quia attributa Dei quia aeterna (per prop. 19) existentiam exprimunt
+per definitionem aeternitatis. Eadem autem et essentiam exprimunt per definitionem
+attributi. Ergo essentia et existentia sunt idem in Deo. Respondeo id non sequi, sed hoc
+tantum, quod ab eodem exprimantur. Noto etiam prop. hanc supponere praecedentem,
+quod si ergo loco praecedentis ipsius demonstratio in huius demonstratione adhibeatur
+patebit inepta circuitio. Hoc modo: Dei essentia et existentia sunt unum et idem. Probo:
+Quia attributa Dei et existentiam et essentiam exprimunt. Essentiam exprimunt ex
+definitione attributi. Existentiam exprimunt, quia aeterna, aeterna autem, quia involvunt
+6 ipsius (1) naturam (2) naturae L
+8 f. (cum... voluit) erg. L
+10 aequivoce (1) ei (2) tribui L
+14–16 Sequitur... Deum (1) esse (2) u (3) solum... modos. erg. L
+21 19) (1) essentia (2) existentiam L
+28 quia (1) existen (2) Dei (3) aeterna L
+25 f. adhibeatur (1) inepta orietur identicitas (2) patebit...
+19 B. DE SPINOZA, Renati Descartes Principiorum philosophiae pars I, et II, more geometrico
+demonstratae, I, 19 [Marg.].
+exprimunt enim Dei essentiam quae involvit existentiam. Quid opus ergo mentione
+aeternitatis attributorum, et propositione 19, cum res eo tantum redeat, ut probetur Dei
+existentiam et essentiam esse unum et idem, quia Dei essentia involvit existentiam,
+caetera enim adhibita sunt inanis apparatus causa, ut in speciem demonstrationis
+tornarentur. Hujusmodi ratiocinationes illis valde familiares, qui veram demonstrandi
+Corollarium 1. Hinc sequitur Dei existentiam pariter atque essentiam esse
+aeternam veritatem. Haec propositio non video quomodo ex praecedente sequatur, imo
+longe praecedente verior et clarior est. Statim enim patet posito quod Dei essentia
+involvat existentiam, tametsi non admittatur, esse unum et idem.
+Corollarium 2. Deus est immutabilis omniaque eius attributa. Ista obscure et
+confuse proponit probatque autor.
+Propositio 2 1. Quae ex absoluta natura alicuius attributi Dei sequuntur semper
+et infinita existere debuerunt, sive per idem attributum aeterna et infinita sunt.
+Demonstrat satis obscure et prolixe, cum sit facile.
+Propositio 2 2. Quicquid ex aliquo Dei attributo quatenus modificatum est tali
+modificatione quae et necessario et infinita per idem existit, sequitur, debet quoque
+necessario et infinitum existere. Ait procedere demonstrationem ut in praecedenti. Ergo
+etiam obscure. Vellem exemplum talis modificationis dedisset.
+Propositio 2 3. Omnis modus qui et necessario et infinitus existit necessario
+sequi debuit vel ex absoluta natura alicuius attributi Dei, vel ex aliquo attributo
+modificato modificatione, quae et necessario et infinita existit. Id est modum talem sequi
+ex absoluta natura alicuius attributi vel immediate, vel mediante alio modo tali.
+Propositio 2 4. Rerum a Deo productarum essentia non involvit existentiam;
+alioqui per def. 1. causa essent sui. Quod est contra Hypothesin. Res aliunde manifesta. 25
+Sed haec demonstratio est paralogismus. Causa enim sui per eius definitionem 1. non
+communem sensum retinuit, sed peculiarem nacta est. Non potest ergo communem vocis
+sensum in locum proprii pro arbitrio a se assumti substituere autor, nisi ostendat eos
+1 Am Rande: Ex hac propositione sequitur contra ipsum Spinosam res non esse
+necessarias. Hoc enim necessarium non est, cujus essentia existentiam non involvit.
+1 Dei (1) natura (2) essentiam L
+30 sequitur (1) res (2) S (3) contra L
+nisi... aequivalere erg. L
+23 absoluta (1) Dei (2) natura L
+Propositio 2 5. Deus non tantum est causa efficiens rerum existentiae, sed etiam
+essentiae. Alioqui posset rerum essentia sine Deo concipi, per Axiom. 4. Sed haec
+probatio nullius momenti est. Nam ut concedamus essentiam rerum sine Deo concipi non
+posse ex prop. 15, non ideo sequitur Deum esse essentiae rerum causa. Axioma enim
+quartum non hoc dicit: sine quo quid non concipi potest, id est eius causa (quod sane
+falsum esset, nam linea2 sine puncto3 concipi non potest: non ideo punctum lineae4
+causa), sed hoc tantum effectus cognitionem involvere cognitionem causae, quod longe
+aliud est. Neque enim hoc axioma est convertibile. Ut taceam aliud esse involvere, aliud
+sine ipso concipi non posse. Parabolae cognitio involvit in se cognitionem foci, potest
+tamen sine eo concipi.
+Corollarium. Res particulares nihil sunt nisi Dei attributorum affectiones, sive
+modi, quibus attributa Dei certo ac determinato modo exprimuntur. Hoc ait patere ex
+defin. 5. et prop. 15., sed non apparet quomodo hoc corollar. connectatur cum hac prop.
+25. Certe Spinosa non est magnus demonstrandi artifex. Corollarium hoc ex supra dictis
+satis patet, et verum est si sano sensu intelligatur, non quidem res esse tales modos, sed
+modos concipiendi res particulares, esse modos determinatos concipiendi attributa
+Propositio 2 8. Quodcunque singulare sive quaevis res quae finita est et
+determinatam habet existentiam non potest existere nec ad operandum determinari, nisi
+ad existendum et operandum determinetur ab alia causa, quae etiam finita est et
+determinatam habet existentiam, et haec iterum ab alia; et sic in infinitum. Quia nihil
+determinatum, finitum et certo tempore existens, ex absoluta Dei essentia sequi potest.
+Ex hac opinione recte expensa multa absurda sequuntur. Revera enim res ex natura Dei
+hoc modo non sequentur. Ipsum enim determinans ab alia re iterum determinatur et sic in
+infinitum. Nullo modo ergo res determinantur a Deo. Deus tantum absoluta quaedam et
+generalia de suo contribuet. Rectius dicendum unum particulare non determinari ab alio,
+progressu in infinitum; alioqui enim revera semper manent indeterminata; utcunque
+4 Darüber: centrum circuli
+2 Alioqui (1) Deus rerum (2) posset L
+3 concedamus (1) res (2) essentiam rerum L
+24 ab (1) alio (2) alia re L
+3 est. (1) Axioma enim quartum non (2) Nam L
+4 ex prop. 15 erg. L
+7 tantum (1) effectuum (2)
+9 posse. (1) Parabola involvit in se focum, (2) Parabolae... foci, L
+progrediaris: sed potius omnia particularia determinari a Deo. Nec [priora posteriorum]
+esse causam plenam, sed Deum potius posteriora creare ita ut connectantur prioribus
+secundum sapientiae regulas. Si dicimus priora et causas efficientes posteriorum,
+vicissim erunt posteriora quodammodo causae finales priorum, apud eos qui ponunt
+Deum secundum finem operari.
+Propositio 2 9. In rerum natura nullum datur contingens, sed omnia ex
+necessitate divinae naturae determinata sunt ad certo modo existendum et operandum.
+Demonstratio obscura et praerupta est, ducta per propositiones praecedentes praeruptas
+obscuras et dubias. Res pendet a definitione contingentis, quam nuspiam dedit. Ego
+cum aliis contingens sumo pro eo cuius essentia non involvit existentiam. Hoc sensu res 10
+particulares erunt contingentes secundum ipsum Spinosam per prop. 24. Sed si
+contingens sumas more quorundam Scholasticorum Aristoteli et aliis hominibus usuique
+vitae incognito; pro eo quod contingit, sic ut ratio reddi non possit ullo modo cur sic
+potius evenerit quam aliter, et cuius causa positis omnibus requisitis tam intra quam extra
+ipsam, aeque disposita fuit ad agendum quam non agendum; puto tale contingens
+implicare, omniaque esse sua natura, ex hypothesi voluntatis divinae statusque rerum,
+certa ac determinata, tametsi nobis inexplorata, neque in se ipsis sed per suppositionem
+Propositio 3 0. Intellectus actu finitus et actu infinitus Dei attributa Deique
+affectiones comprehendere debet et nihil aliud. Hanc propositionem satis claram ex
+praecedentibus, et sano sensu veram noster autor per alia obscura et dubia et remota
+more suo probat: nempe quod idea vera convenire debeat cum ideato, id est ut per se
+notum (sic ait, etsi ego quomodo id per se notum, imo verum sit non capiam), id quod in
+intellectu objective continetur, debet necessario in natura dari. Quod non nisi una
+substantia datur nempe Deus. Quae tamen propositiones obscurae et dubiae, et longe
+remotae sunt. Videtur autoris ingenium fuisse valde detortum: raro procedit via clara et
+naturali, semper incedit per abrupta et circuitus pleraeque eius demonstrationes magis
+animum circumveniunt (surprennent) quam illustrant.
+Propositio 3 1. Intellectus actu sive finitus sive infinitus, ut et voluntas,
+cupiditas, amor etc. ad naturam naturatam non ad naturantem referri debent. Intelligit 30
+per naturam naturantem Deum eiusque attributa absoluta, per naturatam eius modos.
+Esse autem intellectum nihil aliud quam certum cogitandi modum. Hinc alias dicit Deum
+proprie non intelligere nec velle. Hic ipsi non assentior.
+1 posteriora priorum L ändert Hrsg.
+4 quodammodo (1) fines (2) causae L
+quodque ita est in Dei (2) cuiusque (3) et L
+26 fuisse (1) non (2) valde (a) tortum: (b) detortum: L
+25 propositiones (1) rem (2)
+Propositio 3 2. Voluntas non potest vocari causa libera, sed tantum necessaria.
+Quia scilicet liberum id quod tantum a se determinatur. Voluntatem autem esse modum
+cogitandi, adeoque ab alio modificari.
+Propositio 3 3. Res nullo alio modo neque ordine a Deo produci potuerunt quam
+productae sunt. Sequuntur enim ex immutabili natura Dei. Haec propositio vera falsave,
+prout explicatur. Ex hypothesi voluntatis divinae eligentis optima seu perfectissime
+operantis certe non nisi haec produci potuerunt, secundum ipsam vero rerum naturam per
+se spectatam, aliter produci res poterant. Quemadmodum angelos confirmatos dicimus
+non posse peccare, salva eorum libertate, possent si vellent, sed non volent, possent velle
+absolute loquendo, sed hoc rerum statu existente amplius non possunt velle.
+Recte autor et in Scholio agnoscit, duobus modis aliquid impossibile reddi vel quia
+in se implicat, vel quia causa nulla externa datur ad producendum apta. In Scholio
+secundo negat Deum omnia sub ratione boni agere. Nimirum negavit ei voluntatem, et
+dissentientes putat Deum fato subjicere. Cum tamen ipse fateatur Deum omnia sub
+ratione perfecti agere.
+Propositio 3 4. Dei potentia est ipsa eius essentia. Quia ex natura essentiae
+sequitur eum esse causam sui et aliorum.
+Propositio 3 5. Quicquid in Dei potestate existit id necessario est, id est ex
+essentia eius sequitur.
+Propositio 3 6. Nihil existit ex cuius natura effectus aliquis non sequatur, quia
+Dei naturam certo ac determinato modo exprimit, hoc est per prop. 34. Dei potentiam,
+(non sequitur satis) verum est tamen.
+Subjicit Appendicem contra eos qui Deum propter finem operari putant, miscens
+vera falsis. Etsi enim verum sit non omnia hominum causa fieri, non tamen sequitur sine
+voluntate sive boni intellectu agere.
+6 divinae (1) optima (2) eligentis L
+8 Quemadmodum (1) de Deo et angelis (2) angelos L
+23 propter (1) fines (2) finem L
+16 ex (1) necessitate essentiae De (2) natura L
+22 sequitur (1), nisi (2) satis L
+REMARQUES TOUCHANT LES MEDITATIONS DE L’ABBE DE LANION

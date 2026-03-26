@@ -1,0 +1,117 @@
+Veteres omnem cognitionem accuratam ac demonstratam vocabant Mathematicam,
+unde Sextus libros suos quibus certitudinem tollere conatur inscripsit contra
+si vim vocis spectes sunt iidem qui docti quibus Empirici opponuntur qui non ratione
+nituntur, sed sola Experientia. Docere enim est efficere rationibus ut discipulus
+dogmatum veritatem clare comprehendat. Quod et Pythagoras observasse scribitur,
+discipulis enim veritates non vagas sed determinatas, nec tantum quid sed et quale et
+quantum in unoquoque tenendum esset, complexas, tradebat, additis rationibus. Cum ad
+auditores promiscuos tantum discipuli ejus autoritate magistri et popularibus argumentis
+uterentur. Itaque vulgo quae in Logicis, in Metaphysicis, imo in ipsa scientia civili
+infallibilibus
+libros L
+dogmatum veritatem L
+20–S. 379.1 civili
+demonstrationibus cognoscuntur Mathematicam certitudinem habere dicimus.
+Mathematica tamen scientia ea demum hodie dici solet, quae agit de rebus quatenus
+habent magnitudinem seu possunt aestimari sive mensurari.
+Ut autem sciamus quid sit Magnitudo, altius ordiendum est. Magnitudo autem
+cognoscitur mensura quadam, sive re actu ipso data, exempli causa pede AB in aere
+inciso; cui quicquid longitudine congruum est pedale dicitur; quod
+pedi ter repetito congruum est tripedale EF, et pes rem tripedalem
+dicitur metiri. Sed si in re mensuranda GH praeter tres pedes GK sit
+particula aliqua KH pede minor, quae negligenda non videtur; utile
+est assumi pro me[n]sura partem aliquam pedis, satis parvam,
+exempli gratia pollicem, qui duodecies repetitus, metitur pedem; si
+quadragesies rem mensurandam metiatur dicemus eam rem esse
+quadraginta [pollicum], sive quod idem est trium pedum GK, et
+quatuor pollicum KH. Si vero iterum supersit portio aliqua exigua
+pollice minor, vel eam negligemus, vel si omnino exacti esse
+volumus, sumemus rursus partem pollice minorem, quam vocant
+lineam; atque ita continuabimus, donec vel mensura rem
+mensurandam accurate metiatur, vel error qui superest insensibilis
+fiat, aut negligendus videatur. Vel si omnino eum cognoscere
+volumus quoad ejus fieri potest cognoscatur saltem, quanam
+progressione in infinitum ille semper decrescat, ut fiat tam parvus, quam volumus, quod
+unum superest, quoties constat, rem cum pede seu mensura assumta non esse
+commensurabilem, seu nullam posse reperiri particulam, quae pedem simul et rem
+metiendam accurate metiatur. Idque non tantum in lineis, sed et temporibus, et
+ponderibus, et potentiis machinarum, et gradibus qualitatum locum habet, nec minus
+hora horae congrua est, quam pes pedi. Ex quibus manifestum est cum
+5 AB erg. L
+quadraginta pedum, ändert Hrsg. L
+14 vero iterum erg. L
+temporibus, L
+19–24 Vel... metiatur. erg. L
+7 EF erg.
+9 KH erg.
+13 quod idem est erg. L
+14 KH erg. L
+13 GK erg. L
+8 GH erg. L
+8 GK erg. L
+Magnitudinem alicujus rei accurate quaerimus a nobis desiderari modum determinandi
+numerum partium ejus datae cuidam mensurae (aut parti ipsam accurate metienti)
+aequalium. Unde omnis magnitudo concipi potest ut numerus partium, et ideo scientia
+calculi, seu de numero vel indefinito quem tractat Logistica sive Algebra, vel definito,
+quem tractat Arithmetica, nihilo differt a scientia Magnitudinis per se consideratae et a
+rebus quantitatem habentibus abstractae.
+Solet quidem in Mathematicis praeter quantitatum comparationem saepe agi de
+comparatione qualitatum, sive de similitudine ut cum duos quoslibet circulos dicimus
+esse similes inter se et saepe ope similitudinis compendiose investigantur, quae per
+solam magnitudinem, id est per solam sectionem rerum in partes partiumque inter se
+congruentiam difficilius demonstrantur, exempli causa duos circulos esse inter se, ut
+quadrata circumscripta, ex definitione
+similitudinis facillime ostenditur, cum
+tamen demonstratio Euclidis sit una
+difficillimarum, quia sola magnitudinis
+consideratione usus est. Verum licet
+similia sint qualitate quadam
+convenientia, qualitates tamen quae in
+determinantur, ut figurae, et potentiae, itaque manet quod diximus, quicquid in
+Mathematicis tractatur esse mensurabile. Caeterum quia definitionem dedi Magnitudinis,
+danda erit et definitio Similitudinis, quae ut intelligatur exemplo utendum erit, nempe
+fingamus duas esse naves unam altera paulo majorem, sed ita structas, ut qui non ambas
+simul
+7 Solet
+Exempli gratia str. Hrsg.
+13–16 cum... est: vgl. EUKLID, Elementa, lib. V, prop. 16.
+videat, eas discernere nullo modo possit; nisi forte mensuret aliquid ut altitudinem
+cujusdam portae, hanc enim mensuram retinens, posteaque iterum in aliquam navium
+ductus, et utra sit interrogatus, mensura denuo applicata facile pronuntiabit. Hae duae
+naves dicentur esse similes; et ita duo similia non per sensum unius, et memoriam
+alterius ut alia dissimilia, sed per sensum duorum, ut hoc loco navis praesentis, et
+[mensurae] actu nobiscum [allatae] ex navi altera, et huic navi [applicandae], discerni
+debent. Eodem modo quamdiu quis unum Circulum contemplabitur, quicquid in eo
+metiatur, nihil reperiet quo possit eum discernere ab alio circulo, nisi quicquam
+cum circumferentia, mensuret quoties una chorda alteram contineat; et quae fecit notet; 10
+postea tentet eadem omnia in altero aliquo Circulo, reperiet, eadem succedere nullumque
+inde principium reperiet unum circulum ab alio discernendi. Idque demonstrari potest ex
+circuli generatione, quae est similis, nam tantum opus est rectam in aliquo plano moveri
+circa punctum aliquod immotum, unde nullum discrimen reperiri potest, inter duos
+circulos, quam quod diversa puncta, diversa plana, et diversae rectae assumi possunt, sed 15
+punctum puncto, recta rectae, planum plano indefinite simile; sive per se ab altero
+Dicendum de coincidentibus quae per omnia eadem sunt, de congruis, quae etiam
+collata discerni non possunt; de similibus, quae discerni non possunt sine applicatione
+quadam seu collatione. Aequalia sunt quae in congrua transmutari possunt, similia sunt 20
+quae in homogenea transmutari possunt.
+Mathematica Scientia ea demum hodie dicitur quae agit de rebus quatenus earum
+magnitudo consideratur. Nulla intelligi potest magnitudo sine aliqua varietate seu
+diversitate in rebus quibus tribuitur, et quidem rerum diversitas, si specialis earum natura
+non consideretur, si spectata tantum prout cogitatur, multitudinem rerum seu numeros
+parit, si
+ut erg. L
+6 mensuram... allatam... applicandam L ändert Hrsg.
+11 succedere eodem modo gestr. nullumque L
+16 simile est gestr.
+; sive L
+ponatur non cogitari tantum, sed et simul percipi, hinc oritur situs atque extensio.1
+Denique si diversitas percipiatur in eodem diverso tempore, oritur mutatio sive
+successio.
+Si duo per se nullo modo discerni possint, ea dicuntur congrua, ut hora ab hora, pes
+a pede, locus unus corporis ab alio loco ejusdem corporis. Si discerni non possint, nisi
+per applicationem quandam, seu perceptionem simultaneam, dicuntur Similia. Dissimilia
+enim discerni possunt, perceptione unius, et cogitatione alterius; similia non nisi
+utrumque immediate discernendorum percipiatur, possunt tamen duo mediate discerni,
+interventu tertii, quod successive utrique applicatur.
+93. SYNTHESIS, ANALYSIS. COMBINATORIA, ALGEBRA
+[1680 bis 1682 (?)]

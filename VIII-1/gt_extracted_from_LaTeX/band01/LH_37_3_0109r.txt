@@ -1,0 +1,27 @@
+__Experim. V.__
+[[Experim. V. Construi possunt duo Baroscopia in eodem Tubo continuo, alterum super alterum libere pendens, non nisi aere divisa, quae tamen accedere ad se invicem non possint]] Hinc praxis nova sequitur parandi Baroscopium
+
+aeris mutationes indicans
+
+[[Pondus]]
+Mercurio altitudinis et Tubo longitudinis quantulaecunque, dummodo altitudo Tubi sit [[tribus]] aliquot circiter pollicibus major altitudine Mercurii, quia scilicet variatio altitudinis Baroscopii est aliquot pollicum inter 27. et 30. circiter. Id ita fiet: esto Mercurius altitudinis quantulaecunque ab
+
+locatus in medio Tubi cd clausi in summo c et infra in d aperti. Aer intra Mercurium et Tubi summitatem sit consistentiae ordinariae [[, qualis est]] sine tensione et compressione quod fiet si [[Mercurio]] tempore Mercurii introducti extremum c sit apertum postea claudatur. Ita aer non erit tensus, quia pondus ab non descendit est enim 27 pollicibus minus, per dicta Exp. praeced. Hinc pondus seu pressio aeris externi nec demittet Mercurium ab quia is non satis fortis est ad eam pressionem superandam, nec sursum pellet versus c quia aer ca est ordinarius, et allevato Mercurio ab ultra statum ordinarium esset comprimendus cum tamen atmosphaerae pressio in aerem ordinarium nihil possit, nisi quatenus ejus gravitas [[gravitas nunc]] augetur. Nam si minuitur, tantum abest ut agat in aerem ordinarium, ut aer ordinarium, agat in externum, eumque repellat. Ergo Mercurius ab attolletur tantum, [[quantum]] quando pressio aeris externi augebitur, et descendet, quando pressio aeris externi minuetur. Hoc Baroscopio nihil est commodius, cum sufficiat magnitudo quanta hic expressa est, qualis portabilis est manui [[manui includi potest]] et huc illuc ferri potest sine ullo effluxionis metu. [[Cumque]] [[Adde quod]] Potest loco Mercurii liquor alius quilibet adhiberi, neque enim pondus quicquam ad rem pertinet. Quia non inter ab et aerem externum, sed inter aerem externum bd et ultra, internumque ac aequilibrium est, pro cujus variationibus ab [[aeris statu]] externi statu pendentibus, ab in medio positum huc illuc fluctuat. Ergo adhiberi potest etiam corpus solidum tubo exacte aptatum. [[Sed]] [[Huic solido insistere aut huic]] Sed labor a solido hic major duratio minor, commoditas nulla. Satius ergo liquidum retinetur. Huic liquido ab innatare potest virunculus digito [[notas]] numeros in Tubo per scalam descriptos designans.
+
+---
+Additions:
+<<imo plura>>
+<<nova>>
+<<ad usum percommodum>>
+<<externi>>
+<<aeque ut commune>>
+<<imo corpore alio exacte adaptato solido liquidove quocunque>>
+<<scilicet>>
+<<internus>>
+<<ca>>
+<<nihil simplicius>>
+<<a solido ~>>
+<<duratio minor>>
+<<per scalam>>
+<<Divisio Baroscopii exacta. Attollere Expurgatio aeris per Mercurii descensum>>
+<<manui: imo>>

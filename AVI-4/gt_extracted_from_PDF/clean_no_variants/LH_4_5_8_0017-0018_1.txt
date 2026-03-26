@@ -1,0 +1,151 @@
+COUTURAT, Opusc. et fragm., 1903, S. 66–70.
+quoddam non animal est rationale.
+Ergo L
+propositiones erg. L
+April. 1679. No. 4.
+Calculiuniversalisinvestigationes
+Ad calculum universalem constituendum inveniendi sunt characteres pro terminis
+quibusque, ex quibus postea inter se junctis statim cognosci queat propositionum ex
+terminis conflatarum veritas.
+Commodissimos characterum hactenus invenio esse Numeros. Sunt enim facile
+tractabiles omnibusque rebus accommodari possunt, et certitudinem habent.
+Numeri characteristici cujusque dati Termini ita fient, si numeri characteristici
+terminorum ex quibus dati termini notio constituitur inter se multiplicentur,
+productumque sit numerus characteristicus termini dati.
+Itaque in omni propositione universali affirmativa vera, necesse est Numerum
+characteristicum subjecti dividi posse exacte per numerum characteristicum praedicati.
+Ita omne aurum est metallum. Item omne Triangulum est trilaterum; hoc enim dicit
+tantum hujusmodi propositio praedicatum inesse subjecto, adeoque et numerum
+characteristicum praedicati inesse numero characteristico subjecti. Inerit autem modo
+dicto, id est ut multiplicantes insunt producto per multiplicationem, seu, ut divisores
+insunt dividendo. Nam productus per aliquam multiplicationem semper per producentem
+exacte dividi potest.
+Porro termini sunt vel positivi vel negativi. Exempli causa Terminus positivus est
+homo; negativus non homo. Fieri potest, ut terminus a parte rei positivus sit negative
+expressus, ut infinitum (quod idem est ac absolute maximum), item ut negativus sit
+positive expressus, ut peccatum, quod est anomia.
+Te rminicontradictorii sunt, quorum unus est positivus alter negativus hujus
+positivi, ut homo et non homo. De his regula observanda est: si duae exhibeantur
+11 vera erg. L
+22, ut... anomia erg. L
+termini str. Hrsg. dati Termini L
+18 exacte erg. L
+infinitum L
+20 a parte rei erg. L
+12 exacte erg. L
+propositiones ejusdem praecisesubjecti singularis, quorum unius unus terminorum
+contradictoriorum alterius alter sit praedicatum, tunc necessario unam propositionem
+esse veram et alteram falsam. Dico autem: e j u s d e m praecisesubjecti, exempli
+causa hoc aurum est metallum, hoc aurum est non-metallum.
+Haec porro unica Propositio (nempe harum duarum B est A et B est non A una est
+vera, altera falsa) continet in se has quatuor propositiones:
+I. Si vera propositio est B est A, tunc falsa propositio est B est non A.
+II. Si vera propositio est B est non A, tunc falsa propositio est B est A.
+III. Si falsa propositio est B est A, tunc vera propositio est B est non A.
+IV. Si falsa propositio est B est non A, tunc vera propositio est B est A.
+Id est generaliter si propositionis conditionalis terminus unus sit una propositio et
+unum attributum propositionis, erit terminus alter altera propositio et alterum attributum.
+Propositiones scilicet sunt B est A et B est non-A, earum vero attributa sunt: vera
+propositio, falsa propositio.1
+1 Definiendo falsam propositionem quae vera erit si pro praedicato ejus sumatur
+Si vera est propositio haec: B est A, tunc vera erit haec: B est non non A.
+terminus negativus. Haec orientur ex prioribus:
+II. Si vera haec propositio est B est non A, tunc vera propositio est haec: B est non A,
+quaeestidentica.
+III. Si vera est propositio haec: B est non A, tunc vera propositio est B est non A,
+rursusidentica.
+IV. Si vera propositio est B est non-non A, vera propositio est B est A.
+Te rminicontradictorii sunt, quorum si uni praefigitur non, inde fit alter. Hinc
+sunt duo tantum, et non non A est idem quod A.
+Propositiovera est cujus praedicatum continetur in subjecto seu ei inest. Hoc
+est si in locum quorundam terminorum substituentur aequipollentes seu ii ex quibus
+2 necessario erg. L
+Episcopus Romanus. Aut si dicam Omnis homo est doctus. Omnis homo est non doctus. Imo hic patet me
+propositiones. I. SiquidestA, falsumestquodsitnonA. Et siquidestnon - A falsum gestr.
+propositiones. L
+12 propositionis erg. L
+27–S. 219.23 seu
+Falsa autem propositio idem est quod non-vera. Ita ut hi duo termini verum et
+falsum sint contradictorii. Unde etiam ex quibusdam harum propositionum demonstrari
+possunt caeterae. Possumus et altius assurgere et sumamus exempli causa tantum hanc:
+SipropositioB est Aestvera, tuncpropositioB est non Aestfalsa,
+quam in se replicabimus.
+Et quoniam id ipsum Haec propositio B est A rursus est subjectum propositionis, et
+praedicatum est vera. Hinc loco subjecti Haec propositio: B est A scribemus β,, et loco
+praedicati vera scribemus α. Et quia falsum est idem quod non-verum (ex definitione
+Sipropositio β est α est v e r a, tuncpropositio β est n o n - α est f a l s a 10
+id est
+(β) PROPOSITIO EST
+SI PROPOSITIO HAEC EST
+(α) VERA
+TUNC PROPOSITIO HAEC
+(β) PROPOSITIO EST
+(non-α) FALSA
+sive, ut vulgarius loquar, si verum est propositionem aliquam esse veram, falsum est eam 20
+[esse] falsam. Id est rursus contrahendo: si propositio est vera, falsum est quod sit falsa.
+Si propositio est vera, tunc haec alia propositio (propositio est vera) est vera.
+componuntur ostenditur terminos simul aequipollentes praedicato omnes reperiri inter
+terminos aequipollentes subjecto.
+Propositiononvera seu falsa est ubi id non fit.
+replicabimus. erg. L
+propositio L
+23 simul erg. L
+25 id erg. L
+22 propositio (haec gestr.
+22 alia erg. est str. Hrsg. propositio L
+5 quam...
+In omni propositione universali affirmativa continetur praedicatum in subjecto,
+adeoque dividi potest numerus characteristicus subjecti per numerum characteristicum
+praedicati.
+In omni propositione particulari affirmativa dividi potest numerus characteristicus
+subjecti, per alium numerum multiplicatus, per numerum characteristicum praedicati;
+ideo semper procedet propositio aliqua particularis affirmativa in terminis qui sunt pure
+affirmativi et componuntur ex pure affirmativis, quia tunc nulla unquam oritur
+incompatibilitas.
+Negationem alicujus termini, ut non-homo, non possum commode exprimere per
+signum minus, quia id afficit totum terminum, quod hic esse non debet. Nam cum dico
+doctus non-prudens, speciatim dico esse doctum sed non prudentem, possem quidem, sed tunc non tantundem dico.
+dicere non,doctus-prudens
+Si dicam: doctus non-prudens non-justus, non possumus inde facere: +d, −p, −j,
+fieret enim +dpj.
+Posset numero vel literae signum praefigi quale radicis quadraticae est. Nam termini
+incompatibiles possunt exprimi quodammodo per numeros incommensurabiles, ut a et
+a. Estque haec similitudo quod non-non dat affirmationem, ita
+Verum in eo hic est discrimen, nam potius id significat
+a dat a.
+a esse a, nam etsi hic
+componas injustum injustum non inde facies justum.
+Si unus sit integer, alter ejus fractus, erunt incompatibiles, nam in se invicem ducti
+evanescent, sed quomodo inde judicabimus propositionem impossibilem, an quia quod
+inde oritur non amplius dividi potest per ullum eorum? Ita certe non poterit, nisi inde
+faciendo novum fractum. Porro si velimus scire an negativus insit alicui termino
+dividamus terminum per ipsum negativum, prodibit contradictorius negativi, seu
+numerus cui inest affirmativus. Itaque patet non procedere divisionem.
+U. A. 2Omn. H est A, ergo H aequ. rA.
+ergo rA aequ. vH.
+P. A. Qu. A est H,
+Possumus simpliciter pro U. N. adhibere
+U. N. Null. H est B,
+ergo yH inaequ. rB.
+P. N. Qu. A non est H, ergo H inaequ. rA.
+doctus L
+Sed ut in numeris rem exprimamus, consideremus non-Homo significare quidvis
+praeter hominem. Videtur autem ille esse terminus unitatis qui idem quod terminus Entis
+seu cujuslibet,
+Non homo erit y – H
+Omnis homo est non Lapis, id est:
+non-L
+aequ.
+Qu. A est non H.
+Ergo rA
+non-H 0
+non-y
+Itaque f dat terminum primo incompatibilem, qui est in homine ejusque
+contradictorium in lapide.
+An sic commode pro numeris: Omnem numerum negatum separabimus ab alio per
+signum non-, ut doctus non-prudens non-justus scribemus d non pj, et si sit solum
+imprudens injustus scribemus: 1 non pj. Si jam rursus negetur iste terminus doctus
+non-justus non prudens, patet fieri: justum prudentem indoctum et scribemus pj non d,
+quod et ita non miscemus terminos negatos affirmatis, et sciemus divisores omnes
+numeri de quo agitur esse negatos. Debent autem semper aequari negati negatis, affirmati
+[April 1679]

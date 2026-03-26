@@ -1,0 +1,57 @@
+Initia ScientiaeGeneralis, ubi de Instauratione et Augmento Scientiarum, quae
+continentur, palpabilibus notis dijudicandae veritatis, et filo certo artis inveniendi, quibus
+si uti velint homines, demonstratur ad humanam felicitatem plus intra paucos annos
+profici quam ut nunc fit multorum seculorum labore, et posse nosmet ipsos si velimus
+gustare laborum nostrorum fructus, cum hactenus soli posteritati
+laboraverimus.Accessere Specimina Scientiae Generalis specialibus applicatae, quae
+asserta autoris etiam apud illos qui de rebus nonnisi ab eventu judicant credibiliora
+I. MathematicaGeneralis, de Magnitudine sive Quantitate, et Similitudine
+sive qualitate, determinandis, qua Numerorum tam certorum quos Arithmetica tradit,
+quam incertorum quibus Algebra occupatur, calculus omnis novis artibus perficitur,
+absolvunturque quae hactenus visa non sunt in potestate.
+II. Geometria, in qua Magnitudo et Similitudo situi applicantur, ostenditur autem
+hactenus exiguam tantum hujus scientiae partem esse absolutam, qua problemata modo
+illa solvuntur, quae possunt revocari ad Aequationes Algebraicas; in quibus nempe
+rectarum tantum magnitudo datur aut quaeritur. Cum tamen pulcherrima pleraque
+problemata quae maximi sunt usus in re Mechanica, Aequationes Algebraicas
+7 Augmento omnium gestr. Scientiarum L
+11 f. posteritati (1) laboremus. (2)
+12–15 specialibus applicatae,... autoris etiam... rebus (1) ab effectu ju (2) non nisi..... sunt erg. (a) Geometria et Mechanica quae sunt (b) I. (aa) Analysis (bb) MathematicaL
+16 qua et gestr. Numerorum L
+plus intra paucos annos praestari posse, quam a (2) ad L
+laboraverimus. L. judicant erg.
+15 de (1) Magnitudine et Similitudine (2) Quantitat (3) Magnitudine L
+17 f. calculus (1) omnis erg. ad paucas observationes reducitur; (2) omnis... potestate. L
+19 applicantur, (1) et ostenditur pulcherrima problemata (2) ostenditur autem erg. L
+scilicet tantummodo (2) modo erg. L
+21 quibus (1) scilicet (2) nempe erg. L
+quaeritur aut (2) datur L
+22 f. pleraque erg. problemata (1) maximique (2) quae maximi sunt L
+transcendant (2) Aequationes L
+itaque incognita hactenus Geometriae Transcendentis Elementa hic traduntur; ut nunc
+primum asseri possit omne problema Geometricum esse in potestate. Modum tamen
+optimas semper constructiones inveniendi, autor hic non promittit. Postulat enim ea res
+novum quendam calculum Geometricum ab hactenus recepto penitus differentem, cui
+constituendo aliud tempus destinatur.
+III. Mechanica praeter magnitudinem et situm considerat vim seu causam
+mutationis, hujus Scientiae Elementa vera quae satis late pateant hactenus nuspiam
+extantia ex unico principio verae Metaphysicae ita demonstrantur, ut imposterum
+problemata ejus omnia quae hactenus physica sunt habita, revocari possint ad puram
+Geometriam. Explicatur hic Motus projectorum considerata simul medii resistentia,
+corporum concursus, refractiones et reflexiones, item vis Elastica, multaque alia in
+quibus hactenus multipliciter erratum est. Addita sunt Memorabilia quaedam Inventa
+IV. Tentamen Physicum in quo exhibetur primum qualitatum inquisitio, quibus
+exacte intellectis et ad mechanica principia revocatis, etiam specierum, quippe quae
+qualitatibus dignoscuntur, interior natura cognosci potest. Deinde exponuntur ea quae de
+systemate nostro, et his quae in ipso percipiuntur certo asserere licet. Denique
+subjiciuntur initia physicae conjecturalis, seu Hypothesis, qua interea uti possumus dum
+alia melior inveniatur, vel haec ipsa corrigatur.
+3 promittit. (1) Con (2) Postulat L
+constituendo (a) plus temporis requiritur (b) aliud L
+11 corporum... reflexiones, erg. L
+7 vera (1) satis late patientia (2) quae... pateant erg. L
+10 Geometriam. (1) Explicatae verae Leges projectorum (2) Explicatur L
+14 quo (1) expli (2) exhibantur (3) exhibetur L
+8 principio (1) Metaphysico (2)
+4 f. cui (1) constituendo absolvendo erg. et publicando (2)
+7 mutationis, (1) ubi (2) hic ergo (3) ubi nos (4)

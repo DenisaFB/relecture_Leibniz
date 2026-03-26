@@ -1,0 +1,110 @@
+Übersetzungen: 1. Nouvelles de la Republique des Lettres, September 1686, S. 996–999. 2.
+BOROVSKOGO, in Socˆinenija v cˆetyrech tomach, I, hrsg. v. V. V. SOKOLOV, Moskau 1982,
+G. G. L. BrevisdemonstratioerrorismemorabilisCartesiietaliorum
+circalegemnaturae, secundumquamvoluntaDeoeandemsemper
+quantitatemmotusconservari ; quaetinremechanicaabutuntur.
+Communicata in litteris d. 6. Jan. 1686. datis.
+Complures Mathematici cum videant in quinque machinis vulgaribus celeritatem et
+molem inter se compensari, generaliter vim motricem aestimant a quantitate motus, sive
+producto ex multiplicatione corporis in celeritatem suam. Vel ut magis geometrice
+loquar, vires duorum corporum (ejusdem speciei) in motum concitatorum, ac sua mole
+pariter ac motu agentium, esse dicunt in ratione composita corporum seu molium, et
+earum quas habent velocitatum. Itaque cum rationi consentaneum sit, eandem motricis
+potentiae summam in natura conservari: et neque imminui, quoniam videmus nullam vim
+ab uno corpore amitti, quin in aliud transferatur; neque augeri, quia vel ideo motus
+perpetuus mechanicus nuspiam succedit, quod nulla machina, ac proinde ne integer
+21 (1) Plerique (2) Complures erg. L
+25 seu molium erg. L
+quoniam (2) quod erg. L
+26 earum quas habent erg. L
+27 et neque imminui erg. L
+24 f. (ejusdem... agentium erg. L
+suam vim intendere potest sine novo externo impulsu; inde factum est ut Cartesius, qui
+vimmotricem, et quantitatemmotus pro re aequivalente habebat, pronunciaverit
+eandem quantitatem motus a Deo in mundo conservari.
+Ego vero, ut ostendam quantum inter haec duo intersit, suppono, primo corpus
+cadens ex certa altitudine acquirere vim eousque rursus assurgendi, si directio ejus ita
+ferat, nec quicquam externorum impediat: exempli causa, pendulum ad altitudinem ex
+qua dimissum est, praecise rediturum esse, nisi ae¨ris resistentia similiaque impedimenta
+exigua alia nonnihil de vi ejus absorberent, a quibus nos quidem nunc animum
+abstrahimus. Suppono item secundo, tanta vi opus esse ad elevandum corpus A unius
+librae usque ad altitudinem CD quatuor ulnarum,
+quanta opus est ad elevandum corpus B quatuor
+librarum, usque ad altitudinem EF unius ulnae.
+Omnia haec a Cartesianis pariter ac caeteris
+conceduntur. Hinc sequitur, corpus A delapsum ex
+altitudine CD, praecise tantum acquisivisse virium,
+quantum corpus B lapsum ex altitudine EF. Nam
+corpus (A) postquam lapsu ex C pervenit ad D, ibi
+habet vim reassurgendi usque ad C, per suppos. 1,
+hoc est, vim elevandi corpus unius librae (corpus
+scilicet proprium) ad altitudinem quatuor ulnarum.
+Et similiter corpus (B) postquam lapsu ex E
+pervenit ad F, ibi habet vim reassurgendi usque ad
+E, per suppos. 1, hoc est vim elevandi corpus quatuor librarum (corpus scilicet proprium)
+ad altitudinem unius ulnae. Ergo per suppos. 2, vis corporis (A) existentis in D, et vis
+corporis (B) existentis in F, sunt aequales.
+Videamus jam, an et quantitas motus utrobique eadem sit. Verum ibi praeter spem
+discrimen maximum reperietur. Quod ita ostendo. Demonstratum est a Galilaeo,
+2 pro (1) eadem re (2) re aequivalente L
+7 nisi (1) altitudo (2) ae¨ris L
+8 a... abstrahimus erg. L
+21 altitudinem (1) duarum (2) quatuor erg. L
+duarum (2) quatuor erg. L
+10 CD erg. (1) duarum (2) quatuor erg. L
+16 tantum acquisiisse L
+18 (A) (1) ubi (2) postquam erg. L
+11 B (1) duarum (2) quatuor
+22 (B) (1) ubi (2) postquam erg. L
+Discorsi e dimostrazioni matematiche, Leiden 1638, III, theor. II, prop. II.
+celeritatem acquisitam lapsu CD, esse duplum celeritatis acquisitae lapsu EF.
+Multiplicemus ergo corpus A quod est ut 1, per celeritatem suam quae est ut 2,
+productum seu quantitas motus erit ut 2; rursus multiplicemus corpus B quod est ut 4, per
+suam celeritatem quae est ut 1, productum seu quantitas motus erit ut 4. Ergo quantitas
+motus quae est corporis (A) existentis in D, est dimidia quantitatis motus quae est
+corporis (B) existentis in F, et tamen paulo ante vires utrobique inventae sunt aequales.
+Itaque magnum est discrimen inter vim motricem et quantitatem motus, ita ut unum per
+alterum aestimari non possit, quod ostendendum susceperamus. Ex his apparet, quomodo
+vis aestimanda sit a quantitate effectus, quem producere potest, exempli gratia ab
+altitudine ad quam ipsa corpus grave datae magnitudinis et speciei potest elevare, non 10
+vero a celeritate quam corpori potest imprimere. Non enim dupla sed majore vi opus est
+ad duplam eidem corpori dandam celeritatem. Nemo vero miretur in vulgaribus
+machinis, vecte, axe in peritrochio, trochlea, cuneo, cochlea et similibus aequilibrium
+esse, cum magnitudo unius corporis celeritate alterius, quae ex dispositione machinae
+oritura esset, compensatur; seu cum magnitudines (posita eadem corporum specie) sunt 15
+reciproce ut celeritates; seu cum eadem alterutro modo prodiret quantitas motus. Ibi enim
+evenit etiam eandem utrobique futuram esse quantitatem effectus, seu altitudinem
+descensus aut ascensus, in quodcunque aequilibrii latus motum fieri velis. Itaque per
+accidens ibi contingit, ut vis a motus quantitate possit aestimari. Alii vero casus dantur,
+qualis is est quem supra attulimus, ubi non coincidunt.
+Caeterum cum nihil sit probatione nostra simplicius, mirum est vel Cartesio vel
+Cartesianis, viris doctissimis, in mentem non venisse. Sed illum quidem nimia fiducia sui
+ingenii in transversum egit, hos alieni. Nam Cartesius, solito magnis viris vitio, postremo
+factus est paulo praesidentior. Cartesiani autem non pauci vereor ne paulatim
+Peripateticos complures imitari incipiant, quos irrident, hoc est, ne pro recta ratione et
+natura rerum, consulendis magistri libris assuefiant.
+1 esse (1) quadruplam (2) duplam erg. L
+2 ut (1) 4 (2) 2 erg. L
+11 quam (1) tali (2) corpori L
+5 est (1) dupla (2) dimidia erg. L
+(2) seu... erit ut (a) 4 (b) 2 erg. L
+3 productum (1) erit 4.
+14 f. quae... esset erg. L
+15 magnitudines (1) sunt reciproc (2) (positis (3) (posita L
+eadem erg. est quantitas (2) eadem utrobique est quantitas motus (3) eadem... motus L
+etiam eadem utrobique futura esset quantitas effectus seu altitudo (2) evenit... altitudinem L
+19 f. Alii... coincidunt. erg. L. vitio erg. L
+19 a (1) celeritate aestimetur. (2) motus L
+25 Peripateticos (1) nonnullos (2) complures erg. L
+11 sed (1) majore (2) minore (2) majore erg. L
+7 f. ita... possit; erg. L
+Dicendum est ergo, vires esse in composita ratione corporum (ejusdem gravitatis
+specificae seu soliditatis) et altitudinum celeritatis productricium, ex quibus scilicet
+labendo tales celeritates acquiri potuissent; vel generalius (quia interdum nulla adhuc
+celeritas producta est) altitudinum proditurarum: non vero generaliter ipsarum
+celeritatum, utcunque id plausibile prima specie videatur, et plerisque sit visum; ex quo
+complures errores nati sunt, qui in scriptis mathematico-mechanicis R R. P P.
+HonoratiFabri et ClaudiidesChales, itemque Joh. Alph. Borelli et aliorum
+virorum, caeteroqui in his studiis praestantium, deprehenduntur. Quin et hinc factum
+puto, quod nuper Regula Hugeniana circa centrum oscillationis pendulorum, quae
+verissima est, a nonnullis viris doctis in dubium fuit vocata.

@@ -1,0 +1,54 @@
+COUTURAT, Opusc. et fragm., 1903, S. 253–255.
+ConversioLogica
+Ex hujusmodi schemate ostendi possunt omnes conversiones:
+Non Animal
+Animal
+Homo (omnis)
+Omnis homo est animal.
+Ergo quicquid est non animal est non-homo.
+Patet ex schemate. Nam quia omnis homo sub animali, ergo nullus utique sub
+non-animali.
+Quoddam animal est homo.
+Ergo quidam homo est animal.
+In schemate patet antecedens, quia homo est species animalis, id est quoddam
+animal. Patet et consequens, quia utique de homine animal praedicatur.
+27 quia
+Quoddam animal non est homo.
+Ergo quidam homo non est animal.
+Non sequitur.
+Omnis id est nullus non.
+Omne A est B, id est, omnia exempla ipsius A continentur sub exemplis ipsius B.
+Jam eadem exempla non possunt simul sub exemplis B et sub exemplis ipsius non-B
+contineri. Ergo, omnia exempla ipsius A non continentur sub exemplis ipsius non-B.
+Syllogismus itaque erit talis:
+Omne B non est non B.
+A est B.
+vel quoddam
+vel quoddam
+A non est non-B.
+Pro non-B scribamus C, et fiet propositio:
+Omne A non est C.
+omne C non est A, id est
+omne non-B non est A, seu:
+nullum non-B est A, seu
+quicquid non est B [non] est A
+(: nota aliud dicere: nullum-non B aliud nullum non-B :).
+Hinc patet si datur propositionis universalis negativae conversio simpliciter dari
+universalis affirmativae conversionem per contrapositionem, et contra.
+Jam Nullum A est C. Ergo nullum C est A demonstratur hoc modo: Si falsum est
+nullum C esse A, ergo aliquod C est A. Ergo aliquod A est C, cum tamen assumserimus
+nullum A esse C. Vel sic: Nullum A est C. Ergo non, quoddam A est C. Ergo non,
+quoddam C est A. Ergo nullum C est A. Probanda ergo sola conversio simplex
+particularis affirmativae. Quoddam A est C. Ergo quoddam C est A. Quod per se patet,
+idem enim est ac si diceremus dari exemplum commune ipsius C et ipsius A.
+Per propositiones particulares cuncta possunt absolvi:
+Omne A est B, id est non, quoddam A non est B, seu falsa propositio ista. Similiter
+17 Omne quoddam gestr. A L
+32 ista.
+DE NEGATIONE
+Nullum A est D, id est non, quoddam A est D.
+Hinc assumto [Quoddam] A est D. Ergo [quoddam] D est A cuncta demonstrantur.
+Negatio particularis negativae est affirmatio universalitatis. Hinc ex meris
+particularibus concluditur sic: quoddam A non est B est falsa, quoddam A est A est vera,
+Ergo quoddam A est B est vera.
+72. DE NEGATIONE

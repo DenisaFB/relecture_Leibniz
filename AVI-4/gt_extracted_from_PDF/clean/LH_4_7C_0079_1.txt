@@ -1,0 +1,29 @@
+Extensum est continuum cujus partes sunt coexistentes.
+Axioma 1. Omne extensum A est in alio extenso B, in quo est adhuc aliud
+(extensum) C, quod non est in ipso A. Seu omne Extensum est in ampliore extenso.
+Axioma 2. Duo quaelibet extensa sunt in eodem extenso.
+Axioma 3. Si A sit in B, et B in C erit A in C.
+Axioma 4. Si omne quod est in A sit in B ipsum A est in B, et contra.
+Punctum est in quo nihil est praeter ipsummet, ipsum autem est in extenso.
+Ergo per axiom. 2. et 4. duo quaelibet puncta sunt in eodem extenso.
+Recta est via simplicissima transiens per duo puncta. Unde ex duobus punctis
+determinata, itemque pars rectae hujus, cujus termini sunt duo puncta, est via inter duo
+puncta, omnium brevissima. Sufficere nobis potest quod extensum est continuum habens 15
+partes coexistentes, nam Ax. 1. ex eo demonstrari potest, quod nulla est ratio finiendi, et
+cum enim in ipso B simile possit assumi A, illa est ratio cur non detur tertium C, quod sit
+ad B ut B ad A, et quaecunque coexistentia extensa esse partem ejusdem extensi, ex eo
+demonstratur quod omnia sympathetica sunt, ergo per media omnia item
+5 (1) Punc (2) Extensum L
+5 est (1) cujus (2) totum (3) continuum L
+5 f. coexistentes. (1)
+Axioma: (a) est (b) quicquid est in uno extenso, est in aliquo (aa) in quo est (bb) Extenso, in quo etiam est
+quod est in alio extenso (2) Axioma 1. L
+8 in (1) communi (2)
+8 Axioma 2. (1) Si unum sit (2) Duo L
+11 Punctum est (1) Extensum, (2) in quo quicquid est (3) idem (4) quod in extenso est,
+sed ita ut (a) quod in (b) nihil aliud sit in ipso (5) in L
+16 f. et (1) ax. 2. (2) cum L
+14 pars (1) viae cujus termini (2) rectae L
+18 coexistentia (1) habere (2)
+18 et (1) similia (2) quaecunque L
+157. PRINCIPIUM SCIENTIAE HUMANAE

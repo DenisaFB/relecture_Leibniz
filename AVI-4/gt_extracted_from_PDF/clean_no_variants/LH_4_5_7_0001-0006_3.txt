@@ -1,0 +1,366 @@
+COUTURAT, Opusc. et fragm., 1903, S. 30–41.
+ConsiliumdeEncyclopaedianovaconscribendamethodoinventoria
+Saepe mecum cogitavi, homines multo quam sunt feliciores esse posse, si quae in
+potestate habent, etiam innumerato haberent, ut cum opus est uti possent. Nunc
+vero nescimus ipsi opes nostras, similes Mercatori qui libros rationum nullos confecit,
+aut Bibliothecae quae indice caret. Sed et, uti nunc agimus, seris nepotibus fortasse
+proderimus, ipsi laborum nostrorum fructum non capiemus; sine fine disputamus, sine
+fortasse L
+DE ENCYCLOPAEDIA NOVA CONSCRIBENDA
+congerimus, raro aliquid demonstrando terminamus, aut in repertorium referimus; vix
+unquam utimur studiis nostris. Et verendum est si sic pergimus, ne aliquando
+immedicabile reddatur malum, et studiorum taedio barbaries reducatur, cum nimia rerum
+librorumque multitudo omnem delectus spem adimet, et solida ac profutura mole
+inanium obruentur.
+Qua ratione occurri posset tanto malo et saepe meditatus sum, et egregios viros
+consului, quorum aut colloquiis frui licuit, aut scriptis: et cum tandem aliquod mihi
+viderer remedium deprehendisse quod et maxime compendiosum, et efficax et in
+privatorum aliquot potestate esset, et sumtibus exiguis transigeretur; praeterea arcana
+quaedam artis Inventoriae divino munere mihi obtigissent, illustrium admodum
+speciminum experimento comprobata, quae ubi producam in publicum, spei majoris non
+contemnendos fidejussores fortasse dedisse videbor: ideo ausus sum viros aliquot doc-
+trina et optima in rempublicam voluntate praestantes ad communem operam invitare.
+Volo autem omnia ex ipsorum non minus sententia transigi quam mea; neque aliam
+mihi quam hortantis personam sumo; caetera pari conditione futurus, operamque illis
+eandem offerens, quam ab ipsis desidero. Itaque ut per gradus eamus, consilia arbitror
+communicari primum debere, ut Societatis Leges, quae e re videbuntur quam primum
+constituantur, earumque executio maturetur.
+Consilii autem sive Desiderii mei summam hic delineabo, quam intelligentium
+judiciis summitto. De Modo autem dicam paulo distinctius, conferamque cum illis, qui
+instituti rationem probabunt, auxiliaque mutua pollicebuntur.
+2 pergimus, ut str. Hrsg. ne L
+3 et... reducatur erg. L
+erg. L
+quae L
+summam erg. L
+SummaConsilii est Notitiarum humanarum potissimarum dudum cognitarum
+vitae utilium ordinatio adinveniendum apta. Nam quemadmodum in numerorum
+progressionibus, tabula quadam condita aliquousque, apparere solet modus eam sine ullo
+labore continuandi (ut si numeros quadratos, seu qui fiunt numerorum multiplicatione in
+seipsos, aliquis ordine quaerat, et in tabula exhibeat, apparebit mox modus Tabulam
+continuandi facillimus, per solam additionem sine multiplicatione ulla,
+Numeri
+Quadrati
+Differentiae seu impares
+Nam si numerum imparem 15 ordine respondentem quadrato ut 49 addas, habebis
+numerum quadratum sequentem 64 sola additione, nec opus est numerum 8 in se
+multiplicare, idemque est in numeris altioribus; ubi difficilior multiplicatio est, ac
+proinde magnum habet usum compendium hoc per additionem.) Eodem modo Inventis in
+quolibet genere rerum velut in Tabula recte ordinatis patebit modus inventa continuandi,
+id est inveniendi nova longe facilior, quam si quis eadem singulatim et a serie sua velut
+avulsa invenire tentaret.
+Quoniam autem res maxime in conspectu sunt et velut in Tabula apparent cum nude
+et simpliciter proponuntur, exutae omni superflua mole, ideo conscribenda erit haec
+Encyclopaedia more mathematico per propositiones accurate et nervose conceptas,
+quibus tamen subinde scholia subjicere licebit illustrandi causa, in quibus major erit
+exspatiandi libertas. Certum est enim non mathematica tantum, sed et alia omnia per
+theses quasdam sive enuntiationes distincte tractari posse.
+Quaerendae sunt quoad ejus fieri potest propositiones plerumqueverae, quarum
+distinguendi gradus; sed si fieri potest, in primis adhibendae Universales, et ex
+10 15 erg. L
+12 numeris erg. L
+11 numerum erg. quadratum L
+1 dudum cognitarum erg. L
+5 apparebit
+12 f. ubi
+in quolibet genere rerum erg. velut in Tabula L
+14 inventa facilius erg. u. gestr. continuandi L
+17 et... apparent erg. L
+20 subinde erg. L
+22 posse. Positiones illae disponendae sunt ordineinventionis, eo nimirum quo
+22 distincte erg. L
+una ex alia facile erg.
+incipiendo a simplicioribus, atque inde ad compositas progrediendo, quanquam enim aliquando casu contingere
+non contingit, si quis naturali ordine a simplicibus cognitionibus (neque enim de rerum sed cognitionum
+simplicitate sermo est erg. ad compositas ascendendo progrediatur. gestr. Quaerendae L
+adhibendae erg. L
+15, id... nova erg. L
+in primis erg.
+DE ENCYCLOPAEDIA NOVA CONSCRIBENDA
+universalibus illae praeferendae sunt, quae sunt subjecto reciprocae, illarum enim
+maxime usus est et in analysi, cum eae quae universales quidem non tamen reciprocae
+philosophandi, quas tulit Aristoteles, et Ramistae olim inculcabant.
+Propositiones in una quaque Scientia sunt vel principia vel conclusiones.
+Principia sunt vel Definitiones, vel Axiomata vel Hypotheses, vel Phaenomena.
+Ex quibus Definitiones per se quidem sunt arbitrariae, usui tamen accommodari et
+communi Sociorum consensu probari debent, ne a diversis diversimode sumta in toto
+corpore confusionem pariant. Axiomata sunt, quae ab omnibus pro manifestis
+habentur, et attente considerata ex terminis constant. Hypotheses sunt propositiones
+quae magnum habent usum, successuque ac conformitate conclusionum aliunde notarum
+ex ipsis pendentium firmantur; nondum tamen a nobis demonstrari satis exacte possunt,
+ideoque interim assumuntur. Phaenomena sunt propositiones quae per experientiam
+probantur, sed si experientia non sit factu facilis aut a nobis ipsis facta non sit, testibus
+probanda est: Et ab experimentis dubiis abstinendum, nisi cum magni sunt momenti, et 15
+tunc admonendum est, quem fidei gradum habeant.
+Conclusiones sunt vel observationes vel theoremata vel problemata.
+inveniuntur per ratiocinationem ex quibuscunque principiis, sed enunciant tantum quid
+sit verum: at problemata praeterea referuntur ad praxin, ubi notandum est, omnia
+denique caetera dirigi debere ad problemata seu praxes vitae utiles.
+Ordo positionum debet esse Mathematicus, sed tamen diversus ab Euclidaeo. Nam
+Geometrae accurate quidem sua demonstrant, sed animum cogunt magis quam illustrant,
+in quo quidem admirationem sibi majorem pariunt, dum invito Lectori assensum
+extorquent, eumque arte improvisa circumveniunt, sed memoriae atque ingenio Lectoris 25
+non satis consulunt, quia rationes causasque naturales conclusionum quodammodo
+occulunt, ut non facile agnoscatur modus, quo sua inventa obtinuere. Cum tamen in
+unaquaque scientia illud sit potissimum, nosse non tantum conclusiones earumque
+demonstrationes, sed et nosse inventorum origines, quas solas memoria retinere sufficit,
+quia ex illis
+gestr.
+Phaenomena. erg. Ex L
+17 vel problemata erg. L
+2 et erg. L
+〈tres〉
+15 f.
+caetera possunt proprio marte derivari. Itaque conjungi debent inventionis lux, et
+demonstrandi rigor, et cujusque scientiae Elementa ita scribenda sunt, ut lector sive
+discipulus semper connexionem videat, et quasi socius inveniendi, Magistrum non tam
+sequi quam comitari videatur, ita minus quidem admirabiles apparebunt scientiae, sed
+magis utiles erunt faciliusque poterunt promoveri. Sed ad tradendas, ad scribendas hoc
+modo scientias, opus est viris inveniendi capacibus et qui veras rationes tenent, scribere
+enim eas ita debent, quemadmodum si eas ipsi invenissent, quod non est cujusvis. Porro
+hinc patet etiam non fore necesse definitiones separatim praemitti atque axiomata, et
+phaenomena sive experimenta. Sed ea ita assumentur, ut primum naturali ordine
+meditandi eorum usus sese dabit.
+Propositionibus ordine inventorio dispositis subjiciantur Indices sive catalogi, in
+quibus inventa jam atque intellecta ad facilem usum atque combinationes instituendas
+velut in Tabulis ordinabuntur. Unde multa nova exurgent, de quibus alioqui non
+cogitassemus, et harmonicae quaedam apparebunt series, quarum filum sequendo ad
+majora aditus patebit. Haec lux etiam in Mathematicis desideratur, itaque quemadmodum
+aliae scientiae exemplo mathematicarum ad certitudinem eniti debent, ita vicissim
+mathematicarum asperitas blandiore quadam tractandi ratione caeterarum exemplo
+mitiganda est: ut simul et voluntati fidem extorqueamus, et animo causarum avido clare
+satisfaciamus.
+Adhibendae sunt ubique figurae sive schemata quatenus commode licet, verum
+unum hic observandum est, majoris ad perficiendas scientias momenti, quam quis facile
+sibi persuadeat. Nempe et propositiones et propositionum demonstrationes ita
+concipiendae sunt, ut totae legi atque intelligi possent etiamsi schemata abessent.
+necessarium est ad juvandam imaginationem. Sed prius necessarium est ad juvandam
+mentem,
+1 f. conjungi... et erg. cujusque L
+faciliusque L
+Sed... et qui semper gestr. veras... tenent erg.
+sive L
+desideratur L
+aliae L
+17 caeterarum exemplo erg. L,... fore erg. L
+DE ENCYCLOPAEDIA NOVA CONSCRIBENDA
+parandosque conceptus distinctos, atque animum ab imaginibus abducendum: ut
+discamus etiam invenire sine schematibus sola vi animi, et ut appareat demonstrationis
+efficaciam non pendere a figurarum ascriptarum delineatione. Eandem ob causam
+demonstrationes etiam sine calculo algebraico perfici debent, etsi enim ille summi sit
+usus, et a me maximi fiat, et in iis quae aliter extorquere non possumus necessarius sit,
+tamen abstinendum eo est, quotiescunque veritates naturali quadam ratione demonstrari
+possunt, quae per ipsas rerum ideas animum ducit. Itaque in constituendis Scientiae
+cujusque Elementis a calculo Algebraico est abstinendum. Sed cum Scientiam aliquam
+satis in potestate habemus, calculus postea egregie utilis est, ad ducendas inde
+consequentias, variosque casus atque applicationes et ad oblata quaevis quam minimo
+animi labore consequenda. Encyclopaedia ergo nostra ita scribenda est, ut enunciationes
+ac demonstrationes veritatum neque a Schematismis, neque a calculo, sed definitionibus
+axiomatis ac propositionibus praemissis pendeant. Adjicienda tamen sunt Schemata
+quidem ubique, quando id fieri potest, calculus vero algebraicus tunc tantum cum
+peculiarem habet elegantiam et utilitatem. Verum ut propositiones enuntiari ac
+demonstrari possint sine figuris saepe opus erit οÆ νοµατοποιειÄν ad evitandas
+circumlocutiones. In quo tamen claritas et commoditas semper spectanda est, ut
+nunquam sine magna necessitate atque usu nova aliqua nomina fingamus, et sicubi
+excogitanda sunt, sumamus quae communi verborum usui quoadlicet consentiant; ne
+dum compendium verborum quaerimus, obscuri fiamus.
+Scientiae in hanc Encyclopaediam referendae sunt omnes, quaecunque nituntur vel
+Ratione sola vel ratione et experientia, nempe quaecunque non pendent a voluntate
+cujusdam autoritatem habentis: Seponuntur ergo Leges divinae et humanae, quia sunt
+arbitrii; excluduntur autem nugatrices quaedam artes, quae non possunt revocari ad firma
+quaedam fundamenta. Conscribendae ergo sunt Methodo supra dicta potissimum
+Scientiae sequentes.
+5 f. sit erg. L
+19 usui facile gestr. quoadlicet L
+9 f. ducendas... ad erg. L
+Encyclopaedia L
+excogitanda erg. L
+nempe L
+Prima est Grammatica, seu arsintelligendi quae nobis in hujus Encyclopaediae
+corpore significabuntur. Itaque primum Grammaticarationalis tradenda est ad
+latinam ubique applicata et subinde aliarum linguarum exemplo illustrata: In qua tradetur
+Regularis Significatio omnium particularum et flexionum et collocationum. Ita ut
+significatio semper possit substitui in locum significati; nam ut exemplo utar, nominum
+casus semper eliminari possunt substitutis in eorum locum particulis quibusdam cum
+nominativo, ut patet ex linguis, in quibus nullae sunt nominum inflexiones nisi per
+particulas. Verba semper reduci possunt ad nomina adjecto tantum verbo est; Adverbia
+sunt ad verba ut adjectiva sunt ad nomina substantiva. Subjiciendae denique sunt
+significationes particularum donec perveniatur ad eas quae nulla explicatione eliminari
+possunt, qualia sunt est, et, non, earumque certus est constituendus numerus et ex his
+solis cum nominativo nominum casu junctis caeterae omnes possunt explicari. Quod
+opere ipso exhibendum est. Atque haec est vera Analysis characterum quibus genus
+humanum communiter in loquendo imo et in cogitando utitur. Respicienda autem est
+maxime Grammatica regularis minore Anomaliarum cura, quia haec Grammatica non
+tam ut lingua discatur, quam ut accurata fiat, verborum analysis, conscribenda est. Nam
+creberrimae in Logica illationes occurrunt, quae non ex principiis logicis, sed ex
+principiis Grammaticis, id est ex flexionum et particularum significatione sunt
+demonstrandae. Potest tamen haec Grammatica eadem opera ita accommodari, ut
+discentibus quoque mire prosit.
+Sequitur Logica, qua tantum hoc loco comprehendo Artem illationum, sive artem
+judicandi quae proponuntur, quae sumenda est ex usu hominum loquentium
+scribentiumque. Nimirum illationum modi qui ubique occurrunt in dicendo, digerendi
+sunt in classes, et ex simplicibus quibusdam derivandi sunt, ostendendo quomodo istae
+quam habent in usu vitae atque in autoribus, nihilo minus vim habeant, seu in forma
+concludant; et ex
+linguis erg. L
+8 Verba caetera erg. u. gestr. semper L
+initio erg. anomaliae, et Grammatica Latina tantum
+9–13 Subjiciendae... sunt erg.
+judicandi quae proponuntur erg. L
+ratiocinationes omnes gestr.
+25 f. ea forma gestr. quam L
+Usus L
+21 f. sive artem intelligendi et gestr.
+26 atque in autoribus erg. L
+14 utitur.
+DE ENCYCLOPAEDIA NOVA CONSCRIBENDA
+communi scholarum forma possint demonstrari. Usus autem hujus logicae erit, ut formae
+ratiocinandi magis compositae, perturbatae atque implicitae, quae in vita tamen crebro
+occurrunt, ad regulas revocentur, ex quibus compendio possint dijudicari, ne semper sit
+opus reductione in figuras modosque scholarum. Quemadmodum enim exercitati
+Arithmetici invenere sibi varia compendia seu calculandi formas, quae accurate
+concludunt, etsi non semper vulgari more tironum characteres ordinent; demonstrari vero
+merentur, ut sciamus nos illis tuto uti posse; ita Homines in dicendo cogitandoque
+exercitati, ex cogitatis quibusdam voculis sive particulis multa sibi ratiocinandi atque
+enuntiandi compendia paravere, quae non minus concludunt vi formae quam modi
+scholarum: debent tamen ex modis scholarum adhibita Grammatica rationali
+particularum illarum explicatrice, demonstrari, et quibusdam legibus vinciri, quibus
+observatis constet usum earum esse tutum.
+Tertia Ars est Mnemonica, seu ars retinendi et in memoriam revocandi quae
+didicimus, quae ars multis elegantibus utitur compendiis et inventis, quorum aliquando
+usus esse potest in vita. Inprimis autem portio ejus, ars reminiscendi scilicet, excoli
+debet, cujus ope nobis in memoriam revocamus [illa] quibus opus habemus, et quae in
+memoria nostra latent, sed non succurrunt. Aliud enim est retinere, aliud reminisci, nam
+eorum quae retinemus non semper reminiscimur, nisi aliqua ratione admoneamur.
+Quarta est To pica seu ars inveniendi, id est ars dirigendi cogitationes ad aliquam
+veritatem ignotam eruendam, vel media finis cujusdam reperienda. Huc pertinent loci
+dialectici, inventio Rhetorica, ars argutiarum, ars deciphratoria sive divinatoria, ac
+denique algebra, in quibus pulchra artis Topicae specimina adduntur quae nosse debet, is
+qui hanc artem tradere volet, non ut Algebram immisceat tractationi generali, sed ut inde
+regulas universaliores formet, quae tamen in scholiis illustrari possunt specialibus
+exemplis.
+5 seu...
+8 ex... particulis erg. L
+formas erg. L
+ändert Hrsg.
+8 f. atque enuntiandi erg. L
+16 illis L
+Quinta est arsformularia quae agit de eodem et diverso, simili ac dissimili, id
+est de formis rerum, abstrahendo tamen animum a magnitudine, situ, actione. Huc
+pertinent formulae formularumque comparationes, et ex hac arte pendent multae regulae
+quas Algebristae et Geometrae in usum suum transtulerunt, tametsi eae non tantum circa
+magnitudines sed et circa alias considerationes locum habeant.
+Sexta est Logistica, de toto et parte, sive de magnitudine in genere,
+rationibusque ac proportionibus, in quam incidit Quintum Euclidis Elementum, et magna
+pars Algebrae.
+Septima est Arithmetica, sive de distincta magnitudinum per numeros
+expressione.
+Octava est Geometria sive scientia de situ vel figuris. Haec utiliter separabitur in
+partes sequentes: Elementarem planam. Elementarem solidam. Conicam. Organicam.
+Transformatricem. Ubi sciendum est, Geometriam etiam Elementarem, nondum adhuc ita
+ut optandum erat, traditam esse. Huc autem Geodaesia referenda est, et pars
+Architecturaecivilis ac militaris, et To rnatoria et Te xtoria, omnes in
+quantum a materia abstrahuntur. Optica etiam pure Geometrica est paucis tantum
+assumtis phaenomenis e natura.
+Nona est Scientia de Actione et passione, nempe Mechanica sive de potentia et
+motu. Haec scientia physicam Mathematicae connectit. Neque hic agitur quomodo
+delineanda sint motuum, si continuari ponantur, vestigia: id enim pure Geometricum est;
+sed quomodo ex corporum conflictu motuum directiones et celeritates immutentur: quod
+per solam imaginationem consequi non licet, et sublimioris opus est scientiae. Hic ergo
+agendum est de statica, de structurarum firmitate, de balistica, de pneumaticis quibusdam
+et hydrostaticis, de velificatione, deque aliis mechanicae partibus, quorsum et
+Harmonicae pleraque referenda sunt.
+6 Logistica, seu ars gestr. de L
+Septima L
+Elementarem, erg. L
+18 nempe Mechanica erg. L
+proprietatibus. Hic tradenda est Astronomia physica, quae non tantum Phaenomena explicet, assumtis
+pristinam et futuram formam globi nostri, origines montium et fluminum, aliaque id genus, ex quibus multa
+24–S. 347.1, quorsum... sunt
+13 etiam
+DE ENCYCLOPAEDIA NOVA CONSCRIBENDA
+Decima est Scientia qualitatum sensibilium, quam vocare soleo
+Poeographiam. Qualitates hae quoad licet definiendae sunt, distinguendae per
+varietates, et gradus, enumerandaque subjecta in quibus existunt, et a quibus fiunt,
+denique quae ex ipsis consequuntur. Qualitates autem istae vel sunt simplices, quae
+describi non possunt, sed ut cognoscantur sentiri debent, quales sunt: Lux, Color, Sonus,
+Odor, Sapor, Calor, frigus; vel sunt compositae et descriptione explicari possunt,
+adeoque sunt quodammodo intelligibiles, ut firmitas, fluiditas, mollities, tenacitas,
+friabilitas, fissilitas, aliaeque id genus; item, volatile, fixum, solvens, coagulans,
+praecipitans. Et vero qualitates illae simplices praecedentes non possunt ratiocinationi
+subjici, nisi quatenus cum compositis istis, item cum superioribus illis communibus
+magnitudine situ ac mutatione copulatae esse solent. Itaque simplices illae tractandae
+sunt historice, id est enumerandum est, quomodo inter se et quomodo cum aliis
+intelligibilibus soleant esse copulatae. Qualitates vero intelligibiles aut mixtae sub
+Geometricam et Mechanicam considerationem cadunt, et ita theoremata erui possunt,
+circa earum causas atque effectus, unde etiam de causis et effectibus mere sensibilium 15
+judicium aliquod facere licebit. Totius ergo physicae cardo vertitur, in accurata
+enumeratione harum qualitatum earumque per gradus distinctione, et quomodo inter se in
+eodem subjecto diversisve sed convenientiam quandam aut connexionem commerciumve
+habentibus copulari soleant.
+Undecima est Scientia Subjectorum saltem in speciem Similarium, seu
+Homoeographia, ubi incipiendum ab illis quae revera quam maxime sunt similares,
+maximeque communes, ut quatuor illa corpora quae vulgo vocant Elementa; inde ad ea
+pergendum quae minus sunt communia, sed magis sunt variis qualitatibus dotata, ut
+salia, succi, lapides, metalla. Horum corporum enumerandae sunt qualitates supra dictae
+6 f. et... intelligibiles erg. L
+cum... mutatione erg.
+quomodo L
+secundum gradus differentiasque suas, tum eas quae in corpore rudi sponte sensui se
+offerunt, tum quae in eo per se tractato vel aliis corporibus commixto prodeunt. Ubi
+notandum est a spontaneis inchoandum esse, corpora etiam variis modis tractanda esse
+per se, id est non nisi cum illis corporibus maxime communibus, ae¨re, terra, aqua, igne,
+aliisque a quibus ipsa quam minimum patiuntur, aut a quibus causarum inquisitio quam
+minimum confunditur. Inde adhibita superiori qualitatum inquisitione, poterit
+determinari natura subjecti, in quantum ex datis experimentis possibile est; nec dubito
+hac arte intra paucos annos maximam a nobis notitiam obtineri posse, interioris
+corporum Oeconomiae.
+Duodecima est Cosmographia seu Scientia majorum Mundi corporum. Hic
+tradenda est Astronomia Physica, quae non tantum phaenomena explicet per Hypotheses,
+sed et conetur ostendere quae Hypothesis sit verior aut certe probabilior. Huc pertinet
+cognitio Fluidorum generalium visibilium atque invisibilium nos ambientium, ac
+penetrantium, in quibus magna illa corpora natant, quaerendumque est an horum
+fluidorum species ac motus aliqua ratione ex corporum mundanorum phaenomenis
+definiri possint. Huc pertinent etiam contemplationes de globinostri mutationibus
+majoribus earumque causis, itemque Meteorologia.
+Te rtiadecima est Scientia corporum Organicorum, quae vocare solent, species,
+hanc possis appellare Idographiam. Species autem accurate distinguendae, non
+communi more per Dichotomias, sed per qualitatum quibus dignosci possunt
+combinationes. Sed ratio maxime habenda est earum proprietatum, quae statim in sensus
+occurrunt, caeterae tamen, modo exploratae sint, non minus diligenter annotari, per
+differentias gradusque designari, et indicibus exhiberi debent. Quemadmodum autem in
+similaribus, ita in organicis per gradus eundum est cum qualitates earum sunt
+investigandae. Ponendae primum eae quas habent hujusmodi species tantum sensibus
+oblatae (incipiendo a sensu oculorum), inde quas per se tractatae acquirunt vel sibi (id est
+sibi et ae¨ri) relictae vel aliis sibi similibus individuis conjunctae (nam in eo differunt a
+similaribus) vel aqua ignive aliisque corporibus et primum maxime similaribus
+examinatae; ac denique cum corporibus magis compositis, imo ipsis speciebus et
+maxime cum corporibus animalium copulatae, quoniam omnis illa inquisitio maxime ad
+cognoscendam animalium naturam dirigi debet.
+gestr.
+19 distinguendae in classes
+DE ENCYCLOPAEDIA NOVA CONSCRIBENDA
+Quartadecima est Scientia Moralis, de Animo scilicet ejusque Motibus;
+cognoscendis atque regendis.
+Decima s e x t a est Geopolitica, nempe de statu Telluris nostrae ad genus
+humanum relato, quae Historiam omnem et Geographiam civilem, comprehendit.
+Huic Encyclopaediae subjicienda est, Practica, nempe de Usu scientiarum ad
+felicitatem, sive de agendis, considerando scilicet, quod nos ipsi homines sumus.
+Quoniam vero has scientias satis perfecte tradere majus est opus, et nobis tempore
+inprimis utendum est; ideo consilium meum est; ut opere inter multos partito quam
+maturrime licet delineationem ejus qualemcunque quamprimum formemus. Quae sit
+caeterorum basis, augerique et poliri indies queat, et gradus esse possit ad majora. Nec
+video quid vetet a viginti viris eruditis absolvi tale quid intra biennium, quod certum sit
+ab uno intra decennium praestari posse; qui sufficientem rerum notitiam habeat.
+Quoniam vero constat, viros varia doctrina et singulari veritatis amore praestantes,
+multa habere solere cogitata vel experimenta praeclara, sparsa licet et varia, nec in unius 15
+scientiae corpus coeuntia, quae plerumque magna reipublicae jactura interire solent, ea si
+in chartam conjiciant communicentque, utcunque inelaborata, atque incohaerentia,
+mirifice totum hoc institutum juvabunt, suaeque simul gloriae velificabuntur, quam
+cuique ex inventis suis societas summa fide sartam tectamque praestabit.
+2 regendis. Hic Politicam jurisprudentiamque comprehendo. gestr. Decima s e x t a L
+13 f. ; qui...
+18 simul erg. L
+17 atque incohaerentia erg. L
+15 vel experimenta erg. L
+14 singulari erg. L

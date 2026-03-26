@@ -1,0 +1,192 @@
+COUTURAT, Opusc. et fragm., 1903, S. 563–568.
+sinecalculoetfiguris 20
+Possumus Quantitatem rei definire affectionem totius quatenus habet omnes suas
+partes. Saepe autem res ipsae secundum hanc affectionem consideratae dicuntur
+Rationem vero dicere possumus formam comparationis duarum rerum secundum
+Coincidentia sunt, eadem diversimode enuntiata, ut via recta ab A ad B et via
+Determinantia sunt, quae simul uni soli competunt.
+20 f. Specimen... figuris erg. (1) In primo rei Mathematicae ingressu si ad numerum et calculos
+non statim respiciamus (2) Si quis ad Calculum et numeros non (a) ita (b) respiciat, poterit (3) Possumus L
+21 definire (1) id quod (2) affectionem (3) id quo fit ut habeat omnes (4) affectionem (a) rei secum (b) totius
+26–S. 418.8 Coincidentia... via recta erg. ab A... via recta erg. a B... duo (1) circul (2)
+arcus... FGH). erg. L
+Itaque quorum determinantia sunt eadem, ea licet diversimode enuntiata coincidunt.
+Quorum determinantia coincidunt, ea inter se coincidunt (ut duae rectae quarum
+extrema coincidunt, duo arcus circuli quorum tria puncta coincidunt).
+Congrua sunt quae per se discerni non possunt.
+Congrua per se spectata sibi substitui possunt quasi essent coincidentia.
+Quorum determinantia congruunt, ea inter se congruunt (ut quia datis tribus
+lateribus datur Triangulum, ideo si congruunt AB, BC, CD ipsis FG, GH, FH congruet
+triangulum ABC triangulo FGH).
+Aequalia sunt quae resolvi possunt in partes suas diversas singulas singulis
+diversis alterius congruentes.
+Corollar. Hinc quae congruunt aequalia sunt, nam et eorum partes congruunt.
+Corollar. Omnia aequalia transformari possunt in congrua. Et quae in congrua
+transformari possunt, aequalia sunt.
+Corollar. Aequalia eodem modo secundum quantitatem tractata exhibent
+Similia sunt quae sola magnitudine discerni possunt.
+Corollar. Quae similia et aequalia sunt congrua sunt. Et contra.
+Corollar. Omnia congrua sunt similia.
+Corollar. Similia similiter tractata exhibent similia.
+Corollar. Quae similiter determinantur similia sunt.
+Homogenea sunt quae in eo conveniunt in quo pars eorum quaelibet cum toto
+Corollar. Omnia similia sunt homogenea.
+Corollar. Omnia homogenea transformari possunt in similia. Et omnia quae in
+similia transformari possunt, homogenea sunt.
+Minus est quod parti alterius ( Majoris ) aequale est.
+Corollar. Minus minore est minus majore, quia pars partis est pars totius.
+Corollar. Totum est majus sua parte.
+Corollar. Duo homogenea quorum unum altero nec majus nec minus est, aequalia
+9 quae (1) habent (2) resolvi possunt in L
+10 f. congruentes (1) seu quae resolvi
+possunt in partes congru (2). Corollar. L
+20 Corollar. Quae (1) similibus (2)
+spectata (2) Corollar. L
+30–S. 419.1 sunt. (1) Summa
+25 f. sunt. (1) Majus est (2) Minus L
+(a) est totum (b) quarundam quantitatum (c) cujus istae quantitates sunt partes, modo partes (2) Partes (a)
+integrantes (b) cointegrantes sunt (aa) quae (bb) si nullam habent (aaa) communem (bbb) partem
+communem inter se; totum vero (aaaa) nihil (bbbb) nullam habet partem (cc) omnes L
+11 f. congruunt. (1) Similia sunt quae sigillatim per se
+14 f. Coroll.... aequalia. erg. L... sunt. erg. L
+Partes cointegrantes sunt omnes partes in quas totum simul resolvi potest.
+Corollar. Totum est aequale omnibus partibus cointegrantibus.1
+Summa quarundam quantitatum est totum, cujus illae quantitates sunt partes
+Summa summarum est summa quantitatum ex omnibus summis.
+Si eaedem sint quantitates, diversae summae, tamen eadem est summa summarum.
+Differentia 2 duarum quantitatum est ea pars majoris, cujus altera cointegrans
+aequalis est minori.
+Corollar. Differentia aequalium est Nihil.
+Summa ex aliqua quantitate, et differentia quantitatum quarumcunque aequalium 10
+aequalis est priori quantitati. Sequitur ex praecedenti.
+Si summa duarum quantitatum, et differentia duarum quarumcunque quantitatum
+colligantur in unam summam, ea aequalis erit summae ex quantitate majore duarum
+posteriorum, et differentia inter summam duarum priorum, et minorem duarum
+Hinc summa summae et differentiae duarum earundem quantitatum aequalis est
+Differentia summae et differentiae duarum earundem quantitatum aequalis est duplo
+Summa duarum differentiarum est differentia inter summam majorum et summam 20
+Differentia duarum differentiarum est differentia inter duas summas collectas ex
+quantitate majori unius et minori alterius differentiae.
+Differentia s voco continuas, cum quantitas minor differentiae unius est
+quantitas major differentiae alterius.
+2 Coroll.... cointegrantibus. erg. L
+est duplum majoris (2) Summa... praecedenti. L
+(2) quantitas (a) major (b) minor L
+9–11 Nihil. (1) Corollar. Summa summae et differentiae
+16 f. est (1) differen (2) duplo L
+Summa quotcunque differentiarum continuarum, est differentia quantitatis maximae
+ProgressioArithmetica est series quantitatum ex quibus duae quaelibet
+proximae sunt aequidifferentes.
+Hinc in progressione Arithmetica duae quaelibet eodem intervallo distantes sunt
+aequidifferentes, et contra aequidifferentes sunt aequidistantes.
+Hinc series quantitatum aequidistantium ex progressione arithmetica sumtarum, est
+progressio Arithmetica (adeoque et ex Geometrica sumtarum Geometrica).
+Si sint tres quantitates proximae progressionis Arithmeticae, summa extremarum est
+Si sint tres quantitates progressionis arithmeticae, et media aequidistet ab extremis,
+summa extremarum aequalis est duplo mediae.
+Si sint quatuor quantitates progressionis arithmeticae, et tantum distet secunda a
+prima, quantum quarta a tertia, summa extremarum aequalis est summae intermediarum.
+Si sint quotcunque quantitates progressionis Arithmeticae, duplum mediae vel (si
+numerus quantitatum par est adeoque duae sunt mediae) dimidium summae duarum
+mediarum toties sumta, quot sunt termini reliqui, aequale est summae omnium.
+Comparare 3 duasquantitatesperse (sine extrinseca mensura assumta) est
+subtrahere minorem a majore quoties fieri potest, et residuum a minore etiam quoties
+fieri potest, et residuum secundum a primo, idque continuare, donec vel nullum supersit
+residuum, vel appareat quae sit futura progressio quotientium seu numerorum
+subtractionis cuique in infinitum. Quam voco seriemquotientium
+1 Summa (1) quotcunque (2) duarum (3) quotcunque L
+2 f. minimae. (1) Si sint tres quantitates
+16 f. mediae (1) summa duarum mediarum (a) aequalis est sum
+17 f. omnium. (1) Proportionales sunt duae quantitates,
+aequidifferentes Summa maximae et minimae est duplum intermediae. (2) ProgressioL
+(b) multiplicata (2) dimidium... toties L
+duabus aliis quantitatibus, cum (a) ita est major du (b) in utroque pari est eadem est ratio majoris ad minorem.
+Eadem autem ratio est, cum similis comparatio institui potest. Similem vero comparationem voco, cum (aa)
+aliquoties (bb) minor s (2) Comparatio duarum quantitatum est detractio majoris (3) Comparare L
+18 (sine... assumta) erg. L
+22–S. 421.1 Quam... comparationis. erg. (1) Eadem ratio est, cum eadem est forma comparationis, seu
+cum (a) iidem prodeunt quo (b) eadem prodit series quotientium (2) Proportionales L
+20 nullum (1) sit residuum, vel appareat nullum (2) supersit L
+Proportionales sunt duae quantitates duabus quantitatibus, cum utrobique
+eadem ratio est majoris ad minorem.
+Proportionales quantitates eandem habent seriem quotientium comparationis. (Nam
+eadem est forma comparationis, ita ut comparatio una ab alia nequeat discerni. Ergo
+eadem forma quoque erit comparationis per se in specie.)
+Data quantitate reperiri potest alia homogenea quae sit ad ipsam in data ratione.
+Parsaliquota rei est, qualium inter se aequalium summa est ipsa res, quae dicitur
+dividenda, item Multipla.
+Mensura autem extra rem sumta est, quae parti rei aliquotae aequalis est. Dicitur
+et rem metiri. Partium aliquotarum maxima est dimidia.
+Commensurabilia sunt quae habent mensuram communem.
+Numerus est homogeneum unitatis.
+Numerus i n t e g e r est cujus pars aliquota est unitas, seu summa unitatum.
+Numerus f r a c t u s est summa partium aliquotarum unitatis.
+Numerus r a t i o n a l i s est Unitati commensurabilis; alias dicitur Surdus.
+Omnis integer et omnis fractus sunt rationales.
+Dantur numeri surdi.
+Omnes numeri rationales sunt commensurabiles inter se.
+Omnis mensura numeri rationalis est rationalis.
+Omnis mensura numeri surdi est surdus.
+Itaque numerus rationalis et surdus sunt incommensurabiles.
+1 f. cum (1) ita est major (2) utrobique eadem (a) sive aequalis (b) ratio L
+Duarum rationum aequalium (2) Data (3) Cuilibet quantitati reperiri potest alia (4) Proportionalium
+quantitatum eadem est series (5) Proportionales... seriem L
+5–10 specie.) (1) Cuilibet quantita (2) Data... ratione. (a) Mensura Quantitatis est, quae aliquoties repetita (aa) quantitati (bb) ei erg. aequalis, numerus
+autem repetitionis dicitur: Quotiens, et quantitas ipsa (aaa) Multipla est quantitas (bbb) dicitur Mensurae
+multipla, operatio ipsa multiplicatio. Multiplicatio est repetitio ejusdem quantitatis secundum
+numerum aliquem. Numerus est homogeneum unitatis. Mensura i n t e g r a est summa unitatum. (b) Pars
+aliquota (aa) est quae aliquoties repetita (bb) seu Mensura erg.
+rei est, cujus partes cointegrantes ipsi
+aequales assumi possunt, seu cujus (aaa) repetitione fieri (bbb) repetita positione vel detractione fieri vel
+exhauriri potest totum. Numerus f r a c t u s est summa partium aliquotarum unitatis. Quilibet numerus integer
+erg. u. gestr. Integerprimitivus est, cujus pars aliquota nullus est alius integer, alias dicitur derivatus.
+(aaaa) Numerirationales sunt qui habent partem aliquotam (bbbb) Numeri (cc) rei...... est. (aaaa)... res quae dicitur (aaa) Aequidividenda (bbb) dividenda, item Multipla. erg.
+Partium aliquotarum maxima est (bbbb) Dicitur... dimidia. L
+21 et (1) irrationalis (2) surdus L
+Mensura f a l s a est quae subtracta quoties fieri potest, aliquid relinquit quod
+Numerus subtractionum dicitur Quotiens f a l s u s.
+Mensura vera vel falsa dicitur Divisor, res autem mensuranda Dividendus, sive
+mensura sit vera sive falsa.
+Quotiens falsus est integer numerus, ut et residuum.
+Residuum est minus mensura falsa.
+Mensura communis partium cointegrantium, est mensura communis summae.
+Mensura communis differentium est mensura communis differentiae.
+Mensura mensurae vel partis aliquotae est mensura mensurati vel totius.
+Dividendum est summa ex multiplo mensurae falsae per quotientem, et residuo.
+Quotiens verus est compositum ex quotiente falso, et residuo per mensuram falsam
+Mensura communis maxima residui et mensurae falsae est mensura communis
+maxima mensurae falsae et quantitatis Mensuratae seu dividendi. Patet ex
+praecedentibus; nam eadem est mensura et residui, et mensurae falsae, ergo et multipli
+mensurae falsae per quotientem, ergo et summae residui et hujus multipli, ergo et
+dividendi. Eadem vero et maxima est. Ponatur enim dari communis mensura divisoris et
+dividendi, major quam maxima divisoris et residui. Ea cum sit dividendi, sitque etiam
+partis ejus, nempe multipli divisoris (quia ipsius divisoris), ergo et reliquae partis seu
+residui. Erit ergo divisoris et residui communis, major ea quam posuimus maximam.
+Si ex divisore fiat dividendus, et ex residuo divisor, maxima mensura communis
+secundi divisoris et secundi dividendi, erit eadem quae praecedentis divisoris et
+praecedentis dividendi; nam maxima mensura communis secundi divisoris et secundi
+dividendi est residui et divisoris praecedentis divisionis, (ergo per prop. proxime
+positam) divisoris et dividendi ejusdem praecedentis divisionis.
+Si ex divisore fiat dividendus et ex residuo divisor, idque aliquandiu continuetur,
+maxima communis mensura ultimi divisoris et ultimi dividendi erit eadem quae primi
+divisoris et primi dividendi, quia semper in sequente eadem mensura quae in
+antecedente, et in antecedente quae in antecedente antecedentis; et ita porro.
+1 potest, (1) Res (2) aliquid L
+2 f. Residuum. (1) Divisor est quantitas quae subtrahitur ab alia
+9 communis (1) partis aliquotae, est mensura communis (2) differentium L
+quoties (2) Numerus L
+10 Mensura (1) communis (2) mensurae vel partis aliquotae erg. L
+mensurae (2) Mensuratum (3) Dividendum est summa (a) multipli (b) ex multiplo... diviso. erg. L
+mensurae (2) dividendi. Eadem... maximam. erg. L
+25 prop. (1) praecedentem) (2) proxime L
+15 seu dividendi erg. (1). (Nam (2). Patet L
+22 ex (1) residuo (2) divisore L
+27 divisore (1) continue (2) fiat L
+Divisor exactus est maxima communis mensura sui et dividendi, neque enim partem
+aliquotam habere potest majorem ipso toto.
+Si continuata divisione divisoris per residuum, denique nullum supersit residuum,
+ultimus divisor erit maxima communis mensura primi dividendi et primi divisoris.
+Ergo comparatione duarum quantitatum per se invenitur earum maxima communis
+mensura si quam habent.
+105.DE ARTE COMBINATORIA SCRIBENDA
+1051. ERSTE AUFZEICHNUNG

@@ -1,0 +1,94 @@
+Omne Thema tractandum est vel Terminus, vel Propositio vel Argumentatio, vel
+Discursus. Sed missis duobus postremis, consideremus Terminum et Propositionem.
+In omni Termino spectandum quae formari possint propositiones, quas terminus
+datus ingredi debet. Sunt autem propositiones vel absolutae vel Hypotheticae, item vel
+necessariae vel contingentes. Et in absoluta Terminus est vel subjectum vel praedicatum
+vel alterutrum ingreditur si non in recto saltem in obliquo. Si Terminus est subjectum
+quaeruntur ejus Attributa.
+Attributa sunt vel omni competentia vel cuidam, et tunc plerumque vel raro; nam
+alioqui si indifferentia sit memorari operae pretium non est.
+Rursus attributa competunt vel per se, vel per accidens.
+Attributum est vel latius vel reciprocum Termino sive Subjecto vel denique
+Attributum est vel prius natura vel simul vel posterius. Quanquam re recte expensa
+non video quomodo attributum in propositione universali necessaria natura posterius esse
+possit; nam si latius est, erit natura [prius], sin aequale natura erit simul; angustius autem
+Habemus ergo genus, idque propinquum vel remotum, sub genere autem et
+differentiam comprehendo, aeque enim recte dicitur homo animal rationale, quam
+7 Termino (1) spectanda (a) communi (b) quae sunt termin (c)
+generalia (d) Attributa erg. specialia per se vel per accidens competentia. Et per se competentia reciproca, et
+gestr. natura priora (e) quae de eo (2) spectandum quae de str. Hrsg. formari L
+absol (2) sed quia omnis hypothetica composita est ex absolutis, considerandum est tantum quas ille ingrediatur
+11 f. Attributa et quidem vel tota, vel
+propositiones absolutas (3) item L
+partes quae in obliquo erg. u. gestr. Attributa L
+17 vel (1) posterius (2) aequale (3) simul erg. L
+22–S. 13.1 comprehendo,
+13 si (1) indifferens sit propositio (2) indifferentia L
+18 attributum (1) reciprocum (2) in L
+(1) 〈nam aeque〉 (2) aeque... animale, erg. L
+21 remotum, (1) habemus et (2) sub L
+10 vel... obliquo erg. L
+habemus et definitionem et proprium. Definitionem autem et proprium, quod omni et soli
+competit, non alia re distinguimus, quam quod unum aptum est ad rem agnoscendam,
+aliud non aeque, quoniam mihi obvium est. Itaque definitio intelligitur cognitione prior
+proprio. Intelligo autem definitionem Nominalem, nam si realem opponas proprio, ita
+distinguo, quod ex reali definitione apparere debet rei possibilitas, alioqui pro proprietate 5
+Ex his etiam intelligi datur, quot modis Terminus aliquis possit esse alterius termini
+praedicatum, hoc est genus, attributum reciprocum, accidens naturale seu praesumtivum,
+accidens plerumque, contingens aut rarum.
+Paulo difficilius est explicare quibus modis Terminus alium Terminum ingredi
+possit; in genere quidem ingreditur eum vel in recto, vel in obliquo, et si in recto, tunc
+vel cum aliis concurrentibus etiam in recto, vel cum concurrentibus in obliquo. Si cum
+concurrentibus in recto tunc vel sine omni obliquo, vel cum obliquo, si sine omni obliquo
+tunc res redit ad priora, ita enim genus ingreditur definitionem vel genus remotius
+ingreditur genus propius. Idemque est de accidente latiore vel angustiore.
+Sed quando rectum concurrit cum obliquo, videndum est quibus modis id fieri
+possit. Et sciendum autem obiter est propositionem esse pleonasticam seu liberalem, vel
+parcam. Pleonastica est, cum aliquid plus semel dicitur, idque plerumque fit ob defectum
+vocabulorum. Estque pleonasmus aut expressus aut virtualis. Virtualis cum pars ex alia 20
+parte sequitur, etiamsi non exprimeretur. Hinc [si] duo termini ad unum terminum id est
+ad subjectum vel praedicatum propositionis constituendum concurrant recte vel oblique,
+utique vel pleonasmum facient, eumque vel totalem vel partialem, vel eo carebunt.
+Totalem cum alter terminus totus in altero continetur, partialem cum aliquid quod uni
+termino inest, jam inest alteri.
+Possunt duo termini in propositione ambo esse oblique, sed tamen in recto
+concurrere inter se.
+1 et (1) prop (2) definitionem L
+1 proprium (1) quae duo ita differunt, quod ex definitione res
+agnoscitur. (2) et synonymum. Et quidem unus Terminus alteri termino reciprocus, si simplices sunt ambo est
+ei synonymus. Sin compositum sit attributum erit proprium. Compositum autem est (a) attributum (b) generale.
+3 f. Itaque... proprio. erg. L
+18 f. vel (1) sufficientem, si (2) expolitam, (3) parcam. L
+3 mihi (1) occurrit (2) obvium L
+15 enim in praedicato erg. u. gestr. genus L
+20 vocabulorum. (1) Rectum aut est (2) Estque
+21 termini (1) concurra, quod... competit erg. L
+5 f. alioqui... habebitur erg. L
+Terminus cum termino oblique concurrit vel per casum vel per praepositionem licet
+omnis concursus per casum videatur reduci posse ad praepositionem, casus enim est
+quasi praepositionis contractio. Hoc intelligendum de simplici obliquitate, est enim et
+composita, cum terminus unus alteri jungitur, interventu integrae Enuntiationis. Ut
+Circulus est figura plana cujus omnia extrema aequaliter distant ab uno aliquo puncto.
+Ubi patet figuram circulo competere in recto, at extrema in obliquo, vel potius circulum
+in obliquo copulari extremis per figuram. Dicitur enim extrema circulis; et in analysi,
+perinde est, ac si diceremus: Circulus est figura plana. Ejusdem figurae planae extrema
+aequidistant ab aliquo puncto. At si dicas Circulus est figura plana extremorum
+aequidistantium erit simplex obliquitas. Si jam dicas: Circulus est figura plana
+extremorum aequidistantium ab aliquo puncto, punctum ingredietur per obliquitatem
+obliquitatis. Sed hoc persequi hujus loci non est.
+Ex his intelligitur Thema simplex tractare esse nihil aliud quam propositiones
+probe constituta, ita enim ordine fieri possunt omnes propositiones possibiles vel saltem
+ostendi eorum series, ut deligantur optima quaeque. Illud tantum observandum multa
+diverso modo expressa coincidere, ut circulus est figura cujus extrema etc. et circulus est
+figura extremorum. Sed constituta analysi grammatica accurata, facile id evitari potest.
+Similiter Thema complexum tractatur per Syllogismos quos ingreditur et quidem
+absolutos vel Hypotheticos per modum conclusionis vel praemissae, vel horum
+Conclusionis gratia notandum est aliam esse viam magis compendiosam et realem
+tractandorum thematum quae perficitur ideam rei in animo ordinatim evolvendo sine
+6 at (1) puncta (2) extrema erg. L
+punctis (2) extremis erg. L
+14 ideo (1) 〈rerum〉 (2) rem L
+23 thematum (1) quod fit (2) quae perficitur L
+19 complexum (1) investiga (2) tractatur L
+13 quam (1) enuntiationes (2) propositiones L
+20 Hypotheticos (1) vel (2)

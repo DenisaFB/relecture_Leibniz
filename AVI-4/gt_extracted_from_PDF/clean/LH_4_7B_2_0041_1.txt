@@ -1,0 +1,55 @@
+COUTURAT, Opusc. et fragm., 1903, S. 253–255.
+Ex hujusmodi schemate ostendi possunt omnes conversiones:
+Omnis homo est animal.
+Ergo quicquid est non animal est non-homo.
+Patet ex schemate. Nam quia omnis homo sub animali, ergo nullus utique sub
+Quoddam animal est homo.
+Ergo quidam homo est animal.
+In schemate patet antecedens, quia homo est species animalis, id est quoddam
+animal. Patet et consequens, quia utique de homine animal praedicatur.
+21–24 Ergo (1) non animal est non homo. Quia enim omnis homo
+statim (b) ostendi... conversiones L
+(2) nullum animal non est ho (3) quicquid (a) non est animal non est homo. Nam (aa) Omn (bb) cum dico:
+Omnis homo est animal, hoc volo omnia exempla hominum (aaa) esse (bbb) contineri in exemplis animalium.
+Ergo jam nihil continet nullum exemplum (b) est... non-animali (aa) Quidam (bb) Quoddam L
+(1) si omnis homo (2) utique L
+homo (3) Quoddam animal L
+27–S. 298.1 praedicatur (1) Quidam homo non est animal (2) Quidam
+Quoddam animal non est homo.
+Ergo quidam homo non est animal.
+Omnis id est nullus non.
+Omne A est B, id est, omnia exempla ipsius A continentur sub exemplis ipsius B.
+Jam eadem exempla non possunt simul sub exemplis B et sub exemplis ipsius non-B
+contineri. Ergo, omnia exempla ipsius A non continentur sub exemplis ipsius non-B.
+Syllogismus itaque erit talis:
+Omne B non est non B.
+Pro non-B scribamus C, et fiet propositio:
+omne C non est A, id est
+omne non-B non est A, seu:
+nullum non-B est A, seu
+quicquid non est B [non] est A
+(: nota aliud dicere: nullum-non B aliud nullum non-B :).
+Hinc patet si datur propositionis universalis negativae conversio simpliciter dari
+universalis affirmativae conversionem per contrapositionem, et contra.
+Jam Nullum A est C. Ergo nullum C est A demonstratur hoc modo: Si falsum est
+nullum C esse A, ergo aliquod C est A. Ergo aliquod A est C, cum tamen assumserimus
+nullum A esse C. Vel sic: Nullum A est C. Ergo non, quoddam A est C. Ergo non,
+quoddam C est A. Ergo nullum C est A. Probanda ergo sola conversio simplex
+particularis affirmativae. Quoddam A est C. Ergo quoddam C est A. Quod per se patet,
+idem enim est ac si diceremus dari exemplum commune ipsius C et ipsius A.
+Per propositiones particulares cuncta possunt absolvi:
+Omne A est B, id est non, quoddam A non est B, seu falsa propositio ista. Similiter
+5 f. B (1) seu si quod est exemplum ipsius (2) Jam L
+7 Ergo, (1) nulla (2) om (3) E (4) omnia L
+8 f. talis: (1) Quae exempla continentur sub exemplis ipsius B ea non continentur sub exemplis ipsius non-B
+(2) Quicquid est (3) Omne L
+26 C, (1) quod absurdum (2) vel tamen
+31 f. absolvi: (1) Omnis, id est: non, q (2)
+Omne A est B, (a) non (b) id L
+27 Ergo (1) qu (2) 〈 – 〉 (3) non, L
+17 Omne quoddam gestr. A L
+Nullum A est D, id est non, quoddam A est D.
+Hinc assumto [Quoddam] A est D. Ergo [quoddam] D est A cuncta demonstrantur.
+Negatio particularis negativae est affirmatio universalitatis. Hinc ex meris
+particularibus concluditur sic: quoddam A non est B est falsa, quoddam A est A est vera,
+Ergo quoddam A est B est vera.

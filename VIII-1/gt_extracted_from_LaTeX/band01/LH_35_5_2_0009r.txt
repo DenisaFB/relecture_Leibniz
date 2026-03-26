@@ -1,0 +1,49 @@
+sed in quam ista cadant
+
+figuram subtilius inquirendum est, cum redeatur ad mirabilem illam methodum Tangentium inversam. Ego vero investigandum adhuc censeo an non alia
+supersit proclivior via.
+Si AB tempus y
+[[decursum]] et BC x spatium illo tempore decursum,
+utique erit AC(C) parabolica, cujus vertex A tangens verticis AB(B). Ergo si spatia sumantur uniformiter crescentia x;, erunt tempora ut applicatae parabolae;
+[[quolibet temporis momento spatii puncto erunt]] et crementa temporum
+[[ut]] z, seu tempora quolibet spatii percursa, erunt ut differentiae applicatarum parabolae, nempe:
+√2ax ⊓ y applicata parabolae, duarum applicatarum differentia: √2ax - √2ax - 2aβ, ⊓ z.
+unde √2ax ⊓ z + √2ax - 2aβ. et quadrando utrobique: 2ax ⊓ z^2 + 2z√2ax - 2aβ + 2ax - 2aβ sive: - 2z√2ax - 2aβ ⊓ z^2 - 2aβ, sive
+4z^22ax - 4z^22aβ ⊓ z^4$ - 4z^2aβ$ + 4a^2β^2
+et ordinando
+
+z^4&-8ax z^2 +4a^2 ^2 0
+
+&+ 4a..
+quae aequatio ultra dividi non potest.
+Quod si reliquissemus: √2ax - √2ax - 2aβ ⊓ z, fiet: 2ax - 2√4a^2x^2 - 4a^2βx + 2ax - 2aβ ⊓ z^2, sive: 4ax - 2aβ - z^2 ⊓ 2√4a^2x^2 - 4a^2βx, et quadrando: $16a^2x^2 - 16a^2βx$ - 8axz^2 + 4a^2β^2 + 4aβz^2 + z^4 ⊓ $16a^2x^2 - 16a^2βx$ sive itaque [[qualiacunque sint]] si crementa temporum in motu uniformiter accelerato sint z erunt spatia in quibus [[illa contingunt]] decursis illa contingunt z^2 + 2aβ,⌣8az. Contra: ut investigetur valor ipsius z, fiet:⊓ 2a√2x^2 - 2βx sive z^2 ⊓ 4ax - 2aβ + 2a√2x^2 - 2βx sive z ⊓ √4ax - 2aβ + 2a√2x^2 - 2βx. Quodsi [[motus est uniformiter acceleratus]] [[cum motus est uniformiter acceleratus, spatia]] ergo cum temporum seu virium crementa, z sunt in spatiorum percursorum x, ratione quae exprimitur; motus [[uniformiter]] est quolibet temporis momento uniformiter acceleratus, quaeritur cum [[in spa]] crementa virium z sunt in spatiorum percursorum n ratione reciproca, seu cum. quae tum [[fuerit]] futura sit ratio accelerationis, in quolibet temporis momento. Nimirum ut aequatio z ⊓ √4ax - 2aβ + 2a√2x^2 - 2βx sit ad hyperbolam secundum asymptotos, sive aequivaleat huic:, fiet aequatio inter haec duo:. cujus aequationis ope quaeratur valor ipsius x. [[et repertus]] nempe. sive, et quadrando:
+et ordinando:
+
+sive
+
+44
+
+sive
+[[MATH]||]
+]|[MATH
+10.5pt
+[ [MATH]].
+
+Habetur ergo valor ipsius x qui insertus in aequatione. exprimit relationem spatiorum et temporum. Imo festinandum lente, hic enim alioquin horribilem paralogismum committeremus. Sane verum est, summam omnium z haberi posito earum valore expresso per x sed non datur in his regressus; et non ideo habetur qualis futura sit y.
+
+Quaestio enim huc proprie redit: data est aequatio: √2ax ⊓ y. Quaeritur, quomodo [[investiganda]] [[exprimenda]] explicanda sit quantitas x, per aliquam quandam incognitam ut n, ut scilicet differentia duarum y relinquat. Hoc autem problema solvi non potest, nisi ex data Hyperbolae quadratura, lineis autem solvi potest [[ope quadraturae Hyperbolae Geometricae]] per quadraturam Hyperbolae Geometricam, quae a me inventa est. Notabilis ista inquisitio est, ita enim duae methodi diversissimae circa idem problema, et ratio exhibetur distortam illam et in se reflexam methodum tangentium inversam, revocandi ad simplicem et ad quadraturas.
+
+2 Decembris 1674
+
+__Calculus Elasticus__.
+
+Sit follis AB cujus asser mobilis A immobilis B in quo fixus canalis [[extendens]] CDE desinens se sub finem in DE, in Tabulam FG in cujus diametro mobiles asseres duo dum follis deprimitur flatu aeris aut aquae asseres a se invicem distendent. Ajo si distantiae asserum sint ut [[tempora quibus in eam distantiam eas distantias ferantur]] numeri, vires quas in iis distantiis acquisierint fore ut [[modo asseres ponantur non ultra ire, quam cogit follis]] logarithmos modo aequabili semper motu claudatur follis. Hinc vicissim [[apertura]] si tempora sint ut numeri, seu exponentes, aperturae erunt ut cujusdam numeri secundum eum exponentem potestates. Ratio hujus rei est, quod vires flatus impellentis, sunt in spatiorum ratione [[In quolibet ergo spatio in]] reciproca. Motus ergo acceleratio [[per]] est in spatiis quibuslibet per [[incrementa]] crementa virium spatiis reciproca, seu proportionalia applicatis [[, ergo temporum decrementa. Jam virium incrementa sunt in]] hyperbolae. Ergo summae virium ut [[Sed ut verum dicam]] Logarithmi. Temporum autem crementa virium crementis reciproce proportionalia. Ergo spatiis directe. Ergo summae temporum quibus spatia percurruntur erunt ut spatiorum quadrata. Idemque est si embolum EFG ex spatio extrudi putes, elaterio aeris compressi ponendo vim expellendi esse in reciproca spatiorum ratione. Sed jam re rectius perspecta hoc verum esse non video: foret [[libertas]] si [[aer in vacuo]] poneret vas ita compressum, in vacuo, ita ut aer summam habeat se restituendi libertatem. Et idem de folle, si is ponatur [[magnus]] infinite largus, [[seu]] [[nam]] seu si flumen in angustias compellendum sit infinite magnum. Hic vero sciendum est terminum esse virium, tunc cum aequalitas facta est inter aerem internum et externum, sive [[asser a]] [[Aer follis]] cum Aer folles egrediens inter angustias et asser comprimens in folle eadem celeritate ferri possunt. Itaque cum absolute loquendo verum sit vires esse in spatiorum ratione reciproca, vires tamen hic aestimandae a viribus duorum spatiorum externi et interni virium differentiis; sive a differentiis materiarum eorundem spatiorum. Aliter embolus FG in canalem AD intrusus interstitia HI si potest reddet ampliora, donec fiat HI ⊓ FG.
+
+Eodem ergo modo in Elateriis imaginabimur poros reddi angustos, ut materia per eos mota difficultatem transeundi experiatur ne proinde moveatur solito celerius. Itaque aestimanda materiae sive potius spatii quantitas, et ducenda in differentiam celeritatum. Durante autem motu crescit spatium celeritas decres-cit. Spatia per se patent; celeritas autem aestimanda est a materiae transeuntis [[sed de his suo loco a]] quantitate, vel etiam a quantitate detorsionis corporis transire conantis a motu suo.
+
+Caeterum illud manifestum est, demonstrationes [[circa Cycloeidem]] Hugenianas [[de isochronismis]] de Cycloeidis isochronismo nihil ad rem pertinere; quia pendent ex rigorosa observatione regularum Galilaei de acceleratione gravium; at ea acceleratio: at eas regulas a natura non observari ex [[pendet]] eo patet, [[corpora]] quod pendula non tam alte ascendunt quam decidere. Eadem ergo causa quae pendulorum ascensum impedit et temporum spatiorumque rationem, adeoque et isochronismum si quis demonstrari posset. Cumque differentia sit valde sensibilis, hinc sequitur eam demum isochronismi demonstrationem ad rem pertinere, quae simul et rationem decrescentium vibrationum reddat.
+
+---
+Additions:
+<<calculo>>
+<<__Calculus Elasticus__>>

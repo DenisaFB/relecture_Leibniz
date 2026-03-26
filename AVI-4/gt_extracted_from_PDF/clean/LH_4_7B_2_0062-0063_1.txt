@@ -1,0 +1,267 @@
+COUTURAT, Opusc. et fragm., 1903, S. 259–264.
+1) Si A explicando prodit B non B, A est impossibile. Vel ecthetice magis, si A
+L.. B non B, A est impossibile.
+2) Ens vel possibile est quod non est impossibile; ut A, si A non
+3) Si non A est impossibile, A est necessarium.
+5) Aest, id est A est Ens.
+6) FalsaEnuntiatio si inde sequitur A
+L.. B non B, vid. 10.1
+1 Am Rande: Dicere A est B, falsa est, idem est quod dicere A non est B. Pertinet ad 25
+usum τουÄ non, add. 4.
+18 1) (1) Si A est Ens, B est (2) A (a) est
+(b) explicando prodit erg. B non B. Hoc posito, A est
+impossibile. Ens est non impossibile. A
+23 f. Ens. (1) EnuntiatioA est B id est A
+22 non (1) vid. 6 (2) add. 6 erg.
+B. Item si A est B, sequitur quod C est D. Item A
+non est B. Item si A est B, non sequitur quod C est D.
+8) A est B, sic exponitur literaliter A
+LB, ubi L idem quod indefinitum quoddam.
+AB, ut non sit opus assumi tertium. Ad hoc requiritur 14.
+Potest etiam sic exponi A
+9) A non est B, idem est quod QA est non B, demonstrandum.2
+10) Idem est dicere: propositio A est B, est falsa, et dicere Anon est B. Sequitur ex
+11) A est B, et A est C, idem est quod A est BC.
+12) Eadem sunt, quorum unum alteri substitui potest salva veritate. Signum autem, ut A
+13) Sequitur vel infertur A ex B, si A substitui potest pro B, etsi fortasse non liceat
+substitui vicissim. Per A aut B hic intelligo vel terminum vel enuntiationem.
+14) AA idem est in hoc calculo quod A. Exempli causa sit B
+15) A est B, idem est ac dicere si L est A sequitur quod et L est B. Hoc
+demonstrabimus: Assumamus hanc propositionem A est B, dico hinc inferri si L est A,
+AB per 8. Jam si L est
+sequitur quod L est B. Hoc ita demonstro: Quia A est B, ergo A
+LAB. Ergo L est AB. Ergo L
+LA. Ubi (pro A substituendo valorem AB) fit L
+Ergo demonstratum est, ex hac: A est B, inferri hanc: si L est A sequitur L est B.
+Nunc inverse demonstremus, ex hac: Si L est A sequitur quod L est B, vicissim inferri A
+est B. Intelligitur autem L quicunque terminus de quo dici potest L est A. Ponamus illud
+esse verum, et tamen hoc esse falsum, quod si inde sequetur absurdum, utique inferetur
+2 Am Rande: Si A sit B non B, A est n o n Ens. Propositio falsa est, ex qua sequitur A est
+5 B, (1) male (2) demonstrandum erg. L
+6 f. Sequitur ex 6 erg. L
+12 f. vel (1) propositionem (2) enuntiationem erg.
+8 11) (1) Si A est B, et A est C, sequitur (2) Si str. Hrsg. A... quod L
+quod si (dd) ac si diceres: Si L est A sequitur quod L est B. (b) 14) L
+(1) L quaecunque (2) qu〈ae〉 (3) L (4) Si L est A erit L
+23 falsum, (1) 〈pro〉inde (2) quod L
+23 inferetur (1) (quod (a) 〈mox〉 (b) est Lemma (2) hoc L
+inferetur (2) sequetur erg. L
+11 vel infertur erg. L. (a) 14) A est B, idem est (aa) di (bb) ac (cc)
+18 LA. (1) Ergo (2) Ubi
+LA Si L est B sequitur L est L (5) L est A coincidit cum
+19 f. 8. (1) Vicissim assumamus (2) Ergo L
+16 hinc (1) sequi (2) inferri erg. L
+20 B, (1) sequi (2) inferri erg. L
+LA, et L est B coincidit cum L
+17 Hoc ita demonstro: erg. L
+14 BC L ändert Hrsg.
+hoc ex illo (per Lemma prop. sequentis). Statuatur ergo haec enuntiatio: QA est non B.
+Jam QA est A. Ergo QA est B (quia QA comprehenditur sub L), ergo QA est B non B
+16) Si A sit propositio vel enuntiatio, per non-A intelligo propositionem A esse
+falsam. Et cum dico A est B, et A et B sunt propositiones, intelligo ex A sequi B. Sed
+demonstrandus erit harum substitutionum successus. Utile etiam hoc ad compendiose
+demonstrandum, ut si pro L est A dixissemus C, et pro L est B dixissemus D, pro ista si L
+est A sequitur quod L est B, substitui potuisset C est D in praecedente. Si A est B dicatur
+C, erit C idem, quod A esse B. Itaque cum dicimus Ex A est B sequitur E est F, idem est
+ac si diceremus A esse B est E esse F. Differt tamen A esse B, et Beitas ipsius A, quia 10
+haec significat A esse B quatenus tale. Itaque etsi ex hoc quod Deus est sapiens, sequatur
+quod Deus est justus, tamen non ideo Dei sapientia est Dei justitia. Et licet omnis sapiens
+sit justus, et adeo sapientem esse, sit justum esse, non ideo tamen sapientia est justitia.
+17) In Numero 15 assumsimus si posito A, sequitur B, ex non B sequi non A. Vel
+generalius secundum nostrum Hypotheticas sub Categoricis comprehendendi modum;
+assumsimus hanc consequentiam: A est B, Ergo falsum est non B esse A. Demonstratio:
+Esto: Non B est A. Ergo A non B
+non B, quod implicat. Ergo (per n. 6) falsum est non B esse A, posito A esse
+B. Aliter sine aequipollentia, per solam substitutionem unilateralem. 1) A est B ex
+hypothesi, dico falsum esse [(2) non B esse A.] Nam quia pro A substitui potest B (per 1) 20
+substituatur in 2, fiet non B est B, quod est falsum per n. 6.
+non B. Sed A est B ex concesso. Ergo A
+18) Supra 9 dictum est, demonstrandum esse: A non est B et QA est non B
+coincidere seu dicere A non est B, idem esse ac dicere datur Q, tale ut QA sit non B. Si
+falsum est A est B, possibile est A non B per n. 6, non B vocetur Q, ergo possibile est QA.
+Ergo QA est non B. Itaque posito falsum esse A est B ostendimus QA esse non B. Jam 25
+4 vel enuntiatio erg. L
+11 quod (1) A (2) Deus erg. est (a) justus, (b) sapiens, L
+1 enuntiatio: (1) Si L est A, sequitur quod L est B, A est non B (2) QA L
+L (aa) (quia L est omnis terminus (bb) (quia pro L substitui (cc). Ergo QA substitui potest pro L. Ergo si QA
+3 f. absurdum. (1) 16) (a) Praedemo (b) Praemittendum fuerat hoc: Si ex A sequitur B, ex
+6 successus. (1) 17) Si A est B, non A est non B
+non B sequitur non A. (2) 16) L
+12 est (1) misericors (2) justus
+ergo non B est non A. Hoc jam demonstremus: A est B, idem quod A
+19 B (1) ex def. (2). Aliter L
+24 A non B (1) est (2) per n. 6, erg. (a) id
+QA. Sic enim licet assumere (c) et A non B est non B, ergo ex
+hoc falsum est A esse B, sequitur QA est non B (d) non B L
+25 non B (1) ex hyp. (2). Itaque (a) possi (b)
+12 Dei (1) justitia est Dei misericordia (2) sapientia... justitia. (a) Nam (b) Et L
+23 coincidere (1) posito Q esse aliquod (2) seu L
+AB. (a) Si jam (b) Ergo non A
+A non B (b) jam A non B
+ostendamus illud: QA est non B, ergo falsum est A est B. Nam si verum esset A est B,
+posset B substitui in locum ipsius A, et fieret QB est non B, quod est absurdum.
+1) Sequitur, Enuntiatio ex Enuntiationibus positis, si per substitutiones permissas
+ex illis oriri potest.
+B significat A et B esse idem, seu ubique sibi posse substitui.3 (Nisi
+prohibeatur, quod fit in iis, ubi terminus aliquis certo respectu considerari declaratur, ver.
+g. licet trilaterum et triangulum sint idem, tamen si dicas triangulum quatenus tale, habet
+180 gradus; non potest substitui trilaterum. Est in eo aliquid materiale.)
+3) Contradictorium est B non B.4
+4) Impossibilis est terminus, vel Non Ens,5 qui si ponitur esse, sequitur esse
+contradictorium. Possibilis autem est terminus vel Ens vel Reale, ex quo nihil tale
+3 Am Rande: Si ex Enuntiatione A sequitur enuntiatio B, et vicissim, coincidunt A et B.
+4 Am Rande: Si A est B non B, A est n o n Ens.
+Si A sit Ens, et propositio sequatur A est B non B, tunc propositio est falsa.
+5 Am Rande: Si AB est non Ens, sequitur A
+esse Entia. Praestat abstinere terminis possibilis et impossibilis.
+B non A, posito A et B
+Etsi AB esset Ens, tamen etiam Non AB
+ggggggggggggggggggggggggg
+4 (1) A est B significat (a) A substitui posse in locum ipsius B. (b) B str. Hrsg. (c) posse formari (aa)
+(2) Ex A sequitur B, significat in locum propositionis A posse substitui
+B significat A et B esse (a) eadem (b) idem, sive sibi
+4 Sequitur, (1) si ex Enuntiationibus, (a) per calculum debitum (b) per substitutiones
+8 dicas (1) trilaterum quatenus tale habet (a) circum (b) amb (c) circumferentiam
+4 Enuntiationibus (1) datis (2) propositis (3) positis, L
+(2) oriri potest. erg. 2) (a) I m possibile est (aa) quo〈–〉 (bb) A, si (b) A L
+propositi (bb) enuntiationem erg.
+propositionem B. (3) A est B significat A
+permissas nova enun (2) Enuntiatio L
+Excluduntur (2) (Nisi L
+Ens erg., (1) quo posito sequitur poni posse (2) qui L
+12 vel... Reale erg. L
+18 f. impossibilis. (1) Non AB est Ens (2) Etsi L
+17 sequitur (1) A continere non B (2) A... vel (a) A
+16 Ens, (1) et sequatur A est B non (2)
+A non (d) B... non A L
+10 3) (1) F (2) A (3) I m possibile est (a) 〈A〉 (b) quo posito Te (4)
+11 4) (1) I m possibile est A, si termini (2) Impossibilis L
+5) FalsaEnuntiatio est, si effici potest ut ipsa concessa ex terminis possibilibus
+admissis sequatur admitti impossibile; quod tamen ipsa non concessa ex positis non
+sequeretur.6 Ve r a autem est ex qua nihil tale sequitur.
+6) Particula Non hunc habe usum, ut significet Terminum vel enuntiationem cui
+praefigitur non habere locum, et hinc si sibi ipsi praefigitur semet destruit, quasi ipsamet
+posita non fuisset. Itaque Non, A est B
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+enuntiatio: A est B. Et Non Non A idem est quod A, et A non non est B, idem est quod A
+est B., vel A non est B, idem est, quod falsa est
+7) AA idem est quod A. Exempli gratia Omniscius et Spiritus sapientissimus
+coincidunt. Hinc si dicas spiritus omniscius, et pro omniscio substituas spiritum
+sapientissimum, fiet spiritus [spiritus
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+et sufficit dici: spiritus sapientissimus. Quod secus est in numeris, et magnitudinibus, ubi
+repetitum A, designat non idem sed aequale priori.
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+8) A est B idem est quod A continet B et quidem simpliciter ut adeo dicere liceat A
+est B idem esse quod A
+hyp., pro A substitui potest AB, quoniam per 7 geminatio nil mutat seu ex A
+AB. Ita cum dicitur Deus est zelotes, etiam dici potest Deus est Deus zelotes;
+et haec duo coincidunt inter se. Ita rem ab Enuntiatione traduximus ad aequipollentiam,
+A per 2, et A contineat B simpliciter ex 15
+6 Am Rande: Enuntiatio negativa nihil aliud est, quam quae falsam dicit Affirmativam.
+Hypothetica nihil aliud est quam Categorica, vertendo antecedens in subjectum, et
+consequens in praedicatum. Ex. gr. A est B, ergo C est D. A esse B sit L, et C esse D
+sit M, dicemus L est M. Itaque sufficerent Categoricae affirmativae.
+1 f. est, (1) qua admissa, (a) sequitur ex positis (b) ex terminis possibilibus (aa) sequitur (bb) admissis
+4 6) (1) A est B (2) Non, A est B; vel Anon est B, idem significat, quod (a)
+sequitur (2) si... sequatur L
+A est (b) falsa est haec Enuntiatio A est B. (aa) Ipsa autem particula Non, sibi praefixa, (bb) Duo autem Non
+immediate conjuncta se mutuo tollunt. Non (3) Non significat aliquid esse rejiciendum; (a) et ideo (b) Non non
+seu rejectio rejectionis signi (c) sive sit terminus sive enuntiatio (4) Non significat exclusionem, adeoque Non
+9 A. (1) Ut si dicas (2)
+Mens sapientissima aequivalent. Ergo pro Mens omniscia poterit substitui (d) Omniscius L
+9 f. sapientissimus (1) aequivalent. (2) coincidunt erg. L
+nempe quia A sic continet B (3) A L
+(1) Itaque (2) Ita L
+(a) A (b) Deus et substantia summa aequivalent; (c) Omniscius et (aa) substantia (bb)
+6 Itaque (1) Non Non A idem est quod A, et A (2) Non, L
+11 spiritus omniscius
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+LB nempe A continet B (2) A L
+17 est (1) fortis, (2) zelotes, L
+16 mutat (1) ergo ex A
+quae calculo nostro est aptior. Idem aliter confici poterat hoc modo: Cum A est B, dici
+LB, nempe si A et B aequipollent, potest per L intelligi Ens vel aliud quiddam
+quod jam in A continetur; si non aequipollent, erit L id omne quod in A est praeter B. Jam
+LBB (per 7). Ergo pro LB ponendo A, fiet A
+LB, ne tertium assumi sit opus.
+9) Si A est B sequitur quod falsum est Non B esse A. Esto enim 1) verum Non B est
+A ex hyp. adversarii. Jam 2) A est B ex hyp. concessa. Ergo 3) A
+4) Non B est AB ex 1 per [3] hic. Ergo 5) Non B est AB non B, per num. 8. Quod est abs.
+per num. [3]. Ergo falsa 1 posita [2] hic. Quod erat dem.
+10) Poterat praedemonstrari B est non B vel B est A non B, et non B est B vel non B
+est BA, vel non B est B non A, esse absurdas, idque communi hac methodo fit, quod per
+10) [bis] A est B ergo AC est B. Demonstratio: 1) A est B ex hyp. Ergo 2) (per num.
+ABC ergo (ex 3 per num. 8) AC est B. Quod e. dem.
+BC. Sequitur ex num. 2.
+AB. Ergo 3) (per 2) AC
+13) Non sequitur: AC
+BCC, id est 3) (per 7) AC
+B. Hoc demonstrabitur exhibendo casum ubi
+illo vero, tamen hoc non est verum, quem casum exhibere, est problema solvere. Sit
+[B], erit tamen (per 12) AC
+14) A est BC ergo AC est B. Demonstratio: 1) (per hyp.) A est BC. Ergo 2) (per num.
+ABC. Ergo 3) (per num. 11) AC
+verum est etiam A esse B).
+ABC. Ergo 4) (per num. 8) AC est B (sed
+2 potest (1) pro L substitui (2) per L intelligi erg. (a) ipsum A, nam si L
+9 num. 5 ändert Hrsg. L
+(1) C non BB non A (2) C non BAB. L
+15 ergo (1) (per 8) (2) (ex 3 per num. 8) L
+15 f. dem. (1) 11) A
+BC, ita ut non sit A
+ABC (ccc) AC est BC. (b) Ergo
+BC. Demonstratio: Nam (aa)
+6 sequitur (1) non A est non B. Demonstratio: 1) A est B ex hyp. Ergo 2) A
+Nam 1) A est B ex hyp. Ergo (2) Esto L
+12 reducitur esse str. Hrsg. ad L
+(a) Ergo 2) (aa) A est (bb) (per 8) (cc) (per num. 8) (aaa) A est ABC (bbb) A
+(per num. 8) (aa) A est (bb) A
+23 ergo (1) A (2) AC L
+24 f. B (1). 1) 15) A est BC. Ergo A est B. Omne
+24 8) (1) A est ABC (2) A L
+ABC. Ergo (2) 11) (a) AB (b) A
+16 ex (1) 2 (2) natur (3) num. 2 L
+(per num. 8) AB est A.
+AB 2) Ergo (per num. 7) AB
+16) A est B, et B est C, ergo A est C. Demonstratio: 1) (ex hyp.) A est B. Ergo (per
+AB. Similiter 3) (ex hyp.) B est C. Ergo (per num. 8) 4) B
+)] ABC. Ex 5 per num. 8 (6) AB [est] C. Et
+denique ex 6 per 2 (7) A est C. Quod erat dem.
+(ABBC seu per num. [7
+17) A est BC. Ergo A est B. Demonstratio: Ex Hyp. 1) A est BC. Jam per num. 15
+(2) BC est B. Ergo ex 1 et 2 per num. 16 (3) A est B. Quod erat dem.
+18) A est B et A est C. Ergo A est BC.
+[AC]. Ergo (AA id est) A
+) ABC. Ergo (per num. 8) A est 10
+19) Hinc similiter A est B et A est C et A est D. Ergo A est BCD.
+20) Ex 17 et 18 patet coincidere has duas simul A est B et A est C, cum ista A est
+BC. Idem est in pluribus.
+21) A non est B idem est quod A est non B. Nempe si A non est B, falsa est A est B. 15
+8 A est non B. Rursus A est [bricht ab]
+AB. Ergo per num. 4 AB est non Ens seu A
+A non B. Ergo per num.
+21) [bis] A est B et B est A, idem est quod A
+B. Nempe per num. 8 A
+22) A est B. Ergo [non B est non A]. Nam A est B ex hyp. Ergo per num. 9 non B 20
+non est A. Ergo per num. 21 non B est non A.
+(cc) Ergo (2) Demonstratio L
+(sed verum est etiam A esse C) (bb) sed AB
+10 BC L ändert Hrsg.
+est non B (c). Ergo (d) seu L
+Videndum an et demonstrari possit (a) A (b) non non A est A (c) non non A
+B, idem est quod falsa est A est B seu falsa est A
+non B ändert Hrsg. (1) Nam per num. 10 (2) Nam L
+17 8 (1) AB est non B (2) A
+10 (ABBC L ändert Hrsg.
+3 ergo (1) AB est C (2) A L
+) ABC. Ergo per num. 8 AB est C (aa)
+7 17) (1) AC (2) A (3) Si (4) A L
+16 est (1) impossib (2) non Ens (a). Ergo (b) seu A
+20 22) (1) A est B ergo non B est non A. (2) Si A non est B sequitur quod A est non B. Nam A non est
+(b) est non B (3) A L
+20 9 (1) A non est (2) B non est A (3) non B L
+A. Nam non non A est A et contra prius ostendimus. Scil. A non
+A, hoc ostendendum. Quaeritur an reperiri possit Q non non A quod non sit A.
+172.DEMONSTRATIO AXIOMATUM DE IDENTITATE AC DIVERSITATE
+[April bis Oktober 1686 (?)]

@@ -1,0 +1,103 @@
+COUTURAT, Opusc. et fragm., 1903, S. 401–403.
+als tertium non datur formuliert) und dem principium rationis sufficientis, sowie dem als Axiom formulierten
+Quemadmodum in loco sabuloso aedificium molienti continuanda fossio est,donec
+solidam rupem firmave fundamenta offendat; et filum implicatum evoluturo quaerendum
+est initium; et pro maximis ponderibus movendis stabilem tantummodo locum postulabat
+Archimedes; ita ad humanae scientiae Elementa constituenda, desideratur punctum
+aliquod fixum, cui tuto inniti atque unde secure progredi possimus.
+Hoc principium quaerendum censeo in ipsa generali natura Veritatum, atque illud
+ante omnia tenendum: OmnemPropositionemautveramautfalsamesse.
+Esse autem Falsam quae verae contradictoria est. Contradictorias vero esse, quae
+non aliter differunt, quam quod una earum est affirmativa, altera negativa. Atque haec
+quidem talia sunt, ut frustra eorum probatio postuletur. Cum enim ad probationes non
+afferri possint nisi aliae propositiones, frustra utique afferentur, si simul concedi et
+negari aut verae et falsae esse possunt cessatque statim ab initio omnis inquisitio
+veritatis. Porro quotiescunque adhibetur aliqua propositio, censetur esse vera, nisi aliud
+16 et (1) pro machinis stabilem locum ante omnia postulabat (2) pro L
+16 tantummodo erg. L
+16 f. postulabat (1) horum studiorum princeps (2) Archimedes L
+probationes (2) propositiones L
+20 ante omnia erg. L
+16 f. postulabat Archimedes: ∆οÂ ς µοι πωÄ στωÄ καιÁ κινωÄ τηÁ ν γηÁ ν, überliefert von PAPPUS, Collectiones
+Vera autem propositio est cujus praedicatum continetur in subjecto, vel generalius
+cujus consequens continetur in antecedente; ac proinde necesse est quandam inter
+notiones terminorum esse connexionem, sive fundamentum dari a parte rei ex quo ratio
+propositionis reddi, seu probatio a priori inveniri possit. Idque locum habet in omni
+propositione vera affirmativa universali vel singulari, necessaria aut contingente; ut
+praedicati notio insit notioni subjecti vel expresse, vel virtualiter; expresse in
+propositione identica, Virtualiter in alia quacunque. Et propositio[nis] praedicatum ex
+subjecto vel consequens ex antecedente probari potest, vel sola antecedentis sive
+subjecti, vel et antecedentis et consequentis simul sive praedicati et subjecti simul,
+resolutione. Et quidem necessaria connexio est in propositionibus aeternae veritatis, quae 10
+ex solis ideis sive definitionibus idearum universalium consequuntur. Quodsi propositio
+sit contingens non est necessaria connexio, sed tempore variatur et ex supposito divino
+decreto, et libera voluntate pendet; eoque casu ratio quidem reddi potest semper ex
+natura rei, seu notione terminorum (saltem ab eo qui omnia novit), cur id quod factum
+est potius factum quam non factum sit. Sed illa ratio inclinat tantum, necessitatem autem 15
+non imponit. Ex his sequitur Axioma maximi Usus ex quo pleraque in re physica et
+morali derivantur: Nihilevenirecujusratioreddinonpossit, cursicpotius
+quamalitercontigerit. Exempli causa inter totius Staticae fundamenta ponitur ab
+C Archimede duo pondera aequalia A et B et aequaliter a centro
+motus, C, distantia in aequilibrio esse, quod corollarium est
+hujus axiomatis nostri, nam si qua eveniret diversitas, utique
+aliqua reddi potest diversitatis ratio ( pernostrumaxioma )
+quod non potest fieri ( exhypothesi ) cum omnia sese utrinque eodem modo habere
+ponantur; itaque nec diversa inde consequi possunt.
+3 connexionem, (1) ex ve (2) sive L
+4 Idque (1) verum est (2) locum habet L
+7 Et (1) quidem si necessaria sit (a) propositioni (b) propositio, solo (2) propositio ändert Hrsg. L
+8 antecedente (1) demonstrari (2) os (3) probari erg. L
+consequuntur. erg. L
+enim omnia utrobique (2) nam L
+12 ex (1) supposita (a) divina libera (b) divina voluntate
+21 nostri, erg. (1) cum
+21 diversitas, necessario erg.
+21 qua (1) esset (2) eveniret erg. L
+9 simul (1) resolutione (2) sive L
+22 ratio mentis erg. u. gestr.
+13 f. ex... novit) erg. L
+12 tempore... et erg. L
+18–20 inter... esse: vgl. ARCHIMEDES, Planorum aequeponderantium inventa, vel centra gravitatis
+planorum, in Opera, Basel 1544, S. 125.
+Postquam igitur intelleximus omnem propositionem aut veram aut falsam esse, et
+omnem propositionem veram, quae non per se vera, sive immediata est posse probari a
+priori, sequitur ut modum probandi tradamus. Is vero continetur hoc potissimum
+axiomate: Praedicatuminlocumsubjectipropositionisuniversalis
+affirmativae, velconsequensinlocumantecedentispropositionis
+affirmativae, salvaveritatesubstituipotestinaliapropositioneubi
+subjectumpriorisestpraedicatum, velubiantecedenspriorisest
+consequens. Excipiendae autem sunt propositiones reduplicativae in quibus nos
+testamur de termino aliquo ita stricte loqui ut alium substitui nolimus. Sunt enim
+reflexivae et respectu cogitationum se habent ut propositiones materiales respectu
+vocum. Caeterum ratio axiomatis hujus patet ex praecedenti. Ponamus enim dari
+propositionem Universalem affirmativam Omne B est C, et aliam propositionem A est B,
+dico in posteriori pro B substitui posse C, nam cum A contineat B, et B contineat C (per
+axioma praecedens), etiam A continebit C, quod sufficit (per axioma idem) ut dicamus A
+esse C. Nolo autem hoc loco varietatem propositionum prosequi et logicas regulas
+tradere, cum fundamentum substitutionis indicasse sufficiat.
+Siquanotiositcompleta,
+seutalis, utexearatio [ reddi ] possit
+omniumpraedicatorumejusdemsubjecticuitribuipotesthaecnotio,
+eritnotioSubstantiaeindividualisetcontra. Nam substantia individualis est
+subjectum quod alteri subjecto non inest, alia autem insunt ipsi, itaque praedicata omnia
+ejusdem subjecti, sunt omnia praedicata ejusdem substantiae individualis; eorum ergo
+ratio reddi potest ex notione substantiae individualis, eaque sola ut ex axiomate 2do
+manifestum est. Itaque notio quae hoc praestat utique ipsius substantiae individualis
+2 probari (1) a parte rei (2) a L
+2 omnem (1) probationem (2) propositionem L
+(2) potissi (3) vero erg. L
+5–8 antecedentis (1) ubi substi (2)
+in (3) propositionisaffirmativae, (a) substitui potest salva veritate. (b) salva... ubi (aa) hoc (bb)
+subjectum... ubi (aaa) conse (bbb) antecedens... consequens. L
+8 quibus (1) protestamur ne
+9 ut (1) nullus (2) ne quidem alii (3) alius substitui non possit (4)
+substitutio (a) fiat (b) fieri poss (2) nos L
+9–11 Sunt... et (1) in ordine (2) ad ea (3) respectu... ut (a) pro (b) materiales (c) propositiones... vocum. erg. L
+contineatur (2). Ponamus L
+22 ex (1) sola (2) notione L
+12 propositionem (1) universa (2) affi (3) A (4) A est B, et aliam (5)
+14 (per... idem) erg. L
+11 praecedenti (1), cum enim praedicatum in subjecto, vel antecedens in continente
+13 f. (per... praecedens) erg. L
+20 alia... ipsi erg. L
+[April bis Oktober 1686 (?)]

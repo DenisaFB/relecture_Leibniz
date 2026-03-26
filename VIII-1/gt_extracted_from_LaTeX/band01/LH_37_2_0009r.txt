@@ -1,0 +1,17 @@
+Optici phaenomeni explicatio
+
+Si plures circuli aequales ex diversis centris describantur, quo majores erunt, eo minus discrepabunt ab unica figura circulari quia quo erunt radii eorum majores distantia centrorum, eo plures habebunt partes communes.
+
+ccc
+
+&&
+
+&&
+
+Itaque tandem ita augeri poterunt circuli, ut sensibiliter desinant in unum praesertim, si non tres tantum adhibeantur, sed plures.
+
+Hinc fit ut radius solaris per foramen quodcunque transmissus quo in majore a foramine distantia plano ad ipsum radium recto excipiatur, eo magis ad circulum accedat. Quod experientia clarissimum est, sed ratio non aeque obvia pendet autem ex posita paulo ante propositione Geometrica. Cum enim radius solaris per rimulas, vel hiatus inter arborum folia transmissus in circulum efformatur, id fit quia ipse sol circularis est,
+
+---
+Additions:
+<<circuli>>

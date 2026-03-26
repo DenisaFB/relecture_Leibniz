@@ -1,0 +1,111 @@
+Ex definitionibus nostris videtur interesse inter Ens necessarium et necessario
+existens. In quo latet difficultas, quam discutere operae pretium erit. Si impossibile
+definimus quod implicat contradictionem, et possibile quod non implicat
+contradictionem, et necessarium cujus contradictorium est impossibile, dabitur Ens
+necessarium non existens, verbi gratia circulus non capacissimus isoperimetrorum est
+Ens impossibile, ergo circulus capacissimus isoperimetrorum est Ens necessarium, cum
+tamen fieri possit ut nullus in natura rerum detur verus circulus, adeoque nec circulus
+isoperimetrorum capacissimus. Sed respondeo sophisma hic latere, perelegans quidem,
+sed tamen sophisma. Scilicet licet concedatur circulum non-capacissimum
+isoperimetrorum esse impossibilem, negandum est tamen hinc sequi circulum
+capacissimum isoperimetrorum esse necessarium. Sit impossibile A, nempe circulus non-
+capacissimus etc., erit necessarium non-A, hoc est non-circulus non capacissimus etc.
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+quod etiam certo existit. Sequitur enim hic non quidem circulum capacissimum etc.
+existere, sed tantum alterutrum, vel circulum ipsum non existere, vel si existat circulus,
+eum existere capacissimum.
+14 Si (1) est erg. possibile (2) impossibile L
+licet concedatur erg. circulum (a) ca (b) non-capacissimum L
+17 circulus (1) non (2) incapacissimus (3)
+21 Scilicet (1) ipsi (2) hujus (3) si impossibile (4) negandum est (5) posito (6)
+26 f. circulus, (1) circulum non (2) eum (a)
+Definiveram alicubi naturaprius esse idem quod involutum simplicius. Deinde
+dixi natura posterioris possibilitatem posse per natura prioris possibilitatem sine
+ambagibus demonstrari, sed hae duo definitiones non videntur coincidere. Nam notio
+figurae eundem in quovis eodem segmento ubique angulum capientis simplicior est
+quam notio figurae capacissimae isoperimetrarum; tamen ambages sectabitur qui volet
+exsculpere demonstrationem possibilitatis hujus ex illa supposita.
+Omne Ens completum existens simplicius, est simul natura prius, quia omne Ens
+completum omnia alia existentia involvit.
+Unde sequitur quae in speciem simpliciora apparent, modo tempore posteriora sint,
+reapse magis composita esse.
+Videndum an non omne individuum, etiam accidens, involvat omnia alia existentia,
+quia involvit suum subjectum.
+Ad explicandum continens et contentum seu inexistentia, non videtur opus esse
+notione requisiti [immediati], nam sufficit ad aggregatum, ut plura Entia ab ipso diversa
+ad ipsum similariter concurrere intelligantur, nempe si ponantur A, B, C eodem modo, et
+eo ipso intelligatur poni L, erunt A, B, C aggreganda, L aggregatione factum totum.
+Interim verum est haec esse requisita immediata.
+Videndum quomodo certa definitione distinguamus quae in recto et quae in
+obliquo praedicantur, et quidem sit propositio David A est Pater B Salomonis τουÄ C.
+Ajo eum terminum B praedicari in recto, is enim similariter se habebit cum subjecto A, si
+quidem ponamus ex praedicato et subjecto inter se compositis fieri novum terminum, id
+enim semper succedit. Is novus terminus est AB τουÄ C, seu David pater Salomonis. Est
+igitur pater praedicatum in recto, quia simpliciter seu similariter cum termino David
+concurrit. Et quidem si alteruter terminorum propositionis sit simplex haec nota
+3–5 Nam (1) facile (2) equidem figura eundem in (a) quov (b) eodem (c) quovis eodem segmento
+10 f. esse. (1) Omne individuum, etiam accidens, (2) Videndum... accidens, (a) sit (b)
+13 f. esse (1) requisito immediato (2) notione...
+ubique angulum capiens simplicior est quam figura capacissima (3) notio... capacissimae L
+8 completum (1) alia involvit (2) omnia alia (a) invo (b) existentia L
+(1) ut (a) plura (b) plures (c) plura Entia (2) ad L
+B 〈τουÄ 〉 (bb) B (c) B str. Hrsg. A (d) David A erg.
+22 semper (1) fieri potest (2) succedit erg.
+24 concurrit. (1) Quid si vero (2) Et hoc semper (3) Et L... B erg. L. (a) Itaque Da (b) Is L
+16 L (1) aggregatum (2) aggregatione L
+immediato ändert Hrsg. L
+14 f. diversa (1) et inte (2) ad ipsum (a) simili (b)
+19 sit (1) A (2) propositio (a) 〈est〉 (b) A est (aa)
+23 cum (1) David (2) termino L
+10 magis (1) sim (2)
+INQUIRENDA LOGICO-METAPHYSICA
+manifesta. Si non sit simplex, sed uterque fortasse etiam compositus ex recto et obliquo
+reducatur alteruter ad simplicem uno pro valore hoc termino substituto.
+Termini alii significant res, alii objecta conceptuum seu notionum, sive (ut aliqui
+loquuntur) conceptus objectivos. Sic doctus A, dives B sunt termini conceptum
+significantes, nec enim sequitur duobus his positis, poni duas res; et potest fieri ut YA sit
+XB, seu ut quidam doctus idem sit qui quidam dives. Sed si A significet Alexandrum
+Magnum, B vero Caesarem dictatorem, tale quid fieri nequit, nempe quando A et B sunt
+res, tunc posito non esse A
+quia A et B sunt termini completi, quibus quicquid addi potest jam continetur, estque YA, sequitur etiam XB non esse, YA
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+Video haec jam illis sequi quae alibi diximus nempe priore significatione A et B
+sunt universalia, hoc posteriore vero sensu sunt singularia. Unde revera video singulare
+omne et totum esse Ens completum. Hinc videtur inferri, sola singularia res, quia priore
+sensu, etsi A et B sint diversa, non tamen sunt duae res seu res numero differentes, potest
+tamen dici doctum esse res docta; sed hoc: res est ipsum Y quod terminum complet.
+Quod Animal1 dicitur substantia, doctum2 vero accidens, ejus inde ratio reddi posse
+videtur, quod animalitas Rei quae animal dicitur non nascitur nec perit, doctrina vero
+utique. Sed quid de propriis? ut docilitate. Dicemus igitur terminum substantialem eum
+esse, qui est primitivus, seu qui de subjecto suo ultimo demonstrari non potest;
+accidentalem qui potest. Et proinde terminus substantialis est attributum substantiae
+individuae seu subjecti ultimi, primitivum.
+8 posito (1) A (2) non L
+(1) A non (2) quando L
+#ggggggggggggggggggggggggggggggggggggggggggggg
+14 sint (1) plura (2)
+ggggggggggggggggggggggggg
+16 accidens, (1) hoc ad ea refero, quae a (a) certo
+quodam ad (b) privatis quibusdam considerationibus pendent (2) nescio an aliunde explicari possit quam quod
+(3) ita explicabitur, qu (4) hanc notam (5) ind (6) ejus L
+21–S. 1000.1 primitivum. (1)
+Primitivos (2) Abstractum L
+13 completum. (1) Substantiam vero (2) Hinc L
+8 etiam (1) non, YA (2) non esse, (a) A (b) YA
+16 vero (1) accidentia (2) accidens L
+Abstractum est quod per propositionem exprimitur. ΤοÁ Y esse B seu τοÁ aliquem esse
+doctum idem est quod doctrina. ΤοÁ aliquem esse hominem idem est quod
+humanitas. Et datur abstractum abstracti, sic aliquid esse doctrinam est
+doctrineitas. Discipulum esse doctum est doctrina discipuli. Magistrum esse
+bonum est bonitas magistri. Quaeritur hinc an dici possit doctrina discipuli est bonitas
+Magistri, posito [in] illa hanc contineri. Sane involvit sed non ideo praedicatur unum de
+altero. An hoc sequitur? Omnis doctus est homo, ergo doctrina est humanitas, ne hoc
+quidem. Et cur dicetur doctrina discipuli, non discipulitas docti.
+An hoc sequitur? Omnis sapiens est justus? Ergo omnis sapientia est justitia. Uti
+omne album est coloratum, ergo omnis albedo est color. Cum tamen contra potius justitia
+sit caritas sapientis. Certe etsi sapiens sit justus, est tamen justum esse non praedicatum
+prius, sed posterius, sed tamen succedit: sapiens est virtuosus, et sapientia est virtus.
+Nempe non opus est collectione per obliqua intervenientia. Explicandum ergo distinctius,
+quando praedicatio concretorum pariat praedicationem abstractorum.
+211.FRAGMENTA QUINQUE DE CONTENTO ET CONTINUO

@@ -1,0 +1,501 @@
+In Generali Mathematica, sive de Numeris ac Figuris, sive de Motibus, aliisque
+rebus mensurabilibus agatur, omnia problemata huc redeunt, ut cujusdam magnitudinis
+determinatio per alias datas reperiatur talis, quae sufficiat ad quaesitae ipsius
+constructionem. Determinatio est enumeratio conditionum quae sufficiant ad rem
+unam ab aliis omnibus distinguendam. Constructio vero est operatio quaedam exacta
+cujus requisita in potestate sunt, et qua certum aliquid producitur.
+Ex omnibus porro determinationibus magnitudinum, simplicissima est aequalitas.
+Nam quod datae cuidam quantitati aut earum aggregato aut producto aequale est, sive
+cujus Va lor est datus, id utique eo ipso datum est. Cumque ignota ex notis sufficienter
+determinata, valorem etiam habeant determinatum, sequitur ignota tum demum perfecte
+cognita haberi, cum eorum Valor est inventus.
+Manifestumque est invento valore eo ipso inventam esse et constructionem, quon-
+iam v a lor est expressio quantitatis productione quadam ex datis quantitatibus facta per 20
+12 omnibus erg. L
+13, et... producitur erg. L
+15 f. sive... datus, erg.
+10 talis, erg. L
+operationes calculi quas in numeris semper peragere licet, quales sunt additio, subtractio,
+multiplicatio, divisio.
+In Generali Mathematica, sive de Numeris ac Figuris, sive de Motibus, aliisque
+rebus mensurabilibus agatur, omnia problemata huc redeunt, ut cujusdam magnitudinis
+determinatio per alias datas reperiatur talis, quae sufficiat ad quaesitae ipsius
+productionem. Determinatio est enumeratio conditionum quae sufficiant ad rem
+unam ab aliis omnibus distinguendam. Productio est operatio quaedam exacta cujus
+requisita in potestate sunt, et qua certum aliquid efficitur.
+An autem problema ex propositis initio conditionibus satis determinatum sit,
+quanquam multis modis, praevideri possit, nullum tamen generalius indicium est, quam
+ipse eventus, si quaedam productio procedens inveniri potest; facile enim apparebit inter
+operandum, an id quod producitur sit unicum, an vero plura prodeant, quorum unum non
+minus quam alterum quaesito satisfaciat.
+propositis inveniamus determinatam quaesiti productionem.
+Omnis magnitudo a nobis exprimetur vel litera quadam, ut a, b, aliove symbolo
+simplici qualicunque, vel formula ex literis composita, quales mox explicabimus. Si
+plures designandae sint magnitudines quas aequales esse non constat, unicuique
+peculiaris litera attribuenda erit. Additio magnitudinum a et b ita exprimitur a + b.
+10 initio erg. L
+sit L
+designandae sint L
+Additio L
+22 erit. Hoc tamen observandum est, ut magnitudines sint ejusdem generis. gestr.
+20, vel... explicabimus erg. L
+19 vel erg. L
+In omni calculo, sive de numeris sive de lineis [bricht ab]
+Quaecunque magnitudinem habent, etiam partibus constant, quae si assignentur
+aequales inter se, magnitudo totius solo partium aequalium numero determinatur, et
+unaquaeque pars totum metiri dicetur, sed etsi partium inter se aequalium [bricht ab]
+aliisque rebus mensurabilibus agatur, omnia problemata huc redeunt, ut ex propositis
+conditionibus reperiatur productio quaesiti, sive certus operandi modus, quo absoluto,
+ipsis conditionibus desideratis eadem opera sit satisfactum. Est autem hoc loco conditio
+nihil aliud quam relatio quaesiti ad datum involvens magnitudinem. Operatio autem est 10
+quidam modus tractandi vel res ipsas datas per constructionem, vel earum characteres
+quibus repraesentantur per calculum. Ita vero institui potest operatio quo pleraque
+peragantur potius circa characteres, et ut novissime circa rem ipsam, quando ad eam
+denique accedendum est, pauca agenda supersint. Veluti si valorem cujusdam lineae
+quaesitae in numeris reperiamus, manifestum est inventam longitudinem in scala tantum 15
+quadam sumi debere, ut Constructio, sive operatio linearis absolvatur. Interdum tamen
+constructio ipsa quae linearum ductu fit satis commoda brevisque est aut elegantiam
+habet peculiarem. Quare ita instituendi sunt characteres, ut etiam constructiones per ipsos
+cognosci possint commodissimaeque earum eligantur.
+3 aequalium erg. L
+8 conditionibus desideratis gestr.
+reperiatur L
+eadem L
+13 potius erg. L
+15 quaesitae
+post calculum gestr.
+sive L
+12 repraesentantur
+in L, L
+Persaepe non sine admiratione cogitavi cum pleraeque scientiae tanto studio
+colantur tantoque successu, cur una quae caeteras omnes potestate continet, ars
+inventoria prope negligatur. Cujus rei causam denique hanc deprehendisse mihi videor,
+quod plerique casui potius aut sagacitati cuidam naturali usu excultae quam regulis
+inventiones suas debent, ac proinde generalem inveniendi artem esse vix suspicantur.
+Quem certe errorem genus humanum magnis detrimentis luit: nam si experimenta demas
+circa abditas corporum vires, ut magnetis, pyriique pulveris, quae temporis opus, ac fati
+munus fuere, neque in hominum ut nunc sunt, suspicionem cadere poterant, caetera vel
+observationibus passim obviis, vel ratiocinationibus continentur quae duo statim ordine
+Itaque non dubito si procederemus quemadmodum oportet et quemadmodum
+possemus artis certae ductu, plura viginti annorum spatio inveniri posse etiam in materia
+maxime conjecturali, et summe necessaria1 qualis ipsa Medica est, quam ut nunc agimus
+aliquot annorum millenarii dabunt: et quoties cogito quantum nunc experimentorum
+exquisitorum apparatum habeamus, et quam parum inde ducatur ad usum vitae, toties
+nostram ignaviam negligentiamque incuso, et studia nostra illorum stultitiae comparo,
+qui immensa collectanea habent, indicem nullum. Quod si ita pergimus, accumulando
+5 aut... excultae erg. L
+3 tantoque successu
+erg. L
+proprietas versoria magnetis:
+fuissent L
+10 f. ordine omnes gestr.
+12 f. et... ductu erg.
+16 habeamus,
+10 duo erg. L
+experimenta tantum et fabricando hypotheses auribus secundas, sed nuspiam
+demonstratas, tandem ipsa multitudine laborabimus, aut ad summum abnepotibus nostris
+praestabimus aliquid, nobis nihil. Sed et illud dolendum est, passim exquisitis
+experimentis, concludi ea tantum quae per se patent, aut ex parabilissimis
+observationibus poterant certa demonstratione duci, quod perinde mihi videtur ac si
+nobis Archimedes multa reliquisset experimenta circa Parabolae et Conoidum centra
+gravitatis quorum tamen possunt dari demonstrationes. Ita perit nobis tempus
+pretiosissimum rerum, et, perpetuo materiam colligentes, nunquam structuram ipsam
+ordimur. Quare summorum quorundam Virorum sortem deploro, qui monstravere quid
+potuissent si in nostra tempora incidissent; dum interea discipuli eorum plerique
+enarrationibus ac disceptationum inanibus contenti, nihil memorabile adjiciunt
+Magistrorum inventis. Quod non tantum de Platonis et Aristotelis sed et Galilaei et
+Cartesii sectatoribus dictum volo; qui quales vulgo sunt mihi parum a Peripateticis
+differre videntur et juvenum animos materiae cujusdam subtilis ac corpusculorum usu
+inani et vago, et saepe ad blaterandum potius quam inveniendum apto, non minus
+corrumpunt; quam Scholastici qualitatibus ac formis. Bacono sane plurimum debemus,
+quod homines ad experimenta incitavit, sed nisi ad Empiricen ars analytica vera accedat,
+cujus vestigia in paucis agnosco, vix Regiis sumtibus et seculorum tractu consequemur,
+quae in unius privati sed artis inventoriae utcunque periti potestate erant.
+Hujus itaque Artis magnitudinem et praestantiam cum aliquando vidissem per
+nebulam, pulchritudine ejus ita accensus sum, ut diu prope obliviscerer caeterorum vitae
+officiorum. Praesertim cum crederem hanc ut ita dicam Visionem esse beneficium coeli,
+eamque paucis apparuisse mortalibus, et si quibus apparuit, hos eam, quantum constat
+nobis, non satis secutos, negligentia quadam rursus ex oculis amisisse. Mihi vero certum
+fuit haerere vestigiis ejus, aliis omnibus missis. Cum persuasus essem tum maxime, et
+vocanti Deo me obedire, et de genere humano bene mereri posse.
+demonstratas, L
+demonstrationes erg. L
+7–9 quorum...
+8 rerum erg. L
+17 ad Empiricen erg. L
+formis erg. L
+paucis L
+14–16 et...
+12 Platonis et erg. L
+19 utcunque erg. L
+17 vera erg. L
+Elementa autem tantae Artis neque tradere nunc satis possum, nec vellem si
+possem; Demonstrationem tamen habeo successus, et quod perinde est, certam viam
+atque ita designatam video, ut labore complanandi tantum, et si temporis compendium
+quaerimus conspiratione paucorum, sit opus.
+Combinatoria inventa voco, cum quis data re invenit aliquem ejus usum, ut qui virtute magnetis cognita
+pyxidem postea commentus est, Analytica autem, cum dato fine media eruuntur. Combinatoria autem ingenia
+et in opificibus, et in Mercatoribus, et omnino in illis agnosco qui sunt foecundi in propositiones consiliaque. In
+his enim cum magna sit agitatio imaginum et simul habitus quidam ad usum aliquem omnia referendi, hinc
+plurimas exiguo tempore ideas inter se conjungunt, quod alii non solent, et si qua se offert conjunctio felix,
+velut globulis e sacco agitato exeuntibus, hanc statim animadvertunt, eique injiciunt manus. Ita si quis audiat
+pendulum certae longitudinis unius scrupuli secundi horarii spatio absolvere oscillationem, atque inde ei in
+mentem veniat, posse hoc modo mensuras rerum ad posteros transmitti; item si quis consideret situlam in aqua
+levem sentiri, et prout magis ac magis extrahitur, graviorem percipi atque inde colligat novum librae
+exactissimae genus excogitari posse, liquidis pariter ac solidis aptae quam possis autometram dicere, quod in ea
+corpora suum ipsa inveniant aequipondium, nullis licet pondusculis ultro citroque adjectis: is combinatione
+utitur non admodum difficili, nam ubi primum admonueris, statim eam percipit unusquisque: sed hoc interest
+pyrio) inventio bombardae; et (deprehensa magnetis versoria vi) inventio pyxidis; atque huc pertinet historiola
+de ovo Columbi. Atque hos quidem homines passim ingeniosos vocamus. Sed sciendum est Combinatoria
+ingenia, si Analysi careant, mirifice subinde falli; saepe enim temere ratiocinantur, aut jungunt quae
+incompatibilia sunt, quod nisi per accuratam analysin judicari aliquando non potest. Ut si quis audiat in cochlea
+Archimedea ascensum corporum ab ipsa eorum gravitate juvari (nam certe corpus quod grave non esset per
+3 video erg. L... eruuntur. erg. Combinatoria L
+data erg. L
+16 exactissimae erg. L
+20 pyrio erg. L
+22 temere ratiocinantur, aut erg. L
+erg. L
+10 aliquem erg. L
+non attolleretur) atque inde jam credat ope ejus haberi posse motum perpetuum, quasi hoc loco
+gravitas corpora sursum niti faciat, is male ratiocinatur. Et si cochleam aqua impleat, velitque hanc aquam
+effusam ex summo et in rotam aliquam incidentem, impetu suo ipsam cochleam plenam circumagere, is
+incompatibilia jungit. Ita si quis intelligat aquam in tubos subtiles ultra aequilibrium ascendere ad pollicis
+usque altitudinem, atque inde motum perpetuum confectum putet, in tubulo, qui pollice minor sit, egregie
+falletur.
+Analytica facultas in illis est qui rebus immorantur, easque accurate expendunt, ac resolvunt. Sive hoc
+natura aut consuetudine quae altera natura habetur, aut etiam methodo sint consecuti. Est autem in his qui
+natura analytici sunt tardior motus, sed fortior ac penetrans magis, quemadmodum videmus morienti jam in
+solo progressui pilae majore tormento excussae pedem sine periculo opponi non posse et plus in murum posse 10
+unum ejus ictum, quam pluviam globulorum ex sclopetis manuariis. Sed si quis ingenio natura combinatorio
+praeditus methodum analyticam adjunxerit utriusque commodis sine utriusque incommodis frui potest. Sed et
+Combinatoria quaedam Methodus est, quam ingenia magis ad profundam analysin, quam promtam agitationem
+imaginum natura proclivia, sibi familiarem reddere possunt.
+Analytica inventa sunt, cum quis dato effectu invenit causam, quemadmodum combinatoria sunt, cum 15
+quis data re sive causa, invenit ejus usum aliquem sive effectum.
+Causa autem cur majore meditatione in analysi opus sit, haec est, quod qui dato [bricht ab]
+sive Combinationem et per analysin ; utrumque autem vel facultati natura usuve
+comparatae, vel methodo debere. Combinatio est pro arbitrio cogitationibus nostris alias 20
+jungere cogitationes ut prodeat aliquid novum, aliis rebus forinsecus assumtis, in quas ex
+sola rei oblatae consideratione incidere non poteramus. Ita qui vim magnetis versoriam
+hoc tantum, magnetem prodesse illis qui sunt in loco ubi plaga mundi ignorari potest.
+Tales autem esse qui sunt in mari, aut fodinis, aut desertis, forinsecus erat assumendum, 25
+id est instituenda erat Combinatio. Cum vero pauci sint ingenio combinatorio praediti, et
+in ea gravia ipsa sua gravitate
+3 et erg. L
+3 plenam erg. L
+19 sive Combinationem erg. L
+11 manuariis
+plerique quae non intelligunt temere contemnant, credibile est multos hanc pyxidem
+velut rem puerilem initio irrisisse.
+Analysis est cum proposita aliqua re, ei immoramur, ejusque conceptum
+resolvimus in alios conceptus ex quibus componitur, ac rei requisita atque attributa ex
+ipsis requisitis inter se junctis nata eruimus, aut etiam partem conceptus retinemus,
+partem abjicimus, quae omnia fieri possunt, sine ullo forinsecus assumto. Ut si
+animadvertam situlam quam puteo extraho, sub aqua levem satis esse, ubi vero emersit
+fieri graviorem, eoque magis, quo pars quae emersit, major est, hinc per solam analysin
+ducere possum genus librae novae exactissimae; quam autometram appellare soleo, quia
+ipsa suum aequipondium quaerit, nec pondusculis ultro citrove adjectis indiget; nam pro
+situla substituo pondus quodvis per partes emergens, ac proinde ex situlae conceptu
+retineo tantum quod ad rem facit reliquo abjecto: eligo autem pondus figura
+simplicissimum, quale est cylindricum, inutili situlae parte mente resecta: Sed et ex putei
+conceptu retineo tantum conceptum vasis liquorem continentis; denique ex conceptu mei
+ipsius, qui situlam extraho; retineo conceptum corporis vim aliquam exercentis, quae
+scilicet magnitudine partis corporis alterius ex aqua in vase contenta extracti, mensuratur.
+Habemus ergo instrumentum quod vim sive potentiam metitur, id est libram.
+Ingenia porro natura Combinatoria sunt, in quibus celer est imaginum agitatio, et simul sensus interior
+ita delicatus, ut cum agitato ut ita dicam sacco, multae intra exiguum tempus exeant conjunctiones, cum tamen
+una prodit apta his quae animo versamus, statim eam Mens percipiat, et ne dilabatur injiciat manus. At Ingenia
+natura analytica uni rei diutius immorantur, et solida magis fortiaque quam promta sunt, quemadmodum
+videmus pilae majore tormento excussae tardae licet, et morientis jam in solo progressus eam vim esse, etiam
+cum jam quietura est, ut pes ei sine periculo opponi non possit. Usus autem facultatem Combinatoriam tribuit,
+imaginum exiguarum multitudine, quam experimenta cogitationesque obtulere; sed si paucae, at clarae ma-
+gnaeque admodum imagines animum occupent aptiores analysi reddemur.
+15 retineo generaliorem gestr. conceptum nempe gestr. corporis L
+instrumentum L
+diutius L
+multitudine, L
+25 cogitationesque meditationesque gestr. obtulere; L
+16 scilicet
+Cum vero ad Analysin tantum voluntate et animi attentione opus sit, quae semper in potestate est,
+consequens est consultum esse, ut usu combinatoriam potius, methodo analyticam facultatem quaeramus.
+Analysin autem esse in potestate ex eo patet quod semper in potestate est, imaginem quam habemus examinare
+per partes; at invenire forinsecus aliam imaginem aptam huic praesenti, non est cujusvis. Et qui combinatoria
+facultate pollent similes mihi videntur Drebelio illi quem ajunt inter deambulandum per urbem reperisse lapidis
+plani fragmentum qualibus platearum pars altior nitidiorque sternitur, quod sustulerit, et postridie rursus
+deambulantem hiatum observasse, qui lapide illo ita exacte claudebatur, ut alter alteri debitus videretur, ac
+neque emineret aliquid neque deesset. Utraque tamen inveniendi ratio Methodum suam habet, ut mox dicam.
+Methodus inveniendi in universum indiget aliquo cogitandifilo, id est regula secundum quam a
+cogitatione una ad aliam transeundum esse admoneamur.
+Porro et Ingenia ad inveniendum apta vel Combinatoria vel magis Analytica sunt.
+Combinatoria sunt quibus oblata quadam re statim alia res licet longe [dissita] occurrit,
+quae cum hac utiliter componi possit. Hi ergo datae rei facile inveniunt usum in vita, ac
+datae regulae exemplum vel instantiam, narrataeque historiolae mox similem aliam in
+promtu habent. Et qui hac facultate pollent similes mihi videntur Drebelio illi, quem
+ajunt inter deambulandum per urbem, reperisse lapidis plani fragmentum, qualibus
+platearum pars altior nitidiorque sternitur; quod sustulerit; et postridie inter
+deambulandum rursus hiatum observasse, qui lapide illo exacte claudebatur, ita ut alter
+alteri debitus videretur, ac neque emineret quicquam, neque deesset.
+Analytica ingenia sunt, quae rem praesentem diligenter examinant, omnesque ejus 20
+partes rimantur, sed alia invenire quae huc quadrent, facile non possunt, nam isti ita
+immersi sunt praesentibus imaginibus, ut animum ad longinqua prospicienda attollere
+non possint. Ex quibus sequitur sua natura Combinatorium Ingenium analytico praestare,
+quoniam unusquisque Analyticus esse potest si velit, id est si patientiam examinandi
+adhibeat. Combinare vero remota promte, non est cujusvis.
+6 plani erg. L
+6 qualibus... nitidiorque erg. sternitur erg. L
+4 forinsecus erg. L
+universum L
+19 ac erg. L
+22 ad
+13 in vita, ac erg. L
+7 deambulantem
+21 isti erg. L
+11 et erg. L
+Methodus inveniendi consistit in quodam cogitandifilo id est regula transeundi
+de cogitatione in cogitationem. Cum enim Animus noster utatur imaginibus rerum
+sensibilium, consequens est, si imagines velut catena quadam implicentur, cogitantem
+exerrare, dummodo attendat, non posse. Quemadmodum ergo ad circulum accurate
+describendum Organo est opus, quo regatur manus idque eo magis quo minus exercitati
+sumus, ita ad recte cogitandum Instrumentis quibusdam sensibilibus indigemus, quae ad
+duo summa capita revoco, Characteres, et Ta bulas, quorum illis ad Analysin
+egemus, his ad Combinationem. Sunt autem Ta bulae nihil aliud quam Inventaria rerum
+per characterum systemata. Characterem voco quicquid rem aliam cogitanti
+repraesentat. Repraesentare autem dicitur quod ita respondet, ut ex uno aliud
+cognosci possit, etsi similia non sint, dummodo certa quadam regula sive relatione omnia
+quae fiunt in uno referantur ad quaedam respondentia illis in alio. Nam ad
+repraesentandum non esse opus similitudine, patet ex Ellipsi quae circuli projectio est in
+tabella, eumque repraesentat spectatori distincte satis, et per partes, cum tamen similis ei
+nec sit nec esse debeat. Et quae potest intelligi similitudo inter Characteres Arithmeticos,
+et numeros sive unitatum repetitiones? Nihilominus Characteres quibus utimur, numeros
+ita exacte repraesentant, ut proprietates numerorum inveniantur per characteres.
+Equidem si res ipsas possemus semper habere ante oculos, ut feras in vivariis, aut
+conserventur, ubi non potest, mortuorum exuviae, deperditorum varia simulacra ad
+vivum; deinde multiplicium instrumentorum atque machinarum Moduli habeantur. His
+enim ante oculos positis saepe nullo negotio consequemur, quae vix alias multa
+meditatione. Ita memini amicum, qui formam munimenti a se propositam multis diversis
+modis exhibere volebat optice, pertaesum nimiae linearum multitudinis quas ducere opus
+erat, brevissimam hanc deprehendisse viam, si munimentum ipsum elaboraret in ligno,
+quo facto mox
+5 f. idque... sumus erg. L
+6 indigemus,
+21 varia erg. L
+erg. L
+ligno erg. L,
+nullo negotio varios ejus prospectus in plano delineavit. A modulis proximae sunt
+figurae sive in charta sive in instrumentis delineatae quibus res exhibentur quales oculis
+objiciuntur. Caeterum et Modulos et Figuras inter characteres referre possis; nam
+manifestum est nec sphaeram torno elaborari [posse], nec circulum circino duci, qui
+congruat illi circulo illique sphaerae, cujus essentiam definitione cognoscimus; itaque
+characterum tantum locum implent.
+menti ratiocinaturae opus est, tractari, inque omnes partes versari satis commode non
+possint. Saepe enim decem amplius sive individuis rerum, sive exemplaribus modulorum
+esset opus, quae nec sine sumtu haberi, nec saepe tractari ac transfigurari possunt. Itaque 10
+satis mirari non potui Josephum Scaligerum potuisse credere ab Archimede quadraturam
+Parabolae inventam experimentis, quam non dubito eum uno ictu mentis pervidisse, vix
+inutili aliquot septimanarum taedio per modulos habendam.
+Figurae autem quae in charta aut pulvere delineantur etsi commodiores sint, tamen
+nec omnia simul exhibere possunt, itaque multarum figurarum conjunctione opus est, et 15
+quaedam omnino exhibere non possunt; quemadmodum cum ad suprasolida ascendimus.
+Licet itaque facile ex figura sequenti perspiciamus. ooo
+o........
+10 15
+duos numeros triangulares sibi proximos (ut 10 et 6), componere numerum quadratum
+summam numerorum cuborum inde ab unitate esse quadratum numeri triangularis
+ejusdem lateris.
+erg. L
+inque L
+gestr.
+Latera cuborum.....
+2 figurae planae gestr. sive L
+4 possi, L ändert Hrsg.
+22 (ut 10 et 6) erg. L
+23 trianguli erg. L
+5 gestr. in Tabelle Cubi L
+11 f. Josephum... experimentis: vgl. J. SCALIGER, Elementa Cyclometrica duo, Leiden 1594.
+Cubi.......
+Summae Cuborum.......
+quorum Radices quadraticae..................
+Itaque manifestum est ad juvandam Mentem opus esse characteribus, qui nullo
+negotio transponi possint, quemadmodum vocabula, et notae numerales, et symbola
+quibus utuntur Algebristae, et quidem si vocabula excogitata essent apta satis et
+constantia, mirifice juvaremur in ratiocinando, sed quoniam nulla lingua vel casu vel arte
+facta satisfacit, et vero artificium linguam excogitandi qualem oportet, nulli scriptorum
+satis notum animadverti, contenti nunc simus oportet, Characteribus qualibus hactenus
+Mathematici utuntur, id est lineis, numeris, et symbolis sive lineas sive numeros
+generaliter exhibentibus, et denique linguae qua utimur verbis receptis. Porro in quibus
+numerorum et figurarum linearium et verborum usus aptior ratiocinationi reddi posset,
+velut res a consuetudine nimis remotas, attingere hujus loci non est, itaque
+habebo.
+Porro Inventa sive per casum, sive per ingenii sagacitatem, sive per methodum, si in
+systemata redigantur et haec systemata ita ordinentur atque contrahantur, ut omnia sint
+in conspectu facileque inter se conferri possint, Ta bulas habebimus; et quoniam ob
+relationum variarum multitudinem omnes rerum cognationes Tabulis exhiberi non
+possunt Indicibus quibusdam utimur quae in se Tabulas continent potestate, haec vero
+omnia Inventariorum nomine comprehendere licet. Itaque Inventaria sunt Methodi
+Combinatoriae basis, et recte memini Virum in republica administranda et ordinanda
+Principum re oeconomica in paucis excellentem crebro dicere, in plerisque non artibus
+tantum scientiisque sed et vitae officiis inventaria nobis deesse. Ita si quis (exempli
+causa) in promtu habeat tres tabulas, unam numerorum triangularium, alteram
+erg. L
+25 alteram numerorum gestr. quadratorum L
+12 linearium erg. L
+quadratorum, tertiam summarum a cubis, is simplici combinatione theorema supra
+dictum statim animadvertet; quanquam is modus inveniendi non sit analyticus. Ita qui
+Indicem sibi conficeret ex Euclide, Apollonio et Pappo aliisque, in quibus statim
+invenire posset exempli causa quaenam propositiones loquantur de circuli tangentibus,
+quae de inscriptis, quae de rectangulis in eodem aliaque id genus, is multa saepe
+compendia elegantia simplici combinatione inveniret. Itaque subinde miratus sum
+hujusmodi indices certe mirifice profuturos deesse Geometris, cum aliae disciplinae
+indicibus abundent. Et vero nullus alius est usus, praeclarorum canonum ab aliis
+inventorum, quam ut posteris inquirendi laborem minuant; minimeque ego cum
+nonnullis libros theorematum inutiles puto, quasi omnia per analysin nunc receptam
+inveniri possint, quod quam sit falsum in progressu patebit; quanquam etsi id fieri posset
+jam ab aliis inventa ac demonstrata frustra denuo quaereremus, nisi fortasse aliquando
+exercendi ingenii causa. Equidem Originem inventorum semper vestigandam arbitror,
+efficiendumque ut omnia sint in nostra potestate, sed cum eo pervenerimus, prudentiae
+est propositiones, si adsint, adhibere, quae jam in promtu habentur, neque contemnere
+aliorum inventa, quoniam ex multis calculis pauci tantum in elegantia theoremata
+desinunt, quae antecessorum studio in aerarium publicum relata perennare, interest
+posteritatis: Tam multa enim invenienda supersunt, ut homines aliorum hominum ope et
+laboribus non satis uti possint. Ne quis autem putet, haec esse infra Analyseos receptae
+dignitatem, sciendum est, multa quae creduntur fieri per analysin, ideo tantum quia per 20
+symbola transiguntur, ea revera fieri nonnisi per Combinationem, et Synthetica potius
+quam Analytica esse; usus enim symbolorum analysin non facit. Exempli causa, si
+problema aliquod in quo incognitae sunt x et y, at a et b sunt datae, redactum sit ad duas
+aequationes x 2 + y 2 aequ. a 2, et x − y
+7 certe mirifice profuturos erg. L
+2 ; quanquam... analyticus erg. L
+erg. L
+frustra jam ab aliis erg.
+quae jam erg. L
+23 incognitae quaesitae
+gestr. sunt L
+23 at... datae erg. L
+aequ. b, possumus construere problema per intersectionem circuli cujus radius a, et
+lineae rectae indefinitae quidem attamen determinatae per datam b. Idque nobis non
+quidem apparet ex sola consideratione problematis, quod esset merae analyseos, sed et
+(quod syntheticum, sive combinatorium est) ex cognitione extrinsecus assumta
+theorematum ab aliis demonstratorum, sive ex locorum planorum catalogo aut Tabula,
+illic enim discimus aequationes in quibus indeterminatae non ducuntur in se invicem,
+quae non assurgunt ultra x et y esse ad rectam, quae vero non assurgunt ultra x 2 et y 2, et in
+quibus ambo haec quadrata sunt eodem modo affecta, eas esse ad circulum, si modo
+angulus ordinatarum sit ad axem rectus.
+Ex his itaque intelligi posse arbitror, quid sint denique Compositio ac Resolutio
+ut dixi symbola analysin; possum enim symbolis demonstrare aliquid tecta inventionis
+origine quod semper syntheticum est, et possum lineis veterum Geometrarum more
+esse synthetica seu combinatoria, id est in quam non incidissem sine notitiis forinsecus
+assumtis; ideo neque illa vera est nota analyseos, ut originem inventionis exhibeat. Multo
+magis errant qui analysin in eo constituunt, ut aliquid quaesitum habeatur pro invento,
+nam analysis absolvi potest, ne distinguendo quidem utrum inventum aut datum sit. Et
+maxime illi labuntur, qui putant deesse aliquid analysi ad certitudinem, nescientes
+scilicet cum a Geometris adhibentur proprietates reciprocae nihil referre prorsum an
+retrorsum eas. Causa autem cur demonstrationes analyticae non placeant, haec est, quod
+homines malunt res videre perfectas et perpolitas quam rudes et poliendas, nam illud est
+gratius, etsi hoc sit ad discendum utilius: itaque analyticus apparatum suum exhibens quo
+ad inventa pervenit, similis est architecto, qui perfectis aedibus relinqueret machinas
+quibus usus est ad tollendas substructiones; architectis caeteris forte gratam rem facturus,
+si quid
+7 vero erg. L
+4 (quod... est)
+erg. L
+erg. quae L
+13 quod... est erg. quia multa conjungo erg. u. gestr.
+singulare habet, sed minime caeteris mortalibus. Ea enim hominum imbecillitas est, ut
+quaedam malint admirari quam scire, et faveant illis potius a quibus circulatorio more
+decipiuntur, quam qui nudam etiam in rebus maximis veritatem exhibere pollicentur.
+Quare si ex paucis principiis ita combinatis, ut ratio combinationis initio appareat nulla,
+videant inexpectatam effulgere demonstrationem, mire delectantur, analysi autem sincera 5
+et fideli minime moventur.
+Intellectis jam inveniendi modis, per Analysin scilicet vel Combinationem, res
+postulat ut Instrumenta inveniendi exponamus, quae Characteres esse comperimus, atque
+Inventaria, sed quoniam Inventaria ipsa systemata quaedam formularum ex characteribus
+confectarum apte ordinata esse constat; sequitur totam Inveniendi artem ab Arte
+Universalis receptos, quos symbola vocant, a nobis tantum tractandos, atque ita
+perficiendos esse, ut appareat quantum hactenus desit Analysi receptae, et quanta res sit
+Ars characteristica generalis, cujus hoc loco tantum specimina damus. Sed eadem opera
+indicabimus artificia, usque adeo ampla ut non tantum quae hactenus in re mathematica 15
+inventa habentur inde manare constet, sed et aditus pateat ad alia multo majora, quae in
+vitae humanae usus verti possunt, nisi malumus ipsi nostrae felicitati deesse.
+Cogor autem admonere aliquid de discrimine Analyseos nostrae ac passim receptae:
+quamquam enim excellentes Geometrae id facile animadvertant, nam sueti tractare
+problemata minus obvia, jactatarum vulgo methodorum imperfectionem, quotidie
+sentiunt et quae his desunt cum opus est ingenio supplent. Vulgus tamen analyticorum, ut
+quidem ipsi se vocant, et inter hos etiam scientiae Magistri qui sibi haud paulo quam sunt
+systemata L
+15 ut
+tractandos, atque erg. L
+tum maxime patebit, cum aliquis problema quoddam difficile solvere suscipiet. Problemata autem difficilia
+successumque in exiguis quibusdam problematibus experti erg.
+ingenio L
+inflantur, ut se quidvis praestare posse pu erg.
+doctiores videntur; ubi praecepta calculi protrita didicere et successum eorum in minutis
+quibusdam [Problematis] experti sunt, jam subito inflati vento inani, quidvis a se
+praestari posse putant, neque interea quicquam unquam novum alicujus momenti
+aggrediuntur, alioqui haererent statim, et cum quidvis per aequationes efficere velint,
+sentirent profecto in magnis problematibus hoc ipsum arduum esse solere, ac saepe
+impossibile, invenire aequationem illam novissimam certi gradus quae incognitam
+quaesitam relatione ad datas comprehendat.
+Ajo itaque Methodos hactenus traditas pertinere sua natura tantum ad Problemata
+Rectilinea, cum quaeritur linea recta per datas lineas rectas earumque potestates, varia
+rationum compositione determinata, inde enim oriuntur aequationes. Ut si quaeratur recta
+ad quadratum de y + c, seu y ad a ut b 2 ad y 2 + 2cy + c 2, et quia factum sub extremis
+aequatur facto sub mediis, erit:
+y 3 + 2cy 2 + c 2y aequal. ab 2.
+Sed quoties in problematibus datum quaesitumve est longitudo curvae, aut area spatii
+curvilinei, vel superficiei gibbae, aut solidi contentum, et quae ex his pendent, ut centra
+gravitatis et oscillationis aliaque problemata mechanica innumera, tunc recepta hactenus
+methodus non procedit et ne ad aequationes quidem perveniri potest, quales vulgo
+quaerunt. Quin imo problemata ejusmodi neque plana sunt, neque solida, neque ullius
+certi gradus, ideoque a me transcendentia appellantur. Multae etiam aliae
+conditiones ita praescribi possunt, ut vulgaris calculi ratio sufficere nequeat ad valorem
+incognitae quantitatis inveniendum. Ut cum figuras quaerimus ex data tangentium
+proprietate, aut cum incognita ingreditur ipsum exponentem potestatum, ut si sit
+aequatio:
+quaeraturque ipsa z aut cum id quod quaeritur est quidam modus calculandi. Ut si
+quaeras
+2 z + z z + 1 aequ. 4z 2
+1 calculi erg. L
+2 Problematiis L ändert Hrsg.
+6 illam... gradus erg. L
+9 earumque potestates erg. L
+8 sua natura erg. L
+10 inde...
+lineas L
+9 datas Magnitudine et positione gestr.
+aequationes erg. L
+factum erg. L
+19 f. quales vulgo quaerunt erg. L
+18 aliaque... innumera, erg. L
+quantitatem quae eodem modo producatur ex his duabus a, b quo ex his duabus
+tunc enim non quaeritur incognita quaedam quantitas
+sequentibus
+ab et 2ab
+determinata, sed potius formula quaedam quae id praestet, quales forte multae esse
+queant. Quod si tamen formulam hujusmodi possemus reperire, haberetur quadratura
+Circuli. Sed si essent duae priores a, b, duae posteriores 1
+haberi posset
+ab et ab
+formula eodem modo producta ex duabus prioribus, quo ex duabus posterioribus. Sed id
+non est hujus loci. Tantum ut intelligatur quaestio, alio utar exemplo faciliori, sint duae
+a + b, ab + b 2
+a + b, ab + b 2
+priores a, b, duae posteriores:, formula quaesita esset ab, quae eodem modo
+producitur ex ipsis a et b quo ex ipsis
+nimirum unum in alterum ducendo,
+nempe a in b, vel
+a + b
+in ab + b 2
+2, sed in difficilioribus, ubi ignoratur quae sit quaesita
+formula, ignoratur et calculandi modus. Idem dicendum est de Problematibus
+Arithmeticis qualia proposuit Diophantus, nam in illis invenire solutiones aut quando id
+non licet demonstrare impossibilitatem nondum potuit Analysis cognita. Est tamen res
+illa tota jam nunc in potestate. Denique ausim dicere vix ullum occurrere problema
+Mathematicum difficilius in Mechanica, caeterisque artibus vitae utilibus, cui recepta
+3 determinata erg. L
+1 modo componatur sive gestr. producatur L
+10 nempe... ab + b 2
+9 ipsis erg. L
+4 tamen erg. L
+ignoratur L
+[Mai bis Juni 1679 (?)]

@@ -1,0 +1,31 @@
+Deaequipollentiacausaeeteffectus
+Quia effectus totus involvit causam integram, et vicissim causa integra involvit
+effectum totum; id est ut ex sola cognitione effectus possit aliquis venire in cognitionem
+causae, et ex sola cognitione causae in cognitionem effectus, hinc sequitur Causam
+aliquam non posse producere effectum per omnia similem et sola magnitudine
+differentem. Itaque effectus ut a non potest producere causam ut b, posito a et b differre 15
+sola magnitudine, quia duo sola magnitudine differentia non possunt se
+mutuo involvere. Eo ipso enim quod similia sunt, non potest magnitudinis
+defectus aliunde compensari, nec b potest involvere nisi partem ipsius a.1
+Idem aliter probari potest ex eo, quod reddi ratio nulla potest cur a
+producat b potius quam c, omnia enim similia sunt, et magnitudine
+differunt, itaque aut nihil producet a aut infinitum, quae duo maxime ab
+ipso magnitudine differunt, aut id potius quod minime differt magnitudine
+ab ipso, id est quod sit aequale.
+1 Nam ratiocinatio non nisi ex forma qua non differunt aut ex quantitate, sumi potest.
+13 sequitur (1) effectum aliquem (2) Causam L
+14 effectum (1) similem sibi, sed minorem (2)
+17 similia (1) non (2) sunt, L
+21 f. aut infinitum,... maxime (1) differunt
+Hinc jam porro demonstratur causam et effectum omnino aequipollere. Nam
+potentia seu quantitas effectus in quodam homogeneo aestimanda est, exempli causa in
+elevatione corporis gravis ad certam altitudinem. Et eadem causa diversos effectus
+homogeneos seu similes sed inaequales producere non potest; quod ex eo patet, quia si
+effectus involvit causam, et causa effectum, sequitur effectus ejusdem causae se
+involvere mutuo. Nam sit a causa, et b et c sint effectus. b involvit a (effectus causam), a
+involvit c (causa effectum). Ergo b involvit c. Eodem modo diversae causae ejusdem
+effectus se mutuo involvunt. Imo amplius diversi effectus diversarum causarum vel
+diversae causae eorundem effectuum, si earum fuit vel esse potest effectus vel causa
+Si potentia quaedam est certa, id est si aestimari potest quantitas effectus in aliquo
+homogeneo, utique necesse est eam in iisdem semper eandem manere. Certam autem in
+re quaque esse potentiam non vagam sequitur ex natura Dei; et alioqui nulla erit

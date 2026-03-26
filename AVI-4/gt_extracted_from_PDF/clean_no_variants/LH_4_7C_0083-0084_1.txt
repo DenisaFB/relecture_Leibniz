@@ -1,0 +1,299 @@
+marginale).
+Deformis
+Neminem harum rerum intelligentem dubitare arbitror, quin Logicae pars quae de
+figuris et modis syllogismorum agit,ad geometricum rigorem revocari possit. Et sane non
+pauci homines ingeniosi jam in eo ostendendo studium posuere; mirum tamen est verum
+modorum utilium numerum nondum determinatum haberi, quod nunc facere aggredimur,
+nec indignum Geometra putamus. Nam si laudantur qui corporum regularium numerum
+definiere, quorum nisi ad contemplandi jucunditatem usus nullus est, si Conchoeidis aut
+Cissoeidis alteriusve figurae raro usum habentis proprietates elegantiores eruisse dignum
+ingenio mathematici exercitium videtur, quanto potius erit ratiocinationem humanam qua
+neque praestantius neque utilius quicquam habemus, sub Mathematicas leges cogere.
+Nec proinde culpandi sunt Logici quod ista sunt prosecuti, sed quod istis pueros
+fatigarunt. Nos autem non tantum pro contemplandi exactitudine ostendemus cur tres
+tantum sint figurae directae, quarta vero indirecta; et in unaquaque directarum modi sex,
+in indirecta autem novem; sed et juvandis discentium ingeniis Canonem Logicum
+subjiciemus mirifici usus ad agnoscendum e vestigio solis tribus lineis rectis ductis,
+utrum propositus aliquis modus sit concludens, sine ullo figurarum et regularum
+logicarum respectu.
+Fundamentum Syllogisticum hoc est: Si totum aliquod C cadat intra aliquod D, vel
+si totum C cadat extra aliquod D, tunc etiam id quod inest ipsi C priore quidem casu
+cadet intra D, posteriore vero casu cadet extra D. Et hoc est quod vulgo vocant dictum de 20
+omni et nullo.
+Hinc statim nascuntur modi illi primitivi: Omne C est D. Omne B est C. Ergo omne
+B est D (hoc est totum aggregatum individuorum ipsius C comprehenditur sub individuis
+ipsius D, jam omnia individua ipsius B comprehenduntur sub individuis ipsius C, ergo et
+sub individuis ipsius D) vel si mavis Omne B est C. Omne C est D. Ergo omne B est D 25
+3 syllogismorum quos categoricos absolutos vocant gestr. agit, L
+14 autem
+in aliquo alio D erg. contineri, vel totum C erg.
+in aliquo aliquo non contineri
+ostendendo L
+erg. L
+metallum C erg. est fusile D erg.
+sub aggregato omnium fusilium. Itaque si quid postea reperiatur sub aggregato omnium metallorum, verbi
+25–S. 498.3 vel... ipsius D) erg. L
+12–17 Nos... respectu. erg. L
+(hoc est individua ipsius B continentur in individuis ipsius C, et individua ipsius C
+continentur in individuis ipsius D. Ergo individua ipsius B continentur in individuis
+ipsius D). Omne C est D. Quoddam B est C. Ergo quoddam B est D vel Quoddam B est
+C. Omne C est D. Ergo quoddam B est D (hoc est quaedam individua ipsius B
+continentur in individuis ipsius C, omnia individua ipsius C continentur sub individuis
+ipsius D. Ergo quaedam individua ipsius B continentur sub individuis ipsius D). Brevius
+ambos modos comprehendendo: B vel ex toto vel parte, sive respectu vel omnium vel
+quorundam individuorum, inest ipsi C, jam totum C inest ipsi D, ergo et B vel ex toto vel
+ex parte inerit ipsi D. Nullum C est D. Omne B est C. Ergo Nullum B est D. Item Nullum
+C est D. Quoddam B est C. Ergo quoddam B non est [D]. (Hoc est: B vel ex toto vel ex
+parte inest ipsi C; jam totum C cadit extra D, ergo et B vel ex toto vel ex parte cadet extra
+D.) Haec autem non minus geometricae certitudinis sunt, quam si dicatur cui inest totum
+ei et inest pars, vel a quo removetur totum, ab eo et removetur pars.
+Ex his jam paucis caeteros modos omnes demonstrabimus, usi tum subalternatione,
+tum regressu, tum conversione; et quidem per subalternationem seu argumentum ab
+universali ad particulare ostendemus modos duos primae figurae derivativos vulgo non
+usitatos; per regressum ostendemus ex primis omnes modos figurae secundae et tertiae
+ac per hos ipsam conversionem; denique accedente prioribus mediis (subalternationi et
+regressui ) conversione, ostendemus modos figurae Quartae seu indirectae. Brevitatis
+autem causa morem Logicorum secuti imposterum Universalem affirmativam
+exprimemus per A, universalem Negativam per E, particularem affirmativam per I,
+particularem Negativam per O, et scribemus ABC, EBC, IBC, OBC pro exprimenda
+propositione, et AAA, AEE, etc. pro exprimendo modo.
+1 f. continentur erg. L
+10 C L ändert Hrsg.
+sub individuis ipsius D, jam quaedam individua ipsius B comprehenduntur sub individuis ipsius C, ergo
+individuorum, erg. L
+conclusione existente falsa, et una praemissarum existente vera, altera necessario debeat esse falsa. Nam si
+ambae verae essent utique et conclusio foret vera. erg. Propositione autem aliqua existente falsa, pro vera
+negativa sunt contradictoriae: seu Omne B est C contrad. quoddam B non est C.
+Item erg. Universalis
+Negativa et particularis Affirmativa sunt etiam erg. contradictoriae: seu Nullum B est C contrad. quoddam B
+7 f. sive...
+Hinc quatuor primi modiprimae figurae, quos primitivos seu ab aliis
+independentes esse diximus, ita enuntiabuntur, Barbara : ACD. ABC. ABD. Celarent :
+ECD. ABC. EBD. Darii : ACD. IBC. IBD. Ferio : ECD. IBC. OBD. Ubi A,E,I,O
+significant formam, B,C,D materiam, nempe B minorem, C medium, D majorem
+terminum. V.g. ACD significat omne C est D, ECD significat Nullum C est D, IBC
+significat quoddam B est C, OBD significat quoddam [B] non est D. SUBALTERNATIO
+autem (cujus ope ex his quatuor modis alii duo modi primae figurae ducuntur), ita
+demonstratur: OmneAestB. Quoddam A est A. ErgoquoddamAestB. Quod
+est argumentum in Darii. Similiter: NullumAestB. Quoddam A est A. Ergo
+quoddamAnonestB. Quod est argumentum in Ferio. Hinc ex Barbara ducitur
+Barbari, pro conclusione ABD scribendo IBD, quod ex ea sequitur; et ex Celarent
+ducitur Celaro, pro conclusione EBD scribendo OBD quod ex ea sequitur, habemus
+ergo duosmodosnovoseosquederivativos, primaefigurae : Barbari :
+ACD. ABC. IBD. Celaro : ECD. ABC. OBD. Horum modorum utilitas apparebit in
+progressu ad omnes alios modos aliarum figurarum Methodo nostra constanti ex prima 15
+deducendos. Apparebit etiam tres figuras directas, primam, secundam et tertiam, habere
+numerum modorum aequalem, nempe senarium, et ex unoquoque modo primae,
+methodo regressus quae nunc sequetur demonstrari unum modum secundae et unum
+modum tertiae. Hinc secundae figurae etiam duos novos modos adjicio, tertia autem jam
+vulgo plena habetur.
+In Regressu utimur hoc principio, quod conclusione existente falsa (hoc est
+contradictoria ejus existente vera), et una praemissarum existente vera, altera
+praemissarum necessario debeat esse falsa, seu contradictoria ejus debeat existere vera.
+Supponit ergo Regressus principium contradictionis, est autem Contradictio inter
+Universalem affirmativam et particularem negativam, seu si falsa sit A vera est O, et
+contra; item inter Universalem negativam et particularem affirmativam, seu si falsa sit E,
+vera erit [I] et contra.
+Jam ex sex Modis primae figurae ducemus modos secundae et tertiae per
+Regressu m, incipiendo a Barbara, ibique rem trademus ita explicate, ut in sequentibus
+breviores esse possimus. In BARBARA PRIMAE: Omne C est D, omne B est C, ergo omne 30
+B est D. Itaque si ponatur major esse vera (omne C est D) et falsa conclusio ac proinde
+vera ejus contradictoria (quoddam B non est D) falsa erit minor (seu quoddam B non erit
+C). Jam
+5 f. V.g.... D. erg. L
+21–27 In... contra. erg. L
+27 A L ändert Hrsg.
+24 Regressus oppositionem seu gestr. principium L
+11 conclusione erg.... vera) erg. L
+argumentum tale: Omne C est D, quoddam B non est D, Ergo quoddam B non est C, est
+in Barocosecundae, oritur ergo ac demonstratur hic modus per regressum ex
+Barbara primae, supponendo conclusionem modi hujus primae falsam, et majorem
+veram. Sin ponatur in Barbara conclusio falsa (seu quoddam B non esse D) minor vera
+(seu omne B esse C), erit major falsa (seu quoddam C non erit D), quod est in Bocardo
+Id exponamus:
+Barbara :
+Barbara primae:
+Regressus prior
+ABC ABD
+ABC ABD
+Hinc Baroco secundae
+Regressus posterior
+OBD OBC
+ABC OBD
+Ergo OCD
+Hinc Bocardo Tertiae
+ABC OCD
+Barbara primae
+ACD ABC ABD
+Barbara primae
+ACD ABC ABD
+Hinc Baroco secundae
+ACD OBD OBC
+Ergo OCD
+Hinc Bocardo tertiaeOBD ABC
+Celarent primae ECD ABC EBD
+Celarent primae ECD ABC
+ABC IBD
+Hinc Festino secundae
+ECD IBD OBC
+Ergo ICD
+Darii primae
+Darii primae
+Hinc Camestres secundae
+ACD EBD EBC
+Ergo OCD
+Ferio primae
+Ferio primae
+IBC ABD
+Celaro primae
+Hinc Cesaro secundae b
+ECD ABC OBD
+ECD ABD OBC
+Celaro primae
+Hinc Darapti tertiae
+ECD ABC OBD
+ABC ABD
+Patet ex hoc schemate, dum ex Modo figurae primae ducitur per regressum modus
+respondens figurae secundae vel tertiae, majorem in prima manere etiam majorem in
+secunda; at minorem in prima manere minorem in tertia. Conclusio vero et minor in
+prima et secunda; item conclusio et major in prima et tertia prius in contradictorias
+mutatae inter se permutantur, hoc est conclusio primae per contradictoriam suam in
+secunda facit minorem, et minor primae in secunda facit conclusionem; vel contra. At
+conclusio primae in tertia facit majorem, et major primae in tertia facit conclusionem.
+Modi etiam secundae et tertiae figurae inter se respondentes seu ex eodem Modo primae
+ducti, eandem habent propositionem communem, quae minor est in secunda, major in
+tertia, caeteras (in suas contradictorias prius mutatas) etiam permutant. Hinc sequitur si 15
+quis modos secundae vel tertiae inventos eadem ratione per regressum tractet, ut modos
+primae tractavimus, non prodire novos modos, sed eosdem quos jam determinavimus.
+Nam si in secunda majorem servemus reditur ad modum primae (eandem majorem
+habentem) ex quo is modus secundae ductus erat, sin minorem servemus reditur ad
+modum tertiae (minorem servatam pro sua majore habentem) qui ex eodem modo primae 20
+ductus erat. Idem est in tertia, ubi si minorem servemus reditur ad modum primae
+(ejusdem minoris) unde is modus tertiae ductus erat; sin majorem servemus reditur ad
+modum [secundae] (majorem servatam pro sua minore habentem) ex eodem primae
+ductum. Ita ex Cesare per regressum servata majore fit pater Ferio, servata minore frater
+7 figurae... tertiae erg. L
+est L
+permutant. L
+modo secundae servemus majorem, et conclusionem majoremque (in contradictorias suas prius mutatas) inter
+se permutemus redit modus primae, ex quo eodem plano modo factus erat hic modus secundae. Sin in eodem
+18 servemus conclusionem vero et
+18 f. (eandem majorem
+minorem (in contradictorias mutatas) inter se permutemus gestr.
+habentem) erg. L
+Cesare. L
+23 sua erg. L
+20 f. primae erg. L
+(majorem erg. L
+Datisi; similiter ex Datisi per regressum fit pater Ferio, aut frater Cesare. Hinc facile
+etiam sciri potest ad quem primae modum datus aliquis secundae tertiaeve modus
+Altera majorem sed tertia forma minorem
+Ex prima servat quando regressus erit.
+Ut jam amplius barbaris vocabulis Cesare, Camestres, etc. reductionis causa inventis
+opus non sit, modo quis intelligat nihil aliud hic regressum appellari, quam supposita
+falsitate conclusionis et veritate unius praemissae concludere falsitatem alterius
+praemissae. Res generaliter ita patet, dissimulando qualitatem et quantitatem
+in prima
+in prima
+CD BD BC
+BD BC CD
+Haec secundae tertiaeque figurae demonstratio simul continet earum originem a
+priori, seu modum quo potuere inveniri, quae demonstrandi ratio optima est; synthetica
+enim est sive combinatoria, non vero analytica quae figuras istas jam datas assumit.
+Praevideri etiam hac methodo potest quot modi et figurae oriantur, nam unus modus
+figurae primae unum dat secundae unumque tertiae. Fecit autem, credo, neglectus
+novorum a me additorum modorum primae et secundae figurae, ut haec methodus non
+observaretur; alias enim non apparet ejus universalitas in modis tertiae ex prima
+derivandis. Unde Logici communiter utuntur conversionibus ad demonstrandos secundae
+et tertiae figurae modos; sed ita simul incidere in modos quartae. Haec vero nostra
+Methodus figuras directas, secundam nempe et tertiam ex prima ducit per regressum, at
+modos indirectos, figurae scilicet quartae per regressum solum obtinere non licet, sed
+conversiones sunt adhibendae, quae tamen ipsae per secundam tertiamque figuram
+9 dissimulando... quantitatem erg. L
+6 etc. erg. L
+demonstrari, ut nunc ostendam. Unde hac methodo vera ratio apparet, cur quarta figura a
+figurarum directarum numero excludatur, et secundae tertiaeque sit postponenda,
+quandoquidem non nisi per illas demonstratur.
+Ut autem ad quartam figuram accedamus, praedemonstrandae erunt conversiones:
+1) In Cesare secundae demonstratur Universalem Negativam posse converti
+simpliciter, nempe: Nullum A est B, Omne B est B. Ergo Nullum B est A.
+2) In Darapti tertiae demonstratur Universalem Affirmativam posse converti per
+accidens, nempe: Omne A est A, Omne A est B. Ergo quoddam B est A.
+3) In Festino secundae demonstratur universalem negativam posse converti per
+accidens, nempe: Nullum A est B, quoddam B est B. Ergo quoddam B non est A.
+4) In Datisi tertiae demonstratur particularem affirmativam posse converti
+simpliciter, nempe: Omne A est A, quoddam A est B. Ergo quoddam B est A.
+Hoc modo enim (ut et in demonstranda subalternatione apparuit) consequentiae
+biterminae, adhibitis propositionibus identicis eundem terminum bis ponentibus,
+praebent syllogismos triterminos. Conversio per contrapositionem huc non pertinet, in
+contrapositione enim ipsi termini mutantur translata mutatione a copula seu forma in
+ipsum terminum seu materiam. Licet autem identicae aliis etiam in modis adhibeantur,
+tamen nullas novas conversiones obtinebimus, sed plerumque in conclusionem
+praemissae repetitricem incidemus. Cui accedit quod solae propositiones affirmativae
+identicae esse possunt, et pro negativis veniendum est ad contrapositionem. Ut enim
+dicere possum, Omnis homo est homo, ita dicere etiam possum Nullus non-homo est
+homo. Sed contrapositio ut dixi hujus loci non est.1
+[ AdditamentummarginalerespiciensmodosFabrii ]
+multiplicat modos praeter rem, ita [AAI] ipsi in tertia figura dat 4 modos tertiae: Omnis 25
+2 f. et... demonstratur erg. L
+20 negativis identicis gestr. veniendum L
+25 AII L ändert Hrsg.
+24 H. FABRI, Philosophiae Tomus primus qui complectitur scientiarum Methodum sex Libris
+explicatam: Logicam Analyticam, duodecim Libris demonstratam, et aliquot Controversias logicas, breviter
+disputatas, Lyon 1646.
+Homo est Animal. Omnis homo est substantia. Ergo quaedam substantia est Animal.
+Item si transponantur praemissae sine conversione conclusionis (quod revera non dat
+novum modum ), item si convertatur conclusio sine transpositione praemissarum, Omnis
+Homo est animal. Omnis Homo est substantia. Ergo quoddam Animal est substantia (hic
+modus non differt a sequente, quia est ejus transpositus tantum). Denique si convertatur
+conclusio et transponantur praemissae, Omnis Homo est substantia. Omnis Homo est
+animal. Ergo quoddam animal est substantia. (Hic modus revera est [tertiae ] figurae.)
+Displicet etiam methodus P. Fabri percurrendo omnes possibiles et excludendo
+his solis retentis, quae via est tantum subsidiaria, cum melior non datur.
+Ait Fabrius Baroco, et Bocardo non posse reduci ad primam figuram nec mediate
+nec immediate, seu ad dictum de omni et nullo. Intelligit opinor per regulas
+conversionum. Sic ergo ille instituit probationem in Baroco. Omnis homo est animal.
+Quoddam corpus non est animal. Ergo quoddam corpus non est homo. Hoc probat sic:
+quia cum animal praedicetur universe de homine (per prop. 1) erit terminus superior et
+homo inferior. Sed negatur animal de aliquo corpore per secundampropositionem,
+igitur de aliquo corpore debet negari homo quae est conclusio, consequentiam probat per
+axioma : de quo negatur superius ut animal de eo et negari debet inferius ut homo. [p.
+Similiter probat hunc modum tertiae: aliquod animal non est homo, omne animal
+est corpus, ergo aliquod corpus non est homo. Cum enim corpus sit [superius ] et animal
+[inferius ] (per prop. minorem), et negetur homo de aliquo animali (per majorem),
+debebit et negari de [corpore] quae est conclusio, per axioma : quicquid negatur de
+inferiori particulari, negabitur et de superiori particulari. Putat ergo Fabrius haec duo
+axiomata debere addi ad dictum de omni, et ad dictum de nullo. [p. 208 sq.: lib. III,
+307] Ego habeo modos utiles tantum 24.
+7 quartae L ändert Hrsg.
+2 sine conversione conclusionis erg. L
+16 f. propositionem (debebat dicere negatur homo de aliquo corpore) gestr.
+consequentias aliunde demonstrari, istud non facit ad rem et lapsus est festinatione Fabrius, quia potius ex eo
+22 superius L ändert Hrsg.
+igitur L
+NB. P. Fabry meminit etiam modorum Barbari, Celaro, nam lib. 3 logicae schol.
+post th. 147 [p. 198] ait sex modos qui immediate probantur per dictum de omni et
+dictum de nullo, vulgo vocari Barbara, Barbari, Darii, Celarent, Celaro, Ferio; et similiter
+sex indirectos ad hos ait vulgo nominari Baralip, Dabitis, Celantes, Celantos, Fapesmo,
+Frisesom. Vellem nosse quinam sint illi qui Barbari, Celaro, et Celantos nominant, ego 5
+non memini 〈me videre〉. Interea miror coincidere haec cum iis quae de meo in arte
+combinatoria dixeram. Nominat etiam Cesaro, Camestro. [p. 211: lib. III, schol. post
+Aliquis homo est albus, Nullus lapis est homo, igitur aliquod album non est lapis. [p. 195
+primae figurae. Nam servanda generaliter regula elata ut major propositio praeponatur
+(vel si mavis postponatur) quia trajectio simplex non mutat modum, cum sufficiat semel
+dicere, trajectione numeros modorum duplicatum iri, si quis eam quaereret.
+Hinc male postea idem Fabrius quartam Galeni concipit, quae nihil aliud est quam
+quas ille vocat indirectas Aristotelicas transpositas, sunt verae Galeni, nempe vere ad
+quartam Galeni pertinet ista: Nullus lapis est homo, aliquis homo est albus, Ergo aliquod
+praeponenda semper majore. Ait transpositas Aristotelicas directas vocari vulgo Gargara,
+Gargari, Dirai, Calerem, Calero, Fireo, at transpositas indirectas vocari Garalip, Dibatis, 20
+veri modi Galeni. Arnaldus qui recte quod dixi notat exprimit Barbari, Calentes, Dibatis,
+Fespamo, Frisesom. Miror interim Arnaldum non considerasse modos sex posse esse in
+prima et secunda, et [non solum] quinque in quarta.
+Origo erroris in Fabrio, quod duplicatos illos modos obtinet per conversionem
+conclusionis quando ea est possibilis, retento [bricht ab]
+7 Nominat... Camestro. erg. L
+3 Celarent bei Fabri: Celarem.
+23–25 Arnaldus... quarta: A. ARNAULD u. P. NICOLE, La logique ou l’art de penser, Paris 1662, pars III, cap.
+5, 6, u. 8.
+119.DE DEMONSTRATIONE AXIOMATUM NON IDENTICORUM

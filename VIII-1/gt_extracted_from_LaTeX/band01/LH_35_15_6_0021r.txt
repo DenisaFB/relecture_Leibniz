@@ -1,0 +1,20 @@
+(I) Ces problemes supposent tousjours __le lieu du soleil, donné__. Mais il ne peut pas estre donné sur la mer, que par un Horloge de la derniere exactitude, continuellement dépuis la sortie du port; pour sçavoir quelle heure il seroit, si nous serions encor au lieu du départ. Un tel horloge est le fondement de tout ce qu'on a trouué jusqu'à la de plus veritable pour les longitudes. Mais il y a bien de difficultez, puisqu'on n'est pas assez asseuré du succês des pendules mêmes sur la mer.
+
+(II) Trouuer la declinaison de l'éguille aimantée, et trouuer la ligne meridienne, c'est la même chose.
+
+(III) Si la declinaison du soleil ou son lieu dans le Zodiaque est donné et l'heure courante, aussi les longitudes sont découuertes.
+
+(IV) Les problemes donc auroient pû estre conceûs de cette sorte: (1) [[les latitudes et l'heure du lieu du départ du navire, trouuer les longitudes]] Sçachant [[, (ou la longitude), trouuer le lieu present trouuer la longitude du lieu present]] la latitude du lieu present et l'heure du lieu du départ du navire, trouuer le lieu present, aux rayons du soleil (2) Sçachant la ligne meridienne du lieu present, et l'heure du lieu du départ trouuer la latitude du lieu present aux rayons
+
+du soleil. Ou sçachant la ligne meridienne et la longitude trouuer la latitude aux rayons du soleil. (3) Sçachant la latitude et la longitude trouuer la ligne meridienne aux rayons du soleil.
+
+(V) Il faut tousjours avoir trois poincts pour determiner le lieu où [[(1) le]] nous sommes. Le lieu où nous sommes se determine par comparaison avec le lieu du départ. Si l'on sçauroit la distance du lieu du départ, et les angles qu'on [[qu'on y]] a fait en cheminant, le lieu du navire sera determiné. Si l'on sçaura, [[le lieu du soleil que nous voyons, en comparaison du lieu du départ]] l'angle qui
+
+Nous avons tousjours determiné le centre de la terre. Par consequent l'horison. Par consequent l'angle du soleil à l'horison, si nous le voyons. Nous sçavons aussi par l'horloge, l'angle que le même soleil fait en même temps, à un autre horison, du départ.
+
+---
+Additions:
+<<tousjours>>
+<<trouuée>>
+<<Et si les latitudes sont connües aussi, le lieu du navire est precisement connu>>
+<<[[l'heure]] parce que l'heure du lieu du départ conferée avec les rayons du soleil peut donner les longitudes. Et les longitudes et latitudes ensemble donnent les lieux precisement>>
