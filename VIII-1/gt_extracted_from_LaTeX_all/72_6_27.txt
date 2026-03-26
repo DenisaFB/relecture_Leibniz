@@ -1,0 +1,5 @@
+Quinimo si quid insit huic principio vitii, illud potius erit, quod in maximis inclinationibus refractionis angulos exhibet apparentibus aliquantillo majores;.
+
+---
+Additions:
+<<: Quinimo … majores>>

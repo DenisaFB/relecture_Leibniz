@@ -1,0 +1,6 @@
+VIII. Dato angulo refractionis, radio incidente ex raro in densum, dari potest, incidente ex denso in rarum; si enim vt Keplerus ait, supra arcum 30. angulus refractionis est. anguli complementi, quando cadit ex raro in densum, erit. cadente ex denso in rarum v.g. sit medium densum BCL, centrum A, arcus 30. BC, sit DCK incidens ex raro in densum, perpendicularis ACE, sint arcus ED, AK, descripti ex centro C, sit angulus KCI. anguli ACK, aequali ECD, producatur ICF, certe si IC cadat ex denso in rarum, radius refractus erit CD, vt supra dictum est; sed angulus refractionis FCD est subduplus anguli ICA, vel FCE reliqua de refractione infra dicentur.
+
+---
+Additions:
+<<: Dato angulo … 30. angulus>>
+<<: Fig. 84. 2>>

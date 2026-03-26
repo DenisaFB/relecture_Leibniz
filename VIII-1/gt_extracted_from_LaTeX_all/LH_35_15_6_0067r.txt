@@ -1,0 +1,11 @@
+observatione coelesti, ac proinde aeris marisque injuria independentem, de quo fusius dicendi locus erit.
+
+Problema jam propositum ita solvetur: __Dato Horologio exacto, datur locus sideris in mundo, momento dato, locus sideris__ inquam, id est ejus longitudo et latitudo: __Latitudo__ quidem si sidus cum polo immobili; __Longitudo,__ si cum centro seu cum meridiano primo in terra ut immobili supposita, ducto comparetur. __Latitudo__ ejus si quidem sit stella __fixa,__ semper eadem, ac proinde cognita est. Si __planeta,__ determinatur, determinato ejus loco in Zodiaco quem nobis Ephemerides monstrant, hora, minutove dato. __Longitudo__ sideris cognoscitur hora data, nam si __fixa__ est, scimus quantum a Meridiano primo eam abesse, nunc necesse sit, quia fixarum revolutiones sunt semper aequales, et praecise 24. horis absolvuntur. Si ergo constet nobis, quo in loco tempore quodam cognito, aliqua fuerit fixa, constabit nobis semper quo in loco, tempore quocunque dato eadem fixa, imo alia quaecunque futura sit. Nam ipsarum fixarum motus peculiaris, a motu primi mobilis diversus, cum non nisi post multa saecula sensibilis fiat, in calculum venire nec potest, nec debet.
+
+Sin __Planeta__ est, constabit nobis utique per easdem Ephemerides quantum nunc absit a meridiano primo versus ortum- occasumque, nam etsi revolutiones ejus non sint revolutionibus fixarum aequales, differentia tamen nobis cognita est quae supputari potest, potuitque. Sed in eam quidem rem planetis praeter solem lunamque (quorum exploratus satis cursus est) opus non habemus, quoties enim caeteri planetae videri possunt, poterunt etiam fixae videri, quarum usus certe expeditior.
+
+__Dato porro Loco sideris praesente (per horologium exactum Ephemeridesque ) dataque (per observationem) elevatione ejus super horizontem__, [[horizontem, versus definitam]]
+
+---
+Additions:
+<<alias>>

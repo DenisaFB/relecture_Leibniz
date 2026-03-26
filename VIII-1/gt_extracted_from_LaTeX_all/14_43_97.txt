@@ -1,0 +1,10 @@
+hinc petitur ratio, seu demonstratio illius praxis, qua describitur parabola opera fili, cuius altera extremitas affixa est in A, altera pendulum sustinet, quod mouetur per rectam AB; hinc facilis ratio ducendae tangentis parabolam; habes igitur omnes radios candentes in speculum parabolicum cavum parallelos scilicet, quales supponuntur radij a sole profecti, reflecti ac colligi in focum A, vbi erit punctum vstorium.
+
+V. Vt autem fiat speculum huiusmodi, voluatur semiparabola BGA, circa axem AG, speculum vstorium perfectius dari nequit; cum omnes omnino radij physice loquendo colligantur; dico physice; quia Geometrice secus accidit; tum quia radij non sunt omnes paralleli, tum quia superficies speculi nunquam ita tersa est, quin aliquae salebrae restent; si autem ita apponatur aliud speculum parabolicum, communi foco, A, radij ab eo reflexi paralleli erunt, vnde si minimum sit, omnes radios in lineam vrentem, vt vocant, et infinite productam colliget; lineam dico physice adaequantem scilicet minoris speculi angustias; .
+
+---
+Additions:
+<<: ratio … parabolam>>
+<<: habes igitur … vstorium>>
+<<: speculum vstorium … nequit>>
+<<: si autem … colliget>>

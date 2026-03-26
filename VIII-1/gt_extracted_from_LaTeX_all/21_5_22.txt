@@ -1,0 +1,10 @@
+Della terza proprietà della Parabola.
+Cap. XI.
+
+Sia la Parabola BAC nell'8. fig. il cui asse OA indiffinitamente prolongato verso A, come in X, e sia foco di detta Parabola il punto M, e da che parte si voglia fuori di essa incontrino la superficie parabolica per essempio le rette linee TI, FK ne i punti I, K, le quali siano sempre per dritto al foco M; hà dunque la Parabola quest'altra mirabile proprietà, che dalli detti punti d'incidenza si partono le riflesse dalla Parabola per di fuori sempre parallele all'asse, cioè all'AO, le quali riflesse siano le IV, KY prolongate come si voglia in V, Y. Ne meno questa proprietà hò veduta in altri, se ben facilmente si dimostra, come hora s'intenderà.
+
+---
+Additions:
+<<terza. secunda potius Catoptrica proprietas>>
+<<fuori di essa>>
+<<è coincidente in effetto, con la prima, e vero è un corollario della prima>>

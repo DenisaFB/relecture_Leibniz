@@ -1,0 +1,52 @@
+Figure fautive p. 86. de la perspective cette methode n'est pas assés propre à eclairer l'esprit, parce qu'elle ne nous fait connoistre qu'à la fin les raisons pourquoy l'auteur nous mene comme cela. Elle n'est pas propre à l'invention mais elle a l'avantage de surprendre les lecteurs, quand ils se trouuent menés à quelque chose sans y penser; et on retient mieux les choses qu'on admire. V. p. 57. 58. p. 83. fin. p. 84 fin.
+
+Dans la page 28 on ne voit pas bien la raison, pourquoy CZ et EL doiuent estre prises telles qu'il dit.
+
+J'ay adjouté quelque chose, (marqué de NB) p. 86.
+
+Sur quoy vous pouuez iuger qu'il en est de mesme de toute autre chose que du corps humain, et que quand vous aurez apris les regles de la perspectiue, pour faire le pourtraict de quelque chose que ce puisse estre sur le deuis que vous aurez des mesures necessaires à cela, vous ne serez non plus obligé de vous y seruir, si vous ne voulez, de la regle, et du compas: Mais vous le pourrez faire, si bon vous semble, ainsi que celuy du corps humain, sous la conduite de l'imagination, et de l'oeil, auec la connoissance que vous aurez des mesures de ses parties;.
+
+De plus il faut imaginer, qu'vne surface plate et transparante, encore immobile en vne place, trauerse toute l'estenduë ou epesseur du rayonnement sous lequel l'oeil void le sujet sans en interrompre aucunes de lignes.
+
+La surface plate qu'on entend qui trauerse le rayonnement de la veuë est nommée par quelques vns la transparance par d'autres le verre, la section, et par d'autres d'vn autre nom.
+
+Quand le plan du tableau se trouue paralelle à la figure qui est le suiet, lors en quelle part que l'oeil se trouue situé, la figure de representation est toûjours entierement de mesme forme que celle du suiet: et de plus vne mesme grandeur sert à la mesurer toute en tout sens d'vn bout à l'autre.
+Quand l'oeil est entendu situé à distance infinie, ou interminée, en quelque sorte que le plan du tableau soit situé, la figure de representation est de telle espece, que ces deux choses s'y trouuent;.
+
+en apres tirez au delà de cette conduite, à autant de ses pieds loin d'elle, que vous voulez que la hauteur de l'oeil en contienne, vne droite ZCX, qui luy soit paralelle; elle sera celle qu'on nomme communement, horisontale, et M. D. ligne du plan de l'oeil; Dauantage, menez des deux bouts q et p, duquel que vous voudrez des pieds de la conduite de front ElGV, comme icy par exemple de celuy 4, au point qu'il vous plaira C, de la ligne horisontale ZCX, deux droites fuyantes qC, pC; elles vous regleront entr'elles deux, l'inegalité continuelle qu'il doit y auoir entre les pieds de front de cét exemple; c'est à dire qu'elles en forment l'eschelle des pieds de front:.
+10
+
+10Unter der Überschrift: __Pieds de front__ sont les parties des lignes de front; comprises entre deux fuyantes menées des deux bouts q, p d'un pied de l'echelle
+
+fondamentale EV à un point C de la ligne horizontale; ZX.__L'echelle__ de front est la suite des pieds de front compris entre deux mêmes fuyantes. Prenez dans l'echelle fondamentale, une droite EL, qui est à un pied de l'echelle fondamentale qp comme CZ prise dans l'horizontale depuis le point C, est à la distance de la station à la conduite de front. Menés EZ, lZ les parties des lignes de front, comprises entre les deux fuyantes EZ, lZ seront les pieds fuyans et leur suite sera l'echelle des pieds fuyans.
+In der Mitte unter der Geraden: ZX: ch, hk, etc. égal à El
+Links unter der Geraden: ZX: CZ est autant de fois El que la distance de la station à la conduite de front, a des pieds de long.
+Unter der Zeichnung links: El__pied fuyans fondamental.__ NB
+Unter der Zeichnung: Suppose ZE parallele à CG il se demontre que EO est egale à 1q1p car EO: ZO :: El: GE :: qp: CZ :: 1q1p: ZO. La figure est mal faite, car CZ deuuroit estre à CG comme El à qp, et les deux premiers estans faits quasi egaux. Les derniers le deuuroient estre [[supposant et item et paralleles et egales]] aussi.
+Unter der Zeichnung rechts: __pied de front fondamental__ NB, et __pied geometral__ NB sont une même chose qp.
+Neben der Zeichnung rechts am Rand: CG hauteur de l'oeil qp pied [[egal si vous voulés à]] geometral El pris à discretion
+
+lCZ:CG::EL:qp
+
+EO: O1 :: EZ: CZ :: qp: ElZO: O1 :: ZE: El
+
+seu ZO: EO :: GE: El. Ergo seu
+itaque EO prodit eadem, qualiscunque sumatur El.
+footnote1
+
+---
+Additions:
+<<si>>
+<<encore>>
+<<: quand … l'oeil>>
+<<: plate>>
+<<: plate>>
+<<: Quand … figure>>
+<<: Quand … infinie>>
+<<: la 4 planche commence les nombres par>>
+<<M. D. Mons. Desargues>>
+<<: la figure est fautive>>
+<<: l'eschelle … front>>
+<<: égal à ou à>>
+<<: à ou à comme la distance de la station à la conduite de front est à un pied. : égal à: c dpen c 5
+40mm10mm: echelle de front echelle fuyante>>

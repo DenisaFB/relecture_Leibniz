@@ -1,0 +1,6 @@
+car la distance de leur tiers poinct, au Poinct principal, est toûjours égale à la distance de l'oeil au Tableau.
+
+---
+Additions:
+<<: toûjours égale à la distance>>
+<<: Cela n'est point necessaire si non lorsqu'on se sert par tout de droites perpendiculaires au tableau>>

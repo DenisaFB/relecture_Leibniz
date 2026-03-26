@@ -1,0 +1,5 @@
+IX. Vt autem puncta O et V pro 22. hora in tropico Cancri, habeo in analemmate signata, ita habeo puncta pro aliis horis; itemque in tropico Capric. ac proinde citra vllum calculum, aut descriptionem hyperbolae, aut operam acus magneticae, cum praedicto analemmate, signato quolibet puncto vmbrae, in quolibet plano verticali, horologium, describi potest, Italicum quidem, vt dictum est; Astronomicum vero, longe facilius, idque per solam applicationem horizontalis; sed de horologiis in Gnomonica ex professo agam.
+
+---
+Additions:
+<<: ac proinde … horizontalis>>

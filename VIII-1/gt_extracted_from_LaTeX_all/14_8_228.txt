@@ -1,0 +1,5 @@
+Mitto etiam epistolam accuratissimi obseruatoris Saluatoris Serrae, ad ornatissimum virum D. Ioan. Lucium scriptam, et typis mandatam, de Iouialibus vmbris et reuolutionibus Martis: .
+
+---
+Additions:
+<<: accuratissimi obseruatoris Saluatoris Serrae>>

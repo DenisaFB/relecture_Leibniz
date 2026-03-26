@@ -1,0 +1,7 @@
+Quand le plan du tableau se trouue paralelle à la figure qui est le suiet, lors en quelle part que l'oeil se trouue situé, la figure de representation est toûjours entierement de mesme forme que celle du suiet: et de plus vne mesme grandeur sert à la mesurer toute en tout sens d'vn bout à l'autre.
+Quand l'oeil est entendu situé à distance infinie, ou interminée, en quelque sorte que le plan du tableau soit situé, la figure de representation est de telle espece, que ces deux choses s'y trouuent;.
+
+---
+Additions:
+<<: Quand … figure>>
+<<: Quand … infinie>>

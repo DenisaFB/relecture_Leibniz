@@ -1,0 +1,29 @@
+Remedia:
+
+(1) [[acus potest ita forti]] __fortificatio acus magneticae__ut vim acquirat decuplo imo centuplo majorem. Unde sequitur pyxidem posse fieri satis magnam, satisque accurate subdivisam. Satis item virium in acu [[esse]] fore ad ductus in mappa describendos.
+
+(2) __Ductus__ possunt [[subtilissimo]] fieri subtiles, levique attactu
+
+(3) [[Omnis pyxi]] acus, utcunque jactatione perturbata sit, restituit se ipsam in lineam flexumque priorem veri ergo flexus emergent semper ex perturbatis.
+
+[[In quo acus Pendula ea in re acubus sunt inferiora, perturbatio enim in iis semel admissa postea non compensatur]] (4) Quod declinationes attinet, etsi supponeremus nullum hic ex ipsa pyxide remedium esse, constat tamen earum observationem pene quotidianam non esse difficilem, et in longissimis itineribus Nautas quosdam acus declinationem singulis propemodum diebus annotasse. Quare nihil aliud eo casu ad rei Hydrographicae perfectionem restabit, quam ut [[diligenter observentur declinationes]] [[linea]] declinatio diligenter observetur.
+
+sequitur ergo ex hac machina (sine ulla constituta declinationum Theoria universali) id quod hactenus irrito conatu quaesitum est, ut __solis observatis declinationibus Longitudines dentur.__
+Constat [[eos]] plurimos eorum qui nobis longitudines promisere, declinationes observari praesupposuisse.
+
+(5) Accedit quod declinatio mutatur non per saltus, sed paulatim, potest ergo continue error machinae emendari; et quamvis uno alterove die non possit observari declinatio, interea tamen, sic satis aestimari ex praecedentibus potest, errore postea ex sequentibus [[observationibus exacte]] observationibus emendato.
+
+(6) [[Emendationis hujus continuae facilis quaedam ratio haberi potest, ut pondus quoddam aut elaterium rotis recte proportionatis applicatum pyxidem tantundem circiter retroagat, quantum acus interim ea die declinando processit ita eodem res redibit, quasi nulla esset declinatio]] Et potest ratio institui, ut machina continue emendet se ipsam, nullo
+
+(7) [[Sunt et aliae Emendationes auxiliatrices]] Est et alia Emendatio. Nam si acus et Navis eodem declinant, v. g. utraque a Septentrione in Orientem, potest haberi ratio determinandi in ipsa pyxide quis flexus sit a navi, quis ab acu.
+
+(8) Cum item ope __pyxidis inclinatoriae__ determinari semper possit Latitudo et Machina itidem Latitudinem determinet, collatio pyxidis inclinatoriae cum Machina Hydrographica, dabit nobis
+quantum a latitudine aberraverimus. Hinc autem poterit calculo satis subtili supputari quantum et in Longitudine Machina exerraverit. Constat enim de effectu quoad Latitudinem, constat item de proportione mutatae longitudinis ad mutatam latitudinem. Hinc supputabitur ex dato errore latitudinis error longitudinis. Semper enim latitudo et longitudo sunt sibi [[proportionales, id est]] complemento ad angulum rectum, ac proinde quanto minor est Latitudo tanto est longitudo, et contra. Haec machinae Hydrographicae rectificatio est universalis, a coelo et sole independens, semper in potestate. Et si inclinationis mutatio continue observabitur calculus rectificandarum quoque longitudinum ita exactus erit, ut vix gradu aberrari posse putem.
+
+---
+Additions:
+<<Magni ad rem nauticam momenti haec fortificandarum acuum inventio est>>
+<<[[Hae]]>>
+<<exacte>>
+<<qualitercunque>>
+<<praecise>>

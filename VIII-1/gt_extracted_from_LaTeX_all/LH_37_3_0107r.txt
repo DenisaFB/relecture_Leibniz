@@ -1,0 +1,30 @@
+Propositio Experimentorum Novorum,
+quibus sumtis omnes controversiae
+circa Aeris pressionem
+videntur definiri [[Cum nuper Illustris Hugenius in novissimo Diario Eruditorum Experimentis rem literariam auxerit]] posse. [[Illustris Hugenius publicatis in novissimo Diario Eruditorum]]
+
+Experimenta Pneumatica quibus in novissimo Diario Eruditorum
+publicatis Illustris Hugenius rem literariam auxit
+
+admonuere me [[eorum]] Experientiarum quas in eam rem sum dudum meditatus, et quarum successus omnes ejus argumenti controversias firma demonstratione dirimere posse videtur. Haec publice proponere operae pretium visum est, ut aliis alia pro cujusque commoditate sumentibus, quamprimum dubitationibus [[Experim. 1. Nec vereor ne quis parum probet Experimenta nondum sumta proponi]] liberemur.
+
+__Experim. I.__
+Esto Tubus Torricellianus Mercurio plenus AB vas subjectum in quo stagnat alius Mercurius C.
+[[Mercurius ex delabatur in vas subjectum ita ut non nisi altitudo ordinaria residua sit summitas]] Altitudo Mercurii dalabentis BE. Vas clausum aere ordinario plenum D in quod intret extremitas Tubi AB ita tamen ut Epistomium F clausum communicationem neget inter partem Tubi FB et residuam partem AF apertam in A versus vas D et clausam per Epistomium in F versus Tubum FB. [[Vas]] [[Tubus]] Tubi pars FB sit Mercurio plena, clausa in F et aperta in B. Et Tubo erecto Mercurius effluet in vas subjectum demta altitudine BE spatioque FE ad sensum Vacuo relicto. Quo facto aperiatur Epistomium F ajo si eo [[casu]] facto Mercurius BE delabitur in Vas C veram esse Hypothesin Funiculi seu Aeris dilatati __attractionem,__ sin suspensus maneat veram esse Hypothesin quae Gravitate Aeris suspensionem Mercurii in Tubo repetit. Nam [[cum ex sententia Francisci Lini et sectatorum non Francisci Lini tantum, sed et aliorum doctissimorum virorum Mercurius in Tubo descendeat non ultra descendere possit]] ex sententia non Francisci Lini tantum, sed et aliorum doctissimorum virorum Mercurius in Tubo AB non ultra descendere potest, quam aerem aliamve materiam residuam dilatare potest, hinc illi ajunt [[ab aeris]] a materiae illius ultra tendi negantis resistentia suspendi Mercurium; [[Mercurium; nec]] ad eandem semper altitudinem BE quantacunque sit altitudo Tubi AB quia si tubus altior ac proinde dilatatio major, etiam pondus tendens, seu Mercurius elapsus fuit major, tubus enim [[seu salte]] [[fuit plenus]] Mercurio plenus fuit. Et haec sententia non est adeo absurda quam quibusdam prima specie videtur. Nescio enim an ullum facile Experimentum hactenus publicatum reperturus sit, quod hunc Funiculum convincat.
+Nam quod in altissimi Montis vertice minor est altitudo Mercurii suspensi, hujus rationem facile reddere possunt cum supponant, aerem quanto est altior tanto magis esse tensum. Ut funis in summo alligatus pondere sui ipsius tenditur ac diducitur: modo scilicet [[aerem summum in summo velut certo puncto alligatum]] [[atmosphaerae superficiem]] summam aeris superficiem aut esse nullam, aeremque expandi per totum Mundum, aut esse in summo velut alligatam, ut scilicet profundius descendere tota columna non possit, etsi possint partes inferiores, ad funis instar columnaeque ei capitello suspensae fulcroque carentis, sibi imaginentur. Posito enim aerem [[in summo]] altiorem magis esse tensum et aerem tensum vim pati, seque remittere conari in statum aequabilem, sequetur aerem tensum attrahere conari; ac proinde [[Mercurium]] pugnam oriri inter duos aeres tensos [[intus in Tubo et extra merum]] inclusum in Tubo AB et externum liberum, ac proinde [[ab interiore minus trahi, minusque proinde]] interiori eum tanto magis eripi, quanto exterior est magis tensus. Unde etiam ratio reddi posset, cur [[in Experimento Magdeburgico]] Tubo Torricelliano in Recipiente Magdeburgico posito liquor plane descendat, quia ab aere ejus summe tenso attrahatur. Et cur vesica in valle, aut aere [[libero]] ordinario flaccida, in monte aut Recipiente exhausto infletur; quia vesica non minus rotundetur, si extus ab omni parte aequaliter tendatur, quam si intus ab omni parte aequaliter prematur. At Experimentum quod hic propono controversiam dirimet. Nam [[Nam si]] aperto Epistomio F [[aer vasis dividit sese inter spatium vasis]] totus aer contentus in vase D et parte Tubi FE fit unum et dividit se uniformiter per totum spatium DFE. Quanto ergo majus est vas D tanto minus tensionis necesse est partibus singulis obvenire, ergo aer in FE tensionem retinebit pene nullam. Quod si igitur Mercurius BE tensione funiculi suspensus est, tanto plus ipsius delabetur, quanto minor reddita est tensio, seu quanto vas D est majus. Quod si non eveniet, pro certo habendum est non a tensione aeris interni, sed a pressione externi Mercurium suspensum teneri, sin eveniet, funiculum et pressionem aeris concurrere putandum est.
+
+---
+Additions:
+<<residuis>>
+<<in aere libero>>
+<<bene>>
+<<A>>
+<<et statim iterum claudatur>>
+<<ex parte saltem>>
+<<__a pressione__ seu>>
+<<tenuem in tubo>>
+<<falsitatis>>
+<<licet gravem>>
+<<pondere totius massae>>
+<<[[firma demonstratione]] [[penitus convincendos sufficiunt, quibus ostensum est]] [[aerem compressum Tubum esse]] Nec experimenta ad eos penitus convincendos sufficiunt, quibus ostensum est in aere compresso Mercurium esse altiorem, quia ex eorum Hypothesi dici potest aer non patitur vim compressionis, sed tensionis, et aerem in sclopeto ventaneo compressum non sua sponte sed circumjacente extrahente, (quippe tantundem tenso, quantum ille pressus est) erumpere. Et ideo in aere compresso Mercurium esse altius suspensum, quia aer compressus sit in effectu minus tensus quam ordinarius, ac proinde minus attrahat. Unde aer internus tensus ad se trahens plus efficit. Haec illi, quae nondum satis firma demonstratione convicta sunt>>
+<<proportionaliter ~>>

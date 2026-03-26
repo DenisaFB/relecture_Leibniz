@@ -1,0 +1,8 @@
+Unterstreichung und Marginalie in J. Gregory, 00146Optica promota, London 1663: Leibn. Marg. 94.
+
+Satis patet ex Opticis elementis, multa Catoptricae, et Dioptricae esse communia; forsan igitur, et in reflectionum, et in refractionum mensuris, aliquid commune haerebit: Totum autem reflectionum mysterium, in sectionibus conicis latere compertum est; (ut deinceps patebit) forte igitur et refractionum mensura illic latebit. Secundo non sit regularis reflectio, nisi superficies reflectionis sit sectio conica,; fortassis ergo nec regularis refractio, nisi refractionis superficies, sit sectio etiam conica.
+
+---
+Additions:
+<<: imo et in alterioribus>>
+<<: sit sectio conica>>

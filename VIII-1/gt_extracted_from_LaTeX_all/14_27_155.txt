@@ -1,0 +1,6 @@
+in maioribus tamen angulis inclinationis, falsum esse constat; in his enim angulus refractionis maior est subtriplo anguli inclinationis; quod mihi aliisque, ex luculentis experimentis compertum est. Sed his omissis, quae physica sunt, sit quadrans ellipticus, AR, centro F, foci CG; .
+
+---
+Additions:
+<<: in maioribus … compertum est>>
+<<: fig. 127>>

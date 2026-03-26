@@ -1,0 +1,19 @@
+10
+
+10Unter der Überschrift: __Pieds de front__ sont les parties des lignes de front; comprises entre deux fuyantes menées des deux bouts q, p d'un pied de
+
+l'echelle fondamentale EV à un point C de la ligne horizontale; ZX.__L'echelle__ de front est la suite des pieds de front compris entre deux mêmes fuyantes. Prenez dans l'echelle fondamentale, une droite EL, qui est à un pied de l'echelle fondamentale qp comme CZ prise dans l'horizontale depuis le point C, est à la distance de la station à la conduite de front. Menés EZ, lZ les parties des lignes de front, comprises entre les deux fuyantes EZ, lZ seront les pieds fuyans et leur suite sera l'echelle des pieds fuyans.
+In der Mitte unter der Geraden: ZX: ch, hk, etc. égal à El
+Links unter der Geraden: ZX: CZ est autant de fois El que la distance de la station à la conduite de front, a des pieds de long.
+Unter der Zeichnung links: El__pied fuyans fondamental.__ NB
+Unter der Zeichnung: Suppose ZE parallele à CG il se demontre que EO est egale à 1q1p car EO: ZO :: El: GE :: qp: CZ :: 1q1p: ZO. La figure est mal faite, car CZ deuuroit estre à CG comme El à qp, et les deux premiers estans faits quasi egaux. Les derniers le deuuroient estre [[supposant et item et paralleles et egales]] aussi.
+Unter der Zeichnung rechts: __pied de front fondamental__ NB, et __pied geometral__ NB sont une même chose qp.
+Neben der Zeichnung rechts am Rand: CG hauteur de l'oeil qp pied [[egal si vous voulés à]] geometral El pris à discretion
+
+lCZ:CG::EL:qp
+
+EO: O1 :: EZ: CZ :: qp: ElZO: O1 :: ZE: El
+
+seu ZO: EO :: GE: El. Ergo seu
+itaque EO prodit eadem, qualiscunque sumatur El
+footnote1

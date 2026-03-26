@@ -1,0 +1,6 @@
+VII. Maior item campus, vt vocant, obiecti apparet, cum longe plures radij laterales, id est ab extremitatibus obiecti profecti, qui alioquin post decussationem in foco, in lentem vtrimque conuexam, vel nullo modo, vt dixi, vel obliquius iusto illaberentur, in nouae lentis planum incidant, idque subduplo inclinationis angulo; ex quo certe campus amplificatur: praeterea maiorem obiectiui aperturam sustinet; quia scilicet radios etiam obliquius in obiectiuum illapsos post decussationem in foco ad minus obliquum inclinationis angulum reducit; vnde, quod ex eo timendum erat, non sequitur refractionum confusio: Deinde hinc etiam concludo, obiectum illustrius exhiberi, ex hoc saltem capite; quia plures a singulis obiecti punctis radij excipiuntur, ob maiorem scilicet aperturam; ex hoc saltem, inquam, cum ex alio capite obscurius euadat, ex eo scilicet, quod maius appareat; sic enim radij valde distrahuntur.
+
+---
+Additions:
+<<: Maior item … apparet>>
+<<: obiectum illustrius … excipiuntur>>

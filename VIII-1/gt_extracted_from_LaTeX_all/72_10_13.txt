@@ -1,0 +1,5 @@
+Cum autem hujusmodi motum circularem obeundo punctum B descripserit arcum Bβ, et punctum D arcum Dδ, hoc est quando recta BD obtinuerit situm βδ, etiam ipsum punctum D speculo impinget ad δ reditumque proinde per arcum δD, scilicet ipsius quoque jam interciso cursu, molietur;.
+
+---
+Additions:
+<<reditumque>>

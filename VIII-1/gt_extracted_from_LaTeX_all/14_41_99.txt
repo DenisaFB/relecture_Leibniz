@@ -1,0 +1,7 @@
+4. diuidatur quilibet axis in partes aequales, ductisque per eas secundum numeros impares applicatis, quae sint vt radices quadratae segmentorum axis a praedictis applicatis sectorum v.g. sit axis AD, diuisus in quotcumque partes aequales AB; sitque segmentum AB, 1. BC, 3. CD, 5. ducantur applicatae BE, CF, DG, haec vltima sit applicata et basis, eam diuido in 3. partes aequales, DIHG, ductisque BE, IE, item HF, CF, ibit parabola per puncta AEFG. 5. sit quaelibet chorda in situ horizontali AB, citra tensionem, incuruatur in parabolam vt Galileus asserit, quod sic demonstro; .
+
+---
+Additions:
+<<: Figur 75>>
+<<: Figur 76>>
+<<: 5. sit … tensionem>>

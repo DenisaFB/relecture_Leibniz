@@ -1,0 +1,26 @@
+00243Gerland 1906, S.~89f.
+KK 1, Nr. 973 A
+
+Problemata Optica Nova
+reperta a
+G. G. L. L.
+
+__Probl. 1.__ Efficere ut omnes radii a quolibet puncto dato objecti dati ducti ad puncta superficiei objectivae aequidistantia a puncto dato colligantur in unum punctum.
+
+__Solutio:__
+
+Efficietur hoc: si omnes superficies refringentes sint sphaericae concentricae, et faciant radios [[Probl. 1. Omnes radios unius puncti objecti dati colligere in unam lineam, per refractionem, ita ut radii omnes a dato puncto ad superficiem refringentem objectivam. Si omnes superficies refringentes sint sphaericae concentricae; faciantque radios convergentes: radii omnes unius puncti]] convergentes.
+
+__Demonstratio__
+
+Esto objectum abc Superficies refringens sphaerica objectiva def cujus centrum g puncti b radius perpendicularis refractionis expers beg continuetur ultra g. Radius bd refractus in d ad perpendicularem versus h incidat in h in aliam superficiem sphaericam hik superficiei def concentricam; per quam rursus in medium rarius egrediatur. Ne igitur divergat radius bdh ab irrefracto beg continuato; patet superficiem hik debere concavitatem obvertere medio densiori. Ita radius bdh secabit radium beg in l. Eodem modo radius bf refractus in medium densius ad k ex densiore refringetur ad l. Idemque dicendum est de omnibus punctis superficiei def [[aequidistantibus]] distantibus a puncto b quantum ab eo distat punctum d. Id est qui continentur circumferentia circuli in superficie sphaerica cujus diameter est df.
+
+Idem dicendum de radiis ad, an et omnibus aliis in plano non designabilibus qui continentur circumferentia circuli in superficie sphaerica, cujus diameter dn. Colligentur enim omnes in puncto o.
+
+Observandum est nihil referre sive superficies def et hik sint portiones ejusdem sphaerae, sive sphaerarum concentricarum. Posse item vel adhiberi vel corpus cylindricum def, kih contentum superficiebus sphaericis def, hik et [[rectis]] planis dh, fk vel sphaeram integram defpkih.
+
+---
+Additions:
+<<cujuslibet>>
+<<sphaericae>>
+<<in medium densius ex rariore>>

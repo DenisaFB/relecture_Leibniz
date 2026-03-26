@@ -1,0 +1,5 @@
+Denique cum nullus vnquam cometes maiorem arcum semicirculo circuli sui maximi decurrerit, ad quem tamen is proxime accessit, qui an. 1472. visus est, et quem Pontanus descripsit; cum igitur nullus ex coelestibus globis infra stellas in circulo moueatur, qui suum integrum orbem non conficiat, et cometa nunquam integrum semicirculum decurrat, huius rei germana ratio est, si dicamus, cometam moueri in linea recta.
+
+---
+Additions:
+<<: cum nullus … decurrerit>>

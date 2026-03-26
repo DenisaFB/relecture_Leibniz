@@ -1,0 +1,8 @@
+haec praxis ab onere describendi sectionem hyperbolicam liberabit, cum in punctis horariis, illam iam habeas designatam.
+
+IX. Aliquid facilius suggero: si enim superficiem conicam dicti coni, vel ligneam, vel chartaceam habeas, sectam vt supra; assumpto quolibet radio Aequatoris, .
+
+---
+Additions:
+<<: haec praxis … designatam>>
+<<: Aliquid facilius suggero>>

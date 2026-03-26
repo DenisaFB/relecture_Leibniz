@@ -1,0 +1,7 @@
+X. Opera speculi plani obiecta in infinitum multiplicantur; sint enim duo specula plana, erecta secundum angulum rectum EBK; Hinc si duo specula plana opponantur, res ista melius succedet;.
+
+---
+Additions:
+<<: in infinitum multiplicantur>>
+<<: Figur. 55>>
+<<: si duo … opponantur>>

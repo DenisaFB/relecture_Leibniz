@@ -1,0 +1,32 @@
+sunt amplitudines. Illud tamen considerandum est quoque partem liquoris aliquam non inter angustias ferri sed inde ob transitus difficultatem vel repercuti, vel diverti, moveri linea MBN. Hinc [[sequi]] jam videtur sequi vim restituendi omnia ad uniformitatem non esse in ratione spatiorum I, modo majorum modo minorum; sed in ratione differentiarum inter motus; quanto citius motus in I celerior est quam in L, eo celerius etiam pellit, quam is qui ei obsistit. Quod si majoris facilitatis causa, et ut [[sit calculus subtilissimus Geometricus]] eo calculo subtilissimo Geometrico parci possit, qui [[circuli]] ex circularis motus natura oritur et in superiore figura imaginemur nobis motum fluminis inter duos obices A, B, celerius moti.
+
+Manifestum est quod major erit celeritas inter A et B, quam inter A et C, et inter B et D quia eadem materia quae in obicis A latitudinem impingit, aequaliter distribuetur in AC et AD et pars quae in B, distribuetur aequaliter in intervalla BD et BC, jam quod tendit versus BC, obsistit ei quod tendit versus AC, necesse est igitur exitum in medio quaerere inter AB. Hinc ergo impetus fluminis conabitur utrumque rejicere in litus; et si alterum fixum sit, alterum tamen in ripam rejicietur, quae ratio est cur in fluminibus aut generaliter aquis fluctuantia paulatim rejiciantur in ripas; nam praesertim quod aliqua semper adsunt fixa; etiam illud considerandum est, ipsa fluctuantia aliquod habere fixitatis a pondere suo.
+
+In superiore figura circularis motus considerandus est, quod pila in medio resistit nonnihil motui I etiamsi gravis non sit, vel ideo quod inter movendum findit. Sed etsi non finderet (per impossibile) motus tamen ejus non fieret in instanti sed in tempore determinato. Moveretur enim celeritate quae ipsi imprimitur, nunc paulo minore.
+
+Videndum autem an de Elaterio ratiocinari liceat, etiam sine ulla hypothesi. Nimirum ponamus vim oriri [[quantitate]] [[parvitate]] a magnitudine materiae in spatio parvo, vel
+[[magnitudine]] a parvitate spatii pro materia [[parva]] magna. Erit ergo vis in reciproca spatiorum ratione. Ergo vis in GH, erit ad vim in (G)(H) ut est (G)C ad GC. Ergo vis (G)(H) ⊓ vis
+
+et vis ((G))((H)) ⊓ vis, et (G)C vel ((G))C appellando y, [[fiet]] [[et vim appellando]] GC appellando g, [[fiet]] et vim GH appellando v, [[fiet]] et vis generaliter erit: vg⌣y. Vires ergo Elaterii aeris in quolibet puncto non ut alibi credideram per Hyperbolam cubicam, sed per Hyperbolam communem optime designantur. Jam de tempore restitutionis videndum est. Ponamus scilicet restitutionem fieri ex ((G))((H)) et embolum rejectum ex ((G))((H)) pervenire in (G)(H) tempore aliquo quod appellabimus t quod infinite parvum ponemus,
+etiam spatio posito infinite [[Vis autem prima erit vg⌣((G))C, et vis secunda erit tum prima acquisita, tum praeterea secunda quae est: vg⌣((G))C]] parvo. Porro embolus vi prima vg⌣((G))C pervenit in, at ex,
+tendit altius vi tum quam habet ab [[tum quam]] initio nempe vg⌣((G))C tum quam est [[ab initio]] in itinere nempe vg⌣((G))C + γ. Spatium ergo (G)E quod in secundo tempore percurret,
+erit ad spatium ((G))(G) ⊓ γ quod percurrit in primo,
+[[ut vg⌣((G))C ad]] ut vg⌣((G))C + vg⌣((G))Cγ
+
+[[seu est spat. sec. ⊓]] seu spatium secundum (G)E est
+[[. Et porro vis quam percurrit in secundo tertio temporis momento]] est ad vg⌣((G))C
+
+sive [[MATH]]
+
+sive: [[MATH]].
+
+[[Spatium autem quod tertio tempore percurritur, nempe]] In puncto autem E vim rursus acquirit novam, nempe:
+quae sit ad vim primam, vg⌣((G))C. ut est spatium ((G))C ad spatium EC, seu ad spatium, [[MATH]].
+Itaque spatium EF, quod tertio tempore percurritur erit ad spatium ((G))(G) ⊓ γ primo tempore percursum, ut [[ad]] est ad.
+Itaque spatium primo tempore percursum est γ secundo (G)E est tertio tempore percursum seu EF est:
+
+[[MATH]]
+
+---
+Additions:
+<<intervalla>>

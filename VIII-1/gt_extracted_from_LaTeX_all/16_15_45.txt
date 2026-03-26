@@ -1,0 +1,8 @@
+De plus il faut imaginer, qu'vne surface plate et transparante, encore immobile en vne place, trauerse toute l'estenduë ou epesseur du rayonnement sous lequel l'oeil void le sujet sans en interrompre aucunes de lignes.
+
+La surface plate qu'on entend qui trauerse le rayonnement de la veuë est nommée par quelques vns la transparance par d'autres le verre, la section, et par d'autres d'vn autre nom.
+
+---
+Additions:
+<<: plate>>
+<<: plate>>

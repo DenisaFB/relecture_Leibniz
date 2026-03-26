@@ -1,0 +1,7 @@
+I. Cometae corpus, seu globum ex duplici portione constare, nimirum ex interiore nucleo et reliqua materia, quasi obducta; quia res Physica est, non Optica: exterior vero portio est quasi atmosphaera cometae, eaque valde rara, diaphana, maxima ex parte, et forte accensa; si enim a sole illuminata, conus vmbrae a nucleo proiectus videretur, qui tamen nusquam visus est; sed forte illuminatur ab ipso nucleo ignito, de quo alias; quidquid sit, vtrumvis ad rem Opticam non pertinet: .
+
+---
+Additions:
+<<: nucleo … materia>>
+<<: quasi atmosphaera>>
+<<: et forte … ignito>>

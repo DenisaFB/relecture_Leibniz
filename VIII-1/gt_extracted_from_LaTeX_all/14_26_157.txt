@@ -1,0 +1,10 @@
+V. Lentes huiusmodi, ellipticae quidem, conuersa ad obiectum superficie elliptica, hyperbolicae vero, conuersa ad idem obiectum superficie plana in telescopio, vitri obiectiui loco statui possent, idque esset ex iis commodi, quod assumpta modica portione, radij refracti in eodem puncto colligerentur, meliore euentu, quam in lente sphaerica; non tamen suppleri posset tubi longitudo; nempe radij in maiorem portionem incidentes in dictum focum non irent, vt dictum est supra; igitur ad augendam obiecti molem ellipsis vel hyperbole longioris diametri adhibenda esset, vt fit in lente sphaerica; sed neque hoc iuuaret cum reuera huiusmodi figurae arte humana in vitrum induci non possint; cum enim smiri et puluere formentur, quis amabo obtineat, vt omnia granula, quae omnem numerum superant, in circulos parallelos eant, in quorum plana axis a vertice lentis perpendiculariter cadat; haec igitur inter adinata reponenda sunt: hic etiam demonstrandum esset, praedicatum figuram esse hyperbolem, sed cum alij hoc iam demonstrarint, supersedeo; praesertim cum ex sola constructione, res praesentis instituti satis constet.
+
+VI. Hic etiam obiter significandum videtur, tria inuenta a nonnullis excogitata, ad supplendam tuborum longitudinem pro votis non succedere; primum est, vt statuto vitro obiectiuo in eo situ, quem radij ab obiectiuo incidentes postulant, lens ocularis, citra vllum tubum, oculo in debita distantia admoueatur; .
+
+---
+Additions:
+<<idque esset … tubi longitudo>>
+<<: igitur ad … puluere formentur>>
+<<: tria … non succedere>>
+<<: lens ocularis … vllum tubum>>

@@ -1,0 +1,13 @@
+00243Gerland 1906, S.~199–200.
+Cc 2, Nr. 477 tlw.
+
+[[Observata mutatione inclinationis loci]] [[Si in diversis locis inclinatio observetur successive cognitaque sit eorum duorum locorum distantia, dabitur meridianus loci et latitudo utriusque]] Observata inclinatione determinari potest latitudo loci. Cognita duorum locorum latitudine, et distantia cognita erit longitudinum differentia.
+
+Determinare: mutatio acus, sitne ab acu, an a navi.
+
+Duo sunt casus. Cursus scilicet navis vel ita comparatus est, ut semper declinet nunc quidem [[ab Austro in orientem]] per satis longum temporis spatium a septentrione in orientem ab Austro in occidentem, vel ut a septentrione in occidentem ab Austro in orientem. Similiter acus nunc per satis longum spatium declinat aut in orientem tantum aut in occidentem tantum, scilicet a septentrione. Supponamus ergo primo navem et acum declinare eodem, scilicet [[ab Austro]] a septentrione v.g. in orientem aut contra. Ponatur linea cursus navis esse ab septentrio a navis declinet in orientem ut linea cursus fiat bc si acus bd supponatur immobilis, manifestum est eam in circulo immobiliter ad bc affixo, centro b designaturam esse arcum flexus cd. Ponatur interea acus itidem declinare versus orientem seu versus c manifestum est si acus spectetur ut immobilis, uti certe in navi spectanda est, in effectu lineam cursus bc retroactam versus d. Et proinde inclinationem navis et acus in eandem plagam quoad effectum motus in Tabula seu pyxide designandi, esse sibi contrarias. Ut ergo determinetur in Tabula quando et quatenus [[motus sit]] mutuo situ Tabulae fuerit a d versus c id est a navi vel a c versus d id est ab acu: ita fieri potest, sit annulus cd in circulo cd mobilis, divisus in gradus etc. non minus quam circulus. Is annulus ita comparatus sit, ut quando ab acu premitur versus d quod fit cum acus tendit versus d id est cum navis sola versus c seu declinat, tunc non possit a circulo separari, ac proinde invita acu abripiatur. Contra quando ab acu premitur versus c id est cum acus declinat abripiatur cum acu relicto circulo, ita annulus monstrabit flexus navis sine declinatione acus.
+
+---
+Additions:
+<<a circulo>>
+<<Faciendum ut omnia sint difficilis motus, sed fortificanda acus>>

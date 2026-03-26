@@ -1,0 +1,12 @@
+Unterstreichungen in H. Philippes, 00002The Sea-man's Kalender, London 1672.
+
+And whatsoever many may expect some excellent way for it from Foreign parts, by certain small Stars near Jupiter, and that some here at home would have the World conceited of a way by Celestial Observation; yet it is without doubt, the Longitude must be found by Observation made of something below the Moon: for I do truly affirm, that there are Magnetical Poles, whose Latitude and Longitude I do as certainly know, as concurrent Observations and Arithmetical Calculations can discover them; and their Annual motion I know, and by consequence the time of their Revolution. It may be objected; that the Variation in many, nay in most places, are very irregular, and not according to such Magnetical Poles as I speak of; for in some places on the same Parallel in equal spaces, it altereth much swifter than in other; besides in the Parallel of London, there is 2 Degrees 00 Easterly variation to the Eastwards of London, and 2 Degrees 00 Easterly variation to the Westwards of London; and yet both these places are to the Eastward of the first Meridian of the World, within 45 Degr. 0 Min. of Longitude. It is true; but all this I can very well resolve, and I doubt not but to do it for all places: Moreover, there are some placeswithin a certain Longitude, whose variations continue constant for hundreds of Years, and yet afterwards do vary as ours here at London doth now; but at London it is never constant, although in former time the variation of it was not sensible, it is now in its swiftest motion.
+
+---
+Additions:
+<<: Moon>>
+<<: Magnetical Poles>>
+<<: their Annual motion>>
+<<: the time of their Revolution>>
+<<: in some places … in other>>
+<<: there are some … swiftest motion>>

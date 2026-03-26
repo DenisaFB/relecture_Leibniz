@@ -1,0 +1,16 @@
+fixae (id est saltem una earum, nam una bene posita, caeterae omnes bene sunt positae) in vera quam tunc habent a meridiano primo distantia initio sunt constitutae, veram distantiam supposita horologii exactitudine in ipsa sphaera artificiali semper monstrabunt.
+
+Sed hoc curiosum magis et elegans, quam utile fore existimo pro fixarum quidem usu, calculi tam facilis qui intra horae minutum nullo negotio fieri possit evitandi causa machinam adhibere velle. At habebit fortasse usum cum Luminaribus observatis opus erit.
+
+Quod si ergo sole Lunave (quia interdiu sidera non lucent) uti velimus, similiter nulla alia re opus est, quam ut praesentem locum horum planetarum in Zodiaco, seu latitudinem et distantiam a meridiano primo seu longitudinem sciamus.
+
+Hoc autem ex Ephemeridibus facile sciri posse constat, aut certe Ephemerides solis Lunaeve ita facile accommodari possunt ut hoc monstrent.
+
+Quodsi Ephemeridibus carere velis sufficiet machinam horologii ipsi sphaerae artificiali, eo quem supra dixi modo applicari, et duo luminaria in eadem machina Zodiacum suis quodque spatiis percurrere, uti jam tum ab Automato-poeo quodam Germano procuratum vidi. Ita Machina semel recte constituta, latitudinem, longitudinemque solis et Lunae, et tandem unica elevationis eorum ultra horizontem loci navis, observatione ac per consequens Horizontis meridianique loci in sphaera artificiali simili tum ad aequatorem, tum ad locum lunae solisve accommodatione accedente, distantiam Meridiani loci navis, a Meridiano primo, seu longitudinem loci navis, vel latitudine quippe jam praecognitalocum navis praecise, definiri posse manifestum est.
+
+Habes ergo [[Mechanicam]] rationem __Mechanicam__facilem ad usum sufficientem dato horologio exacto cognitaque loci navis latitudine; unica, eaque propemodum indefinita ac rarissime per plures dies continuos defutura observatione, Longitudines seu locum navis verum praecise inveniendi. Unde [[Geometrica]] __Geometrica__ per calculum Trigonometricum definiendi ratio ignorari non potest, quam prolixe exponere, hujus loci non est.
+
+---
+Additions:
+<<non lucent; noctu aliquando, Luna lucente, caetera sidera>>
+<<et>>

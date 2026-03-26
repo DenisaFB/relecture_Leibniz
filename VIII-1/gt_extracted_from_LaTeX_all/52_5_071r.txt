@@ -1,0 +1,14 @@
+oriretur; ideo supputata lunae parallaxi corrigendus est ejus locus, indagandumque quo in loco sit nunc apparitura, si ex ipso terrae centro vel alio loco cui verticalis est, spectetur. Parallaxis autem seu error tanto major est, quanto major obliquitas anguli quem facit ad horizontem, seu quanto minor elevatio. Sed correctio hujus erroris est in potestate, tum quia anguli obliquitas observatione data est, tum quia altitudinem Lunae, et semidiametrum terrae satis explorata habemus. Esto Horizon loci acb ad cujus centrum c radius lunae cd facit angulum observatione cognitum dcb. Esto centrum terrae e ducaturque linea a centro terrae ad Lunam ed.
+
+Constat in Triangulo dec cognitum esse angulum dce compositum ex angulo cognito dcb et recto bce et latera: ec semidiametrum terrae, et ed distantiam Lunae a centro terrae. Ergo per canones trigonometricos etiam residuum latus cd et residui anguli cde et ced cognoscentur, et cognito angulo ced cognoscetur arcus cf in terra et ei [[magno in circulo]] respondens in circulo magno sphaerae coelestis arcus gh ex centro terrae e et Zenith loci g in sphaera coelesti sumpto descriptus, (ac proinde portio cujusdam verticalis [[etsi]] loci) et, si continuetur, per locum Lunae incorrectum i in eadem sphaera assumptum transiens. Unde intelligitur, h esse in sphaera coelesti locum Lunae verum. Hinc __Tabulae__ construi poterunt, quibus data Lunae obliquitate seu elevatione, quantitas parallaxeos sine calculo inveniatur. Idem Mechanice, sine tabula et calculo, __instrumento__ apto, poterit praestari. Habemus ergo veram __Lunae latitudinem__hac observatione inventam, et in sphaera artificiali notandam.
+
+Ego vero hoc amplius ajo ex eadem observatione __Tempus praesens Mundi__ elici posse.
+
+---
+Additions:
+<<unum>>
+<<cognita esse>>
+<<duo>>
+<<unum>>
+<<duo>>
+<<super horizontem>>

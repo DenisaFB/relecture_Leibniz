@@ -1,0 +1,8 @@
+Verum quidem est mathematice loquendo radios hos per circulum hunc paulo magis dispergi debere, cum antea non ad unum punctum mathematicum tenderent; sed dispersionem hanc tantam non esse, quin focus, sive minimum planum ad quod postea ex vitro egressi ac aerem transeuntes, tendent, et in quo congregabuntur, pro puncto mechanico habendum sit, simili calculo, aut etiam mechanice, facile constare potest.
+
+Sed cum planum supra inventum; cujus semidiameter est IN indeterminatum sit, ac propius ad N accedat aut magis ab eo removeatur, prout apertura, aut BF, major aut minor sumitur, determinatum planum ejus loco quae remus. Concipiatur ex K erectam esse perpendicularem cui producta BI occurrit in O, erit itaque IF ad FB, ut IK ad KO, reperieturque KO minor, cum FB est
+quam; cum FB est, quam; cum FB est, quam, differentia igitur quae est inter hanc KO et semidiametrum IM praecedentis plani ita parva est ut consideratu digna non sit, nec conclusio exinde ducta mutetur. Cum autem NK supra reperta sit aequalis, quae est, erit KD aequalis;
+
+---
+Additions:
+<<: fig. 1>>

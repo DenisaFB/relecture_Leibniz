@@ -1,0 +1,5 @@
+IV. Alij ex hoc praedictam rationem deducunt, quod scilicet vnus tantum angulus aequalis angulo incidentiae respondeat, sint vero infiniti inaequales; cur autem potius per vnum inaequalem, quam per alium? ab vno igitur fit determinatio; nempe quod vnum est, determinatum est, sed in dicto puncto C, vna tantum perpendicularis surgit, et aliae infinitae; cur igitur per illam quae vna est, radius reflexus non ibit? praesertim cum in motu reflexo, noua determinatio, quae a puncto reflectente accedit, in ipsa perpendiculari fiat, ex qua et priore componitur mixta, vt suo loco demonstratum est.
+
+---
+Additions:
+<<: Responsio manifesta, ne diversae causae eundem faciant effectum>>

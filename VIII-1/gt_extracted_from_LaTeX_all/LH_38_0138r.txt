@@ -1,0 +1,23 @@
+Maji 1675
+Probleme:
+
+__Un bâton estant fiché dans le fonds d'un fossé plein d'eau, et sortant tant soit peu hors de l'eau juger de la profondeur de l'eau ou du fossé sans tirer le bâton et sans en sçavoir la longueur, pourveu qu'on aye la liberté de le remuer.__
+
+__Ou si vous voulez une sonde estant jettée dans la mer et touchant fonds, juger de la profondeur de la mer, sans retirer la sonde, et sans sçavoir la longueur de la corde.__
+
+Soit le bâton ou la sonde, AB touchant fonds au bout B sortant de
+
+l'eau DE, d'une partie __AC dont la longueur nous est connue par exemple 1. pouce__ lorsque le baston (ou la corde) est perpendiculaire à l'horison ou au niveau de l'eau DE. A present puisque nous avons la liberté de remuer, laissons le bout B immobile, [[trouuons le bout de la]] et remuons le bout A jusqu'à ce qu'il [[touche le]] entre dans l'eau, en D. Car si AB est un bâton, il est aisé de le remuer sans le tirer du point B, où il est fiché dans le fonds, et [[s'il est]] si la ligne AB est une corde, et si B est un plomb qui touche fonds, sa pesanteur l'y tiendra quoyqu'on remue le point A de la corde. Mesurons à present la distance [[du point où le bâton touche l'eau entre dans l'eau à present, du point … et entre]] DC entre le point D où le bâton entre dans l'eau à present, et le point C ou il entroit auparavant, ce qui est aisé, en tenant une regle d'une main, à fleur d'eau, pendant qu'on remue le bâton de l'autre: Et supposons __par exemple la longueur de DC, 9 pouces.__
+
+__Regle:__
+
+Multipliez le nombre des pouces de la ligne AC sçavoir 1. par soy même, et vous aurez 1. Multipliez aussi le nombre des pouces de la ligne CD sçavoir 9. par soy même, et vous aurez 81. Adjoutez ces deux produits ensemble, et vous aurez 82. Divisez cette somme par le double du nombre des pouces de la ligne AC, sçavoir par 2. Et le quotient qui proviendra en divisant 82. par 2. sera 41. Ostez de ce quotient le nombre des pouces de la ligne AC, sçavoir 1. et il vous restera 40. qui est le nombre des pouces de la ligne BC ou la profondeur de l'eau. La demonstration de cette regle se peut donner aisément par l'Analyse.
+
+---
+Additions:
+<<:
+AC.~~1~pouce
+DC.~~9~pouces. Donc
+BC.~40~pouces. Car
+25mm0.7pt
+1 + 81 fait 82 fait 40array>>

@@ -1,0 +1,6 @@
+hinc stellae per mediam caudam visae sunt saepius, tum a me, tum a multis aliis, tum Romae, tum in Gallia, tum in Germania. cum in tot locis eadem ab stella distantia obseruata fuerit; et licet pro duobus tantum locis, hoc argumentum paralaxeos, in quolibet situ, non concludat, vt iam alij ostendere conati sunt; si tamen ex 4. 5. imo et pluribus locis, illa eadem distantia obseruata sit, haud dubie concludit argumentum, sed de altitudine cometae adhuc infra.
+
+---
+Additions:
+<<: stellae … saepius>>
+<<: cum in tot … obseruata sit>>

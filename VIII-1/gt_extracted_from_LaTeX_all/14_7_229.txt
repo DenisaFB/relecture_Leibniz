@@ -1,0 +1,10 @@
+habemus enim Diuiniana telescopia, non iam quinquaginta, vt elapsis proxime annis, sed sexaginta et nonaginta palmos longa, quibus coelestia phenomena exploramus. In Iouis disco maculas ambulantes citra omnem dubitationem aspicimus, idque diuerso motu, vnde multi verisimiliter deducunt, partim esse vmbras a Medicaeis perigaeis in discum Iouis proiectas, quod tamen alij etiam praestantissimi obseruatores, hodienum pernegant;.
+
+Praeterea vidimus pone Iouis discum nouum Phenomeni genus, non eidem coeli plagae semper affixum, sed Ioui semper non procul adhaerens: .
+
+---
+Additions:
+<<: habemus enim Diuiniana telescopia>>
+<<: sexaginta et nonaginta palmos longa>>
+<<: partim esse … proiectas>>
+<<: pone Iouis … genus>>

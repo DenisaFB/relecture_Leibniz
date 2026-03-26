@@ -1,0 +1,6 @@
+IV. Quatuor globi vitrei v.g. ita statui possunt, vt radius luminis post circuitum aliquot refractionum, redeat ad angulum aequalem angulo incidentiae: .
+
+---
+Additions:
+<<: Figur. 42>>
+<<: redeat … incidentiae>>

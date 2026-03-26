@@ -1,0 +1,9 @@
+P. Francisco de la Chaise Societatis nostrae, qui pro sua humanitate, Lugdunensium, Aquentium, et Parisiensium obseruationum me participem fecit;.
+
+X. Huc reuoca cometas crinitos; imo licet vltimus caudatus esset, adhibita tamen telescopij opera, caput illius visum est albicante, eoque densissimo capillitio inuolutum die 2. Aprilis; vt Lugduno ad me scripsit die 7. Aprilis, idem qui supra, sed nunquam satis laudatus, P. Franciscus de la Chaise: cogita magnam et longe lateque dispersam lignorum diuersi generis struem accensam, et numera, si potes, tot flammulas, tot pyramidas, et vt analogia melius congruat, cogita totam orbis terraquei superficiem ita conflagrantem, sparsa huc illuc heterogenea materia, seu ignis pabulo;.
+
+---
+Additions:
+<<: Francisco … nostrae>>
+<<: nunquam … de la Chaise>>
+<<: totam orbis … conflagrantem: Vossius>>

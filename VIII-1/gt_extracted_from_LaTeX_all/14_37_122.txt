@@ -1,0 +1,6 @@
+XI. Alius modus est, isque, ni fallor, nouus, quo scilicet conuexum maioris sphaerae compensatur; sit enim vitrum obiectiuum cuius antica facies versus obiectum, sit conuexa, altera versus oculum, sit caua, v.g. AC iam constat ex dictis 1. si AD sit recta, et G centrum circuli ABC, distantia foci a puncto B erit dupla GB, sit in S. 2. si accipiatur DK tripla GB, sitque arcus ADC descriptus ex centro K, cum radius refractus OK cadat perpendiculariter in arcum IDC, nullo modo refringetur, vnde focus erit in K.
+
+---
+Additions:
+<<: Fig. 100>>
+<<Alius modus … v.g. AC>>

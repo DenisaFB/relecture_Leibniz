@@ -1,0 +1,5 @@
+Addit P. De Cottignez, tubos optimos a se adhibitos fuisse, qui certe nullis aliis Romanis cedant; quibus scilicet nonulla in coelis distincte obseruata sint, quae aliis vix obscure obseruari potuerunt, quod citra cuiuspiam iniuriam vult, esse dictum; adhibuit etiam suarum obseruationum testes, rerum istarum peritos, nimirum P.P. Carolum Bursam, Francisc. Sansedonium, Georgium Cottonum, ita vt ea quisque seorsim a se obseruata annotaret, reliquis inconsultis; et sancte iurat, omnium obseruationes semper conuenisse.
+
+---
+Additions:
+<<: P.P. Carolum Bursam, Francisc. Sansedonium, Geor-gium Cottonum>>

@@ -1,0 +1,17 @@
+magnitudine, porro calculo inveniri potest versus quod punctum rectae DNI unus radius per vitrum permeans refractus tendere debeat. Supposita itaque vitri refractionum magnitudine cognita, ita ut si AL supponatur ^180$ ∝ $:20, GI aequalis sit 13 earundem partium (talem circiter ego refractionum vitri magnitudinem observavi:) prout tum se habet 20 ad 13 ita AL, y, ad GI, xz, 20xz:^180$ ∝ $:13y, et et. Sed reperta est, ergo z erit etiam aequalis, ut itaque inveniatur desiderata longitudo NI quae vocata fuit z, cognita sumenda est BF, quae vocata fuit x. Si ergo jam ponatur x: ^180∝ 0,&erit z: ^180∝ 429231, et erit omnium longissima
+
+x: ^180∝ 35,&erit z: ^180∝ paulo amplius quam 15,873231,
+
+x: ^180∝ 513,&erit z: ^180∝ paulo amplius quam 513,300231,
+
+x: ^180∝ 725,&erit z: ^180∝ paulo amplius quam 1025,447231,
+
+x: ^180∝ 941,&erit z: ^180∝ paulo amplius quam 1741,310231,
+
+x: ^180∝ 31481,&erit z: ^180∝ paulo amplius quam 20481,6070231,
+
+x: ^180∝ 491201,&erit z: ^180∝ paulo amplius quam 5141201,950231,
+
+---
+Additions:
+<<quisque>>

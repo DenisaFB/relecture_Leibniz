@@ -1,0 +1,5 @@
+il faut trouuer en dedans, ou dehors le rayon AG, ou BG: .
+
+---
+Additions:
+<<: le>>

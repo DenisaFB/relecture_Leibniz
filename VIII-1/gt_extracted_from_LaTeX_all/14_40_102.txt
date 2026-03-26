@@ -1,0 +1,6 @@
+hinc si vel semel vnus radius reflectatur, infinities reflectetur: vt autem luminis solaris vis multiplicetur, collectis huiusmodi radiis opera speculi parabolici, ita hoc statuatur, vt E v.g. sit communis vtriusque focus, vis luminis multiplicabitur in E per repetitam reflexionem in conuexo, reflexio facile habetur, vt in conuexo circuli; illud tantum singulare, quod si directus tendit ad alterum focum, ab altero reflexus directe procedere videtur; sic NG reflectitur in GT; vtrum vero ad reflectendum sonum, seu vocem aeque aptum sit hoc speculi genus, de sono minime articulato concederem vltro, de voce articulata omnino negarem, et perspicuum est; quia omnes articulationes confunduntur in E.
+
+---
+Additions:
+<<: vt autem … in conuexo>>
+<<: de sono … negarem>>

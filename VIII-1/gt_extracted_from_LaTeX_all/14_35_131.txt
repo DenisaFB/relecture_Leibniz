@@ -1,0 +1,8 @@
+PROPOSITIO XLVI.
+
+Lens ocularis ex duabus semilentibus in centro, seu polo conuexitatum coniunctis, et extrinsecus vtrimque planis, explicatur. I. Hoc fuit inuentum Eustachij Diuinij praestantissimi sane viri et huius artis peritissimi, quod quia a nullo, quod sciam, demonstratum fuit, hanc prouinciam hic vltro suscepi.
+
+---
+Additions:
+<<: lens ocularis …>>
+<<: Hoc fuit … suscepi>>

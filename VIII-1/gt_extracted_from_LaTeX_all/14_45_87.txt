@@ -1,0 +1,5 @@
+IV. Hinc definiri potest radius sphaerae, vt ad datam distantiam focum luminis projiciat; debet enim radius esse minor duplo praedictae distantiae;.
+
+---
+Additions:
+<<: Hinc … distantiae>>

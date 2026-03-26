@@ -1,0 +1,13 @@
+quamquam in certo motu definiendo, nondum plene consentiunt; vnde Martis reuolutio circum axem, quam veteres coniectura tantum et analogia quadam assequuti sunt, certis et indubitatis obseruationibus firmata manet.
+
+In Venere ac Mercurio ex obseruationibus huc vsque factis, nihil tale habemus, et quantum conjicio, nunquam habebimus; nempe Venus ad instar cuiusdam lunae est, quae circa solem suos agit orbes..
+
+Ad Saturnum venio, in quem non ita pridem obseruatores nostri Diuiniana telescopia conuerterunt; illi autem erant D. Saluator Serra, D. Ioannes Lucius, ornatissimi homines, et nunquam satis laudandus Diuinius noster; vident enim, globum Saturni modo attolli, modo deprimi intra annulum apparentem; ac proinde dum attollitur, annuli verticem superat, a quo superatur, cum deprimitur; sed inde illud longe maioris momenti deducerem, nimirum Saturnium annulum ablegandum videri; .
+
+---
+Additions:
+<<: Martis reuolutio>>
+<<: quadam assequuti … agit orbes>>
+<<: D. Ioannes Lucius>>
+<<: vident enim … apparentem>>
+<<: Saturnium annulum ablegandum videri>>

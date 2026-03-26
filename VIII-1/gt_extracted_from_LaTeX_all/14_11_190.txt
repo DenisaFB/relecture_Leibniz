@@ -1,0 +1,5 @@
+Hanc hypothesim indicaui in Dialogis Physicis in lucem editis; sed nouis obseruationibus a me factis, comperi Veneris apogaeae distantiam a terra esse plusquam duplam Veneris perigaeae, vnde plusquam duplo citius orbem suum ab ortu ad occasum decurreret; quod certe obseruationibus repugnat; quare aliam hypothesim statuam, in tomo Physicae qui proxime succedet, in quo de corpore coelesti ex professo agam, et in sequenti appendice; .
+
+---
+Additions:
+<<: nouis obseruationibus … proxime succedet>>

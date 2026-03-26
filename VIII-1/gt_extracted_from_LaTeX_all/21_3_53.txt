@@ -1,0 +1,8 @@
+esperienza di questo hò fatta io, che con vno Specchio sferico di piombo ancor mal polito hò acceso il fuoco nella materia arida al fuoco di carboni;.
+
+Se adunque prenderemo di questa superficie quella parte, che è intorno alla cima, questa abbrucierà tra'l corpo focoso, e lo Specchio; ma se vogliamo, che l'incendio sia di dietro dello Specchio, bisognerà pigliare vna parte di quella, discosta dalla cima, tanto che lasci fuori di se il foco di tal superficie verso la cima, come per essempio;.
+
+---
+Additions:
+<<t: al … carboni.: add. p. seq>>
+<<l'incendio … Specchio.height 0pt depth 10mm width 0pt>>

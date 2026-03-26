@@ -1,0 +1,7 @@
+alioquin plus aequo distrahuntur radij. 4. si cavum loco 3. lentis apponatur, contrahitur quidem campus, sed obiectum paulo maius apparet. secundum est, lumen, diffundi facilius per corpus densum diaphanum, quam per rarum, puta per vitrum, quam per aera. Tertium est, sinus angulorum refractorum, esse vt sinus angulorum reciprocorum inclinationis; .
+
+---
+Additions:
+<<: cavum>>
+<<: 3. lentis>>
+<<: lumen … inclinationis>>

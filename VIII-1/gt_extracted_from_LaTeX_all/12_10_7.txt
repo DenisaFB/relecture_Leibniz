@@ -1,0 +1,5 @@
+Quelques Autheurs l'ont nommée, comme l'on a fait au titre de cét Ouvrage, la Ligne horisontale. Cette Ligne du Niveau de l 'oeil, est la ligne MN.
+
+---
+Additions:
+<<: la Ligne horisontale>>

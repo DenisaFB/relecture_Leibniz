@@ -1,0 +1,5 @@
+Ex dictis etiam constat praedictas lentes componi posse iuxta nouum Eustachij nostri inuentum, de quo supra prop. 46. vnde enumerata supra commoda consequentur, de quibus iam satis dictum est; .
+
+---
+Additions:
+<<: Ex dictis … nostri inuentum>>

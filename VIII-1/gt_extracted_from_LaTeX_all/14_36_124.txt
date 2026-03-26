@@ -1,0 +1,6 @@
+igitur si obiectiui loco statuatur hoc vitrum, telescopium erit 40. palmorum, ac proinde in eadem proportione crescet obiecti apparentis moles, quod distincte quidem, minus tamen clarum apparebit, in ea scilicet proportione, qua apertura lentis AC minor est apertura lentis descriptae radio 40. palmos longo, vt perspicuum est. hinc si obiectum plus aequo splendeat contrahenda est apertura, vt fit in venere, ne basis proiecta confundatur; sic autem inutilis veneris et stellarum coma rescinditur, seu tondetur, contracta scilicet, obiectiui apertura.
+
+---
+Additions:
+<<: quod distincte … perspicuum est>>
+<<: et stellarum … apertura>>

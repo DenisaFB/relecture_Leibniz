@@ -1,0 +1,5 @@
+In hoc aliquando lusimus, quod cum aliquod obiectum, pleno sole vbertim collustratum ante aspexissem, et illustrissimum vidissem, paulo post, per exiguum foramen idem intuitus, obscurum, et aliud a primo mihi videre visus sum.
+
+---
+Additions:
+<<: In hoc … visus sum>>

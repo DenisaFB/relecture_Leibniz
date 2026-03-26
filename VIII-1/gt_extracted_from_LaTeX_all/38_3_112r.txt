@@ -1,0 +1,22 @@
+__Theorema:__ Si [[duo corpora Elastica]] [[duae partes]] duo Elastica (id est tendibilia aut comprimibilia) [[homogenea]] homogenea eandem vim perferunt, effectus sunt in duplicata ratione spatiorum, quae vi nulla adhibita ab ipsis implentur. Sunto duo corpora Elastica spatium ab illud spatium cd quae sunt, ut lineae ab et cd (1) [[aequalis scilicet]] cum spatia supponam aequalis crassitiei ac proinde ut altitudines.
+
+Pondera duo a et c comprimentia, aequalia, et pondus c (2 lib.) comprimat corpus cd (2) in spatium de
+
+ajo corpus ab compressum iri ab eodem pondere in spatium bi
+
+quod sit ad spatium de (1) ut est quadratum ab (1) ad quadratum cd (4). Demonstratio haec est: Sumatur in corpore cd pars aequalis corpori 0mm10mmab, cujus eadem erit ratio ad cd (1) quae est ab ad cd (1) compressione totius cd (1) facta in spatium ed pars cf compressa est necessario in spatium eg cujus eadem est ratio ad totum [[totum novum]] spatium compressionis ed quae fuit ante spatii cf ad totum spatium naturale cd (1). Compressa autem est [[corpus qu]] haec pars quae antea implebat spatium cf in spatium eg non tota [[vi]] potentia ponderis c sed ejus parte tantum. Quia idem pondus c etiam reliquam totius corporis cd (1) partem, nempe fd in spatium gd compressit. Compressa est ergo pars cf in spatium eg a parte [[sibi]] potentiae sibi proportionali, seu quae ita sit ad totam potentiam, ut ipsa pars cf est ad totam cd seu ut spatium cf vel eg est ad spatium cd vel ed (seu ut ad 1) ergo corpus ab ab eadem vi, parte scilicet potentiae proportionali in spatium bh aequale spatio eg comprimetur.
+[[Sed quia vis ipsi incumbens est majo incumbens est tanto major vi]] Sed quia vis tota ponderis c (2 librarum) ipsi ab incumbit cum contra non nisi ejus dimidia incubuerit corpori cf ideo duplo amplius comprimetur [[quam pars]] corpus minus ab, quam comprimitur pars ei aequalis cf in majore. Comprimitur autem cf in spatium quod est [[tertia pars]] dimidium [[duplo minus quam spatium]] spatii ed in quod comprimitur solum corpus ed. Ideo [[comprimitur]] ab dimidium corporis cd comprimitur in dimidium dimidii, seu in quartam partem spatii in quod comprimitur corpus cd. Quod autem in exemplo dicitur in dimidium, id parte ex ratiocinatione esse generaliter in ratione quae est ab ad cd. Erit ergo pro dimidio dimidii ratio ab ad cd duplicata, [[seu]] q. e. d.
+[[Coroll. Hinc si corpus unum aliquod jam sit compressum ad mensurandam novam compressionem seu augmentum comprimentis, auferendum est quantum jam compressum est]]
+
+---
+Additions:
+<<seu spatia in quae comprimuntur>>
+<<[[aliud spatium]] homogenea (ut duo aeres) naturaliter implentia hoc>>
+<<(unum quodque 2 librarum)>>
+<<(2 lib.)>>
+<<(2 lib.)>>
+<<(1 lib.)>>
+<<seu in spatium dimidium>>
+<<ef>>
+<<substituenda>>
+<<: Zwey tubi sollen gleicher weite und die beyden gleich hoch seyn>>

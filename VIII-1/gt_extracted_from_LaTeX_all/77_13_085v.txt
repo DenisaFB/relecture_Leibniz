@@ -1,0 +1,5 @@
+ita ut omnes paralleli radii intra altitudinem perpendicularis 
+
+Ex quibus patet quanto x sine BF minor est, tanto etiam punctum I longius distare ab N, hoc est quanto radius aliquis magis distat ab axe aut vertice D, tanto etiam remotius a vertice axem secare.
+
+Deinde si concipiatur IDB, circa axem DI rotatam, figuram vitri describere, facile etiam inveniri potest magnitudo minimi plani ad angulos rectos ad DK erecti, in quod omnes radii qui DI sunt paralleli, atque contenti intra Cylindrum illum ab ABF, circa axem DFN rotata, descriptum, incidunt; (quod planum postea vocabitur focus:) sed cum non necesse habeamus scire minimi hujus plani magnitudinem ut ad propositum perveniamus, satis erit si tantum alterius cujusdam, quod longe quam hoc majus est, atque in quo

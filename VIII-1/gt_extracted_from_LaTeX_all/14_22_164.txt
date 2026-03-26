@@ -1,0 +1,7 @@
+PROPOSITIO LVI.
+
+Explicatur vsus analemmatis, noui, ad horologia.
+
+---
+Additions:
+<<: …>>

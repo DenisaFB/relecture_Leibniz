@@ -1,0 +1,6 @@
+quod miror a Tychone obseruatum non fuisse: cum autem cometa penultimus paucis gradibus, ante et post oppositionem, proiecerit caudam, quae visa est sub arcu 30. fere graduum, inde colligo, fuisse infra solem; .
+
+---
+Additions:
+<<: quod miror … non fuisse>>
+<<: inde colligo … solem>>

@@ -1,0 +1,27 @@
+Propositio Experimentorum Novorum,
+quibus sumtis omnes controversiae
+circa Aeris pressionem
+videntur definiri posse.
+
+[[Cum nuper Illustris Hugenius in novissimo Diario Eruditorum Experimentis rem literariam auxerit]] [[Illustris Hugenius publicatis in novissimo Diario Eruditorum]]
+
+Experimenta Pneumatica quibus in novissimo Diario Eruditorum
+publicatis Illustris Hugenius rem literariam auxit
+
+admonuere me [[eorum]] Experientiarum quas in eam rem sum dudum meditatus, et quarum successus omnes ejus argumenti controversias firma demonstratione dirimere posse videtur. Haec publice proponere operae pretium visum est, ut aliis alia pro cujusque commoditate sumentibus, quamprimum dubitationibus [[Experim. 1. Nec vereor ne quis parum probet Experimenta nondum sumta proponi]] liberemur.
+
+__Experim. I.__
+Esto Tubus Torricellianus Mercurio plenus AB vas subjectum in quo stagnat alius Mercurius C.
+[[Mercurius ex delabatur in vas subjectum ita ut non nisi altitudo ordinaria residua sit summitas]] Altitudo Mercurii dalabentis BE. Vas clausum aere ordinario plenum D in quod intret extremitas Tubi AB ita tamen ut Epistomium F clausum communicationem neget inter partem Tubi FB et residuam partem AF apertam in A versus vas D et clausam per Epistomium in F versus Tubum FB. [[Vas]] [[Tubus]] Tubi pars FB sit Mercurio plena, clausa in F et aperta in B. Et Tubo erecto Mercurius effluet in vas subjectum demta altitudine BE spatioque FE ad sensum Vacuo relicto. Quo facto aperiatur Epistomium F ajo si eo [[casu]] facto Mercurius BE delabitur in Vas C veram esse Hypothesin Funiculi seu Aeris dilatati __attractionem,__ sin suspensus maneat veram esse Hypothesin quae Gravitate Aeris suspensionem Mercurii in Tubo repetit. Nam [[cum ex sententia Francisci Lini et sectatorum non Francisci Lini tantum, sed et aliorum doctissimorum virorum Mercurius in Tubo descendeat non ultra descendere possit]] ex sententia non Francisci Lini tantum, sed et aliorum doctissimorum virorum Mercurius in Tubo AB non ultra descendere potest, quam aerem aliamve materiam residuam dilatare potest, hinc illi ajunt [[ab aeris]] a materiae illius ultra tendi negantis resistentia suspendi Mercurium; [[Mercurium; nec]] ad eandem semper altitudinem BE quantacunque sit altitudo Tubi AB quia si tubus altior ac proinde dilatatio major, etiam pondus tendens, seu Mercurius elapsus fuit major, tubus enim [[seu salte]] [[fuit plenus]] Mercurio plenus fuit. Et haec sententia non est adeo absurda quam quibusdam prima specie videtur. Nescio enim an ullum facile Experimentum hactenus publicatum reperturus sit, quod hunc Funiculum convincat.
+
+---
+Additions:
+<<residuis>>
+<<in aere libero>>
+<<bene>>
+<<A>>
+<<et statim iterum claudatur>>
+<<ex parte saltem>>
+<<__a pressione__ seu>>
+<<tenuem in tubo>>
+<<falsitatis>>

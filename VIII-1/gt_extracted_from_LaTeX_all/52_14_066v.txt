@@ -1,0 +1,12 @@
+sideris cujusdam elevatione ultra Horizontem loci navis observata, quae certe instrumentis bonis, [[ad quartas usque minutorum partes, et ultra divisis]] [[(qualia in casu necessitatis fieri possent ad quartas usque minutorum secundorum partes, et ultra divisa)]] (qualia in casu necessitatis fieri possent ad quartas usque minutorum partes, et ultra divisa, et vero ratio est instrumenta communia ab uno observatore tractabilia, ad decimas usque minutorum secundorum partes subdividendi) satis recte sumi potest, perficitur; neque enim nisi angulo indigemus, quem radius e sidere dato ductus facit ad loci horizontem, quanquam exactitudine tanta ne opus quidem sit, et tanto quidem minus, quanto locus est ab aequatore remotior, cum in aequatore ipso error minuti non sit major quam miliarii Italici, qualis profecto in mari est nullius momenti. Nec a __refractionibus__metuere nobis magnopere debemus, praeterquam enim quod sideris ultra horizontem satis evecti refractio minus turbat, et tabula etiam computandarum refractionum, ex crepusculorum quantitate aliisque indiciis ab Astronomis condita est; praeter inquam haec omnia en facilem occurrendi rationem. Si eodem tempore duo pluraque sidera (semper enim plures fixae simul videntur) observentur, cum enim earum refractionem necesse sit esse diversam, sese mutuo corrigent observationes, quae cum eodem tempore fiant, __uni observationi__ aequipollent. Utile autem est sidus eligi prae caeteris, quod alte supra horizontem loci assurget.
+
+Problema ergo meum ita concipitur: __Data latitudine Horologioque exacto, et accedente unica quacunque, sideris (motus explorati) cujuscunque (in horizonte navis, motum satis sensibilem habentis, [[seu]] et polo non nimis vicini) observatione, Longitudines, ac per consequens locum navis reperire.__
+
+Turbare non debet quod hoc loco ad inventionem longitudinum, latitudines inventas praerequirimus; nam alioquin latitudinum quoque inventio jam tum necessaria est ad cursum navis gubernandum, et ut latitudo sine longitudine, ita contra longitudo quoque sine latitudine non sufficit. Ut taceam hoc loco spem esse magnam, inveniri posse, aut ad perfectionem deduci quam primum inventionem latitudinis seu elevationis Poli universalem, ab omni
+
+---
+Additions:
+<<gradus longitudinum>>
+<<diversae super horizontem elevationis>>
+<<, ejus enim Refractio exigua est; et stellae verticalis, nulla>>
+<<__loci navis__>>

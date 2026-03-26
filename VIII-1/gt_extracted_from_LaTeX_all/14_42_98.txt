@@ -1,0 +1,5 @@
+si vero specillum admotum sit sphaericum cavum, et centrum illius in foco A statuatur, repercussi radij iterum in puncto A colligentur, vt patet; redeunt enim singuli per lineam perpendicularem, per quam in cavum sphaericum inciderunt, hinc duplum caloris incrementum, et dupla vis puncti vstorij: sed in his nulla est difficultas: denique si radius PD cadat in conuexum parabolae, reflexus ibit per DT; nempe anguli PDE, TDP aequales esse constat ex dictis.
+
+---
+Additions:
+<<: hinc duplum … puncti vstorij>>

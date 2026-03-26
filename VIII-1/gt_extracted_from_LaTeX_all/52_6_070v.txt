@@ -1,0 +1,17 @@
+reperiatur difficile est, cum etiam in nocte serena aut coelo sereno, multa sint momenta aut puncta non serena, et inter ea facile hoc quoque. Contra in multis noctibus non serenis, aliquot saltem momenta temporis aut loca coeli serena sunt, quod in nostra methodo sufficit.
+
+Solutio haec est: in sphaera artificiali qualem supra descripsi, polus ad datam ( loci navis) elevationem erigatur; stellae quoque observatae ea supra horizontem loci, quae observatione comperta est, elevatio in eadem sphaera detur. Observetur jam __lunae__non altitudo tantum seu __elevatio super horizontem,__ in instrumento ad horizontem perpendiculari: Sed et eadem opera __differentia__seu declinatio __plagae Lunae a plaga stellae__dictae; in horizonte vel instrumento graduum, ut circulo, aut semicirculo, aut quadrante etc. ad horizontem parallelo, seu ut appareat quoad ejus fieri praecise potest quem planum Lunae per centrum, Horizontis ad angulos transiens, ad planum stellae eodem modo transiens angulum faciat.
+
+Tametsi enim id planum stellae sit verticale, seu transeat per centrum telluris, at planum lunae non sit verticale, cum productum non transeat per centrum terrae, nisi Luna sit loco verticalis; quia stella parallaxi caret, luna vero habet parallaxin; nihilominus tamen postea per parallaxeos supputationem, errorem corrigendum esse dicemus.
+
+Quo facto Luna in sphaera artificiali eo in loco notetur, ubi tum, supra horizontem elevationem, tum a stella declinationem habet datam, qui locus propterea
+eo ipso fit determinatus, ac proinde __habetur lunae latitudo.__
+
+Sed quia Parallaxis lunae turbat, et facit ut locus in sphaera primi mobilis ei non debeat assignari, qui observatione deprehenditur (nisi sit verticalis, ubi parallaxi caret) quia ex alio loco spectanti alia loci determinatio
+
+---
+Additions:
+<<in horizonte>>
+<<rectos>>
+<<luna>>
+<<loco>>

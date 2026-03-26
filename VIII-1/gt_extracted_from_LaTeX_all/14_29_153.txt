@@ -1,0 +1,10 @@
+poterit etiam obiectum vltra augeri, si secunda lens CP tantulum remoueatur ab obiectiua A; item EF, a DC, vt supra dictum est; tunc enim crescit ratio distantiarum; ac proinde iuxta regulam supra traditam, obiectum augetur; vnde concludo, hoc microscopij genus optimum esse, et primum, saltem a me, visum, fabricatum fuisse Augustae Vindelicorum; illius autem copia mihi facta est a clarissimo viro, meique amantissimo et omnium literatorum amore, et cultu dignissimo D. de Monconis, quem hic honoris et grati animi ergo, post amara illius fata, deplorari potius, quam appellari a me par fuit.
+
+VIII. Duo non sunt omittenda ad rem hanc pertinentia primum est, lentem obiectiuam paulo molliorem, id est, maioris sphaerae esse debere, vt obiectum sub minore quidem mole, sed cum maiore campo, vt aiunt, videatur; cuius ratio ex dictis facile intelligitur; simili autem telescopio Diuinius noster vti solet, ad legendas attritorum numismatum inscriptiones: alterum est statui posse vitrum cavum in locum lentis ocularis, sed tubum contrahendum esse, tunc autem res huius microscopij ad telescopium reducitur; et eodem modo [[agrorum]] demonstratur.
+
+---
+Additions:
+<<D. de Monconis
+obiectiua A … Monconis>>
+<<: simili autem … inscriptiones: Posci solet lens n⟨---⟩ si satis haberi p⟨---⟩ campi>>
+<<: tunc … reducitur>>

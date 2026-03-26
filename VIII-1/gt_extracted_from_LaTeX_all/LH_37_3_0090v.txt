@@ -1,0 +1,13 @@
+Hoc sic ostendo, augeatur (vel minuatur) utrobique aequaliter pondus ab vel fd ajo volumina post absolutam pressionem seu post aequilibrium producta, fore semper proportionalia, quantacunque aut quantulacunque sint pondera dummodo utrobique aequalia.
+Ac proinde Volumina esse, mensuram constantem differentiae specierum sumtis ponderibus aequalibus.
+
+[[Est enim Vis Elastica conatus ad mutandum Volumen]] [[Ergo si aequalis]] [[Si duae sint po]] Nam si duae sint potentiae aequales (hoc loco materia bc et de. Sustinent enim aequalia pondera __per hypoth.__ et sunt ut pondera per prop. 1.) et effectus caeteris licet omnibus paribus sint [[hoc loco Voluminis]] inaequales, necesse est conatus potentiarum inaequales esse. Erunt proinde conatus ut effectus. Semper enim effectus sunt in ratione conatuum caeteris paribus; [[ducuntur enim]] quia ducuntur conatus per omnia actionis momenta. Jam conatus mutandi. [[Si corpora Elastica habent conatus Volumina naturalia]] [[corpora Elastica]] Vires Elasticae diversarum specierum, sunt ut Volumina earum naturalia, seu quibus acquisitis quiescunt. [[Si quae habent, caeteris paribus]] Si duo corpora [[occupent idem Volumen, et eodem tempore]] eodem momento relaxentur, [[nec ullo impedimento graventur: ullum impe]] [[ab omni restitutionis impedimento]] [[motus restitutionum erunt proportionales, seu si unum]] [[Volumina erunt proportionalia durante toto tempore restitutionis, seu ut sunt]] erunt Vires Elasticae ut tempora restitutionum.
+
+Si duo corpora Elastica ferant pondus idem eodem tempore in spatia diversa, erunt ut spatia. [[ratio]]
+
+---
+Additions:
+<<(hoc loco Volumina producta)>>
+<<Elastica>>
+<<continue quaesita>>
+<<Jam conatus mutandi: Cogitandum an non [[ratio]] aequalitas sumenda a Volumine mutando aequali ad mutatum>>

@@ -1,0 +1,9 @@
+ab extremitate sensibili ductae ad D, et rectae DF, longe minor erit differentia, quam FG et basis proiectae sensibilis; cum tamen LF sit ad sinum totum vt 465. ad 100000. itaque iuxta istam praxim, sensibilis error subesse nequit, secus tamen iuxta praxim Kepleri.
+
+Hic porro probe distinguas velim vmbram a penumbra.
+
+---
+Additions:
+<<sensibilis … nequit>>
+<<: praxim>>
+<<: penumbra>>

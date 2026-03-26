@@ -1,0 +1,6 @@
+igitur longe inferior sole, vt patet; cometa etiam anni 1665. die 5. Inanuarij infra solem fuisse videtur; cum enim sol esset in grad. 13. Capric. circiter, et cometa in 8. gr. Tauri, distabat a sole arcu circuli maximi grad. circiter 115. sit ergo sol in B, fig 144. centrum mundi A, angulus BAC grad. 115. ducantur BC, AC, AG, parallela BC; .
+
+---
+Additions:
+<<: cometa etiam … solem fuisse>>
+<<: Fig. 144>>

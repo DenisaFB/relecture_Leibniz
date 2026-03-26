@@ -1,0 +1,5 @@
+Cum hoc phenomenon nouum sit, dignus sane Hugeniani ingenij partus, quem licet initio impugnare visus sim, cum nulla adhuc certa phenomena extarent, quae absque annulo explicari non possent; .
+
+---
+Additions:
+<<: quem … impugnare>>

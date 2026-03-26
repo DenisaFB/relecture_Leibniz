@@ -1,0 +1,6 @@
+XI. Vnum omiseram obseruatione dignum quod scilicet ita plano lentis noui generis oculi pupilla admoueatur, vt ab omnibus plani punctis aequidistet, nimirum interceptis lineis parallelis aequalibus, cum tamen omnes lineae parallelae a conuexo lentis productae inaequales sint; praeterea intra lentem vtrimque conuexam omnes radij refracti inaequales sunt, cum tamen intra lentem noui generis aequales sint, physice omnia scilicet aggregata refractorum v.g. CB NM LK: multum autem confert huiusmodi radiorum refractorum aequalitas ad praescriptum refractionum ordinem seruandum; quod si vacuitas ACS aqua plena sit, radius DE erit quidem refractus, sed parum admodum; vnde perinde fere se habebit, atque si NE rectus esset, ac deinde refringeretur in EF, vnde dupla esset foci distantia. Sed de his satis.
+
+---
+Additions:
+<<: Fig. 107>>
+<<: Vnum omiseram … his satis>>

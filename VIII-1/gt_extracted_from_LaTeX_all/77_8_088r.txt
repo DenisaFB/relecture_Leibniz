@@ -1,0 +1,5 @@
+ac Telescopia, requirant: cum hoc iis qui sciunt quo modo praenominatus D. des Cartes ad haec conficienda hyperbola utatur, notum satis esse debeat. Ad cujus itaque dioptricam appello, in qua fundamenta horum omnium firmissima jacta sunt. Verum quidem est in praedicta dioptrica telescopia ac microscopia non ex pluribus quam ex duobus lentibus vitreis composita esse, cum ad eundem effectum aliquando tribus Circularibus lentibus opus habeamus; aut etiam quaedam ex pluribus componere possimus, sed eum et hic iis, qui recte intelligunt quo modo ex duobus componi possint, nulla difficultas superesse possit, addere aliquid hac de re supervacuum diximus, atque eo magis, quod semper minor vitrorum numerus, quando idem effectus per eum haberi poterit, eligendus sit. Unicum adhuc tantum verbum superaddam de iis vitris circularibus quae ab utraque parte connexa sunt, quorum exemplum in figura tertia exhibetur per MONP, in quo O est centrum, ex quo ducta est MPN, et P, ex quo NOM, semidiametris existentibus aequalibus: in talibus nempe vitris
+
+---
+Additions:
+<<fig. 3>>

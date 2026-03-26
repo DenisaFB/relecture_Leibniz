@@ -1,0 +1,5 @@
+Unde patet obiter, id quod superius insinuatum, non universim constare, quod radius a quo loco medii unius in aliud processit, ad eundem retrogradus accedet.
+
+---
+Additions:
+<<: non … accedet>>

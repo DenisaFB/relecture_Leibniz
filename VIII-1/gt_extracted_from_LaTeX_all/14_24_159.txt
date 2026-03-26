@@ -1,0 +1,9 @@
+hinc segmentum minus videtur, et scipio ita fractus, vt angulus LVR sit oppositus oculo si vero oculus sit in ipso catheto, puta in Q, nec scipio fractus, nec segmentum immersum minus videtur; hoc quippe videtur sub angulo VQR.
+
+III. Sit porro superficies aquae AB, scipio CDE, in situ inclinato, vt supra, sit oculus in G, scilicet inter oculum et cathetum, sit radius refractus IG, ducantur GOE, GIF, .
+
+---
+Additions:
+<<: hinc segmentum … angulo VQR>>
+<<: Fig. 130>>
+<<: Sit porro superficies aquae situ inclinato>>

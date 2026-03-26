@@ -1,0 +1,5 @@
+hinc si soluatur hoc problema, datis focis ellipseos et circulo, describere ellipsim tangentem circulum datum, soluetur etiam istud, dato circulo et situ oculi et obiecti, inuenire punctum reflexionis. VIII. Hoc problema nunquam huc vsque solutum est nec forte in posterum Geometrice soluetur; possunt tamen, vt dixi, haberi infinita puncta in EC, GC, SC infinite productis, pro quibus in dato circulo ABX habentur puncta reflexionis.
+
+---
+Additions:
+<<: VIII. Hoc … EC, GC>>

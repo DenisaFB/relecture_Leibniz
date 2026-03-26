@@ -1,0 +1,6 @@
+XXII. Ex his, etiam colligere possumus, cometam vltimum anni 1618. qui 10. Decembris adeo longam caudam projicere visus est; nimirum ad 100. gradus et vltra, longe inferiorem sole fuisse; .
+
+---
+Additions:
+<<: cometam vltimum anni 1618>>
+<<: longe inferiorem sole fuisse>>
