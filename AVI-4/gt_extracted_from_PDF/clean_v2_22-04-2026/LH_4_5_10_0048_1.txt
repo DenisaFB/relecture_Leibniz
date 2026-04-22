@@ -1,0 +1,91 @@
+Quodmultiplicandominusperminus, producaturplus,
+seu − bin − cfacit + bc
+Suppono autem + in + facere +; et + in − facere −. Item suppono regulas
+aequalitatum, caeteraque in calculo usitata, quae regulam hoc loco demonstrandam
+nondum requirunt.
+Quod inmultiplicationeminusinminus, producatplus
+PropositioI Sit L, seu... quae hanc regulam nondum supponunt regulam...
+multiplicandominusper...
+requirunt
+Propositio I
+ut fiat
++ x − b aequ. 0
+aequ. 0
+posita x aequ. b
+ajo esse Θ aequ. + bc.
+Nam quia x aequ. b, erit x − b aequ. 0, ergo x − b in f − c dabit 0 (quia, si nihilo
+aequale, ducatur in quidvis, productum erit nihilo aequale). Est autem x − b in f − c idem
+quod + fx − cx − bf · Θ, ut ostendimus; ergo fiet + fx − cx − bf · Θ aequ. 0, seu, quod
+idem est, fiet · Θ aequ. + cx + bf − fx.
+Rursus quia x aequ. b
+Ergo aequalibus addendo aequalia, fiet + fx + bc aequ. cx + bf. Ergo + bc aequ. + cx + bf
+− fx. Sed paulo ante Θ erat etiam aequ. + cx + bf − fx, ergo erit Θ aequ. + bc quod
+demonstrandum proponebatur.
++ fx aequ. + bf
++ bc aequ. + cx
+Propositio II
+ducenda in
+ut fiat
++ d − b
++ df − bf
+Ponatur d aequ. + e + x, posito b aequ. x, et e existente excessu ipsius d supra x seu
+supra b, ergo + d − b idem erit quod + e + x − b, Ergo + d − b in f − c idem erit quod 30
+aequ. 0 l
+} aequ. 0 l
+ergo d − b
+si nihil nihilo aequale,
+quod in Lemmate demonstrandum
+item bc aequ. cx cx aequ. bc fiet + bc aequ. + cx
+aequale).
+Sed supra
+Ergo Est L l
+aequ. e +
+paulo ante
+quod c, vel idem + e + x − b, (vel idem quod e.) Ergo d − b
+30–S. 1046.1 quod ef − ec e in f − c. seu idem erit quod ef − ec. rursus d − b in f − c idem erit quod + e
+cd − bf · Θ seu idem ef − ec idem erit quo Ergo Seu e + x − b in f − c, idem erit quod
+aequ. b :) est + fx − cx − bf + bc per prop. I. Ergo (duo producta in unum colligendo) + e
++ x − b in + f − c, seu + d − b in + f − c erit: + ef − ce, + fx − cx − bf + bc. At supra + d −
+b in + f − c, erat aequ. + df − cd − bf · Θ.
+Ergo hos duos valores aequando et tollendo utrobique, − bf, fiet:
+(+ ef − ce + fx − cx + bc aequ. df − cd · Θ).
+Est autem + ef + fx aequ. + df et − ce − cx aequ. − cd, quia d aequ. e + x.
+Ergo + ef − ce + fx − cx aequ. df − cd. Ergo si in priori aequatione
+(+ ef − ce + fx − cx + bc aequ. + df − cd · Θ)
+[]]]]]]\
+tollantur utrinque aequalia, restabit Θ aequ. + bc.
+Quod erat demonstrandum.
+Renaldinus aliique qui calculi regulas demonstrare voluere, usi sunt propositionibus
+Euclidis lib. 2. Elementorum, ad probandum quod − in − facit +. Unde Mariottus in
+Specimine Logico, negat eas propositiones geometricas per calculum probari posse, fieri
+enim circulum. Sed quoniam hinc sequeretur vulgarissimas Arithmeticae operationes (ex
+quibus est ista operatio per + et −) pendere a propositionibus geometricis et linearum
+ductu, quod minime rationi consentaneum est; hinc modum quaesivi demonstrandi
+regulam quod − in − facit + per purum calculum, quem vel in numeris vel in lineis
+interpretari licet. Idque mihi Cavalerius quoque optasse videtur, quando hujus
+Algorithmi demonstrationem desiderabat Renaldino teste. Nam linearem
+demonstrationem apud Algebristas, ut Bombellum aliosque extare, non poterat ignorare.
+est aequ. l
+Jam e in f − c est ef − ce. et x − b in f − c
+colligendo (duo... colligendo) l e + x − b in f − c. seu d − b in f − c erit: ef − ce,
+supra d −
+b in f − c erat aequ. df − cd − bf · Θ
+fiet: ef − ce + fx − cx + bc
+Ergo ef − ce + fx − cx aequ. df − cd. Ergo in
+aequ. df − cd · Θ. Est autem ef + fx aequ. df. et
+aequatione priori { ef − ce + fx − cx } + bc aequ. { df − cd } · Θ. sublatis utrinque aequalibus restabit + bc a
+si in aequatione priori { ef − ce + fx − cx } + bc aequ. { df − cd } · Θ. tollantur
+ignorare. l
+geometricas l
+l
+sunt propositione propositionibus Euclidis quod 〈 – 〉 lib. 2. l
+demonstrandi hanc operationem, regulam l
+aequando fiet: et
+22, Renaldino teste
+Vgl.
+EUKLID, Elementa, lib. II, prop. 7.
+Vgl. E. MARIOTTE, Essay de logique contenant les principes des
+sciences, et la maniere de s’en servir pour faire de bons raisonnemens, 1678 [Marg.], part. II, disc. II, art. I, S.
+107–109.
+R. BOMBELLI, L’Algebra, 1572; Titelaufl. 1579 [Marg.], lib. I, S.
+[Sommer 1678 bis Sommer 1680 (?)]

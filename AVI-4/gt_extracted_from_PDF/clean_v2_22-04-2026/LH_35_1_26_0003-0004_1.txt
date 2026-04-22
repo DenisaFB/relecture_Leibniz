@@ -1,0 +1,143 @@
+interiore parum versatos invaluisse opinionem falsam, quodvis problema solvi posse per
+Algebram qualis hodie circumfertur; succurendum eorum errori existimavi.Nihil enim
+magis obest scientiarum progressui quam vel desperatio inveniendi nova, vel fiducia
+inanis praestandi quidvis: quoniam ita neque per nos aliquid novi aggredimur et
+praeclara aliorum inventa, quasi et in nostra potestate essent, temere spernimus. Itaque
+hoc loco omnia repetendo ab initiis, ipsosque Mathematicorum problematum fontes
+recludendo, ostendam, tum quam angusta res sit Algebra quae extat, tum quomodo
+meum necesse non sit
+Video, eam hodie invaluisse opinionem non tantum inter juvenes interioris Geometriae
+imperitos, sed et apud doctores, qui vulgata discipulis inculcare contenti nunquam ipsi animum ad inveniendum
+applicant hodie maxime inter invaluisse Quoniam Cum videam
+versatos ea
+invaluit opinio falsa, quidvis praestari posse invaluisse opinionem falsam, quasi quodvis... posse
+quidvis: ita enim nihil aggredimur novi, e quoniam
+errori scientiarum progressui pec existimavi
+vel desperatio
+vel Algebrae vel Geometriae ullam habere peritiam. Mirabitur ipse introductum sese in
+haec arcana cum adhuc in vestibulo consistere sibi videretur. Tantum ab eo desidero ut
+intelligat Arithmeticam utcunque quemadmodum vulgo pueri solent.
+Duo sunt lectorum genera, quibus instituti mei rationem reddere volo; primum
+tironibus, qui nihil aut parum adhuc in Mathematicis vident sed vellent tamen duci ad
+haec arcana, modo id compendio fieret atque utilitatem inde in vita communi mature
+percipere daretur.His itaque primum, deinde etiam illis satisfaciam qui jam in Geometria
+atque Algebra qualis vulgo circumfertur versati novum aliquid et insigne expectant.
+Tirones itaque sciant nihil ab illis requiri ad lectionem atque intelligentiam hujus libelli
+quam notitiam Arithmeticae communis etiam pueris cognitae: omnia enim hic repetentur
+a primis initiis naturali lumine notis, ac numeris illustrabuntur. Inde paulatim assurgetur
+ad spatiorum et motuum considerationes, viaitaproclivi, et exemplorum face
+illustrata ut nihil in progressu morari possit, atqueitadirecta, ut semper scopum
+studiis vulgo praefixum, id est usum ante oculos habeamus, appareatque perpetuo
+dogmatum a nobis traditorum vis in quaestionibus vitae utilibus. Quam jucunda sit haec
+discendi ratio malim vos experiri quam aestimare. Ita, certe brevis est, ut sciam miraturos
+aliquando tirones, ubi forte in alios doctores, aliosve libros incident, jam intelligi a se
+quae passim pro mysteriis venditantur, cum ipsi sibi adhuc in vestibulo haerere visi
+essent. Minime
+videretur. Vix Tantum
+primum illis qui nihil aut parum
+nihil propemodum Geometriae atque Algebrae tenent, sed vellent compendio
+arcana, et fructum in si modo modo... atque utilitatem eorum
+versati novum aliqui
+utcunque et ut Mercatorum pueri quemadmodum
+Cum duplici lectore Duo lectorum genera separatim alloquar, unum eorum qui nihil hactenus
+Algebrae aut parum Algebrae ac Geometriae tenent; Duo
+aut... tamen
+sibi videntur
+nihil ab illis desiderari a se desiderari ab illis requiri
+sunt hic repetentur
+spatiorumque proprietates spatiorum
+appareat usus praeceptorum dogmatum in quaestionibus vitae utilibus quo nihil potest esse jucundius.
+atqueL
+mysteriis habentur, venditantur
+enim in hoc libello repetita
+ad linearum
+possit, semperque
+numeris illustrata illustrabuntur.
+et... illustrata
+percipere . Deinde illis daretur. His... satisfaciam
+quaestionibus quae vitae
+usum in vita ante
+vulgo
+autem vereor ne pretium adimam Scientiis tanta facilitate; imo tum maxime earum
+praestantia atque utilitas apparebit, cum maxime vulgares erunt, passimque in usum
+venient. Tempus equidem aderit, et credo non longe abesse, in quo Mathematicae
+disciplinae tam vulgares erunt inter eruditos, quam est Arithmetica inter plebejos. Hujus
+temporis adventum si libello meo nonnihil accelerare possum, satis in Rempublicam
+contulisse videbor. Superest enim Scientia physica, cui Mathesis servire debet:
+tempusque est ut tandem aliquando id agamus, quo diutius jucundiusque vivere
+possimus, cognita nostri corporis circumjacentiumque natura. Itaque si Mathematica
+velut arcana tractamus, quae tantum adjumenta sunt ad scientiam majorem, ipsi
+obstamus publicae felicitati. Quemodmodum enim utile est omnes habere microscopia
+nova globularia et in observando illis uti, ita enim mox magnum rerum thesaurum
+habebimus; cum alioqui unus omnia observare nequeat; ita vellem omnibus eruditis nota
+esse arcana mathematica, quo facilius hoc instrumento penetrare possint in naturam, quae
+tam vasta tamque difficilis est, ut conjungi omnium operas necesse sit, si brevi proficere
+volumus, et si quidem nostri [seculi] inventis frui potius ipsi quaerimus quam ut hactenus 15
+factum est laborare pro posteritate.
+Hoc autem ordine Mathematicas scientias tradam. Primum exponam naturam
+Unitatis, ejusque partium, et numerorum qui Unitatis aut partium ejus repetitione
+constant, ubi apparebit origo caracterum quibus utimur in significandis numeris, et ratio
+operationum Arithmeticarum omnium tam facilis, ut qui semel eam intellexerit, postea in 20
+integris pariter et fractis, imo et in numeris ignotis operari possit pro lubitu, nec ulla
+praecepta retinere memoria cogatur. Eademque opera exponentur et quomodo omnes
+fractiones possint revocari ad integros per certas periodos in infinitum recurrentes; quod
+vulgo vocant decimales. Atque ita omnes magnitudines revocari possunt ad scalam
+quandam et instar numerorum rationalium integrorum tractari. Sed quoniam interdum 25
+nondum constat haec magnitudinis revocatio ad scalam,1 vel etiam plures magnitudines
+conjungi
+Am Rande: Nota traditio logisticae et algorithmi simul facienda, res enim eodem redit.
+equidem veniet, aderit
+disciplinae omnes tam faciles habebuntur et
+communes inter vulgares
+optarem utile est
+habere
+auxilio 〈a〉 hoc velut instrumento
+nostri
+ejusque
+origo
+per
+qui tum Unitatis
+inter omnes plebejos.
+tantum introductoria sunt, adjumenta... majorem
+natura. Quid ergo Itaque
+enim
+habebimus; neque enim cum
+omnes habere et in usum transferre in observando ad
+eruditis
+facilius ea eo
+Arithmeticarum quae quibus quisquis omnium
+volumus, ipsique et si quidem ipsi
+ipsi quaerimus
+Unitatis, et numerorum
+apparebit ratio omnium operationum Arithmeticae
+integros decimales
+debent in unum, quod vel facere non volumus, vel non possumus; hinc nonnunquam
+ipsas sibi tantum ascribimus, certis signis adhibitis quibus indicatur quomodo in unum
+numerum conjungi debeant; et his compositis numeris postea operamur quemadmodum
+uno numero simplici. Quod vulgo vocant practicam italicam quae praeludium est
+Algebrae.
+Nam Algebra jam facile intelligetur, quae in eo consistit, ut numeros ignotos
+adhibendo designandoque literis aliisve characteribus, iisque ita calculando, ut numeris
+veris, secundum praecepta praxeos italicae, sed eo scopo consilioque, ut tandem
+aequalitatem obtineamus inter numerum quaesitum ab una parte, et alios ab alia parte; id
+est ut obtineamus ignoti valorem qui est Algebrae finis. Inventos autem valores ad
+numeros revocare possumus et in scala exhibere vel exacte, vel saltem per
+appropinquationem, quantum volumus, sive certam progressionem serieiinfinitae ;
+possumus etiam Tabulas excogitare in quibus jam magna pars calculi peracta sit.2
+Caeterum quia valores quaesitos ex aequationibus eruere difficile est, nisi genesin
+valoribus componemus, easque comparabimus cum oblatis, et hoc proprie dicitur
+analysis, est enim velut inventio clavis in aliquo Cryptographemate.
+Est itaque Analysis aliquid supra Algebram, ostendit scilicet quomodo ipsa
+Algebrae praecepta sint inventa.
+Verum haec non sufficiunt ad omnia problemata in numeris resolvenda, sunt enim
+quaedam quae non sunt satis determinata, ubi artificio opus est in assumendo, sunt alia in
+quibus compendia quaeruntur. Haec problemata sunt supra Algebram, etsi supra
+problemata de seriebus et summis earum ac differentiis. Haec omnia exponenda ita ut
+appareat nihil omitti.
+Am Rande: utilis relatio fractionum in scalam sic semper apparet, quae alia major idem
+est relatio ad decimales.
+quantum volumus
+genera, quibus rationem institu
+Haec omnia problemata
+omitti. Duo sunt lectorum
+[Mai 1679 bis April 1680 (?)]

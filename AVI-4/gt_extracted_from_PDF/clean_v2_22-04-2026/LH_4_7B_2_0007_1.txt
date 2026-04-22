@@ -1,0 +1,89 @@
+Negatione, etdeContradictoriis
+1) Ve r a Enuntiatio est, quae vel percipi vel intelligi potest, vel partim percipi
+partim intelligi; prout est facti vel rationis, vel partim facti partim rationis.
+2) Enuntiatio falsa est quae non est vera.
+est, quae vel percipitur, vel intelligitur quae
+1) Enuntiatio est quod sic effertur A est B, vel A non est B. Enuntiatio c a t e g o r i c a est
+1) Ve raL
+25–S. 737.2 vera. 3) Ea
+Affirmatio Vera enuntiatio est adjici admittenda, falsa est rejicienda. Hoc est axioma practicum.
+3) Proposit Enuntiatio poni potest absolute, potest poni absolute et propositio enuntiatio
+3) Aequivalere dico quorum alterutro posito, alterum poni potest. 4) Enuntiationem esse veram et
+(seu... inferunt) ... probo.
+DE VERO ET FALSO
+3) Aequipollent (seu se mutuo inferunt): Enuntiatio est vera, et Enuntiatio potest
+poni, poni autem intelligo absolute, alioqui possum referre, quod non probo.
+4) Affirmatio est enuntiatio de enuntiatione, dicens eam esse veram.
+5) Negatio est enuntiatio de enuntiatione dicens eam non esse veram.
+6) Enuntiatio et affirmatio enuntiationis aequipollent seu ipsa per se enuntiatio jubet
+affirmari sui veritatem.
+7) Aequivalet enuntiatio vera, et enuntiatio quae potest affirmari. Nam aequivalet
+vera, ei quae potest poni per 3. Et haec ei quae potest affirmari per 6.
+8) Aequivalet enuntiatio falsa et enuntiatio quae potest negari. Nam si ε est falsa,
+Ergo per 3. ε esse falsam est verum. Ergo (per 7) ε esse falsam potest dici seu (per 5) ε 10
+potest negari. Vicissim si ε potest negari, ergo (per 5) ε esse falsam potest dici. Ergo (per
+7) ε esse falsam est verum. Ergo per 3 ε est falsa. Itaque se mutuo inferunt ε esse falsam,
+et ε posse negari, id est haec aequipollent.
+veram. 6) Propositio Enuntiatio vera est affirmanda. Nam 6) Aequivalet
+enuntiatio vera, et enuntiatio quae potest affirmari.
+aequipollent seu aequivalet dicere: A est B, et dicere Verum est A esse B enuntiare, et dicere
+enuntiationem esse veram; 7) Affirmatio et negatio negationis aequipollent Est axioma fluens ex ipso
+enuntiationis usu ac significatu nisi aliud admoneatur. Pertinet ad usum ver signorum 7)
+potest ejus ipsa enuntiatio. Est axioma:
+Veluti si positum sit A esse B est
+verum; poterit poni, A est B. Hoc Axioma pendet a significatu enuntiationis. 7) Posita enuntiatione, poni
+potest ejus affirmatio, nisi aliud admoneatur. Veluti si positum sit A est B, poterit poni, Verum est A esse B, nisi
+quis testetur, se pr indicetur propositionem referri, non approbari. Est canon pendens ab usu
+affirmatio enuntiationis et enuntiatio absoluta, nam affirmatio aequivalet idem est, quod dicere
+enuntiationem esse veram (per num. 4) seu dicere enuntiationem nam ex 3 aequivalet enuntiationem
+aequipollent
+alienam sententiam? Ita est, sed cui enuntiationem ex cujus sententia cujus sententiae congruit
+enuntiatio, ejus sententiae etiam congruit affirmatio enuntiationis. Itaque alienam enuntiat. aequipollent...
+veritatem.
+Aliter aequivalet vera ei quae potest dici vera per 3. id est quae potest affirmari per 4. u. 8)
+Aequivalet
+Nam aequivalet falsa seu non vera ei quae potest dici non vera per 7 seu quae potest
+negari per 5. Ergo aequivalet non vera ei quae potest dici non vera per 8. Esto ε enuntiatio falsa. Esto vera
+haec pro Esto ε propositio falsa. si... falsa.
+potest dici vera affirmari per 6. Et haec ei quae potest affirmari
+enuntiationis se mutuo ponunt inferunt. Atqui possum, inquies, referre
+13–S. 738.1 aequipollent. 7) 6) 9)
+Aequivalent
+9) Affirmatio et negatio negationis aequipollent. Est axioma fluens ex ipso
+significatu τουÄ non, seu particulae negativae, cujus hic est usus, ut geminatione semet
+ipsam tollat.
+10) Si affirmatio est vera, negatio non est vera. Nam si affirmatio vera est seu (per
+9) negatio negationis, potest (per 3) negatio negari seu (per 5) dici non vera. Ergo (per 8)
+non est vera.
+11) Si affirmatio non est vera negatio est vera. Nam si affirmatio non est vera, etiam
+(per 6) enuntiatio non est vera. Ergo (per 3) potest poni enuntiationem non esse veram.
+Quod est (per 5) posse poni ejus negationem, id est (per 3) negationem esse veram.
+Aliter: si affirmatio propositi non est vera etiam (per 7) negationis propositi negatio non
+est vera seu (per 8) potest negari, sed negationis propositi ipsam negationem posse
+negari est negationem propositi posse affirmari (per 9). Id est (per 6) propositum posse
+negari.
+12) Si positis enuntiationibus sequatur nova et haec sit falsa, etiam aliqua ex illis
+erit falsa. Hoc est axioma.1
+13) Si negatio est vera, affirmatio non est vera.
+14) Si negatio non est vera, affirmatio est vera. Hae duae propositiones sequuntur
+ex 10, et 14 ex 11 ope 12.
+15) Contradictoriae sunt quarum una affirmat, quod alia negat.
+16) Contradictoriae non possunt simul esse verae et falsae, sequitur ex 15 per num.
+10, 11, 13, 14.
+Am Rande: NB.
+negationis aequipollent se mutuo inferunt aequipollent.
+tollat. 8) 10)
+affirmatio est vera, etiam vera est negatio negationis (per num. 9). Ergo poni potest negatio
+negationis per 6. Ergo per 5 poni potest negationem non esse veram. Ergo negatio dici non vera. Ergo
+non est vera (per 3) vera... negationis negari potest negatio per 3 potest poni negationis negatio 3.
+Ergo negatio non est vera per 5. potest (per 3) poni negationis negatio negatio negari Ergo
+propositi
+seu
+vera sed negationem non esse veram est negationem negari (per 5) negationem negari
+posse (per 8). Ergo negationis propositi ipsa negatio negari potest. (per arg. seu per 8 posse negari
+propositi potest negari
+positis proposi enuntiationibus
+Negatio Contradictoriae
+negari. 12) Si affirmatio plures sint propositiones ve 12)
+vera, affirmatio potest negari per 5 etiam
+falsa. Axioma Hoc L... vera.

@@ -1,0 +1,216 @@
+COUTURAT, Opusc. et fragm., 1903, S. 89–92.
+v.g. per str. Hrsg. 10
+Regulae quibus observatis de bonitate consequentiarum per numeros judicari potest,
+pariter ac praedicato), scribantur numeri duo, unus affectus Nota + seu plus ; alter
+Nota − seu minus. Exempli gratia sit propositio Omnis sapiens est pius. Numerus
+respondens sapienti sit +20 −21, numerus respondens pio sit +10 −3. Cavendum tantum
+ut duo numeri ejusdem Termini nullum habeant communem divisorem, nam si verbi
+gratia numeri pro sapiente essent +6 −9, qui ambo dividi possunt per 3, nullo modo
+essent apti.
+autem voco propositionem ex qua alia concluditur), tunc ipsius quidem numeri assumi
+possunt pro arbitrio (observata tantum reg. 1. praecedente); alter vero assumi debet non
+pro arbitrio, sed secundum regulas jam praescribendas in quibus exponitur Relatio quam
+Numeri unius termini habere debent ad numeros alterius termini ejusdem propositionis.
+numerus sit pro arbitrio assumtus, tunc alterius termini numerus ita assumi debet, ut duoquidamnumeri
+diversarumnotarumetdiversorumterminorumhabeantdivisoremcommunem, seu
+possint dividi per unum eundemque numerum. Voco autem NUMEROS DIVERSARUM NOTARUM, quorum uni
+praefixa est nota + alteri nota −. Et voco NUMEROS DIVERSORUM TERMINORUM, quorum unus est pro subjecto, 20
+alter pro praedicato. Quare in hoc exemplo: Nullus pius est miser, sumatur pro pio numerus +10 −3 pro misero
++5 −4, quia +10 et −4 sunt numeri diversarum notarum, (nam unius nota est + alterius −) et diversorum
+terminorum (nam unus est pro subjecto alter pro praedicato) et quia ambo habent communem divisorem, seu
+dividi possunt per eundem numerum nempe per 2 (nam +10 dividi potest per 2 et −4 dividi potest per 2) hinc
+numeri isti propositioni Universali negativae congruunt.
+Regulae ex quibus
+propositio, ex duobus constans te scribantur numeri
+alter signo Nota
+tunc
+minus
+Ex. gr. +3 −2 item +6 +10 −9 ita tamen ut hi duo numeri nullum habeant communem
+divisorem, ex. gr. si uno +5 −2 vel +10 −9 nam si dividi possent per unum eundemque numerum ut +6
+−9 nullo modo essent apti. Notandum est autem si quis terminus negetur, ejus sig notas esse tantum
+tunc
+reperiatur solus in
+quibus Numerus unius Termi
+ipse quidem numerus assumi potest ipsius... possunt
+pro uno termino, unius termini Relatio exponitur ad numerum alterius termini exponitur
+et unus terminus unius
+ejusdem propositionis exponitur. exponitur... propositionis.
+ut termini duo diversimode notati duoL
+termini numerus
+nota − (quemadmodum
+u.
+numerus +8 −3 pro pio pio misero +5 −4, ut dividi possit +8
+per +10 −3
+tantum propositio praemissa, L. Et
+unius termini (verbi gratia miseri) numeros (+5 −4) jam assumserimus, tunc alterius
+diversarumnotarum (seu quorum unius nota +, alterius −) etdiversorum
+terminorum (seu quorum unus sumtus est ex subjecto alter ex praedicato, quales sunt
+nempe duo −4 et +10), habeantdivisoremcommunem, seu possint dividi per
+unum eundemque numerum (nempe 2). Et contrasiinconclusionereperiatur
+numeros secundum praemissarum formam rite assumtos, hocmodoinsubjectoet
+praedicatoseinvicemhabere, signumeritipsamconclusionem
+universalemnegativamrecteexpraemissisdeduci.
+Corollar. Hinc statim sequitur propositionemUniversalemNegativam
+simpliciterconvertiposse, exempli causa ex eo quod Nullus pius est miser, recte
+colligitur quod: Nullus miser est pius, nam sufficit in his duobus numeris +10 −3 et +5
+−4 hoc contingere ut duo quidam numeri diversarum notarum et diversorum terminorum
+hoc loco +10 et −4 habeant divisorem communem 2, neque enim distinguitur in regula
+aut refert quisnam eorum sumtus sit ex praedicato, quisnam ex subjecto. Itaque salva
+regula aeque unus atque alter terminus subjectum aut praedicatum esse potest.
+id quod in propositione universali negativa requiri, proxime diximus, locum non habere. Et contra si contingat
+numeros terminorum jam in praemissis rite assumtos hoc modo (quem in universali negativa diximus) se in
+conclusione non habere, signum est ipsam conclusionem particularem affirmativam recte ex praemissis deduci.
+Itaque exempli causa in propositione: quidam fortunatus est miser pro numeris pro Termino miseri existentibus
+qualibuscunque verbi gratia +5 −4 numeri pro fortunato possunt esse etiam qualescunque verbi gratia +10 −7
+modo observetur regula prima (id est modo hi duo +5 et −4 item hi duo +15 et −7 non habeant divisorem
+duo +5 et −3 item −4 et +10) +10 possunt dividi per eundem numerum 2, tametsi
+conclusione universalinegativa ex praemissis
+conclusione m rite rectefuisseex
+duo qui habeantL
+reperiaturnumeros subjecti secundum
+universalem... deduci.
+Nullus homo pius
+terminorum habe hoc
+gratia Et contra si in propositione aliqua univer contingat ter numeros
+modo se habere (quem
+fortunat numero miseri existente qualicunque numeris pro Termino miseri existentibus
+qualibuscunque
+per 5 et hi duo +5 et −4 item hi duo
+proxime
+habere. Itaque exempli causa si mi ter numerus miseri sit qualiscunque verbi
+quidam
+regula tum modo unus modo aeque
+regula termini 〈 – 〉 prima et modo non locu (id est modo 5 non
+deduci. In exemplo nostro, Itaque
++10 et + +15 et −7
+pro
+communem) et modo non locum habeat regula 2. (id est modo neque hi duo +5 et −7 neque hi duo −4
+et +15 divisorem communem habeant).
+miser) et unius termini (verbi gratia miseri) numeros (+5 −4) jam assumserimus, tunc
+semper reg. 1. quod imposterum semper subintelligam, modo idquodinuniversali
+negativarequiriproximediximus, locumnonhabeat (id est modo ne duo
+quidam numeri ex illis qui diversarum sunt notarum et terminorum, verbi gratia modo
+neque +15 et −4 neque hi duo: +5 et −7 communem divisorem habeant). Et contra si
+contingat numeros terminorum jam in praemissis rite assumtos hoc modo (quem in
+universali negativa diximus) se in conclusione non habere, signum est ipsam
+conclusionem particularem affirmativam recte ex praemissis deduci.
+Corollar. 1. Hinc statim sequitur particularemaffirmativam
+c o n t r a d i c t o r i e o p p o n i universalinegativa e, sive non esse posse simul
+veras, neque simul falsas. Nam quod in Universali Negativa requiri diximus, reg. 3.
+nempe communis divisor, dicto modo, id non fieri in Particulari Affirmativa requiritur ut
+hic reg. 4. diximus.
+Corollar. 2. Hinc etiam statim sequitur particularem affirmativam posse converti
+simpliciter, quemadmodum de universali negativa diximus, cui opponitur. Nam
+utrobique conditiones subjectum a praedicato non distinguunt et sufficit numeros eorum 20
+diversae notae habere (in universali negativa) vel non habere (in particulari affirmativa)
+communem divisorem.
+num e r u s s u b j e c t i q u i l i b e t d i v i d i p o s s i t p e r num e r u m p r a e d i c a t i
+e j u s d e m n o t a e. Et contra: si haec duo requisita in conclusionis terminis secundum 25
+praemissas
+hi duo
+hi duo
+(+10 −4) L ändert Hrsg.
+non observetur locum habeat
+(+10 −7)
+sequitur universalem affirmativam contradictorie
+Nam regula quod
+ändert Hrsg.
+opponi particulari particularem... universaliL
+Negativa omitti requiri diximus, id in Part. Aff. locum reg. 2. reg. 3. nempe
+ejus contr communis
+Corollar.
+2.... simpliciter . Nam , quemadmodum... conditiones nullo subjectum... sufficit
+terminos numeros... notae habere aut (in pro universali... divisorem.
+affirmativa debet num locumnonhaberequodinprop. Univ. negativa
+affirmativam darüber:
+in
+propositionis alicujus terminis per conclusionis
+quam negativae opponi diximus) etpraeterea etL
+ut... diximus.
+dicto modo,
+rite assumtis eveniant, tunc ipsa universaliter affirmative ex praemissis rite deducetur.
+Itaque exempli causa: in propositione, Omnis sapiens est pius sit verbi gratia numerus
+sapientis +20 −21, numerus pii +10 −3, et procedet universalis affirmativa quia in ea duo
+numeri diversarum notarum nempe hi duo diversorum etiam terminorum (nam de illis
+qui sunt eorundem res semper patet per reg. 1.) +20 et −3, item +10 et −21, non habent
+communem divisorem (alioqui per reg. 3. locum haberet Universalis negativa);1 at vero
+numerus subjecti +20 dividi potest per numerum praedicati +10 et numerus subjecti −21
+per numerum praedicati −3 (quod proprium est illis terminis quorum unus de altero
+universaliter affirmari potest).
+Coroll. 1. Hinc e x Univ e r s a l i A f f i r m a t i v a s e q u i t u r P a r t i c u l a r i s
+A f f i r m a t i v a Omnis sapiens est pius. Ergo quidam sapiens est pius, quemadmodum
+patet ex dictis proxime sub signo.
+Coroll. 2. Universalis Affirmativa potest converti particulariter. Omnis sapiens
+est pius. Ergo quidam pius est sapiens. Nam si omnis sapiens est pius, Ergo quidam
+sapiens est pius, per coroll. praecedens, sed si quidam sapiens est pius, Ergo quidam pius
+est sapiens per reg. 4. coroll. 2.
+Coroll 3. P r o p o s i t i o Univ e r s a l i s A f f i r m a t i v a p o t e s t universaliter
+c o n v e r t i p e r c o n t r a p o s i t i o n e m, ut vocant, Omnis sapiens est pius. Ergo Nullus
+qui non est pius est sapiens. Nam sit propositio:
+commune, sequitur illi proprium
+quae omnia Universalis Affirmativa habet cum qualibet particulari affirmativa
+deducetur Verbi Itaque
+propositione, omnis
+eveniant, erit tunc
+quia nec hi duo
+omne malleabile est metallum Omnis
+numeri +20 et −21 nec hi duo +10 et −3 (secundum reg. 1.) nec hi duo +20 et −3, nec hi duo −21 et
++10 (alioqui per reg. 3. locum haberet Universalis negativa) communem divisorem habent, in...
+negativa)
+proprium
+3. Non sapi PropositioL
+non Nullus pius non qui non est
+numeri diversorum signorum diversarum notarum
+Omnis hom sapiens
+quod est ipsi parti
+Coroll.
+pius, vide quemadmodum
+sit numerus verbi
+universaliter
+ut vocant,
+qualibet
+situs prior
+Scribatur alia
+situs conversus
+Omnis
+sapiensest
++20 −21
++10 −3
+Nullus non-piusest
++3 −10
+per reg. 1.
+sapiens
++20 −21
+Unde patet +3 et −21 (item −10 et +20) numeros diversarum notarum et diversorum
+terminorum semper dividi posse per eundem numerum nempe 3, nam 3 divis. per 3 dat 1,
+et 21 divis. per 3. dat 7 (eodem modo −10 et +20 dividi possunt per 10), quia in
+propositione Universali Affirmativa semper numerus qui in situ priore est loco 21, dividi 10
+potest per numerum qui est loco 3 per reg. 5. Jam si in situ posteriore seu converso
+numerus qui est loco 3 et numerus qui est loco 21, habeant communem divisorem,
+propositio est Universalis Negativa per reg. 3. Ergo habemus intentum, seu sapiens de
+non-pio poterit universaliter negari.
+veritatem Universalis affirmativae desiderari diximus. Itaque vel numeri diversarum
+notarum et diversorum terminorum habebunt communem divisorem (quo casu etiam
+locum habet universalis negativa; unde patet ex universali negativa particularem
+negativam sequi)2 vel numeri in subjecto non poterunt dividi per numeros praedicati
+ejusdem notae.
+Am Rande:
++20) sign numeros
+situs posterior conversus
+10.) Item Ergo per prop. quia
+loco 21, in situ po habeant
+non habere quod in propositione universali aliquid
+non vel locum habebit universalis negativa, vel div numeri
+(quod est uni (quo
+numeros subje praedicati
+universalis affirmativa negativa
+in situ priore
+seu
+debet locum
+diximus. Et contra si quid eorum Itaque
+divisorem, vel
+numeri subj in
+semper
+per
+NUMEROS
+April 1679

@@ -1,0 +1,46 @@
+Omnis Ratiocinatio nostra nihil aliud est quam characterum connexio, et substitutio.
+Sive illi characteres sint verba, sive notae, sive denique imagines. Omnis autem
+substitutio nascitur ex aequipollentia quadam.
+Porro ex his patet, omnem Ratiocinationem esse quandam combinationem
+Characterum. Est autem combinatio vel ab ordine absoluta, vel ordinem respiciens; est
+item vel similaris, inter characteres, quorum quisque tractatur eodem modo, vel
+dissimilaris. Item
+B L ändert Hrsg.
+pro recto absoluto
+pro obliquo. modificato
+esse rectus absolutus
+triplicatus. Quae inter se conjuncta formulam
+constituunt, Pars
+characterum substitutio, connexio,
+sive signa notae,
+vel in ea ejusdem characteris repetitio vel variat aliquid vel non variat, quae est specialis
+combinatio, cum AA
+Praeterea Combinatoria est composita, cum diversi modi connectendi characteres
+simul conjunguntur, v.g. ab + cd patet a et b inter se alio modo connecti, quam ab et cd;
+quo pertinent notae ablationum, etiam duplices pro duplici modo ascribendi. Et hae duae 5
+rationes connectendi obtinent in calculo algebraico. Et tamen nihil prohibet dari in natura
+combinationes, ubi adhuc plures modi connectendi simul conjungantur; sunt et modi
+connectendi alii similares, alii dissimilares; similaris est, ut ab, a + b, dissimilares horum
+reciproci seu notae auferendi ut ab : b; a + b − b. Item si scribas a b. Nota: nihil impedire,
+quo minus quando duo diversi modi connectendi ambo similares junguntur, alter in
+alterum permutetur, si scilicet nihil adscriptum est, quo distinguantur, sed hoc tantum
+esse diversos, sic ex ab + cd posset fieri a + b · c + d, nihil enim prohiberet
+multiplicationem repraesentari per +, additionem per ascriptionem, et multiplicando ab +
+cd in ab − cd scribi posset: a + b
+a + a + b + b
+a + a + b + b
+c + d
+: c + d + a + b
+c + d +a + b
+: c + c +d + d
+c + d
+c + c + d + d
+Ex variis modis combinandi, ubi se termini vel similariter vel [dissimilariter]
++ a + b
+habent, oriuntur nomina catholica relationes significantia, seu Terminis imponibilia,
+quibus deinde catholice exprimi possunt, quae per characteres Ecthetice; idque aptum est
+memoriae, nam Ecthetica expressio scripturae apta est, sermoni vero apta non est.
+ea duplicatio ejusdem
++, et
+multiplicationem per simplicem additionem
+[Sommer 1688 (?)]

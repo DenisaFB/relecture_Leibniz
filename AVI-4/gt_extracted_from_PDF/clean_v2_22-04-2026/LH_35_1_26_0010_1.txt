@@ -1,0 +1,9 @@
+COUTURAT, Opusc. et fragm., 1903, S. 557.
+aliis servire autem inservire
+Duae sunt Methodi Synthetica seu per artem combinatoriam, et analytica. Utraque
+ostendere potest inventionis originem; neque ergo hoc est privilegium analyseos.
+Discrimen in eo est quod combinatoria orsa a simplicioribus, totam Aliquam scientiam,
+vel saltem theorematum et problematum seriem exhibet, et inter ea etiam id quod
+quaeritur. Analysis vero problema propositum reducit ad simpliciora; et fit vel per
+saltum, ut in Algebra, vel per problemata intermedia, in Topica vel reductiva. Idem
+discrimen et in combinatoria, ordimur enim vel a primis vel a propinquis.

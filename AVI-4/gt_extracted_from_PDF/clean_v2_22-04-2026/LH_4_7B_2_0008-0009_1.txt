@@ -1,0 +1,234 @@
+Calculus Ratiocinator
+seu artificium facile et infallibiliter ratiocinandi.
+Res hactenus ignorata.
+2) Subjectuma in exemplo praecedenti, Omnishomo. Semper enim signum
+universale subjecto praefixum intelligatur.
+3) Praedicatumb in eodem exemplo praecedenti: animal.
+Regulaecalculi :
+4) Propositio p e r s e vera, seu quae probari nec potest nec debet, a me vocatur
+identica, qualis haec est: ab est a vel ab est b ac denique a est a. Sit enim a animal et b
+ignorata. Fundamentacalculi : 1)
+ac... a est a ... qualis
+dicamus: omne animal rationale est animal tunc
+a
+31–S. 275.1 b homo rationalis idem est ac si
+Semper... intelligatur
+rationalis tunc ab est a idem est quod: animal rationale est animal, et ab est b idem
+quod: animal rationale est rationale. Denique a est a idem est quod animal est animal.
+5) Consequentiapersevera seu quae demonstrari nec potest nec debet, haec
+est: si a est b, et b est c, Ergo a est c, id est subjectum semper in locum sui praedicati,
+vice subjecti in alia propositione fungentis, substitui potest ut homo est animal, animal
+est substantia. Ergo homo est substantia. Seu Deus est perfectus. Perfectus est sapiens.1
+Ergo Deus est sapiens.
+6) Ex consequentia per se vera sequitur haec: si a est bd et b est c etiam a est c.
+a est b et b est c etiam a erit c per eundem artic. 5. Ergo si a est bd etiam a erit c quod 10
+erat demonstrandum.
+7) Idem est quod ubique in alterius locum substitui potest salva veritate. Ex. gr.
+aequilaterumaequiangulumquadrangulum, et: aequilaterum
+rectangulumquadrilaterum, et denique quadratum, haec tria sunt idem, et
+unum pro altero substitui potest. Nam eadem res quae quadrata est etiam aequilatera
+rectangula quadrilatera est et contra. (Hinc patet duo priora esse velut definitiones tertii.)
+8) Si a est b et b est a erunt a et bidem. Nam semper b substitui poterit in locum
+ipsius a vel contra. Ostendero autem semper substitui, si substitui possit sive a sit
+subjectum sive praedicatum alicujus propositionis. Sit ergo propositio c est a (in qua a
+est praedicatum), jam ex hypothesi a est b. Ergo per artic. 5 c est b seu in prop. c est a 20
+potuit b substitui in locum ipsius a. Sit alia propositio a est d. Jam ex hypothesi b est a.
+Ergo per artic. 5 b est d. Sive in prop. a est d, poterit b substitui in locum ipsius a. Cum
+ergo tam in propositione c est a, quam in propositione a est d possit substitui b in locum
+a, patet ubique substitui posse, adeoque esse idem. Quod autem de b ostendimus respectu
+a, etiam de a patet respectu b, nam eodem modo se invicem habent. Itaque sunt eadem. 25
+Am Rande: Haec nempe est definitio praedicati.
+: animal
+quod haec
+c, tunc a Ergo
+animal est mortale. E
+sapiens. Propositio p e r s e vera est, quae vel per se vera est, vel per
+substantia.
+consequentiam ad per se veram reduci potest, ut haec ac est b posito a aequ posito 6) Ex
+c quia loco propositionis a est bd poni potest propositio a est b unde fiet per
+si ad a
+c per prop.
+prop. artic. 4 quia Nam
+quod
+idem.
+Eadem ratio Quod autem de d dictum de
+quadrilaterum
+bd, et pro per
+et:
+Ex.... tertii)
+Definitio est characteris unius explicatio per alios plures quae non ut probanda
+sed ut assumta ponitur, ut a est bc et contra vel d est bce (sive d est ae) et contra; erit a
+definitum, bc definitio; vel d definitum, bce (vel ae) definitio. Est enim definitio idem
+quod definitum, homo idem quod animal rationale, nam compendii causa uno vocabulo
+hominem appellamus.
+Propositio vera est, quae vel per se vera est, vel substitutionibus aequivalentium
+seu characterum explicationibus reduci potest ad per se veram, ut haec a est d. Ponamus
+enim bc esse a, (id est hanc esse significationem seu definitionem ipsius a, ut idem sit
+quod bc) et ex a est d substituendo fiet: bc est d. Ponamus porro d esse bce (id est hanc
+esse definitionem ipsius d) adeoque d esse bc per artic. 6 tunc ex prop. bc est d fiet bc est
+b quae propositio identica est.
+Hinc patet verus usus analyseos, quomodo propositionum veritas ostendi possit,
+reducendo eas ad veras, si scilicet substituendo aequivalentia, ita enim semper regressus
+locum habet.
+Potest et sic definiri: Propositio vera est, quae ex propositionibus per se veris
+per definitiones et consequentias seu substitutiones rectas, fieri potest.
+Hanc definitionem magis capit vulgus, et sufficit ad judicium, sed prior utilior est
+ad inventionem. Indiget tamen prior praedicatis reciprocis, cum posterior contenta sit
+praedicatis communibus. Si tamen et in analysi volumus uti solis praedicatis
+communibus, debemus uti deductione ad absurdum. Quia ex vero sequi non potest
+falsum etsi ex falso verum. Hinc et si attributis communibus uti velimus et quaeramus
+constructionem rei, ponamus rem non adesse, et inde calculando et resolvendo
+assumamus aliquid quo ducamur ad absurdum, patebit hoc modo constructio rei ope
+assumti.2
+Definitio... appellamus.
+quae... sed ut assu compendii causa assumta
+et contra
+et contra
+vel vera per... vel
+Ponamus enim a esse bc b et d fiet bc
+ponitur
+substitutionibus seu consequentiis per se veris et characterum explicationibus aequivalentium
+seu et str. Hrsg. characterum explicationibus
+veram aut jam probatam aut arbitrariam u.
+ut
+(id... et
+esse b bce et fiet substituendo eamque propositionem jam alibi (id... tunc
+est. Assumtae autem propositiones, ut bc est a et d est b vel jam sunt verae vel probatae, vel
+sunt assumtae pro arbitrio per modum definitionis. Licet enim mihi definitionem hanc ipsius a assumere, a est
+bc verbi gratia animal rationale compendii causa vocamus hominem et dicimus, homo est animal rationale.
+Atque ita dicere a est bc nihil est aliud quam characterem a explicare. Hinc... assumti
+probati propositionum
+fit fieri
+uti deductionibus deductione
+attributis... velimus
+quomodo
+substitutiones permissa rectas, deduci str. Hrsg. potest
+si sola attributa communia habeamus
+definitionem praefero magis
+non
+Attributum est praedicatum reciprocum, compositum subjecti simplicis, verbi
+gratia: a est bc, bc est a, erit bc attributum reciprocum.
+Omnis Definitio est Attributum reciprocum.
+Ex unoquoque attributo reciproco omnia subjecti praedicata inveniri et demonstrari
+possunt.
+Requisitum est attributum non reciprocum.
+Terminus primitivus seu requisitum simplex est, quod per se concipitur, seu quod
+alio requisito caret. Exempli causa pone d esse ae, et a esse bc, et b esse fg, ipsum autem
+f ultra resolvi non posse, erit f terminus primitivus.3
+Sunt aliqui termini primitivi, nam si nihil per se concipitur, omnino nihil concipitur. 10
+Termini primitivi sunt plures: alioqui nulla esset varietas in compositis.
+Possibile est ex cujus positione nulla sequitur propositio falsa, seu quod non
+implicat contradictionem.
+Omnis Terminus primitivus est possibilis.
+Non potest demonstrari possibilitas, nisi resolutione in requisita primitiva facta, aut 15
+possibili demonstrata.
+Quicquid possibile esse demonstratur, ejus ultima resolutio vel facta est vel in
+potestate est.
+Priusnatura voco id quod est terminis primis propius.
+Am Rande: Facile demonstrari potest ex generali modo ratiocinandi non dari ullam 20
+propositionem demonstrabilem de simplici conceptu. Videntur tamen necessario
+superesse quaedam enuntiationes in obliquo.
+Attributum reciprocum est , cum praedicatum compositum, quod
+idem est cum
+est bc erit bc attributum recipro et bc
+subjecto, est... simplicis
+reciprocum. Ex pluribus Attributis unum eligi esse potest quod sit definitio, ex quo caetera
+requisito
+poterunt demonstrari Omnis Definitio
+non indiget caret
+omnino
+compositis. Omnes termini primitivi sunt possibiles Possibile
+Omne Requisitum primitivum est possibile. Cujus rei possibilitas absolute demonstrata est, ea res resoluta
+est in requi Caetera sunt possibilia, quia Possibilia sunt quae
+in requisita primitiva resolvi possunt
+18–S. 278.1 est. Causa est Si a est b quia c est d
+Omnis... possibilis.
+erit cd Prius... est requisitis terminis
+ratiocinandi ex
+〈r〉 non
+seu attributum requisitum
+pone a esse d
+contradictionem.
+ultima
+Ratio est propositio prior natura ex qua alia propositio demonstratur. V.g. lm est
+cd quia l est cde.
+Si propositionis ab ratio sit cd, erit cd causa, ab effectus.
+Similia sunt quorum ratio diversitatis reddi non potest ex aliquo capite, v.g. sit a
+aequ. bcd et b aequ. fg et c aequ. gh et d aequ. hl, eodem modo sit m aequ. npq et n aequ.
+rs et p aequ. st et q aequ. [tu], ajo abcdfghl et mnpqrstu esse similia, in quantum
+fghl et rstu non distinguuntur, horum enim discrimine non adhibito sive requisitis
+diversis in calculum non vocatis, nec discrimen inter illud et hoc poterit demonstrari.
+Magnitudo est praedicatum quo simillima discerni possunt.
+Basin voco id quo plura homogenea sunt, seu similia et cujus modificatione ipsa
+Pars et totum similia sunt.
+Omnes partes simul non differunt a toto.
+Si id omne quod intelligitur in pluribus diversis etiam intelligitur in uno, nec
+quicquam praeterea, unum erit totum, diversa illa erunt partes. Requiritur autem ut
+sint in aliquo similia quod aeque sit in singulis illis ac in toto, et aeque in his quae sunt
+eodem modo ad singula, quam in ipsis singulis.
+Clarius.
+Sit a unum sintque plura diversa bcd et si illud existat, etiam existat b, et c et d; et
+contra, si b et c et d existant existat a, idque ita ut ea quae eodem modo se habent ad b eo
+ipso eodem modo immediate se habeant ad a, et ita porro. Erit a totum caetera partes.
+20, et m aequ. den
+aequ. ce fg
+est cde Si
+demonstratur. Causa est V.g. ab est lm est cde quia l est aequ. , et m aequ. dn cdn
+ce, et m est aequ. de cdn quia l aequ. cn cdn
+quia l aequ. cde
+propositionis a est b ratio sit c est d erit cd causa ab effectus ab fit est fit str. Hrsg. ratio
+sit cd est str. Hrsg. erit
+sit a A aequ. BCD et B aequ. FG et m
+tv L ändert Hrsg.
+sive... vocatis
+est id quo plura sunt similia Homogeneum est id quo plura similia sunt Basin
+cujus
+toto. Totum est a Si pluribus intellectis inter se et differentibus et 〈i〉 intelligitur
+quicquid in uno est, 〈nec〉 et contra Si
+et id si omne
+quod intelligitur in si str. Hrsg. aliquod ex his non sit illud sit existat, etiam existat
+quodlibet ex his; et si singula existant, existat quodqu etiam str. Hrsg. b, vel
+est id quod sola non nisi a posteriori dignosci potest, ut tripedalitas.
+possunt. Materia
+partibus Totum est et pars est quae Partis relatio ad suas partes
+sunt. Plures partes si Omnes
+idque sine consequentia ita
+ipso se str. Hrsg. eodem
+diversa
+t v u
+et
+Si b est f et c est f et d est f, et hinc etiam a est f, idque sine consequentia, seu posito
+b esse g, et c esse g, et d esse g, per se notum est etiam a esse g, et contra (seu ut nulla
+praeterea ad hoc probandum ratiocinatio necessaria sit), erit a totum, et bcd erunt
+partes.4
+Si per se notum est b esse f et c esse f et d esse f ac quamlibet partem aeque ac totum 5
+a esse f, erit fbasis seu genus. Ita basis seu [genus] corporum est [materia], spatium
+basis figurarum; tempus basis horarum. Nam minime putandum est, dari aliquam basin
+quam materiam vocant, quae mutato corpore maneat. Genus est non res diversa, differt
+autem hoc genus ab alio genere, v.g. planta est genus arboris et fruticis, quia non locum
+habet in singulis partibus. Imo quia semper tota intereunt nunquam partes, videtur
+materia non interire. Imo materia revera nihil est, totum non componitur ex partibus sed
+connexum est. Imo de toto et partibus ut vulgo cogitamus chimaera est, quemadmodum
+et materia. Totum non aliud est ab omnibus partibus, si sumatur pro corpore seu materia;
+sed hoc absurdum cum nullae sint partes minimae. Ergo revera solae existunt mentes et
+Corpora sunt apparitiones cohaerentes. Mens unaquaeque apparitionem mundi
+habet, ex apparitione non sequitur nisi apparitio. Necesse est igitur omnem mentem
+perpetuo existere, neque enim ipsa se destruet, nunquam obliviscitur priorum, sed
+semper si per priora vestigia ducatur meminisse potest.
+Non potuit explicari compositio continui, quia nec quid materia.
+Am Rande: Hinc omnia de toto facile demonstrantur ut quod nulla substantia percipitur
+in toto quae non concipiatur in qualibet parte.
+et ideo sine consequentia nova etiam a est f nova assertione
+consequentia, seu si b est f et c est seu
+per
+f et a esse f
+contra, erit (seu
+basis . Ita basis corporum est materia seu corpus, figurae spatium, seu... est corpus ändert Hrsg.. figurarum;
+habet
+f attrib ..
+genere, v.g. ab animale, quia id non aeque est in
+mundi intelligit
+destruet, tantum nunquam
+partibus. Quoniam Imo
+potest Intelle Non
+totum aeque ac

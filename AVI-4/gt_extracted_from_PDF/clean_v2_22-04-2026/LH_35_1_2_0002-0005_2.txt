@@ -1,0 +1,630 @@
+J. ECHEVERRÍA, La Caractéristique géométrique de Leibniz en 1679, Teil 2, Paris 1979, S.
+16–42.
+22. febr. 1679. Pars 1.
+DemonstratioAxiomatumEuclidis
+Apollonium olim Axiomata demonstrare aggressum narrat Proclus, idem intelligo 15
+conatum facere Robervallium. Mihi recte fecisse videntur: tum demum enim ad
+perfectissimas comprehensiones perveniemus, cum nihil sensui aut imaginationi fidentes,
+omnia ad rationes exigemus. Sed hoc fieri posse reapse ostendendum est.
+Definitio 1. Aequalia sunt quae magnitudine discerni non possunt, seu quae sibi
+substitui possunt magnitudine salva.
+Definitio 2. Minus est quod alterius parti aequale est, alterum dicitur majus, ut A
+partes habet E, F et F aequ. B, erit B minus quam A.
+comprehensiones pervenimus, perveniemus,
+21–S. 166.1 Defin. 2... quam A. Prop. 1 Axiom. 1.
+EUKLID, Elementa, lib. I.
+Apollonium... Robervallium: PROKLOS, In primum Euclidis
+Elementorum librum commentariorum ad universam mathematicam disciplinam principium eruditionis
+ROBERVAL, Les É lémens de Géométrie [Ms.]. Vgl. VI, 6 S.
+Axioma 1. Quae eidem sunt aequalia et inter se sunt aequalia.
+A aequ. B et B aequ. C. Ergo A aequ. C. Nam quia A aequ. B per 1, ergo per def.
+aequalium poterit substitui ipsi B in prop. 2, unde fiet prop. 3.
+Axioma 2. Si aequalibus aequalia adjecta sunt tota sunt aequalia.
+A aequ. B et C aequ. D. Ergo A + C aequ. B + D. Nam in locum A substitui potest B
+per prop. 1 et in locum C substitui potest D per prop. 2. Ergo in locum A + C substitui
+potest B + D.
+Axioma 3. Si ab aequalibus aequalia ablata sunt quae reliquuntur sunt aequalia. Est
+conversum prioris.
+Demonstratur ut praecedens. (Potest et demonstrari ex supposito praecedenti,
+hoc modo: Si A + C aequ. B + D et C aequ. D, erit A aequ. B. Ponatur enim
+A majus B et sit A aequ. E + F et F aequ. B (per definitionem minoris), erit
+F + C aequ. B + D per axioma praecedens, non ergo E + F + C aequ. B + D, nec proinde
+(per 5) A + C aequ. B + D, quod tamen posueramus.)1
+Axioma 4. Si inaequalibus aequalia adjecta sunt tota sunt inaequalia.
+Sint A et B inaequalia et sit A majus B seu per defin. minoris A aequ. E + F et E
+aequ. B, et [sit] C aequ. D, erit E + C aequ. B + D per axiom. 2, ergo E + F + C majus
+B + D, seu si inaequalibus A et B addantur aequalia C et D fient inaequalia A + C et
+Am Rande: Demonstrandum est quicquid aequale non est id esse vel majus vel minus.
+per prop. 1
+posueramus.) Prop. 4 Axiom. 4
+axiom.
+Est... prioris.
+per prop. 2
+(per... minoris)
+sint L ändert Hrsg.
+per praecedente
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+Axioma 5. Eodem modo demonstratur si ab inaequalibus ablata sint aequalia
+residua esse inaequalia.
+Axiomata 4 et 5 melius ita demonstrantur, ut non sit necesse assumere alterum
+altero esse majus nec demonstrare prius inaequalium alterum esse majus alterum minus.
+Axioma 4 sic demonstratur:
+Sint A et B inaequalia et C aequ. D, erunt A + C et B + D inaequalia. Nam
+ponantur A + C et B + D aequalia et sublatis aequalibus C et D per prop. 2, erunt residua
+A et B aequalia per axiom. 2, quod est contra hypoth. 1. Vera ergo est conclusio prop. 3, 10
+Nota cum eadem sint quae sibi mutuo substitui possunt salva veritate, erunt eadem
+magnitudine seu aequalia quae sibi substitui possunt salva magnitudine.
+Linea recta est, quae ad punctum extremum similiter se habet utcunque producatur,
+seu quae a suo extremo uniformiter procedit seu quae ex extremo aliquo similiter
+percipitur, utcunque producatur.
+Circularis linea est, quae ex uno puncto extra ipsam similiter percipitur, utcunque
+producatur.
+Superficiei planae et sphaericae eadem definitio est, tantum pro linea superficiem
+substituendo.
+Quoniam possumus demonstrare omnes veritates etsi in infinitum non progrediamur
+resolvendo; quemadmodum propositio totum est majus parte demonstrari potest solo
+termino majoris resoluto, reliquis totius et partis non explicatis, ideo nobis ad
+geometriam perfecte absolvendam et ad characteres reducendam satis erit, si eousque
+continuemus resolutionem, quousque produci potest, id est, donec omnium axiomatum 25
+demonstratio habeatur. Et quidem axiomata de aequalitate, inaequalitate additorum etc.
+demonstrare facile est.
+majus : Hoc modo nec
+et C et D aeq C
+aequalia , erunt et
+in ipsa sumto uniformiter procedit est,
+quae ab aliquo pun a
+ex uno extremo sim extremo
+recta est, quae ad punctum puncto quolibet
+extremum uniformiter procedit similiter
+seu cujus partes quaelibet commune seu
+producatur. Linea Arcus circuli est, qui Circularis
+eadem et superfi Superficiei
+perceptio esse potest. Cor Extensio est Extensum est, in quo plura situm habentia percipi possunt.
+Extensum absolutum est, in quo intelligi potest quicquid situm habet. Corpus est extensum finitum (
+Quoniam
+de Multiplicando aequalitate
+etc. satis demonstravi ni fallor, restat, ex demonstrare
+substituendo. Linea est in qua sumi possunt puncta
+Et problemata quidem
+producatur. Planae
+procedit
+Demonstrandum est Congrua aequalia esse.
+Congrua sunt quae omnium partium terminos habere possunt simili-similiter
+[positos]; seu quoad situm indiscernibiles, seu eundem situm habentes. Seu quae ita sita
+esse possunt, ut puncto cuilibet unius respondeat punctum alterius eodem modo situm.
+Congrua sunt quae hoc modo sita esse possunt: Congruunt quae reapse ita sita sunt:
+Congruunt quae situ discerni non possunt, id est quorum
+pars quaelibet cuilibet respondenti per se sine ulla ad totum
+relatione similiter sita est. Ita ABCD et AEFG similiter
+quidem sita sunt, sed non congruunt, nam etsi ex puncto A
+discerni non possint, ABCD et AEFG tamen ex puncto G
+discerni possunt.
+Itaque congrua sunt quae simul percepta nullo modo
+quoad situm discerni possunt. Hinc quae congruunt eorum et
+partes congruunt.
+Similia sunt quae separatim percepta sine aliquo forinsecus assumto, seu per
+solum situm partium discerni non possunt.
+Similiterposita sunt, quae simul ex aliquo puncto percepta discerni non
+possunt.
+Quantitas est numerus partium quae quibusdam determinatis congruere possunt.
+Imo quia diverso modo numerus partium assignari potest, sequeretur diversas esse
+quantitates. Itaque dicerem potius est rei attributum quod per numerum congruentiarum
+rei vel omnium ejus partium cum determinatis rebus cognosci potest. Ita tripedalitas per
+possint, tamen ex alio ABCD
+sunt quae ita sita esse possunt ut homologae partes quaelibet quae similia sunt (seu omnis
+quae omnes partes habent homologas, et similes et eodem modo inter se invicem similiter positas. Id est
+partiumque terminos darüber: responde versehentlich nicht habent simili-similiter positos; seu
+indiscernibiliter darüber: quoad si positos omnium
+ut punctum quodlibet puncto
+etsi
+possunt simul
+discerni non possunt seu sine
+Quae congruere possunt Imo
+determinatis rebus congruentium numerum... rei omnium vel... rebus
+congruentium. Ita... congruant numero lateri quadrati, aliae
+Aequalia sunt quorum eadem est quantitas seu quae quoad quantitatem discerni non possunt. Quae
+congruunt Congrua sunt aequalia, nam congrua possunt congruere, quae possunt congruere possunt
+simul ita poni, ut postea simul quoad situm discerni non possint, sit jam alia res cui congruere possint
+partes unius, eo ipso etiam ei congruere possunt successive Aequalium
+nam si uni si
+quae ex nullo modo quoad situm discerni
+partium cujusque u. discerni
+est status rei
+percepta quoad situm partium
+positos Hrsg. nach Variante
+alterius similite eodem
+Hinc... congruunt.
+per numerum partium
+Hinc duo cong
+22–S. 169.3 Ita...
+possunt.
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+ternarium partium pedi congruentium.2 Ita fieri potest ut detur linea recta cujus aliquae
+partes congruant lateri quadrati, aliae [bricht ab]
+Aequalium eadem est quantitas, id est eundem habent numerum partium
+determinatis rebus congruentium.
+Quae eidem congruunt aequalia sunt, nam ponatur eam rem esse certam et
+determinatam, utique cum unumquodque eidem rei totum semel congruat, eodem modo
+eorum quantitas per congruitatem cum certa re cognosci potest, itaque eadem erit eorum
+quantitas. Hic est primarius congruentiae modus cum tota semel congruunt.
+Quae inter se congruunt aequalia sunt, nam sint a et b congruentia, utique a congruit
+ipsi b, et b etiam congruit ipsi b, ergo a et b eidem congruunt, adeoque aequalia sunt per 10
+praecedentem.
+Quantitas est posse totum congruere certo modo secundum aliquem numerum
+repetitionum et assumtionem rerum partiumque rebus determinatis.
+Ejusdem sunt quantitatis quae iisdem rebus eodem modo congruere possunt, seu ut
+in modo congruendi nullum sit discrimen.
+Hinc quae eidem toti tota simul congruunt aequalia sunt, nam neque in re neque in
+modo congruendi differentia est.
+Quae inter se tota semel congruunt eidem toti congruunt.
+Am Rande: Quantitas est rei attributum, quod cognosci potest, per congruentiam
+omnium rei partium cum aliis rebus determinatis.
+partium determinatae rei congruentium, ea res sit determinatis rebus congruentium , sint
+ergo duae res a, b, et una ex h quia congruunt, ergo datur numerus omnium partium rei, a qui
+numerus est unitas, determinatis rebus, hoc loco rei b congruentium. Jam res b etiam sibi ipsi congruit, ergo
+etiam secundum numerus congruent quia congruunt, ergo et earum partes
+congruunt, ergo nempe pars quaelibet rei a parti alicui rei b. Ponantur partes rei b esse res
+determinatae ergo exprimi poterit quantitas ipsius a per numerum congruitatem partium
+et quantitas ipsius a cognosci potest per congruitatem cum ipso b, sed eodem m ponendo b pro re
+determinata, sed b eodem modo congruit cum ipso b, seu secum ipso, quo a cum ipso congruit , sint ergo
+nam eodem modo cognoscitur cognoscuntur
+cum certa re
+posse secundum totum totum
+secundum... partiumque
+nullus est neque
+cognosci
+totius rei omnium
+est modus congruendi rebus determinatis
+modo seu secundum aliquem numerum partium
+nam
+quod per numerum
+potest, quo per versehentl. nicht congruentiarum per congruentiam
+cum eidem rei eodem congruant, unumquodque... congruat,
+quae certo modo iisdem
+Hic... congruunt.
+tota semel
+toti
+Sese Attingentia sunt quae aliquod punctum habent congruens.
+Extima sunt in quibus nullum punctum designari potest, quod non solum alterius
+puncto alicui congruere possit.3
+Extensum in se cognoscitur per situm partium quarundam, quo inveniri potest situs
+partium caeterarum.
+Si cognoscatur ambitus extensi, cognoscetur ipsum extensum.
+Si cognoscatur situs punctorum per se determinatorum situ a caeteris distincto,
+cognoscetur et situs reliquorum punctorum quae per haec determinantur.
+Per se determinata intelligo [puncta] cum ratio est cur haec prae illis considerentur.
+Ut in figuris rectilineis anguli; in curvilineis vel mixtilineis diversae speciei linearum vel
+superficierum tactiones, id est intersectiones vel contactus. Fieri potest ut in aliquo
+extenso nullum detur punctum eminens, ut in circumferentia circuli vel in recta aut helice
+cylindrica infinita.
+Ex dato ambitu solidi solidum ipsum determinatum est, seu duo diversa solida
+eundem ambitum habere non possunt, nisi congruentia sint. Nam puncta distingui non
+possunt nisi per alia puncta quae ab aliis distinguuntur, id est per ea quibus solidum
+terminatur. Hinc si solidum determinatum est, per ambitum determinatum est. Hinc
+sequitur solida quorum ambitus integer congruit, congruere ipsamet, puncta omnia per
+ambitum determinantur, et aeque per ambitum unius ac per ambitum alterius, ergo
+Am Rande: Ambitus est cujus punctum quodlibet ab alio extenso tangi potest. Tangi
+id est in uno solo puncto congruere.
+sunt puncta quae in
+possit. Sint duo abc duo extensa abc et in determi Extensa determinantur per
+certa aliqua puncta et regulam pro i datam pro de inveniendis aliis quibuslibet Extensione
+inveniri
+linea figuris
+circumferentia circuli nullum
+puncta alia quaelibet determinantu solidum
+similiter s distingui
+solida
+determinantur, adeoque et
+in
+extenso ut
+solidi
+puncta omnia intra solidum sua 〈con〉
+sequitur quorum extrem
+superficierum intersectiones vel cont tactiones,
+cognoscatur situs partium ambien ambitus
+in recta infinita vel in circumferentia
+Hinc ex ambitu determinato si
+congruit, et tota congruere
+ipsamet, nam quia puncta
+quo dignoscitur situs partium
+extenso contingi tangi
+puncto L ändert Hrsg.
+solo
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+discerni non possunt, quoniam per ea quae discerni non possunt determinantur. Punctum
+omne intra solidum ab alio quolibet intra solidum perse discerni non posse manifestum
+est, quia eodem modo solidi partibus medium est. Verbi gratia si quis sit in aqua unum
+locum aquae ab alio discernere non poterit; praeter fundum et superficiem. Sola ergo
+puncta quae in ambitu sunt per se discernuntur, et ex his solis proinde necesse est
+determinari caetera quae non per se discernuntur seu non in ipsis.
+In superficie uniformi, plana, sphaericave scilicet, puncta a se invicem discerni non
+possunt praeter terminos, eodem enim modo se habet punctum quodlibet ad partes
+vicinas, idemque est in lineis recta, circulari, helice cylindrica. In integra circumferentia
+circuli, integraque linea recta, infinita, aut superficie sphaerica vel plano infinito nulla
+sunt puncta quae ab aliis discerni possint; itaque sumtis quibuscunque necesse est
+determinari puncta extra ipsa quae ab aliis possunt discerni, ut in sphaera centrum, vel
+nulla erunt ejusmodi puncta ut ne extra quidem lineam rectam tale quid reperitur. Itaque
+punctum aliquod pro arbitrio sumendum est; pro arbitrio id est ob causas externas.
+Determinata est figura cujus puncta quotcunque ex totidem cujusdam determinatae 15
+figurae punctis inveniri possunt.
+Determinata est figura cujus inveniri possunt puncta quotcunque ex datis punctis
+certis ope cujusdam regulae. Hinc sequitur figuram etiam esse determinatam, cujus
+puncta quotcunque ex totidem punctis figurae respondentis determinari possunt, nam
+ipsa figura respondens utique jam est determinata per pauca puncta, vel adhuc per aliam, 20
+id est tandem per pauca puncta ne res eat in infinitum, seu nihil sit nobis determinatum.
+Linea recta est quae duobus punctis datis positione data est, id est quae duobus
+quibusdam punctis existentibus immobilibus, licet caetera omnia moveantur, ipsa est
+immobilis quae vera est generatio lineae rectae.4 Hinc 〈etiam〉 demonstratur minimam
+esse, nam sola minima determinata est.
+Am Rande: NB.: vera definitio rectae.
+omne praeter id quod in ambitu est intra
+est. Itaque si quis in centro Verbi
+modo a solidi partibus ubi a solidi
+scilicet, non
+potest similiter puncta
+discerni, vel nece ut
+puncta quotcunque ex paucis quibusdam datis quotcunque
+positione data est
+se habent ad partes habet
+cujus omnia puncta
+Hinc... est.
+aut pl superficie
+ex qui totidem
+cujus omnia puncta
+datis
+Punctum in linea recta esse intelligitur, quod ita situm est ad duo alia puncta, ut his
+duobus existentibus immobilibus situm ad alia mutare non possit, nisi situm ad haec
+quoque mutet.
+Et hic est verus modus determinandi omnia puncta lineae rectae.
+Brevius: si determinato situ AB, BC, determinatum est AC, punctum B erit in recta
+Itaque in characteristica situs, ad rectam designandam satis est hoc exprimi, si sint
+puncta A, B, C, D et datis AB, BC, AC, AD, CD detur BD, erit B in recta indefinita AC...
+Melius sic: Data sint puncta A, C, D; et rectae AB, CB, si hinc detur recta BD, erit B in
+recta AC indefinita.6
+Eodem modo planum est quod datis tribus punctis determinatur positione (non
+magnitudine). Plaga est, quod puncto ex duobus aliis dato restat determinandum, ut
+ipsum punctum detur. Vel potius plaga est recta positione data uno tantum puncto
+terminata.
+Am Rande: NB. Si ex tribus punctis A, B, C datis duobus et situ tertii ad ipsa detur
+tertium, ideo tantum quod tertium ad ipsa quam determinatissime seu simplicissime
+situm est, tria puncta A, B, C dicentur esse in una recta. Vel sic: Si AB, CB perceptis eo
+ipso percipiatur AC, si quis attendat, eruntA, B, Cineademrecta. Vel si AB, BC,
+AC sint ut totum et omnes partes, seu si AB + BC aequ. AC, imo congruunt.
+Am Rande: Datis AB, CB, DB datur punctum B, hoc demonstrandum est.
+ut situm ad al his
+ad ipsa mutare non alia
+rectae AC AB,
+Brevius:... AC.
+BC, determinatus est situs determinatum
+quoque
+exprimi, determinati distantiam alicujus puncti a centro si si punctum a sint
+unius duo datis
+est, erunt duo puncta tria
+eo
+congruunt
+AB,
+puncta A, B, D; A, C,
+restat dandum,
+C duorum situ
+determinatissime situm est, seu
+perceptis darüber: datis u.
+imo
+percipiatur darüber: detur u. AC
+recta indefinita ab positione data
+CB, et hinc datur si hinc detur
+indefinita AB. AC...
+tertium, null ideo
+si quis attendat
+Si AC, B AB
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+22. febr. 1679. Pars 2.
+DemonstratioaxiomatumEuclidis
+Situm habere duo puncta sic exprimo: AC, id est concipio ambo simul percipi.
+Eodem modo situm trium punctorum simul perceptorum ita exprimo: ABC.
+Si situs AB sit perceptus, itemque situs BC, et eo ipso perceptus sit situs AC, erunt
+A, B, C, in eadem recta; sed qua nota sciemus nos duobus perceptis tertium percepisse?
+Si situs AB, BC, AC, congruant. Seu si tribus simul perceptis hoc quoque percipiatur AB,
+BC ipsi AC congruere, seu potius AC et BC perceptis eo ipso percipi AC.
+Cum positione datis A, C punctum B situm habet salvo situ cum A et C
+invariabilem, erunt A, B, C in eadem recta. Seu positione datis: A, C et specie datis AB, 10
+CB, si punctum B talem habet speciem situs ad haec duo ut eo ipso positione datum sit,
+seu si punctum B habet speciem situs ad haec duo invariabilem, erit in linea recta.
+Notandum est autem speciem illam situs tum demum esse [in]variabilem, cum
+congruunt, seu cum AB; BC simul congruunt ipsi AC.
+Notandum hanc congruentiam vel aequalitatem esse et in linea circulari, nam arcus 15
+AB, BC aequantur arcui AC. Verum situs non aequantur. Situm enim percipere est
+percipere duo puncta et nihil praeterea nisi hoc unum quod nihil praeterea notari possit,
+et hic ipse conceptus est lineae rectae.
+Imo difficultas circa punctum medium. In recta assignato puncto medio nihil
+praeterea quaeri potest, in circulari quaeri potest praeterea aliud cur circulus hoc modo 20
+flectatur non alio.
+Definita recta quae ex duobus punctis determinatur,7 hinc facile demonstratur esse
+minimam, nam aut nulla aut unica est minima. Nulla autem datur maxima.
+Darüber: Determinatum est positione et magnitudine datum.
+perceptis appa hoc
+perceptis simul percipi eo
+C et AB, CB punctum punctum
+Cum
+salva distantia versehentlich nicht ab salvo situ cum
+Distantia est situs Seu
+erit 〈pu〉 erunt talem
+jam est Definita
+et magnitudine specie
+punctis per se u. determinatur,
+AC. Linea recta est, Notandum
+B positione datum est,
+vel aequalitatem
+alio. Si puncta Demonstrandum
+Nulla... maxima.
+recta. Situs est distantia
+B ita situm est situm
+AC. Recta
+habet
+Hinc statim patet etiam rectas AB + [BC aequari rectae
+AC.] Nam si major via electa est, punctum B non est
+determinatum ex data [AC], eo ipso enim determinatur, quod
+demonstranda. Quod videtur ita fieri: Demonstrandum est
+viam AB + BC esse minimam, si B cadat in lineam rectam.
+Recta est quae duobus punctis sine alia conditione adjecta determinata est.8
+Determinata id est magnitudine et positione data seu invariabilis omnino, ergo
+nec magnitudine, et hinc est minima, nec positione, et hinc immobilis.
+Magnitudinedatum intelligitur cui sub propositis conditionibus non nisi una
+magnitudo competere potest, eique potest alia construi aequalis.
+Positionedatum est cui sub iisdem conditionibus non nisi unus esse potest situs,
+et is potest construi.9 Datum est, quod sub his conditionibus invariabile.
+Brevius: Magnitudinedata est cum alia exhiberi potest quam constat esse huic
+aequalem. Positionedata est cum exhiberi potest quam constat esse huic
+congruentem.
+Unaquaque linea inter duo puncta ABC dari potest major. Sit enim quaecunque per
+punctum aliquod ut B, sumatur aliud D, quod magis distet ab A et C, quam ab iis B distat,
+erit ADC major. Ostendendum prius: Distantiam esse lineam minimam inter duo
+puncta, imo hoc est definitio. Ostendendum dari lineam minimam inter duo puncta.
+Am Rande: Meliorem adhuc inveni definitionem rectae, quod sciliceteodem
+modosehabentomniaejuspunctaadunum. Et hinc sequitur per duo
+determinari, nam adhuc uno praeter ipsum determinato, reliqua omnia quae eodem
+modo se habent ad primum, ac assumtum, determinantur.
+Am Rande: Situs duo continet, puncta positione dari, seu percipi, et percipi simul seu
+eorum distantiam.
+etiam dista A rectas
+AB L ändert Hrsg.
+BC maj. quam AC Nam
+immobilis
+aequale cui ... invariabile.
+ad imo
+20–S. 175.1 puncta , alioqui . A
+linea dari potest major inter
+intelligitur quod sub iisdem conditionibus ex conditionibus propositis
+alia exhibe construi
+unus inveniri esse
+ABC
+Datum
+puncta, nam
+AC aequari rectae BC, ändert Hrsg. quia sint enim AB +
+fieri: Sit AB + BC Demonstrandum
+via per rectam
+recta minima est,
+sine alia conditione dete adjecta
+seu...
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+A quolibet puncto in quodlibet punctum duci potest linea. Id est quotcunque sumi
+possunt puncta quorum extrema sint data.
+A quolibet puncto ad quodlibet [duci] potest linea evitando punctum datum. Id est
+quotcunque sumi possunt puncta quorum extrema sint data, et ex quibus non sit punctum
+datum.
+A quolibet puncto ad quodlibet duci potest linea per punctum datum. Id est
+quotcunque sumi possunt [puncta] quorum extrema sint data, et medium aliquod etiam
+datum.
+Ex his sequitur qualibet linea ab uno puncto ad aliud duci posse majorem. Nam sit
+linea ABC, ab A ad C per punctum [B], ajo aliam duci posse majorem, sumatur aliud
+punctum D, poterit a B ad ipsum duci linea quae non transeat nec per A nec per C; a D
+ducatur linea ad C, erit ABDC major quam ABC. Imo imperfecta est demonstratio.
+Situs est rei conditio secundum quam alia percepta et ipsam percipere in potestate
+est, extensione tantum considerata.
+Recta est linea quae duobus punctis datis sine ulla alia praeterea conditione quam 15
+hac, ut eo ipso determinata sit, determinata est.10
+Duae rectae sunt similes inter se, seu nisi ad externa referantur, discerni a se
+invicem non possunt.
+Nam punctum unum alteri simile est, et hoc ipsum, ut per haec sola puncta detur,
+etiam ubique simile est, neque inde apparere potest differentia, nisi aliquid aliud
+considerationi addatur.
+Recta linea habet partes; quia est linea, seu quia in ea duo sunt puncta extrema et
+unum sumi potest medium. Pars una erit quae continet puncta omnia inter unum
+extremum et medium, [altera] omnia inter alterum extremum et medium. Sed hic
+videndum est
+Am Rande: Quaeri adhuc potest an detur linea quae sic determinetur. Sed hoc patet ex
+generali axiomate, quod ex duobus quibuslibet simul sumtis semper aliquid novi
+determinetur, plus enim est ea simul ponere, quam ea ponere singulatim.
+Id est infinita quotcunque ... data
+et alia quorum nullum sit ex
+C L ändert Hrsg.
+est infinita quotcunque
+D tale poterit
+demonstratio. Cum percipio versehentlich nicht Situm duorum punctorum Situs
+est perceptio id quo percipi potest rei
+in quantum extens extensione
+differre possunt sola magnitudine sunt
+majorem minorem aequalem. Rectae pars recta est. Recta
+addatur. Possibile est data qualibet recta dari
+et ipsa percipi potest ipsam
+praeterea
+ea sumi possunt duo
+rectae singulatim consideratae
+est,
+quid sit intersitum. Punctum inter duo puncta situm intelligitur, si punctum quod ab uno
+ad aliud tendit in eadem linea per hoc primum transire debet. Seu si lineam ordine per
+partes consideres, ab uno puncto incipiendo, prius hoc punctum quod medium vocatur
+considerare poteris, quam extremum, salvo ordine.
+Extensum est in quo diversa similia simul percipi possunt.
+Situm s e u p o s i t i o n e m habet quod in extenso percipere possumus, nulla in ipso
+mutatione facta.
+Positionedatum est quod in extenso percipere in nostra potestate est seu in
+quod ex iis quae jam percipimus ordine progredientes ita incidere possumus, ut simul nos
+in ipsum incidere sciamus. Nam si in nostra potestate est, necesse est, ut id assequamur,
+utendo iis quae jam habemus, id est quae jam percipimus.
+Ordo autem progrediendi id postulat, ut primum percipiamus a et b, postea b et c,
+per modum catenae, alioqui ordo quidem est in cogitando sed non in situ seu in objecto.
+Ordo naturalis est qui simul et facilior et distinctior est, cum omnia aeque distincta
+sunt, naturalior est ordo qui simplicior est.
+Recta l i n e a est quae inter duo puncta cogitata simplicissima est.
+Recta linea determinata est duobus in ea punctis determinatis.
+Punctum in linea recta est cum duobus aliis punctis, si situ ad haec duo puncta
+eodem manente, situm omnino mutare non potest.
+Situs puncti ad punctum unicum sola magnitudine et specie lineae interjectae
+determinari non potest.
+Recta est extensio quae perceptis duobus punctis simul, necessario eo ipso
+percipitur.
+Videndum an non definitioni extensionis obstat quod sonus et color simul
+percipitur, sed non obstat, quia non sunt similia.
+Recta linea est quae duobus punctis perceptis simul eo ipso percipitur. Difficultas
+quod puncta non percipiuntur. Imo percipiuntur quia extrema.
+tendit per hoc prim in
+vocatur considerabis considerare poteris
+sciamus. Utimur Nam
+seu
+quod ex iis quae in
+est cum facilius qui
+progrediendi nu null id
+punctis, situm situs ei si
+potest. Situs puncti ad punctum
+omnino
+datus intelligitur, si recta linea da magnitudine et specie data sit cujus una extremitas sit
+unum punctum, altera alterum. Situs
+Recta
+duobus
+definitioni obstat, quod extensionis
+percipiuntur. Vi Imo
+quae statim percipi potest
+possumus si velimus
+ut scia ad id
+ut duo primum
+lineae interjectae
+potest. Plaga , nulla
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+Linea flexa ad quam percipiendam opus est plurium punctorum perceptione.
+Linearecta est quae concipitur, si duo puncta simul in ea percipi concipiantur.
+Extensum est in quo diversa percipi possunt ipsi in eo similia in quo inter se
+similia sunt, ea autem situm habere dicuntur.
+Punctum est simplicissimum eorum quae situm habent.
+Spatii natura est aliquid quo fit ut plura sint capacia ut simile aliquid in ipsis
+percipi possit, aeque in toto ac partibus.
+Exempli causa motus: albedo; resistentia. Nam etiam cum omnia hujusmodi a
+corpore removemus, relinquimus tamen imaginando velut tenebras, quod spatium
+vocamus. Idem fit tactu, nam calorem et frigus, liquorem et siccitatem, et alia id genus in 10
+multis simul-percipientes eodem modo; aut certe aliquid aliud horum loco, concipimus id
+quod vocant Extensionem, seu capacitatem qualitatis ejusdem.
+In extenso illud percipimus, nos multa percipere posse.
+In extenso per se percipimus nos multa percipere posse, sed et posse fieri ut nulla sit
+causa cur aliud prae alio concipiamus. Itaque in extenso absolute sumto nulli sunt
+limites; nam limites prae aliis percipiuntur.
+Vera methodus tradendi a priori est, componendi omnia ex conceptibus primis et
+simplicissimis: ita ut simul appareat, ea quae concipimus esse possibilia, seu ut appareat
+eorum causa. Itaque definitiones erunt conclusiones propositionum possibilitatis.
+Punctum a l i q u o d a d a l i u d p u n c t u m c e r t o q u o d a m m o d o situm
+d i c i t u r, si sit terminus lineae cujusdam specie et magnitudine datae, a puncto altero
+incipientis.
+Linearecta dicitur in qua punctum assumtum ad duo extrema puncta ita situm
+est, ut aliud punctum ad eadem puncta eodem modo situm uspiam reperiri non possit.
+Seu si ABC congruere non potest ADC, B et D esse diversa.
+Lineacircularis est in qua punctum unumquodque ad duo puncta data eodem
+modo situm est. (Nam relatione ad unum punctum non determinatur linea circularis, nisi
+addas in eodem plano.) Seu si ABC congruere potest ADC erunt B, D in arcu circuli.
+Linea non recta flexa cujus ad
+Spatii
+possibilitatis. Line Si
+sed non esse cur et
+punctum Punctum
+Seu si
+ABC congruere potest ADC, et ideo D et B idem, erunt A, B, C in una recta posito non... diversa
+sunt . Punctum es Situs est
+habent. Extensa es
+tamen imaginatio imaginando
+punctum aliquod quodlibet assumtum
+causa albedo in lacte motus:
+quam intelli percipiendam
+; nam... percipiuntur , ea... dicuntur . Punctum
+Si ABC et ADC congrua sint et B et D necessario coincidant erunt A, B, D in eadem
+recta ; sin B et D sint diversa erunt in eodem arcucirculi.
+Linea est locus punctorum numero majore quam qui assignatur qui ab aliis
+quibuslibet punctis certa quadam nota distingui possunt seu Linea est locus punctorum
+quotcunque communem proprietatem habentium.
+Superficies est locus linearum quotcunque communem proprietatem habentium.
+Corpus est locus superficierum quotcunque communem proprietatem habentium.
+Ostendendum locum corporum quotcunque communem proprietatem habentium (ut
+sectorum sphaerae), esse corpus.
+Imo notandum posse dari locum linearum quotcunque communem proprietatem
+habentium etsi non inde fiat superficies, ut si lineae addatur dimidium ejus, et dimidium
+dimidii, etc. etc.
+Linea est locus punctorum quotcunque, quae ordine respondent non trium sed
+duorum aliorum locorum punctis sibi ordine respondentibus, quibus determinatis et in
+hac respondens punctum per certam aliquam regulam determinatur.
+Superficies est locus punctorum quotcunque quae ordine respondent trium aliorum
+locorum punctis etc. Sed hoc non sufficit quia non potest hinc dignosci an quod per duo
+loca alia determinatur non forte per tria determinari possit.
+Linea e sunt duo punctorum numero indefinitorum loca, quae utcunque sita sint,
+non nisi definitum punctorum numerum possunt habere communem.11
+Superficies sunt duo punctorum numero indefinitorum loca, quae utcunque sita
+sint, non nisi definitum linearum numerum possunt habere communem. Seu
+Superficies sunt tria punctorum numero indefinitorum loca, quae utcunque sita non
+nisi definitum punctorum numerum possunt habere communem. Seu Superficies sunt
+duo linearum numero indefinitarum loca, quae utcunque sita sint non nisi definitum
+linearum numerum possunt habere communem.
+Am Rande: NB.
+D coinc necessario
+est locus punctorum quotcunque, hujusmodi, aut
+ut paucis positione datis caetera etiam locus punctorum numero indefinitorum qui ex paucis
+datis per certam regulam positione datis per certam regulam inveniri possunt. numeri utcunque magni
+numero... possunt Puncta seu
+quotcunque, quae duobus
+respondent duobus aliorum locorum punctis non
+conditionibus datis aliis locis quae
+punctorum quotcunque
+nisi non trium sed duorum
+numero
+numero indefinitorum
+hoc difficile non
+nisi certum definitum
+Imo
+DEMONSTRATIO AXIOMATUM EUCLIDIS
+Corpora sunt quatuor punctorum numero indefinitorum loca quae utcunque sita
+non nisi definitum punctorum numerum possunt habere communem; vel sunt tria
+linearum numero indefinitarum loca, quae utcunque sita sint, non nisi definitum linearum
+numerum, possunt habere communem, vel sunt duo superficierum [numero]
+indefinitarum [loca] quae utcunque sita non nisi unam superficiem possunt habere
+communem.
+Imo vero error est in definitione corporum. Nam corpora quae se non tangunt sed
+secant habent semper corpus aliquod commune, quod secus est in lineis et superficiebus.
+Nimirum in corpore sunt puncta quae ab alio corpore tangi non possunt.
+Spatium est locus corporum.
+Corpus est substantia in qua partes intelligi possunt.
+Extensio est illa capacitas12 qua intelligi potest aliquid reperiri in toto quod reperitur
+in qualibet parte. Quod sane dicitur forma; sed capacitas hujusmodi qualitatis13 dicitur
+extensio.
+Locus est extensum in quo nihil aliud quam extensio considerari potest, quod in toto 15
+ac in partibus similiter sit. Seu cujus forma nulla alia est quam extensio. Malim dicere
+formam illam esse aliud quiddam, seu spatialitatem. Puncto enim competit spatialitas seu
+homogeneitas cum linea, etsi non sit extensum. Ita imaginamur totum corpus durum
+esse, moveri, album esse, existere, ne puncto quidem excepto.
+Cum loca sint in quibus omnia puncta certam habent regulam, seu modum ea
+determinandi, et ea determinatio fiat, vel ex alio loco, vel ex quibusdam datis punctis
+propriis; et rursus sive ex alio loco sive punctis propriis jam datis, modus determinandi
+sit situs quidam novi puncti; is autem situs novi puncti sit iterum, ut sit extremum lineae
+cujusdam certo modo definitae et magnitudine et positione etc. datae, necesse est tandem
+vel nulla unquam fieri intelligive posse loco, vel quaedam esse prima, quae sola
+punctorum duorum extremorum consideratione determinantur, et haec est linea recta.
+Darüber: possibilitas
+Darüber: formae
+sita L ändert Hrsg.
+corpore omnia pun sunt
+possunt. Punctum es
+est id quod intelligi illa
+Extens Spatium
+extensio , forma ista . Punctum est . Locus
+quod diversis in
+imaginamur
+aliud consideratur quam
+loca quadam determinen sint
+dicitur qualitas; forma
+extensum extenso congruens ejusque s
+Ita intelligimus vel imaginamur
+vel nullus nulla
+55.QUID SIT NATURA PRIUS

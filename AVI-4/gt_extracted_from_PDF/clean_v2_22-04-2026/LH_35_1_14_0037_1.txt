@@ -1,0 +1,68 @@
+Methodus synthetica, seu ars ordinandi Theoremata et problemata in aliqua scientia
+inde a primis Elementis constituenda nondum adhuc constituta est. Nam ante omnia
+quaeritur utrum sequendus ordo demonstrandi, seu connexionis propositionum, an vero
+ordo Terminorum ingredientium combinatorius; et hoc admisso, rursus quaeri potest
+utrum praeferendus ordo subjectorum ut in unum conjungantur quantum commode licet,
+propositiones ejusdem subjecti; an vero propositiones ejusdem praedicati. Et in ipso
+ordine demonstrandi quoque, si eum sequamur, magna potest esse varietas, idem enim
+variis modis demonstrationem recipit. Si propositioni alicui semper subjiceretur sua
+conversa, licet (forte demonstranda ex propositionibus posterioribus) servaretur ordo
+sunt incomponibilia inconsistentia
+paucis omnis formae
+dispiciendum est an proposition Si
+demonstrandi, an ordo terminorum seu
+Methodus
+recipit. Sic
+mixtus ex ordine terminorum secundum subjectum et secundum praedicatum. Interdum
+etiam utilius est praeferre demonstrationem casus simplicioris ante generalem. Interdum
+utilius est praeferre generalem. Sunt et quaedam demonstrationes verae quidem et
+demonstrabiles, sed parum dignae poni et demonstrari, quarum determinanda est natura.
+Et cum demonstratio aliqua longior offertur, ea plerumque in breviorem contrahi potest,
+adhibitis quasi lemmatibus seu propositionibus quae partem demonstrationis in se
+absorbeant quaeritur quando et quousque eae sint utiles. Ita et dispiciendum, quandonam
+propositiones debeant potius proponi ut corollaria, quam ut separatae propositiones. Item
+quando ex ipsa demonstratione, non vero ex ejus conclusione fieri potest aliquod
+porisma quandonam id facere conveniat, quod tamen non admodum placet.
+Optimum esse videtur, artem combinatoriam ita sequi. Primum sumantur pauci
+aliquot characteres et notae. Et ponantur propositiones quae ex ipsis solis resultant; et
+vero si res recte instituitur, videntur semper ex ipsis solis, nempe ex ipsis et iis quae
+earum definitionem ingrediuntur posse demonstrari. Sed ut optime progrediamur in
+combinando pro Terminis jam definitis adhibeamus eorum definitiones, et definitionum 15
+definitiones quousque licet. Quod ab initio cum paucas adhuc definitiones fecimus,
+statim sistetur variationesque omnes faciamus possibiles quae ex ultimis terminis
+irresolutis fieri possunt eos semel vel saepius sumendo, et deinde combinando, et in
+quavis combinatione rursus ordinem variando et quavis tali Hypothesi facta contrahendo
+terminos indefinibiles ope definibilium et quia ope repetitionum iri potest in infinitum,
+alicubi sistendum est, cum scil. quasi ad seriem perventum est, ex qua judicari potest,
+quid sit futurum, etsi in infinitum continuetur quam in rem excogitandum singulare
+genus notarum, ut pro serie utcunque continuata generalis sit demonstratio.
+Verum Theorematum scopus est maxime duplex, unus in ratiocinando, alter in
+efficiendo. In ratiocinando opus est ut proposito aliquo inspiciamus, quid ex ipso
+sequatur, vel cum ipso sit compatibile; ubi inprimis ea annotanda, ubi dissita satis sunt
+inter quae collectio est, item ubi ex multis antecedentibus contractione quadam fiunt
+pauca vel certe non multo plura consequentia. In efficiendo vero potissimus et ultimus
+est usus theorematum. Problemata possent plane omitti e scientia, aut tantum postea poni
+auditorum vel lectorum taedium minuendum videntur inspergi. Certe problemata de
+quandonam corollaria, propositiones
+et... definibilium
+ubi
+theoremata L ändert Hrsg.
+annotanda, quae paradoxa sunt ubi
+ad capt auditorum
+sistetur tantumque variationesque
+compatibile; alius et quidem ulti
+efficiendo nihil aliud sunt, quam theoremata de modo aliquid generandi. Et quidem si
+problemata inspergere volumus quod non dissuadeo, utile erit inprimis adhibere
+generationes Entium tum efficacium ad alia Entia producenda, tum et proprietates
+pulchras habentium; tum denique Entium paradoxorum, quae habent proprietates, de
+quibus dubitare possis an sint possibiles aut compatibiles. Sunt et problemata de
+cognoscendo, ut notas assignare, ex quibus cognoscatur utrum aliquid sit tale, etc. Et
+hujusmodi et in Euclide reperiuntur.
+Res interim in summa eo redit, ut ex terminis simplicibus, utcunque repetitis,
+combinatis et variatis, condamus Hypotheses, et ex quavis Hypothesi per varias ejus
+contractiones faciamus plures propositiones demonstrabiles. Ubi possumus tunc
+contractioni jam factae addere novam contractionem (quo facto utimur praecedentis jam
+propositionis demonstratione) tum vero etiam progredi ad novas contractiones; et quidem
+ab una ad unam, rursus enim in terminis contractis (ex definibilibus) omnis possibilis
+variatio institui potest. Adde meam artem combinatoriam.
+[April bis Oktober 1686 (?)]

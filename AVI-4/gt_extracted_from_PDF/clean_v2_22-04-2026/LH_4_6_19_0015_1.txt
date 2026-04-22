@@ -1,0 +1,528 @@
+Didactica
+Vide de ea Helvici velpotiusJungii didacticam generalem. Haec alicubi inter
+suas schedas scripsit Fogelius, unde colligo Jungium cum Giessae esset manum
+adhibuisse huic operi et fuisse Helvici adjutorem.
+(+ Reperi libellum sub utriusque nomine editum. +)
+alicubi s inter
+scripsit Vogelius, Fogelius,
+Vgl. Ms XLII 1923.
+Vgl. C. HELWIG, Libri didactici, grammaticae universalis, latinae,
+graecae, hebraicae, chaldaicae, una cum generalis didacticae delineatione, et speciali ad colloquia familiaria
+applicatione, Gießen 1619, S. 1–5 (Bl. )()( 1–3).
+1613; o.O. 1613; o.O. 1614; Magdeburg 1621.
+[Sommer 1678 bis Sommer 1680 (?)]
+DeDianoeacompositaLectiones
+coeptae 4 Martii, finitae 2 3 Martii
+De dianoeacomposita caput Primum
+Pars compositae proxima potest esse simplex dianoea quaelibet, syllogismus puta,
+inductio, consequentia immediata.
+Et consequentia immediata tum usu jam trita, locupletata tantum a Jungio
+(Oppositionis nimirum, Aequipollentiae, Conversionis, Compositionis, Divisionis,
+Expositionis exponibilium) tum soli Jungio observata, v.g.1
+cuius exempla sunt quae verbales dicuntur Log. Hamb. lib. V, cap. V, paragr. 12 ad 15,
+et quae ex illis paragr. 23 secunda est.
+Omnis causa efficiens effectu suo nobilior est. Ergo omnis causa efficiens
+quovis effectu suo aequivoco nobilior est.
+Haec consequentiae sunt reciprocae vel non.
+cap. V. num. paragr.
+sunt imm〈 – 〉 reciprocae
+Vagetius, 1681.
+Sol est nobilior quovis suo effectu aequivoco. Ergo sol est nobilior quovis solis
+effectu aequivoco.
+relationis explicata II, X, 12.
+Christus redemit omnes peccatores. Ergo omnes peccatores redemti sunt a
+David est pater Salomonis. Ergo Salomon est filius Davidis.
+exemplum habetur ibidem § 2[7].
+Pater Alexandri est rex. Pater Aristotelis non est rex. Ergo Aristoteles non est
+4) Divisiorelationum, ut vita et bulla sunt similia, ergo vita est similis bullae,
+et bulla similis vitae humanae. Notatur nomine aequipollentiae V, V, 28, pag. 387, fine.
+5) Aequipollentia praedicationis
+physicaeetlogicae et contra,
+tradita III, II, 13, et V, VII, 13.
+Albedo inest homini. Ergo homo est albus, vel contra.
+Fastus inest pulchris. Ergo pulchrae sunt fastuosae.
+6) Aequipollentia
+praedicationis
+directaeetreflexae et contra.
+Utriusque exempla sunt V, V, 22, 23, 28.
+Sensu praeditum universaliter convenit generi piscis. Ergo omnis piscis est
+sensu praeditus.
+(+ Falsum est omnes pios esse fortunatos. Ergo quidam pii non sunt fortunati.
+7) Aequipollentia o p p o s i t i o n i s m a t e r i a l i s exemplo declarata III,
+XXXIII, 16, 17.
+Mundus non sine consilio administratur. Ergo Mundus consilio administratur.
+8) Consequentiaarectisadobliquadirectaaffirmans ; tradita III, IV,
+8, 9.
+Circulus est figura, Ergo qui circulum describit figuram describit.
+affirmans (negans enim composita est), exemplo tradita V, VII, 10.
+Omne reptile est animal. Ergo qui creavit omne animal, creavit omne reptile.
+quovis suo solis
+§. 36. 26.
+ändert Hrsg.
+28. Uni Sensu
+III. XIII XXXIII,
+Vgl. a.a.O., lib. V, cap. XXII, § 8–9.
+10) Consequentiatemporalis ascripta manu Jungii ad Datisi III, IX, 2,
+exemplum esto: quicunque est persecutor Ecclesiae est Christi inimicus, Ergo quicunque
+fuit persecutor Ecclesiae fuit Christi inimicus (est species subterminationis id est
+consequentiae a rectis[)].
+11) Consequentia
+abobliquisadrectanegansparticularis. Exemplo
+tradita V, XXIV, 14.
+Quidam opulentus (habens opulentiam) non est felix (habens felicitatem), Ergo
+opulentia non est felicitas. Est consequentia ab obliquis ad recta, quae ad
+consequentiam a rectis ad obliqua sic reducitur: Si opulentia foret felicitas
+omnis opulentus esset felix, sed falsum est posterius; Ergo et prius.
+12) Aequipollentia
+exponibiliuminterse II, XI, 13, 16.
+Sola e coniferis larix non retinet hyeme folia. Ergo omnis conifera praeter
+13) Aequipollentia c o n j u n c t a r u m i n t e r s e, tradita II, XIV, 5, XV, 3, XVI,
+5, 9, XVIII, 4, 9.
+Non et dies est et nox est. Hoc est Si dies est nox non est. Et Si nox est dies non
+14) Aequipollentia c a t e g o r i c a e c o n j u n c t i m c o m p o s i t a e e t
+copulatae II, XIV, 7, II, XVII, 2, 3.
+Quicquid aequale vel inaequale est quantum est. Hoc est: et id quod aequale,
+et id quod inaequale est quantum.
+15) Aequipollentia c a t e g o r i c a e c u n j u n c t i m c o m p o s i t a e e t
+categoricarumaliarum II, XVII, 5–7.
+Omne corpus vel similare vel dissimilare est. Ergo quod similare est id
+dissimilare non est et contra. Item quod similare non est, id dissimilare est, Et
+contra.
+16) Aequipollentia c a t e g o r i c a e c o n j u n c t i m c o m p o s i t a e, disjuncti
+scilicet praedicati singularis et disjunctaecompletae adeoque etiam connexae.
+II, XIV, 8.
+Nemo potest Deo servire et Mammonae, Ergo vel Deo vel Mammonae non
+servietur.
+Caput Secundum
+Similaris est quae ex pluribus ejusdem speciei constat. Nimirum Consequentia
+Immediata composita, Syllogismus compositus, composita Inductio.
+Dissimilarisestquaeexpluribusdiversae. Et specierum quidem
+duarum est 1) ex immediata et syllogismo, 2) ex immediata et inductione, 3tio ex
+syllogismo et inductione. Tr ium specierum caeterae sunt omnes, vide III, XXIV, 7.
+Caput Tertium
+SIMILARIS PRIMI GENERIS Modi usitatiores.
+1) Contrapositio, Jungii prior, mutata qualitate et solo antecedentis praedicato, 10
+vel contraposito vel in privative oppositum mutato, convertens A in E, et 0 in I, tradita
+III, III, 11–13. Composita scilicet ex aequipollentia finiti et conversione simplice, vel ex
+contrapositione Jungii posteriore et aequipollentia finiti.
+2) Contrapositio n i s prior i s c o n v e r s a, Mutata item qualitate, sed solo
+antecedentis subjecto vel contraposito vel in privative oppositum mutato, convertens
+vicissim E in A; I in O. Exempla sunt III, III, 14 etsi enuntiationum ordo invertatur § 12
+et 13, item III, XXV, 1.
+Componitur haec ex conversione simplice et aequipollentia finiti. Tradita sic III,
+XXV, 2. Vel ex aequipollentia finiti et contrapositione posteriore. Traditur ita III, XXV,
+3) a rectis ad obliquos terminos universaliter negatos inversa tradita III, XXV, 4 et
+V, VII, 12, si consequens sit est habens nullum peccatum, nullum tactum. Componitur ex
+a rectis directa et contrapositione vera seu posteriore. Potest etiam resolvi in a rectis et
+contrapositionem (ut dictum), et Soriten, et (aequipollentiam finiti) sed ita considerata ad
+primam dissimilarium pertinebit.
+Nota: finiti aequipollentia si subjungatur, operosiore definitione opus erit. Nimirum
+quod praedicatum antecedentis in subjecto consequentis universaliter negetur, subjectum
+antecedentis in praedicato consequentis maneat, et mutetur qualitas. Tale est exemplum
+autoris III, XXV, 4.
+specierum s caeterae
+III, 3 III,
+finiti. II. 2.
+A;
+O I
+nullum factum tactum
+etiam resolu resolvi
+Vgl. a.a.O., lib. III, cap. III, § 19.
+a.a.O., § 15–17.
+Caput Quartum
+Similaris
+1) Dianoeapolysyllogistica prosyllogismis syllogismi principalis sumtiones
+secundigenerismodiusitatiores :
+confirmans, ex conclusione autem eiusdem episyllogismos deducens. Talis mere
+categorica traditur III, XXVI, 1–5.
+Mixta ex conjuncto et categorico III, XXVI, 16–18.
+2) Categoricusmultiplex plures syllogismos comprehendens, conclusionis
+ejusdem si medius terminus sit compositus, conclusionum diversarum, si extremus.
+Traditur III, XXVII toto, et III, XXVI, 17.
+3) Sorites ex tot syllogismis primae figurae constans, quot habet medios terminos.
+Sumtionum nulla praeter primam potest esse particularis, nulla praeter ultimam
+negans. Praedicatum quodlibet fit Subjectum proxime sequentis propositionis. Tandem
+praedicatum ultimae de primae subjecto enuntiatum facit conclusionem.
+Traditur III, XXVIII toto, et IV, XIII, 3.
+4) Dilemma compositum nimirum ex tollente disjuncti consequentis, et
+prosyllogismo membrorum minoris. Traditur III, [X]XIX toto.
+Caput Quintum
+Similaris t e r t ium g e n u s, inductio composita, membra scilicet primariae
+Caput Sextum
+Dissimilaris duarum primi generis modi usitatiores
+Imo Directereductivus ex secunda vel tertia figura ad primam. Traditus III,
+[XII] toto.
+Item ex quarta figura in qua medius praedicatum est majoris praemissae, subjectum
+minoris. Modi eius vulgo:
+Dianoea syllogistica p o l y syllogistica
+terminos , sum . Sumtionum
+prosyllogismo
+ändert Hrsg.
+XIX L ändert Hrsg.
+Traditur 〈 – 〉 III,
+sit compositum compositus
+et prosyllogismis
+XIII
+scilicet prioris primariae
+Vagetii P. P. anno M.DCLXXXV. die 19 Maii, Ad l. III, Ad c. XXXI.
+Sunt Cadere et Fedibo, Digani, Fegano, Balanique.
+Ut2 autem reductio eius immediate ad primam patescat; efficient voces hae ita
+immutatae:
+Sunt Cademes, Fesiso, Digamis Fesapno Balamnip.
+Compositae scilicet sunt hae dianoeae ex syllogismo primae, et (Cademes quidem et
+Digamis) conversione simplice una; (in Balamnip autem) ex per accidens una; (in
+Fesiso) ex simplicibus duabus E et I; (in Fesapno) ex simplice una et per accidens una.
+Exempla sunt III, [X]XXI, 3.
+Indirecti syllogismi primae figurae qui secundum hos modos reduci possunt ad
+directos:
+Celantes, Baralip, Dabitis, Fapesmo, Frisesmo.
+Adeoque vel ex syllogismo primae, et conversione simplice una constant (ut Celantes
+Dabitis), vel ex syllogismo et per accidens una (ut Baralip) vel ex syllogismo et
+simplicibus duabus ut Frisesmo, vel ex syllogismo et conversione simplice una, una per
+accidens, ut Fapesmo. Traduntur III, XXXI, 8. Exempla sunt ibidem § 9, et V, VIII, 9.
+Noti modi quartae transpositis tantum praemissis exhibent indirecto[s] tales,
+ideoque vulgo secundum primum versum vulgo traditum initio ad hos indirectos
+revocantur, atque his demum mediantibus ad primam.
+Indirecti secundae ad secundam, et tertiae ad tertiam revocabiles sunt enim
+compositi ex syllogismo et conversione conclusionis. Monet de iis III, XXXI, 9, 11.
+Nota: possunt tamen hae dianoeae omnes pro conclusionum (quae quidem non sint
+A) qualitate et quantitate etiam ad secundam vel tertiam vel utramque figuram redigi,
+dispositis tantum ut illae figurae postulant terminis.
+IIdo Syllogismi crypsi aequipollentiae affecti compositi nimirum ex syllogismo et
+aequipollentia sive una sive pluribus crypsin pariente et enodante. Traditur III, XXXI, 12. 25
+Exempla sunt III, XVI, 17–29.
+Am Rande : H[omo] est R[ationalis] seu Qui non est rat[ionalis] non est homo
+Bu[cephalus] non est R[ationalis]
+Ergo Bu[cephalus] non est H[omo]
+Sunt Cacemes, Cademes,
+XXI, L ändert Hrsg.
+quantitate ad s etiam
+ut 〈 – 〉 illae
+Pertinet huc syllogismus relative compositus III, XX toto traditus. Pertinet etiam
+huc dianoea ex syllogismo et inversione relationis compsotia IV, XIII, 13, nimirum haec:
+Quadratum hypotenusae trianguli rectanguli dividi potest in oblonga duo quadratis
+cathetorum singulatim aequalia. Ergo Triangulum rectangulum habet quadratum
+hypotenusae quadratis cathetorum simul junctis aequale. Reducitur ita: Quod dividi
+potest etc. est aequale. Quadratum dividi potest etc. Ergo est aequale. Ergo Triangulum
+etc. habet aequale etc.
+III. Enthymema primae figurae ex minore propositione et conclusione constans, ita
+ut praedicatorum pars principalis utrobique sit eadem; partes consequentes autem ita
+comparatae, ut vel posterior de priore, vel prior de posteriore universaliter aut praecisim
+affirmata probare per consequentiam a rectis majorem propositionem possit.
+Prius illud fit cum conclusio affirmat, posterius cum sive negat, sive affirmat sed
+praefixo parti consequenti utrique signo universali.
+Composita est haec dianoea 1) affirmans quidem vel ex a rectis et syllogismo
+primae, ita traditur III, XXIII, 2, 3, 4, 7, 8, 10, 11, 14, vel ex inversione relationis,
+syllogismo tertiae, et inversione relationis, ita traditur III, XXXIII, 6, 7, 12, 13, 14.
+Exempla sunt: V, VII, 15, 16, 17, VIII, 13–15, item 17, 18, 19, IX, 20 prius, et 32, 35,
+2) Pertinet huc etiam illa quae praedicatorum talium vel alterutrum vel utrumque
+concreta voce exprimit, duabus talibus quales descriptio postulat explicanda: ponens v.g.
+pro habens doctrinam doctus, pro habens scientiam sciens, pro 〈col〉ens Geometriam
+Geometra. Exempla sunt: V, VIII, 16, 17, IX, 20 posterius.3
+3) Negans vero talis partes consequentes universalitatis signo notat et componitur
+ex a rectis inversa negante 〈hoc〉 (capitis 3. modo 3) et ex syllogismo primae, ita V, VII,
+11, 12, vel ex inversione quae Logicae et Physicae praedicationis dicitur aequipollentia,
+syllogismo primae, et alia tali aequipollentia physicae praedicationis, ita V, VII, 11, et
+13, item 11 et 14.
+4) Affirmans denique sed partium consequentium universalitatis signo notatarum
+primae, reperitur ita V, VII, 8 et 10, vel ex inversione relationis, syllogismo primae, et
+inversione relationis, ita ibidem V, VII, 8 et 9. Dici potest affirmans consequentis
+universalis.
+etc. habet
+17. 19. 18. 18. 19.
+5) Notaprima. Enthymemata haec syllogismum contractum imitabuntur si
+conclusioni annectatur pars consequens praedicati in antecedente, seu medii termini.
+Exemplo est III, XXXIII, 8.
+6) Notasecunda. Cum ita argumenta nectuntur ex citatorum locorum maximis
+dialecticis, dirigunt tantum non constituunt illae maximae.
+III, XXXIII, 8 usque ad 14, constat ex tertia hac et syllogismo primae.
+IV. Syllogismus biformis syllogismo geminatae minoris similis qualis
+1) primi modi componitur ex syllogismo primae, inversione relationis, syllogismo
+primae inversione relationis. Traditur III, XXXII, 1 usque ad 3. Exemplum est V, V, 11. 10
+2) secundi modi (qui reciproco respectu implicitus dicitur V, V, 12, cuius nimirum
+major pronomen relativum aut reciprocum habet in parte consequente praedicati), ante
+inversionem relationis priorem, requirit aequipollentiam reciproci et repetiti, componitur
+ergo ex syllogismo primae, aequipollentia reciproci, inversione relationis, syllogismo
+primae, inversione relationis, et aliquando iterum aequipollentia reciproci. Traditur III,
+XXXII, 4. Exempla habet, V, V, 12, 13, 14, et XXVI, 4. Est etiam talis syllogismus
+respectibus implicitus V, IV, 9. Quanquam enim ut ibi ponitur videtur esse biformis
+primi modi, tamen si suppleantur omnia, h[oc] m[odo] plus diligit quam qui affectus est
+beneficio minore quam ipse; jam secundi modi eum esse, apparebit.
+V. Dianoea reflexivarum ex relatis disparilibus maximarum constituentium
+communis. Triformis nimirum Syllogismus id est similis syllogismo minorem habenti
+Triplicem, v.g. Posito fine ponitur destinatum. Bellum est finis, miles destinatum eius, et
+princeps hic bellum vult. Ergo principi huic miles est parandus.
+Notaprima.
+XXXIII, 〈 – 〉 8
+Analysis:
+Qui vult finem ei paranda sunt destinata eius
+Ergo omnis finis est aliquid quod qui vult ei paranda
+sunt destinata eius
+Darii
+Bellum est finis
+Ergo bellum est aliquid, quod qui vult ei paranda
+sunt destinata eius
+Ergo bellum est aliquid, quod qui vult ei paranda
+sunt destinata belli
+Darii
+Ergo destinata belli paranda sunt ei qui vult bellum
+Miles est destinatum belli
+Ergo miles parandus est ei qui vult bellum
+Ergo qui vult bellum est aliquis cui parandus est
+miles.
+Ergo princeps hic est aliquis cui parandus est
+miles.
+Ergo miles parandus est huic principi.
+reciproci
+Darii
+Syllogismo primae, inversione, Syllogismo primae, inversione.
+(+ Ego – si resolverem per meras substitutiones – speciei pro genere: Qui (ut hic
+Huic principi parandus est miles, unde animus agnoscit vim argumenti absque prolixa
+resolutione. +)
+Nota 1) Cum relativum pronomen in Maximae posteriore membro ponitur,
+requiritur reciproci aequipollentia post primum syllogismum, antequam inverti eius
+conclusio possit.
+Nota 2) Aequipollentiae etiam interdum quandoque ad aptiores terminos emendos
+requiruntur aliae quaedam, sed quas ipsa materia consideranti facile suggeret. Exemplum
+est V, V, 23.
+Analysis: Qui vult finem ei paranda sunt 〈omnia〉 destinata finis eius u. Qui
+eius 〈 – – 〉 Ergo omnis
+miles . +) , unde
+aequipoll.
+speciei pro genere Cui Qui
+omnia destinata finis quem vult, nempe belli
+Nota 3) Quo magis composita est dianoea, eo plures institui possunt, resolvendi eam
+viae, quam ergo hic descripsimus eam aliter concinnatam exhibet dicti cap. V. § 22,
+aliter § 21. Quia autem utrobique adhibetur contractio illam analysin usque ad
+explicatam contractionem differemus.
+[VI.] Dianoea M a x i m a r u m r e f l e x i v a r u m d e r e l a t i s p a r i l i b u s
+c o m m u n i s, similis syllogismo cuius minor bimembris est, ita ut prius membrum dicat
+duo quaedam esse relata parilia, posterius parilium alteri aliquid attribuat, cuius
+correlatum reliquo in conclusione sit tribuendum.
+harum loco semel tantum substituta translatione copulae, sed quia maxima animi
+argumentatio requirit, praeferenda omnino est illa analysis, quae V, 28 legitur. Hanc
+nimirum dianoeam (: Contraria sunt contrariorum consequentia. Virtus et vitium sunt
+contraria. Virtus est laudanda. Ergo vitium est vituperandum :) concinnat Jungius ex
+inversione relationis, syllogismo primae, divisione relationis, syllogismo primae,
+Aequipollentia reflexae, et prodianoea majoris in posteriore syllogismo, quae prodianoea
+et ipsa componitur ex aequipollentia praedicationis directae, consequentia a rectis, et
+syllogismo primae.
+Ita resolvendae erunt etiam dianoeae, quae libri V, XX. maximam quintam, item
+cap. XXII. Maximam primam et ultimam, paragraphi nimirum 25ti posteriorem tanquam 20
+constituendam adhibuerint.
+VII. ContractioCorrelatorum alteri partem terminantem restringentem
+adjiciens, alteri notionem specialiorem absolutam substituens:
+1) Antecedenti
+soliterminantemv.g. Quod convenit generi convenit
+speciei. Ergo quod convenit generi hominis convenit homini. Resoluta haec reperitur V, 25
+V, 15 in inversionem relationis, syllogismum primae, aequipollentiam reciproci, et
+inversionem relationis. Exemplum ipsum est ibidem § 13, aliud est § 22.
+2) Consequenti soli terminantem ut V, V, 21 Quod convenit generi id convenit
+speciei. Ergo quod animali id speciei animalis. Resolvi haec potest vel in syllogismum
+primae, aequipollentiam reciproci, et probationem minoris per consequentiam a rectis,
+vel in translationem copulae, syllogismum primae, aequipollentiam reciproci, et
+trajectionem copulae.
+VII L ändert Hrsg.
+vituperandum :) 〈 – 〉 concinnat
+Nota: Quia potest strictius latiori substitui non per partem tantum terminantem, id
+est in obliquo sed per notionem specialiorem etiam in recto, si ipsa notio latior sit casus
+recti, sex erunt contrahendi modi.
+Universalis ergo haec ut sit doctrina
+1) solius praedicati contractio in recto et solius subjecti in obliquo, reductionem autores
+admittunt, hic primo loco propositam,
+2) solius praedicati in obliquo illam quae secundo loco hic est proposita,
+3) subjecti pariter et praedicati in obliquo, componetur ex biformi secundi modi, et
+minoris probatione per consequentiam a rectis.
+4) Reliqui modi peculiarem dianoeae speciem non constituent, est enim solius subjecti
+contractio in recto, Enthymema syllogismi primae figurae; subjecti pariter et praedicati
+VIII. Dianoea c u i u s
+pars princeps praedicati in prima et secunda propositione est eadem; de parte
+consequente in praedicato secundae affirmatur, in conclusione subjectum primae;
+subjectum primae et praedicati eiusdem pars consequens sunt notiones oppositae;
+minor de re sive Ente negat universaliter, componitur haec ex inversione, a compositis,
+Camestres et oppositione materiali.
+Exempla sunt VI, XVII, 3, item III, XXXIII, 15. Reductio seu Analysis monstratur, III,
+XXXIII, 16, 17.
+Caput Septimum
+D i s s i m i l a r i s duarum s e c u n d i e t t e r t i i g e n e r i s, itemdissimilaris
+t r ium, modiusitatiores.
+DuarumsecundigenerisModus est: qui componitur ex inductione et
+consequentiis a compositis membris inductionis probantibus. Exemplum est IV, XIII, 13
+fine.
+Modi alii erunt dianoeae illae omnes quae vel inductionis membra per solas
+immediatas probant, vel cuiuscunque immediatae antecedens per inductionem.
+Duarumtertii generis modi erunt, omnes illae dianoeae quae vel syllogismi
+D i s s i m i l a r i s t r ium Modus unus est compositus ex octavo modo nostri capitis
+Secundus modus est inductio mixta fuse explicata IV, VIII, 9 usque ad 21.
+recto est, et solius praedicati subjecti
+oppositae; exe minor
+Caput Octavum
+Dianoea c o m p o s i t a e x c o m p o s i t i s. Biformis duplex nascetur ex V, XXVI,
+17, 22. Contractio gemina et syllogismus est ibidem § 23. Contractio gemina et inversio
+relationis ibidem § 14. Contractio biformis et syllogismus ibidem § 24. Contractio et duo
+syllogismi orientur ex V, XXV, 8. Biformis secundi et Darii ex V, XXV, 4. Neque
+compositionem variandi ex tot simplicibus et compositis quot enumeravimus, ullus erit
+finis, pertinentque huc V, XXV, 21 et 22 et 26.
+Sufficiet tamen resolvendis compositis omnibus, qui in descriptis hic modis fuerit
+exercitatus, et materiae de qua agitur satis gnarus.
+LOGICAE GENERALIS LIBER PRIMUS. De Notionibus.
+CAP. V. De Praedicamento Quantitatis.
+17. Curva non plana est, quae in plano sita esse nequit,1 uti sunt, Helix cylindracea,
+Helix conica, Helix sphaerica, quarum quaelibet nonnisi 2 in ea, unde denominatur,
+superficie locari potest.
+Am Rande:
+Imo si moveatur, dabit superficiem in qua locatur.,
+XXVI, 16. 22. 17.
+et XXVI 26.
+CAP. XIII. De Enuntiatione Conjuncta, et in specie de Connexa.
+14. Non requiritur ad veritatem Connexae, ut membrum ejus aliquod categorice
+verum sit, sed hoc tantum, ut in affirmata Antecedente posito, etiam consequens
+ponendum sit, ut Si asinus volat, asinus est alatus, hic utrumque membrum categorice
+falsum est, Tota tamen Enuntiatio est verissima.
+15. In negata vero hoc requiritur, ut Consequens ex Antecedente non sequatur, ut
+Non, siasinusvolat, pennas habet.3 Ita Cic. pro Rosc. Amer. Non continuo, si me
+in sicariorum gregem contuli, sicarius sum.
+7. Incomplete disjunctiva Enuntiatio a Jurisconsultis Subdisjunctiva appellatur et
+duplex est, prior tantum ponens, posterior tantum tollens.
+8. Prior est, quae alterum duorum, vel etiam unum e pluribus necessario esse
+significat, ita tamen ut permittat, utrumque vel omnia simul esse.
+9. Et haec Connexis aequipollet illis tantum, quae uno membro negato reliquum, vel
+reliqua affirmant. Ut si Medicus dicat aegroto, Aut bibes hunc haustum, aut morieris;
+aequipollet ejus assertio hisce duabus Connexis, Si non bibes, morieris; Si non morieris,
+bibes. Reliquis duabus non aequipollet,4 nimirum hisce, Si bibes, non morieris; Si
+morieris, non bibes. Scit enim Medicus, posse eum et bibere, et tamen mori. Talis
+quoque disjunctio est, cum Graecus convivij dominus convivae dicit, ηÃ πιÂθι, ηÃ αÍ πιθι Aut
+bibe, aut abi.
+LOGICAE GENERALIS LIBER III. De Dianoea sive Ratiocinatione.
+CAP. XXXI. De Dianoea mixtim composita, et in specie de Syllogismis Quartae
+figurae adscriptis.
+2. Mixtim compositarum nonnullae speciem syllogismi Categorici simulant, uti sunt
+inprimis syllogismi quartae figurae dicti.
+3. Est autem Quarta Figura dispositio quaedam trium categoricarum enuntiationum
+syllogisticae similis, in qua medius terminus est praedicatum in Majore, et subjectum in
+Licet aliud: Si asinus volat pennas non habet
+Negans ut non omnis, et omnis non
+Imo haec ex illis sequuntu[r.]
+CICERO, Pro Sex. Roscio Amerino, 33, 94.
+Vgl. CICERO, Tusculanae Disputationes, V, 41,
+Minore sumptione ita, ut sumptione utraque vera existente, vera etiam existat Conclusio,
+qualis dispositio est in iis, quae sequuntur:
+Omnis ars est habitus,
+Omnis habitus est qualitas,5
+E. Quaedam qualitas est ars:
+Nullus lapis est arbor,6
+Omnis arbor est corpus,
+E. Quoddam corpus non est lapis.
+4. Est autem syllogismo quidem similis haec ratiocinatio, non tamen syllogismus,
+quia Conclusio ex praemissis necessarionon 7 consequitur, quod praemissae ob
+ineptam et minus naturalem terminorum dispositionem intellectum excitare nequeant ad
+eliciendam Conclusionem, nisi intermedia alia propositio vel una vel altera interveniat:
+ut si in posteriore exemplo propositionem secundo loco interjiciam ita,
+Nullus lapis est arbor,
+E. Nulla arbor est lapis,
+Omnis autem arbor est corpus,
+ton E. Quoddam corpus non est lapis.
+5. Jam ex prima propositione necessario consequitur secunda per simplicem
+Conversionem: Ex secunda porro et tertia infertur quarta per syllogismum tertiae figurae. 20
+Est itaque ratiocinatio tota ex Consequentia immediata et Syllogismo composita.
+6. Quanquam autem terminus, qui quasi medius est, ipso situ est medius; tamen
+extremi termini in Conclusione situm prorsus contrarium adipiscuntur ei, quem in
+praemissis obtinebant.
+7. Atque hinc fit, ut aversetur quasi intellectus hanc terminorum dispositionem,
+ideoque spuria quasi quaedam figura sit, quae Quarta nuncupatur, ac proinde a consueto
+ratiocinandi usu omnino exsulet.
+Ergo omnis ars est qualitas, Unde per conversionem fit Quaedam qualitas est ars.
+Nulla arbor est lapis
+qui[d]ni
+corpus, Ergo nullus la LiH E. Quoddam
+Unde... ars. LiH
+8. Caeterum quo commodius a genuinis apparentes hi quartae figurae syllogismi
+distinguantur, sumptionum metathesi facta, secundum primae figurae ordinem dispositi
+in certos Modos, quos indirectos primae figurae Modos vocant, redigi solent, praefixis
+trisyllabis voculis, quarum vocales quantitatem et qualitatem, Consonae vero
+reductionem ad primae genuinos et directos Modos innuant, non secus atque in
+9. Voculae istae technicae quinque sunt, et hoc comprehenduntur rhythmo,
+Celantes, Baralip, Dabitis, Fapesmo, Frisesmo.
+O. habitus est qualitas,
+O. ars est habitus,
+E. Q. qualitas est ars.
+O. quercus est arbor,
+E. N. sentiens est quercus.
+O. bonum est amandum,
+Q. labor est bonus,
+E. Q. amandum est labor.
+O. arbor est corpus,
+N. lapis est arbor,
+E. Q. corpus non est lapis.
+Q. arbor est aegra,
+N. animal est arbor,
+O. habitus est qualitas
+O. ars est habitus,
+E. O. ars est qualitas,
+E. Q. qualitas est ars.
+O. quercus est arbor,
+E. N. quercus sentit,
+E. N. sentiens est quercus.
+O. bonum est amandum
+Q. labor est bonus
+E. Q. labor est amandus
+E. Q. amandum est labor.
+N. arbor est lapis,
+Q. corpus est arbor,
+E. Q. corpus non est lapis.
+N. arbor est animal,
+Q. aegrum est arbor,
+E. Q. aegrum non est animal.
+E. Q. aegrum non est animal.
+LOGICAE LIBER QUARTUS, Sive LOGICAE SPECIALIS LIBER I. De Logica Apodictica.
+CAP. I, De natura Apodicticae.
+IV.
+〈modi〉 ex Ferio non potest, duci Fapesmo, sed contra LiH Fapesmo... Ferio
+17. Ceterum versatur Apodictica Logica non circa quasvis res cognitioni nostrae
+obvias promiscue, uti Generalis Logica; sed circa Necessarias praecipue; aliquo tamen
+modo etiam Contingentibus rebus applicatur.
+18. Sunt autem res Necessariae quae semper eodem modo se habent, nec arbitrio
+voluntarii agentis variantur; uti sunt res Naturales, earumque mutationes aliave attributa;
+item res Mathematicae, quae a materia abstractae dicuntur, ταÁ κατ’ αÆ ϕαιÂρεσιν οÍ ντα, ut
+cum Geometra Triangulum, cubum, sphaeram considerat, separans eas figuras
+cogitatione a ligno, lapide, cera, orichalcoaliavequavismateria.
+CAP. XVII. De Ordine didascalico.
+14. Est quando ne suppetit quidem, quod de universalioribus demonstretur. Ex. g.
+De triangulo, prout a rectilineo, plano curvilineo, sphaerico, cylindrico, conico etc.
+abstrahitur, nihil habet, quod demonstret Geometra:8 nihil quod de speculoin
+genere,9 Catoptricus: ideo ille a triangulo rectilineo, hic a speculo plano orditur.
+LOGICAE LIBER QUINTUS, qui est SPECIALIS LOGICAE LIBER II, De Dialectica.
+CAP. V, De differentiis Maximarum, et usu.
+17. Fuerunt hactenus directarum exempla Maximarum: sequitur, quomodo
+REFLEXIVAE in usum adhibendae.
+18. Si quis ita colligat:
+Omne animal sensu praeditum est,
+E. Omnis piscis sensu praeditus est,
+Maxima, quae argumentum dirigit, haec est,
+Quod universaliter convenit generi, etiam speciei universaliter convenit:
+Attamen ad constitutionem argumenti nihil confert; sufficit enim hanc minorem adjicere,
+Omnis piscis est animal.
+19. Quod si Maxima ut constituente uti placet, ita tela argumenti texenda est:
+Quod universaliter convenit generi, etiam speciei universaliter convenit;
+At sensu praeditum universaliter convenit generi, videlicet animali;
+Ergo sensu praeditum speciei quoque, nimirum pisci, universaliter convenit,
+Ergo Omnis piscis sensu est praeditus.
+imo
+imo aequ[a]litas angulorum ob pla[num] tangens
+20. Crypsi tamen adhuc involutum est argumentum, Syllogismus enim apparens,
+qui e tribus prioribus propositionibus conflatur, non est legitimus, cum pluribus quam
+21. Reducitur autem ad formam expressam hac dianoearum serie:
+1. Quod universaliter convenit generi, etiam speciei universaliter convenit;
+2. E. Quod universaliter convenit animali, etiam cuilibet speciei animalis
+universaliter convenit;
+3, At sensu praeditum universaliter convenit animali;
+4. E. Sensu praeditum universaliter convenit cuilibet speciei animalis;
+5. E. Quaelibet animalis species universaliter participat τοÁ sensu praeditum; sive,
+particeps est sensus
+6. Atqui piscis est animalis species,
+7. E. Piscis universaliter participat τοÁ sensu praeditum;
+8. E. Omnis piscis sensu praeditus est.
+A prima ad secundam est contractio sive contractiva consequentia; a secunda ad
+quartam syllogismus: a quarta ad quintam inversio relationis; a quinta et sexta ad
+septimam syllogismus; a septima ad octavam aequipollentiareflexivaeet
+226.ANNOTATIONES AD LOGICAM HAMBURGENSEM

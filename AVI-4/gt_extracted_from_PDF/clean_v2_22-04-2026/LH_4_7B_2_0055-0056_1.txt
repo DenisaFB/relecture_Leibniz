@@ -1,0 +1,240 @@
+Oktober 1686 belegte
+Idem ex Data
+aliae
+idem ass inveniri
+Componendonihilnovifieripotest
+1) ExduobusA, B, si contineantur in uno ex ipsis, ita enim binio coincidit cum
+continente. Nam ternio aut quaternio inutilis, quia repetitio est inutilis.
+2) ExtribusA, B, C, si neque binio neque ternio aliquid novi faciat,1 nam altiores
+combinationes ut semel dicam sunt inutiles. Binio nihil facit novi, si vel coincidit uni ex
+ipsis eam componentibus, vel uni ex reliquis. Coincidit autem uni ex componentibus,
+quando unum componentium continetur in altero. Coincidit vero uni ex reliquis, si una
+C tunc omnes biniones
+binio coincidet rei tertiae. Quodsi semel contingat, ut sit A
+nihil novi faciunt. Nam A
+C. Porro si Binio quaevis est inutilis;.
+etiam ternio erit inutilis, nam ternio fit ex binione, et uno, sed binio uni aequivalet, ergo
+ternio fit ex uno atque uno, seu est binio, atque adeo inutilis2. Potest quidem fieri ut binio
+sit utilis licet ternio sit inutilis; sed tunc utique ex tribus propositis aliquid fieri potest
+novi. Ergo ut ex tribus propositis nihil novi fieri sciamus, sufficit, ut sciamus ex binis
+quibuslibet nihil novi fieri.
+C; et B
+Et generaliter ex quotcunque rebus tum demum nihil fieri potest novi, si binio
+quaeque earum nihil novi componit. Itaque ex tribus rebus nihil componi potest novi, si
+Unius rei binio, ternio etc. [coincidit uni]. Duarum rerum ternio, quaternio etc.
+coincidit binioni, trium quaternio, quinio etc. nil producit novi seu coincidit ternioni.
+Quorum binio quaevis est inutilis eorum et ternio quaevis est inutilis; sed non contra..
+potest 1) Ex A, B. Si A et B se habeant ut continens contentum et continens vel contra.
+2) Ex A, B, C, primo si bina quaevis se habeant ut continens et contentum . Hinc si un seu una
+binio coincidat uni ex ipsis combinatis, secundo si semel u. una binio,
+B se habeat ad coincidat tertiae rei C, seu si ternio coincidat uni ex combinatis 3)
+Ex A, B, C, D, primo si bina quaevis se habeant ut continens et contentum, seu si terna quaevis se habeant ut
+continens et contentum, secundo si terna quaevis se habeant ut continens et contentum. 1)
+ita... binio facit continens coincidit cum continente
+si ex binis quibus lib si neque ex binis quibusque aliquid si
+faciat
+C, primo,
+ternio succedat, aliquid novi
+inutilis; et quorum ternio aliqua est utilis
+eam cons componentibus ... inutilis
+binae quaeque vel habeant ut continens et contentum vel componant unum ex reliquis.
+Binae autem quaeque se habebunt ut continens aut contentum, si talis ordo eorum
+assignari possit, ut unum sit cui insit nullum, deinde unum cui tantum insit unum, cui
+tantum duo etc. usque ad ultimum cui omnia. Quod etiam accuratius demonstrandum,
+non tantum in ternis, sed et in quotcunque. Nempe sufficit demonstrari si sint diversa
+quotcunque quorum duo quaelibet se habeant ut continens et contentum esse unum quod
+omnia contineat, et a nullo contineatur, idque etiam posse inveniri, quod ita ostendetur,
+unumquodque ingreditur aliquam binionem et quidem vel ut continens vel ut contentum.
+Si sint duae res patet unam in altera contineri non contra alioqui coinciderent; si sint tres,
+ex his sumantur duae quaecunque patet ex dicto unam in altera contineri, non contra, jam 10
+tertia vel continebit continentem vel continebitur in contenta, vel continebitur in
+continente, et continebit contentam. Si sint quatuor ex his sumantur tres, eaeque
+ordinentur ut dictum est, jam quarta; vel continebit continentem, et habebitur ejus locus,
+vel continebitur in contenta et habebitur rursus ejus locus; vel media est inter ipsas, et
+tunc quaeratur ultima quae eam continet, et prima quae ea continetur, et ita haberi potest 15
+ordo, seu intra quas collocanda sit, et generaliter datis quotcunque rebus, quarum
+quaelibet quamlibet continet aut in ea continetur, si una proposita reliquas continet
+omnes habetur intentum, et sequestretur ut primo. Si continetur reliquis omnibus itidem
+sequestretur, ut Ultima. Si non continet reliquas omnes; saltem videndum quas contineat,
+aut quibus contineatur, si aliquas continet et aliquibus continetur inter eas quas continet 20
+collocetur ut prima, inter eas quibus continetur ut ultima; et omnes datae sunt divisae in
+duas classes aliis enim continetur proposita alias continet. Quibus continetur, ex his
+rursus sumatur una inter plures illas media, et ita porro, et ita habebitur tandem ordo. Sed
+hoc distinctius alias exponenda.
+Nunc transeamus ad res quatuor, nempe
+Ex quatuor rebus A, B, C, D nihil novi componi potest, si binae quaevis earum nihil
+novi componunt. Hoc autem fit primum si binae quaevis se habeant ut continens et
+contentum; deinde etiam si A
+C et C inest D. Ita enim A
+C et A
+C et.
+vel binae quaeque componant
+idque... inveniri
+contentum. Sumto
+jam aliquo et adhuc alio tentetur omnia reliqua singula, primum notetur utrum sit continens aut
+contentum. Deinde percurrantur reliqua omnia, notetur quod et no Fiant omnes ordine biniones; Si
+tunc sumatur ulti
+quaeratur
+continetur
+fieri componi
+et B inest C, et C inest D; vel si A inest B et B
+B et B
+novi
+B inest C si A + B inest C si A inest C,
+D vel si A inest B et B inest D vel si A inest
+ultima quae continet prima ultima str. Hrsg. quae
+proposita reliquas
+ordinentur more ut
+ut primo
+alias
+aut...
+D et B
+D res non succedit, potest enim novi aliquid componi, scilicet B
+est esse A vel B vel C vel D.
+D et C
+C et B
+C, quod non necesse.
+Ex quinque rebus A, B, C, D, E nihil novi componitur, primum si binae quaevis se
+C et C insit D, et D insit E,
+C et A
+E nova
+habeant, ut continens et contentum, deinde si sit A
+denique si sit A.
+nova habebuntur B
+habebuntur B
+E. Item si sit A in B et A
+E, sed si sit A
+D et C
+C et A in D et B
+D et B.
+D et D.
+#.....
+Si sint sex res A, B, C, D, E, F, et duo quaelibet se habeant ut continens et
+contentum item A
+contentum, impossibile est aliquid fieri novum, sed si sit A
+E, et C in F, sitque D
+hactenus observata non procedunt.
+C, et ex C, D, E, F duo quaelibet se habeant ut continens et
+C, et sit C in D, et C in.
+F rursus impossibile est aliquid novum. Ergo inductione
+Generaliter ex quotcunque rebus nihil novi componitur, si binio quaevis alicui
+rerum coincidat. Quod fit si ordine continuo una res alteri, et haec rursus alteri insit.
+Oblatis aliquot rebus A, B, C, D, E, F ut investigemus an ex iis componi possit aliquid
+novi quaeramus primum eam A quae nullam aliam continet quae semper i n v e n i r i
+potest ; deinde ex reliquis quaeramus rursus eam B quae nullam aliam ex his reliquis
+B componunt, et habetur intentum,
+continet. Hae duae A, B compositae aut novum A
+C. Porro reliqua illa C, D, E, F,
+aut non componunt, sed unum ex reliquis, seu A
+ex quibus id quod componitur ex duobus illis nempe C unum est, vel bina quaelibet se
+habent inter se ut continens et contentum, quo casu impossibile est ex omnibus novum
+componi; vel non habent: si non habent, tunc videndum an id quod ex duobus illis primo
+assumtis componitur, nempe C insit cuilibet eorum an non. Si inest cuilibet eorum, seu C
+D. Denique etiam si A
+esse B vel C vel D A
+E, deinde denique... sed
+D, ita enim A
+B et A At
+E nova habebuntur A
+E. Videamus ja Et ita satis
+C et C in D et C in
+D et B
+D nova
+habebuntur A.
+generaliter inductione jam satis constare videtur constat Sed si sit A
+coincidat ; oblatis igitur aliquot rebus videamus an aliquid ex iis componere
+possumus novi et primum, vel binae quaevis se habent ut continens et contentum vel non habent. Si binae
+quaevis se ita habent nihil novi ex ipsis componi potest; si aliquando aliqua bina sunt, quae se non
+habent ut continens et contentum, ea componantur, tunc si inde fit novum, habemus intentum. Si non inde fit
+novum ; oblatis aliquot rebus . Quod
+A
+reliquis, tunc id quod componunt, aut
+cuilibet reliquorum inest, quo casu impossibile est novum; aut non inest, sumatur ergo id cui non inest seu... C
+ex duobus illis nempe C
+nempe C
+A... F
+aliquot
+DE CASIBUS IN QUIBUS COMPONENDO NIHIL NOVI FIERI POTEST
+L et E
+ipsis D, E, F tunc etiam A itemque B, ipsis D, E, F inest; sequestratis ergo ipsis, A, B, C.
+Si reliqua D, E, F nil componunt novi, etiam omnia A, B, C, D, E, F nil novi componunt,
+nam biniones caeterorum cum A, B, C sunt inutiles. Ita rem reduximus ad pauciores
+terminos, qui similiter tractandi. Sin C non insit singulis D, E, F sumantur omnia illa
+quibus non inest, D, E, F etc., itemque omnia illa quibus inest, L, M, N. Quodsi ex
+omnibus illis quibus inest inter se non potest componi novum (quod eadem quam nunc
+describimus Methodo discetur), videamus an C additum cuivis eorum cui non [in]est,
+componat quidvis eorum cui inest, D
+M etc., nam quia D, E, F, etc.
+sunt diversa, et C nulli eorum inest, cum quolibet eorum diversa componit ( theorema
+demonstrandum ), unde sequitur si minor sit numerus eorum quibus inest C quam 10
+eorum quibus non [in]est, necessario aliquid novi componi. Idque generaliter propositis
+quotcunque rebus dici potest una earum sumta et cum caeteris comparata. Quod si igitur
+C additum cuivis eorum cui non inest nil componit novum, sequestrato C, et iis quibus
+inest, tantum superest, ut dispiciamus an ipsa quibus non inest aliquid novi componant.
+Et ut repetamus cum aliqua variatione. Sint quotcunque A, B, C, D etc. Ex his sumamus 15
+unum A, cui nullum aliud ex ipsis inest; et videamus an adhuc sint plura quibus nullum
+aliud ex caeteris omnibus inest. Haec plura sint A, B, C etc. quibus nihil aliud ut dixi ex
+propositis inest, et sit A
+K et H, I, K etc. debent esse ex
+datis. Jam vero compositum ex duabus binionibus trium nil facit novi praeter ipsas
+biniones aut ternionem, praeterea sint Terniones3 ipsarum A, B, C etc. et quaterniones et 20
+ita porro, ubi rursus duae terniones nil componunt novi, nisi forte quaternionem, et ita
+porro, ita ut si ipsas combinationes percenseamus sint combinationes combinationum
+inutiles. Hinc patet quotnam ex diversis rebus quarum una alteri non inest, quas vocabo
+disparatas, resultare possint nova, quot scilicet earum institui possunt combinationes sine
+repetitione. Quod si jam istae combinationes resultantes sint inter datas res, nihil inde fit 25
+novi. Itaque ecce regulam: si proposita sint data cum omnibus suis combinationibus nihil
+, M, N
+D, E, F etc.
+si inaequalis minor
+componi. Item
+inest. Haec omnia Simul, si insunt omnibus caeteris singulis,
+si inaequalis autem necessario numerus est Idque
+literae quotcunque
+vero binio compositum
+novi, sed tres componunt
+nisi
+datas , non necesse est ipsas computari res,
+regulam: si quotcunque rerum, quarum nulla alteri inest, datae sint omnesque enim biniones si
+sint omnes rerum data
+componant. Genera Et
+quas vocabo disparatas
+aut ternionem
+etc.
+inde fieri potest novi. Si data sint aliquot quorum quodlibet respectu cujuslibet se habet
+ut continens et contentum etiam nihil inde fieri potest novi. Itaque ut rem generaliter
+complectar, si data sint plura a reliquis datis disparata, A, B, C etc.; et series continuo
+inexistentium sibi, F, G, H, quorum infimus nullum alium includat, et alia talis series M,
+quibus conjunguntur termini ejusdem seriei continue inexistentium, ibi perinde est ac si
+is qui caeteros continet solus poneretur. Quodsi aliquae harum combinationum non sint
+jam inter Terminos datos potest ex datis fieri aliquid novi.
+Nota, possunt diversae series esse continue inexistentium quarum communes sunt
+inferiores, ut
+ubi series continue inexistentium, sic ut prius insit posteriori, fiant plures, 10.21.31, et
+10.21.32 et 10.22.33 et 10.22.34. Sed tamen haec considerando ut totidem series
+continue inexistentium, habent locum quae diximus. Atque ita patet modus generalis ex
+datis formandi quae inde formari possunt, et quidem nova quando id fieri potest; si modo
+constet quodnam ex datis alterum contineat, aut ex aliis datis componatur. Ex his
+enumeratione dignum quomodo se habere debeant res, duae, tres, quatuor, quinque, sex
+etc. ut nihil ex ipsis fieri possit novi.
+Possunt duae esse diversae series continue sibi inexistentium, habentes idem
+primum et ultimum, ut tamen quidam termini sibi non inexistent ex diversis seriebus,
+10.11
+21.22
+31.32
+ubi binae series sunt 10.11.21.22.40, et 10.11.31.32.40, nec ideo necesse est 31 vel 32,
+ipsi 21 vel 22 inesse vel contra. Posset etiam determinari quot modis verbi gratia quinque
+res formari possint, ut nullum, vel unum tantum, vel tres tantum etc. novos terminos
+componere possint. Et hoc ostendi posset in quovis numero rerum si tanti esset.
+Opus est definitione de subalternantibus et disparatis. Item de B [bricht ab]
+novi ; si data sint plura inter se disp . Itaque
+plura inter se disparata, a
+quorum infimus sit ab aliis datis nullum... includat
+infimi F, M, et ex ipsis A, B, C, F, M, fiant omnes combinationes possibiles ex
+commu continue
+alterum coincid contineat
+series inexist continue
+habere possunt debeant
+P; Sumantur ex seriebus termini
+esse , quarum
+et agnoscendi quidem

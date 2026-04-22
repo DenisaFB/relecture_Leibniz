@@ -1,0 +1,456 @@
+COUTURAT, Opusc. et fragm., 1903, S. 49–56.
+S. 235–240. 2. SCHMIDT, Fragmente, 1960, S. 179–191. 3. PARKINSON, Logical papers,
+1966, S. 17–24. 4. BARONE, Scritti, 1968, S. 296–306. 5. SHOITSU SAWAGUCHI, in
+71–91.
+April. 1679. No 2. plag. 1.
+ElementaCalculi
+1) Te rminus est subjectum vel praedicatum propositionis categoricae. Itaque sub 15
+termino nec signum nec copulam comprehendo. Itaque cum dicitur sapiens credit,
+terminus erit non credit, sed credens, idem est ac si dixissem sapiens est credens.
+2) Propositiones hic intelligo categoricas, cum aliud speciatim non exprimo, est
+autem [categorica] caeterarum fundamentum, et modales, hypotheticae, disjunctivae,
+aliaeque omnes categoricam supponunt. Categoricam autem voco A est B, vel A non est 20
+B, seu falsum est A esse B. Signi varietate accedente, ut vel universalis sit propositio et
+de omni subjecto intelligatur, vel particularis de quodam.
+3) Cuilibet Termino, assignetur suus numeruscharacteristicus, qui adhibeatur
+April.... plag. 1.
+Calculi Univ Logici 1)
+Itaque... est
+dicitur Petrus amat non erit terminus erit non amat, sed amans, idem est ac si
+credens.
+dixissem Petrus Deus vivit
+categoricam Propositiones... categoricas, etsi facile hinc progredi ad alias licebit, ut modales,
+hypotheticas, disjunctivas, etc. cum... exprimo, et hinc sunt autem categoricae est autem... A non est B, signo tantum variato seu... particularis de
+categoricae L ändert Hrsg.
+quovis quodam.
+adhibeatur
+inter calculandum in calculando
+Termino, ch pro charactere assignetur
+24–S. 196.3 Numeros... esse.
+sapiens
+scribendo, alia signa suo tempore et [numeris] et ipsi sermoni accommodabo. Nunc
+autem maxima est numerorum utilitas, ob certitudinem et tractandi facilitatem, et quia
+hinc ad oculum patet, omnia in notionibus ad numerorum instar certa et determinata esse.
+4) Regulainveniendinumeroscharacteristicos aptos haec unica est, ut
+quando Termini dati conceptus componitur in casu recto ex conceptibus duorum
+pluriumve aliorum terminorum, tunc numerus termini dati characteristicus producatur ex
+terminorum termini dati conceptum componentium numeris characteristicis invicem
+multiplicatis. Verbi gratia quia Homo est Animal rationale (et quia Aurum est metallum
+id est in hoc exemplo 2, 3 seu 6 (et numerus auri seu solis s idem quod mp, id est in hoc
+exemplo 3, 5 seu 15).
+5) Literas adhibebimus, ut hic a, r, h (m, p, s), quando aut numeri non adsunt aut
+saltem non speciatim considerantur, sed generaliter tractantur, quod hoc loco in
+Elementis tradendis nos facere oportet. Quemadmodum in Algebra symbolica seu
+Arithmetica figurata fieri solet, ne quod simul ac semel in infinitis exemplis possumus in
+singulis praestare cogamur. Modum autem hic utendi literis infra explicabo.
+6) Caeterum regula articulo 4. tradita sufficit ad omnes res totius mundi calculo
+nostro comprehendendas, quatenus de iis notiones distinctas habemus, id est quatenus
+earum requisita quaedam cognoscimus, quibus per partes examinatis, eas a quibuslibet
+aliis possumus distinguere, sive quatenus earum assignare possumus definitionem. Haec
+enim requisita nihil aliud sunt quam termini quorum notiones componunt notionem
+quam de re habemus. Possumus autem plerasque res ab aliis discernere per requisita, et si
+quae sunt quarum requisita assignare difficile sit, iis interim ascribemus numerum
+aliquem primitivum, eoque utemur ad alias res hujus rei ope designandas. Et hoc modo
+saltem omnes propositiones calculo invenire ac demonstrare poterimus, quae interim sine
+rei, pro primitiva interim sumtae resolutione demonstrari possunt.
+numeros L ändert Hrsg.
+inveniendi sive constare numerosL
+dati
+in casu recto
+tunc
+Verbi... ponderosissimum)
+aut de numeris non constat numeri
+tractandis tradendis
+possumus
+nos calculo... comprehendendas
+componentes quorum
+requisita quaedam discernere. Possumus
+requisita quae
+aliquem primum, primitivum,
+singulis probare praestare
+(p ut 5)
+(et... 15)
+non eos in specie speciatim
+Quemadmodum... explicabo.
+unica
+characteristicus comp producatur
+2 (vel 3) num (m ut 3)
+ut... s),
+Elementis
+exemplis ostendere
+21, sive... definitionem
+termini
+habemus. Quare quascunque res possumus ab aliis quibuslibet per
+requisita in genere, exempli gratia lucis u. ,
+poterimus, quae sine rei, hujus cujus
+ELEMENTA CALCULI
+ejus loco adhibuit quaedam pro axiomatis assumta; at Archimedes cum longius vellet
+progredi, coactus est ipsam lineam rectam resolvere, eamque definire, inter duo puncta
+minimam. Itaque hoc modo non quidem omnia, attamen innumera inveniemus tum quae
+jam ab aliis sunt demonstrata, tum quae ab aliis ex jam cognitis definitionibus et
+axiomatibus atque experimentis unquam poterunt demonstrari: idque ea praerogativa
+nostra, ut statim de oblatis propositionibus possimus per numeros judicare an sint
+probatae, et ut quae alii vix summo labore animi et casu, nos solo characterum ductu, et
+certa methodo, eaque vere analytica demus, ac proinde quae vix multi annorum
+millenarii alias praebituri erant mortalibus, intra seculum exhibere valeamus.
+7) Ut autem usus numerorum characteristicorum pateat in propositionibus,
+considerandum est; omnem propositionem veram categoricam affirmativam universalem,
+nihil aliud significare quam connexionem quandam inter Praedicatum et subjectum in
+casu recto de quo hic semper loquar, ita scilicet, ut praedicatum dicatur inesse subjecto
+vel contineri in subjecto, eoque vel absolute et in se spectato vel certe seu in aliquo
+exemplo. Seu ut subjectum dicto modo dicatur continere praedicatum: hoc est ut notio
+subjecti vel in se, vel cum addito involvat notionem praedicati, ac proinde ut subjectum
+et praedicatum sese habeant invicem, vel ut totum et pars, vel ut totum et totum
+coincidens, vel ut pars ad totum. Primis duobus casibus propositio est universalis
+affirmativa. Ita cum dico omne aurum est metallum, hoc volo tantum in notione [auri]
+contineri notionem metalli in
+methodo, et ex veris eaque
+;... minimam. Itaque si non omnia
+definitionibus aut ax hypo axioma et axiomatibus
+Certe Itaque... attamen
+nostra, quod quae illi ut... an verae sint probatae licet probationem ips et...
+demus, et quae vix multi annorum millenarii
+summo
+alias dedissent, ac... exhibere poterimus valeamus.
+Majusculas designabimus numeros eorum te characteristicos Terminorum qui ingrediuntur in
+Propositionem Propositiones quibus utimur. Sequitur jam ex regula nostra Ut
+affirmativam universalem
+14–S. 198.1 praedicatum dicatur
+inesse subjecto in aliquo casu seu in aliquo exemplo seu ut subjectum dicatur continere praedicatum: hoc
+est ut notio subjecti involvat notionem praedicati. Itaque cum dico: Omnis pius est felix Omne aurum est
+metallum Omnis homo est animal, nihil aliud volo quam in notione hominis contineri notionem animalis. Id
+est qui cum qui perfe dicatur inesse subjecto vel praedicatum dicatur vel in subjecto
+contineri eoque
+loquor, ac... metalli in... ponderosissimum. Et ... praedicati in casu recto, de quibus quo casu hoc loco semper
+in... loquar
+Sic... minimam: vgl. EUKLID, Elementa, lib. I, def. 4; ARCHIMEDES, De sphaera et cylindro, lib. I,
+post. 1.
+casu recto, aurum enim est metallum ponderosissimum. Et cum dico omnis pius est felix,
+nihil aliud volo quam hoc: ejusmodi esse connexionem inter notionem pii et notionem
+felicis; ut is qui perfecte naturam pii intelligeret, deprehensurus sit naturam felicis in ea
+involvi in casu recto. At in omnibus casibus sive subjectum sive praedicatum sit pars aut
+totum, semper locum habet propositio particularis affirmativa. Exempli causa quoddam
+metallum est aurum, licet enim metallum per se non contineat aurum tamen quoddam
+metallum cum addito seu speciale (exempli causa id quod majorem ducati Hungarici
+partem facit) ejus naturae est, ut naturam auri involvat. Discrimen autem est in
+continendi modo, inter subjectum propositionis universalis et particularis. Nam
+subjectum propositionis universalis in se spectatum et absolute sumtum debet continere
+praedicatum, ita auri notio per se spectata et absolute sumta metalli notionem involvit.
+Nam notio auri est metallum ponderosissimum, sed in Propositione affirmativa
+particulari, sufficit aliquo addito rem succedere. Ita notio metalli absolute spectata et in
+se sumta non involvit auri notionem; et ut involvat addendum est aliquid. Nempe signum
+particulare: quoddam metallum, est enim certum quoddam metallum quod auri notionem
+continet. Imposterum autem cum dicemus Terminum in termino vel notionem in notione
+contineri, intelligemus simpliciter et in se.
+8) Propositiones autem negativae tantum affirmativis contradicunt, easque falsas
+esse asserunt. Ita propositioparticularisnegativa nihil aliud praestat quam ut
+neget propositionem affirmativam universalem [veram] esse. Sic cum dico quoddam
+argentum non est solubile in aqua forti communi, hoc unum volo: falsam esse hanc
+propositionem affirmativam universalem Omne argentum in aqua forti communi solubile
+est. Nam datur exemplum contrarium si Chymistis quibusdam credimus, nempe Luna
+fixa ut ipsi vocant.
+Propositio autem Univ e r s a l i s negativa tantum contradicit particulari
+affirmativae. Exempli causa si dicam Nullus sceleratus est felix, hoc significo: falsum
+esse quod
+involvi . Cum dico quod . Idem locum habet in propositione universali affirmativa.
+Exempli causa quidam quoddam animal est homo; id est quoddam animal (exempli causa Petrus,
+Paulus) ejus naturae est ut naturam hominis involvat. in... affirmativa quibusdam mutatis si scilicet
+subjecto adjicias . Exempli... cum addito seu speciale ... continere praedicatum ita aurum
+absolute su ita auri notio... ponderosissimum, sed... succedere ... particulare: quoddam
+Hungarici
+aurum metallum, ut appareat aliquid ad naturam est... se.
+dico quidam
+homo non est quoddam animal non est homo, nihil aliud volo, quam hoc: falsam esse hanc propositionem
+Omne animal est homo quoddam metallum argentum... est
+autem Particularis negativa Univ e r s a l i s nihil aliud quam negativa tantum
+negativae nihil aliud quam tantum
+ut ipsi vocant
+ELEMENTA CALCULI
+aliquis sceleratus sit felix. Itaque patet ex affirmativis negativas intelligi posse et contra
+9) Porro in omni Propositione categorica sunt duo Termini; duo vero quilibet
+termini quatenus inesse aut non inesse sive contineri aut non contineri dicuntur differunt
+modis sequentibus. Quod vel unus continetur in altero vel neuter. Si unus continetur in 5
+altero, tunc vel unus alteri aequalis est, vel differunt ut totum et pars. Si neuter in altero
+continetur, tunc vel commune aliquid continent (quod non nimis remotum sit) vel toto
+10) Duos Terminos sese continentes et nihilominus aequales, voco coincidentes.
+Exempli causa notio trianguli coincidit in effectu notioni trilateri, id est tantundem
+continetur in una, quantum in altera, tametsi id prima fronte aliquando non appareat; sed
+si quis resolvat unum pariter atque alterum, tandem incidet in idem.
+Ita1 coincidunt metallum ponderosissimum inter metalla et metallum fixissimum
+inter metalla; tametsi absolute loquendo ponderosissimum et fixissimum non coincidant;
+ut exemplo Mercurii patet, nam inter haec duo cuprum et argentum vivum, patet illud
+esse fixissimum, hoc ponderosissimum. Sed hoc obiter.
+11) Duo Termini sese continentes, nec tamen coincidentes vulgo appellantur
+GenusetSpecies, quae quoad notiones, seu terminos componentes (ut hoc loco a
+me spectantur), differunt ut pars et totum; ita ut generis notio sit pars, speciei notio sit
+totum, componitur enim ex genere et differentia. Exempli causa notio auri et notio
+metalli
+Propositione affirmativa manifestum est terminos vel aeque late patere, vel alterum altero
+esse angustiorem. vel unum tantum continere quantum alterum, vel unum plus altero minusve continere.
+Ita Si aeque late patent, propositio fit reciproca, ita ut semper praedicatum substitui possit in locum
+differre ut ita dicam, extensione, id est vel unius notionem tantum continere quantum alterius, vel unius
+unam plus altera minusve continere.
+tunc vel unus... est,
+differunt sive contineri aut non contineri quatenus... dicuntur
+vel
+trianguli ... explicabimus.
+10)... coincidentes.
+aeque late pa coincidit
+idem.
+altera, et si quis perfecte tametsi... quis
+Itaque et numeri eorum characteristici coincident exempli causa quemadmodum coincidunt bis sex et ter
+inter
+quatuor, tametsi diversae sint expressiones rei ejusdem. Ita
+et metallu
+metalla
+Hydrargyrum; argentum
+quibus notion , quae quoad notiones, spectan differunt ut pars et totum, nam notio g seu...
+ita ut sp generis... differentia. Si vero non Exempli causa notio
+coincidant; nam liquidum ponderosissimum ut
+categorica... quilibet termini secundum ipsum
+inter metalla ... (quod... sit) ...
+differunt ut pars et totum; nam in notione auri continetur notio metalli et aliquid
+praeterea, exempli causa notio ponderosissimi inter metalla. Itaque notio auri est major
+notione metalli.
+universalibus subjecta. Itaque metallum dicent esse latius auro, nam plures continet
+species quam aurum, et si individua auri ab una parte et individua metalli ab altera parte
+numerare vellemus, utique plura essent haec illis, imo illa in his continerentur ut pars in
+toto. Et hac quidem observatione adhibita, et characteribus accommodatis possent omnes
+regulae Logicae a nobis demonstrari alio nonnihil calculo quam hoc loco fiet; tantum
+quadam calculi nostri inversione. Verum malui spectare notiones universales sive ideas,
+earumque compositiones, quia ab individuorum existentia non pendent. Itaque dico
+aurum majus metallo, quia plura requiruntur ad notionem auri quam metalli, et majus
+opus est aurum producere, quam metallum qualecunque. Nostrae itaque et scholarum
+phrases hoc loco non quidem contradicunt sibi, distinguendae sunt tamen diligenter.
+Caeterum in loquendi modis nihil a me sine quadam ratione atque utilitate innovari,
+patebit consideranti.
+13) Si neuter terminorum in altero continetur, appellantur Disparata, et tunc
+rursus ut dixi vel aliquid commune habent, vel toto genere differunt. Aliquid commune
+habent, qui sub eodem sunt genere, quos posses dicere Conspecies, ut Homo et
+brutum animalis conceptum habent communem. Aurum et Argentum metalli, Aurum et
+Vitriolum communem habent conceptum mineralis. Unde patet etiam plus minusve
+commune habere duos terminos, prout genus [eorum] minus magisque remotum est.
+Nam si genus sit valde remotum, tunc exiguum etiam erit, in quo symbolizent species. Et
+si genus sit remotissimum, exempli gratia aliquas res dicemus esse Heterogeneas seu
+toto genere differre, ut Corpus et Spiritum, non quod nihil illis commune sit, saltem enim
+ambo sunt substantiae, sed quod hoc genus commune sit valde remotum. Unde patet quid
+ut latius et angustius, nam aurum pr continet majus et minus; pars et totum
+tantum
+12)
+sed exempla species exempla ... Itaque dico met aurum majus sive aequ metallo
+notio
+subjectis. subjecta. Itaque aurum appellant latius metallum... auro,
+vero et...
+consideranti. Et Cum ergo notio unius termini cujusdam plus continet quam notio alterius, sequitur
+genere,
+ex iis quae supra posuimus artic. 8. 13)
+animalis natu conceptum
+itaque quos
+earum ändert Hrsg.
+communem... conceptum
+magis minusve minus
+gratia sub
+remotum , nam praeter
+ea quae omnibus substantiis nobis . Unde
+remotum, parum tunc exiguum
+universalibus
+aurum . Ego
+Conspecies, plus autem ut
+appellantur Disparata, et
+ELEMENTA CALCULI
+Heterogeneum dicendum sit vel non, a comparatione pendere. Nobis vero in calculo
+sufficit duas res nullas ex quibusdam notionibus certis a nobis designatis, habere
+communes, etsi alias forte communes habeant.
+14) Haec jam quae de Terminis sese varie continentibus aut non continentibus
+diximus, transferamus ad numeros eorum characteristicos. Quod facile est quia diximus
+articulo 4. quando terminus concurrit ad alium terminum constituendum, id est cum notio
+termini in notione alterius termini continetur, tunc numerum characteristicum termini
+constituentis, concurrere per multiplicationem ad productionem numeri characteristici
+pro termino constituendo assumendi; seu quod idem est numerum characteristicum
+termini constituendi seu alium continentis, divisibilem esse per numerum
+characteristicum termini constituentis seu qui alteri inest. Exempli gratia, notio animalis
+concurrit ad constituendam notionem hominis, itaque et numerus characteristicus
+animalis a (verbi gratia 2) concurret cum alio aliquo numero r (ut 3) ad producendum per
+proinde necesse est numerum ar vel h (sive 6) dividi posse per a (sive per 2).
+15) Quando autem Termini duo sunt coincidentes, exempli causa Homo et Animal
+Rationale; tunc et Numeri, h et ar sunt coincidentes in effectu (velut 2, 3 et 6). Quoniam
+tamen nihilominus terminus unus hoc modo alterum continet, licet reciproce, nam homo
+continet animal rationale (sed nihil praeterea) et animal rationale continet hominem (et
+nihil praeterea, quod scilicet non jam in homine contineatur), hinc necesse est et numeros 20
+h et ar (2, 3 et 6) sese continere, quod utique verum est, quia sunt coincidentes, idem
+autem numerus utique continetur in se ipso. Necesse est praeterea etiam unum per
+alterum posse dividi, quod etiam verum est; nam si quis numerus per seipsum dividatur
+prodit unitas. Itaque quod articulo praecedenti diximus, ut Termino uno alium continente,
+coincidentibus locum habet.
+comparatione seu relatione ad distantiam a genere pendere. Nobis autem sufficit duas res
+ad nostras numeros
+nihil habere commune, ex illis quibusdam notionibus certis a nobis assumtis designatis, etsi fo
+Nobis
+terminos quosdam .. continetur,
+multiplicationem
+Animal concurrit ad co notio
+diximus quando terminus continet terminum
+id.
+tunc notionem termini Numerum produci artic. 4.
+termini constituentis qui alteri inest, constituendi
+constituentis, seu ejus concurrere per
+6) numerum nempe
+quia aequales sunt
+dividi, id est quod
+gratia,
+h et ar
+(sive 6)
+April. 1679. No 2. plag. 2.
+16) Hinc itaque per Numeros characteristicos etiam illud scire possumus, quinam
+terminus alium non contineat. Nam tantummodo tentandum est utrum Numerus hujus
+exacte dividere possit Numerum illius. Exempli gratia, si Numerus characteristicus
+hominis fingatur esse 6, simiae vero 10 patet quod nec simiae notio contineat notionem
+hominis, nec contra haec illam, quia nec 10 dividi potest exacte per 6 nec contra 6 per
+10. Hinc si quaeratur an in notione ejus qui justus est contineatur notio sapientis, id est
+an nihil praeterea requiratur ad sapientiam quam id quod in justitia jam continetur;
+tantum examinandum erit an numerus characteristicus justi dividi exacte possit per
+numerum characteristicum sapientis, nam si non praecedit divisio, patet adhuc aliquid
+requiri ad sapientiam quod non requiritur in justo; nempe scientiam rationum, potest
+enim aliquis esse justus per consuetudinem seu habitum etiamsi rationem eorum quae
+agit reddere non possit. Quomodo autem id minimum quod adhuc requiritur sive
+supplendum est, inveniri etiam per numeros characteristicos queat, postea dicam.
+17) Itaque hinc possumus scire an propositio aliqua Affirmativa Universalis sit vera.
+Nam in ea semper notio subjecti absolute et indefinite sumta, ac per se atque in genere
+spectata, continet notionem praedicati. Omne scilicet aurum est metallum, id est metalli
+notio continetur in notione generali auri per se spectata ut quicquid aurum esse ponitur
+eo ipso metallum esse ponatur, quoniam omnia requisita metalli (ut: esse ad sensum
+homogeneum, in igne saltem certa ratione administrato liquidum, et tunc non
+madefaciens res alterius generis immersas) in requisitis auri continentur. Quemadmodum
+pluribus explicuimus supra articulo 7.
+Itaque si velimus scire an omne aurum sit metallum (nam dubitari potest exempli
+gratia an aurum fulminans adhuc sit metallum quoniam est in forma pulveris, et in igne
+April.... plag. 2.
+aliquid praeter requiri quod ad justiti ad
+quinam termini in se invicem non contineantur. terminus in
+alio non contineatur. terminus... contineat.
+utrum alterius Numerus unius exacte dividi
+possit per Numerum alterius Numerus hujus... illius. Nam u. Exempli
+an avarus ne sit 15 in notione ejus qui vilia vendit
+6, Metalli vero sit 20 fingatur
+qui
+habitum quamvis etiam
+sine scientia etiamsi
+absolute sumta in se absolute
+metallum, Omne
+homogeneum, esse in igne liquidum opacum, posse esse saltem in igne satis for
+liquidum versehentlich nicht in igne saltem satis forti, suffi in... liquidum, et in hoc tunc
+res reliquas alterius generis
+an omnis
+justus sit sapiens omne
+igne certa quadam
+subjecti in se continet notionem praedicati
+praedicati. Homo scilicet est ani Aurum scilicet est
+notione auri generali seu abs indefin auri... spectata
+Quemadmodum... articulo 7.
+sit metallum) metallum
+nam dubitari potest
+minimum
+ELEMENTA CALCULI
+quadam ratione administrato disploditur non funditur) tantum explorabimus an ei insit
+metalli definitio, id est simplicissima opera, cum numeri characteristici adsunt, an
+numerus characteristicus auri dividi possit per numerum characteristicum metalli.
+18) Sed in Propositioneaffirmativaparticulari non est necesse ut
+praedicatum in subjecto per se et absolute spectato insit, seu ut notio subjecti per se
+praedicati notionem contineat, sed sufficit praedicatum in aliqua specie subjecti contineri
+seu notionemalicujusexempliseuspecieisubjecticontinerenotionem
+praedicati ; licet qualisnam ea species sit, non exprimatur. Hinc si dicas quidam
+expertus est prudens, non quidem illud dicitur in notione experti in se spectata contineri
+notionem prudentis. Neque etiam id negatur sed instituto nostro sufficit, quod aliqua
+species experti habet notionem, quae notionem prudentis continet tametsi forte non sit
+expressum, qualisnam illa sit species; nempe etsi hoc loco non exprimatur eum demum
+expertum esse prudentem, qui praeterea habet judicium naturale, sufficit tamen
+subintelligi aliquam speciem experti prudentiam involvere.
+19) Imo si notio subjecti in se spectata continet notionem praedicati, utique etiam 15
+notio subjecti cum addito, seu notio speciei subjecti notionem praedicati continebit.
+Quod nobis sufficit, quia non negamus ipsi subjecto inesse praedicatum, cum speciei ejus
+inesse dicimus. Itaque possumus dicere quoddam metallum in igne (recte administrato)
+est liquidum; etsi potuissemus generalius et utilius sic enuntiare: Omne metallum in igne
+etc. Habet tamen et particularis assertio suos usus, velut cum facilius demonstratur
+aliquando quam generalis, aut cum auditor eam facilius recepturus est quam generalem;
+et particularis nobis sufficit.
+18) Propositio Sed
+tantum dividemus explorabimus
+est an simplicissima
+unius auri
+characteristicum alterius metalli
+in Propositione particulari notio subjecti non per se sed cum aliquo addito, notionem
+continet praedicati, sed sufficit notionem subjecti cum aliquo addito continere notionem praedicati, sive
+speciem subjecti, nam ex notione subjecti cum aliquo addito fit subjecti species, ut patet ex artic.
+notio subjecti cum aliquo addito constituit speciei subjecti notionem ut dictum est in artic. 11.
+ostensum est. affirmativa... est necesse ut subjectum praedicatum... alicujusexempli
+seu
+Neque enim sufficit etiam
+notionem, quae eruditi notionem prudentis continet tametsi forte nobis non sit examinatum
+si omnis species auri notio absolute sumta contineat absolute et
+quod... expressum
+negamus ipsum subjectum
+per se notio
+continere ipsi spe subjecto
+auditor
+magis paratus est eam
+notione eruditi experti
+sufficit, quod aliqua species eruditi aliquam habet
+dicas: aurum est metallum quoddam aurum est metallum
+praedicati, multo magis notio utique
+usus, ut cum scilicet velut cum
+et specialis particularis L... exprimatur.
+20) Quoniam itaque ad propositionem particularem affirmativam nihil aliud
+requiritur quam ut species subjecti contineat praedicatum, hinc subjectum se habet ad
+praedicatum vel ut species ad genus, vel ut species ad aliquid sibi coincidens seu
+attributum reciprocum, vel ut genus ad speciem, id est: habebit sese notio subjecti ad
+notionem praedicati, vel ut totum ad partem, vel ut totum ad totum coincidens, vel ut
+pars ad totum, (vide supra artic. 7 et 11). Ut totum ad partem, cum notioni subjecti velut
+speciei inest notio praedicati velut generis, verbi gratia si bernacla sit subjectum, avis
+praedicatum, ut totum ad totum coincidens cum duo aequivalentia de se invicem
+dicuntur, ut cum triangulum est subjectum, trilaterum praedicatum; et denique ut pars ad
+totum, ut cum metallum est subjectum, aurum est praedicatum. Itaque dicere possumus
+quaedam bernacla est avis; quoddam triangulum est trilaterum (etsi has duas
+propositiones potuissem etiam enuntiare universaliter); denique quoddam metallum est
+aurum. Aliis casibus propositio particularis affirmativa locum non habet. Haec autem ita
+demonstro: si species subjecti continet praedicatum, utique continebit vel ut coincidens
+sibi vel ut partem, si ut aequale sibi seu coincidens, tunc utique praedicatum est species
+subjecti, quia speciei subjecti coincidit. Sin species subjecti praedicatum continet ut
+partem, praedicatum erit genus speciei subjecti per artic. 11. Itaque praedicatum et
+subjectum erunt duo genera ejusdem speciei. Jam duo genera ejusdem speciei vel
+coincidunt, vel si non coincidunt necessario se habent, ut genus et speciem. Hoc autem
+facile ostenditur, nam ex speciei notione formatur notio generis sola abjectione.2 Cum
+ergo ex specie duorum generum
+Am Rande: Adamas : corpus sensibile homogeneum durabilissimum
+praedicatum, et vero notio speciei subjecti idem est quod notio subjecti cum addito (per artic.
+11). Hinc sequitur istud additum posse esse tale, ut notio speciei subjecti inde composita fiat aequalis seu
+coincidens notioni praedicati. Nam notio praedicati vel est pars notionis subjecti, an v praedicati
+subjecti se habet ad notionem praedicati vel subjecti praedicati vel ut pars ad totum,
+vel ut totum ad totum coincidens vel ut parte totum ad partem, hinc notio subjecti se habet
+velut gen
+ad notionem subjectum... ut genus ad speciem vel ut species... totum,
+speciei
+possumus quaedam temperantia est virtus
+habet. Si praedicatum qu vel subjectum aliquid contineant aliquid contineat
+quaedam
+ut aequale vel ut
+quod non est compatibile cum aliquo alio Nam Haec... demonstro:
+coincidens
+necessario se habent ut totum et partem seu ut id est genus et speciem genera... speciem.
+, vel . Si coincidunt habemus rursus quod d initio intentum. Sin sint inter se ut genus et
+species Hoc
+durabilissimum
+duo genera ejusdem subjecti speciei,
+abjectione , quia . Cum
+cum justitia triangulum
+homogeneum fusile
+sibi tunc seu
+communi ambo genera per abjectionem continuam prodeant, id est superfluis abjectis
+relinquantur, unum prodibit ante alterum; et ita unum erit ut totum, alterum ut pars.
+Imo est paralogismus, et simul cadunt multa quae hactenus diximus, video enim
+propositionem particularem affirmativam locum habere etiam cum neutrum est genus vel
+species, ut quoddam animal est rationale modo scilicet Termini sint compatibiles. Hinc 5
+patet etiam non esse necesse ut vel subjectum per praedicatum vel praedicatum per
+subjectum dividi possit.
+Quibus multa hactenus inaedificavimus. Ergo specialiora justo diximus; adeoque de
+integro ordiemur.
+April 1679

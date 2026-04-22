@@ -1,0 +1,122 @@
+Propter
+Si A sit prius, B posterius dicitur A esse anteB, et B esse post [A].
+Si A sit Y et B non sit Y, et si A non esset Y, B foret Y, A dicetur esse proB.
+Si A sit magis Y quam B est Y dicetur A esse praeB.
+causae efficientis.
+Si A et B se habeant eodem modo dicetur unum esse cum alio, ut si A sit Y,
+et B sit Y, dicetur A cum B esse Y. Sin Y sit A, et idem Y sit B, dicetur Y esse
+A cum B.
+Sine idem est quod non-cum.
+Si A sit cum B in quadam positione, A dicetur esse apudB, vel B apud A.
+Si intervallum inter A et B sit magnum vel parvum, A dicetur esse propeB,
+vel proculaB.
+Procul
+idem H certo modo relatis, dicetur B se habere ad HsecundumA.
+CircaB est A si in A sint plura, quorum alia sint ante, alia post B.
+Habuimus.
+Si A sit perfectius quam B respectu positionis, A erit supraB, et B erit
+infraA.
+Circa
+Supra
+Infra
+posterius
+B L ändert Hrsg.
+similibus , ad i attributis
+plura, quae s quorum
+positionis
+H pertinentibus; dicet certo
+et eo secundum
+sint C et D,
+Infra Supra Supra Infra
+respectu situs,
+27–S. 411.1 A , vel sub A . Sub
+Si A sit secundum B, et B prius seu perfectius dicetur A esse subB.
+Si A sit immediatum requisitum ipsius B, dicetur A esse inB, vel potius si
+positio ipsius A sit positio ipsius B, A erit in B; licet non reciproce positio
+ipsius B quaevis sit positio ipsius A, hoc generalius priore.
+C est interA et B, si major est distantia inter A et B quam inter A et C,
+itemque inter B et C.
+Intus est adverbium contractum ex praepositione et casu; id est intra rem.
+Extra id est non-intra.
+Si B sit prius apud A, postea alibi, erit abA.
+Si B sit prius in A postea alibi erit exA.
+Si B sit ab A, et simul pertinens ad A, dicitur esse deA.
+Intra
+Extra
+In finem Si aliquid futurum sit in A, dicetur ipsum quidem tendere in A, id vero a quo
+efficitur ut sit in A, dicetur agere in A.
+ab uno extremo ad aliud.
+Per ( i n et e x )
+Praeter est appropinquare ad A, et continuata directione, rursus ab eo
+recedere, ipso non attacto.
+Erga est magis respectus seu tendentiae, a d magis actionis.
+Potest etiam erga intelligi de conatu qui si effectum habebit faciet aliquid
+pervenire in a, a d vero de eo qui faciet aliquid esse apud a.
+Contra Te, id est sic ut aliquid fiat, quod tu conaris non esse. Pro Te, vel 20
+Tu igratia, ut aliquid fiat quod tu conaris esse, vel quo juvaris seu quod
+tibi conducet. Pro interdum est alicujus gratia, interdum alicujus loco.
+Te nus id est usque ad aliquid quod est cis.
+Ultra id est ad aliquid quod est trans.
+Contra
+Tenus
+Ultra
+B, non contra, B erit A
+futurum sit in A dicetur tendere in A Si
+Pro... loco.
+sit prius pertinens ad A ab
+Adverbia
+ADVERBIA LOCI. IN LOCO: Ubi, in loco quem volo ut dicere tentes. Hic ut in loco hoc.
+Illic in loco illo. A LOCO VEL DE LOCO VEL EX LOCO: Unde, id est de loco quem volo
+ut dicere tentes; inde, de loco eo; hinc de loco hoc; illinc de illo. PER LOCUM: qua,
+illac etc. AD LOCUM: quo, huc,
+illuc.
+hoc die. Si duorum unum altero sit natura prius, et sint inconsistentia, et
+ambo existant, illud erit priustempore. Simul id est eodem tempore,
+vel generalius eadem positione. Cras id est primo die futuro, perendie,
+secundo. A l i qua n d o id est aliquo tempore, interdum id est aliquibus
+temporibus. Dudum,
+jamdudum tempore praeterito, remoto.
+NUMERI. Huc refert quo t i e s,
+saepe, id est multis vicibus, rare paucis; semel una
+vice. Vices autem sumi possunt tam de tempore quam de quavis positione,
+vel etiam exemplo.
+QUANTITATIS. Quantum, parum, multum, plus. Magnum autem idem est quod
+majus solito.
+QUALITATIS. Quomodo ? Hoc, illo, aliomodo.
+GRADUS. Quantopere seu quo gradu, tanto, magno, etc.
+tan [ t ] opere,
+m a g n opere, valde ; prorsus, omnino, quasi omni gradu,
+o m n opere ; magis majore gradu; m i nus minore, tam eodem gradu,
+qua m quo gradu. Quamcito, cito tempore brevi, tarde longo,
+sensim tempore longo non brevi, multis vicibus et qualibet parum; ita et
+paulatim.
+SUFFICIENTIAE. Saltem, seu minimum. Si non peritus saltem bonus; hoc est si non
+peritus, requiritur et sufficit quod bonus.
+EXPLICATIONIS. Scilicet, nimirum, id est Volo ut scias, ut intelligas.
+ASSEVERATIONIS. A n. Num sive An non. Utrum, An vel annon? Ita, tu dicis,
+Ubi,... tentes
+loco hoc, ill eo;
+in hac id
+Hodie, in hoc di id
+Multum, Quantum, saepe parum
+prorsus sensi omnino,
+cito
+o m n opere ; maj valde magis
+tempore continuo longo
+SUFFICIENTIAE.
+Nunc (hoc inter simplicissima)
+quo t i e s
+QUANTITATIS.
+QUALITATIS. Hoc m o d QuoL
+etiam,
+revera, Non. Ipsum non nescio an aliter describi possit, quam ut
+reduplicatum, habeatur pro non adjecto; seu ut eodem [modo] se habeant omnia, ut se
+habebant antequam poneretur. Cur non ? est interdum affirmantis, ob causam dictam ad
+interrogandi pronomina. Pro r s u s vel omnino est affirmantis cum omni gradu. Huc
+pertinent forte ; significat autem forte ; aliquem gradum possibilitatis notabilem.
+OPTANDI. Utinam, osi, id est: optandum esset, si.
+CONGREGANDI ET SEPARANDI. Simul, id est eadem positione; seorsim, id est diversa 10
+ideo, propter quam causam, ob hanc causam.
+positione.
+DISTRIBUENDI. Bipartito, bifariam, id est duobus modis.
+[Sommer 1680 bis Sommer 1684 (?)]
