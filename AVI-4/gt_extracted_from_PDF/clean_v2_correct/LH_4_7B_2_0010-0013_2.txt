@@ -1,0 +1,368 @@
+E 1 ).
+SpecimenCalculiuniversalis 1
+1) Propositiouniversalisaffirmativa, hoc loco a nobis sic exprimetur:
+a est b
+Itaque semper intelligemus praefixum signum universale. Propositiones negativas, et
+2) Propositiopersevera 2
+ab est a
+Am Rande : Ut calculi hujus natura intelligatur, notandum est quicquid a nobis
+enuntiatur in quibusdam literis a nobis pro arbitrio assumtis, enuntiari etiam in
+quibusvis aliis literis posse, vel ideo quia [bricht ab]
+Am Rande : Notandum hic nihil referre, sive dicas ab, sive dicas ba, exempli
+causa homo est animal rationale, sive homo est rationale animal.
+Propositio sic exprimetur universalisL
+s e nota vera
+indeterminatis posse etiam d a
+nihil referre
+nobis dicitur enuntiatur
+assumtis, enuntiandum enuntiari
+literis
+hic idem esse
+ab est b
+(sive omittendo b)
+a est a
+3) C o n s e q u e n t i a p e r s e vera
+Si a est b, et b est c, Ergo a est c
+substantia.
+4) Hinc sequitur:
+Si a est bd et b est c, Ergo a est c
+substantia.
+Hoc ita demonstratur:
+Si a est bd, ex hypothesi; et bd est b per num. 2. Ergo a est b per num. 3. Rursus si a
+est b (ut probavimus) et b est c ex hypothesi, Ergo a est c per num. 3.
+5) Propositio vera est, quae ex positis et per se veris per consequentias oritur.
+Nota: etsi propositiones quaedam pro hominum arbitrio assumantur, ut definitiones
+terminorum, inde tamen oritur veritas minime arbitraria, saltem enim absolute verum ex
+positis istis definitionibus oriri conclusiones; sive, quod idem est, connexio inter
+vera. Quemadmodum in numeris apparet, quorum signa et periodi decadicae hominum
+voluntate constituta sunt, calculi tamen inde [deducti] significant absolutas veritates,
+nempe connexionem inter characteres assumtos, et formulas inde deductas, quibus et
+rerum connexiones (quae characteribus quibuscunque assumtis eaedem manent)
+significantur. Utile autem est ad scientias, ita assumi characteres, ut ex paucis assumtis 30
+multa facile duci possint, quod fit si simplicissimis cogitandi elementis characteres
+assignentur.
+s e nota vera
+bd, Ergo ex
+est, quae vel per se vera est,
+vel ex per se veris ope consequentiarum per se verarum et definitionum oritur aut ex per se veris
+deductarum oritur ab est cd posito a esse lmn et b esse opq et c esse lp et d esse mq. Nam fit quae
+conclusa quibus charactere characteres
+characteres assignentur cogitandi
+6) Idemestcumalio, quod in alterius locum in omni propositione substitui potest salva veritate.
+Exempli causa Triangulum et Trilaterum. Triangulu trilaterum ubique in tota geometria substitui
+potest in locum trianguli 6)
+simplicissimis
+assignentur. 6) Idem est quod in alterius locum substitui
+nempe conclusionem connexionem
+multa du facile
+inter assumta et
+6) Si quid substitui ubique salva veritate potest in locum alterius, alterum vicissim
+ubique substitui potest in locum ipsius, verbi gratia quia ubique in locum figurae planae
+Triangulae substitui potest Trilatera, etiam contra ubique in locum trilaterae poterit
+substitui triangula. Nam sint duo a et b, et possit b ubique substitui in locum ipsius a, ajo
+vicissim a ubique substitui posse in locum ipsius b. Quod sic ostendo. Sit propositio b est
+c, vel d est b, ajo in his substitui posse a. Nam ponamus non posse substitui, seu non
+posse dici a est c, et d est a, ergo falsae erunt hae propositiones: Ergo saltem verae erunt
+hae duae propositiones: falsum est a esse c, et falsum est d esse a. Jam pro a substitui
+potest b ex hypothesi, ergo verae etiam erunt hae duae propositiones: falsum est b esse c,
+et falsum est d esse b, quod est contra hypothesin, has enim assumsimus ut veras.
+Demonstratum est ergo propositum. Idem aliter demonstrari potest.
+7) Eadem sunt quorum unum in alterius locum substitui potest, salva veritate, ut
+Triangulum et Trilaterum, Quadrangulum et Quadrilaterum.
+8) Omnes propositiones (universales affirmativae de quibus solis hoc loco agimus)
+a est d
+ab est e
+c est a
+quamvis enumerari videantur posse plures,
+a est d
+a est fg
+a est fhβ
+esse d.
+reducitur ad hanc, a est d posito fg esse d.
+reducitur ad hanc: a est d posito fhβ esse d, seu hβ esse g et fg
+ubique
+substitui,... posse
+verbi... locum Trianguli substitui potest Trilaterum, etiam contra ubique
+in locum tria trilateri poterit substitui triangulum. figurae... triangula. Nam propositiones
+Nam
+quod est
+Idem... potest.
+felix in locum pii salva veritate. Quod sic demonstro. Omnes propositiones in quibus est a ad has duas reduci
+est de e
+possunt 8)
+plures, redu nempe hae
+est af a
+litera aliqua, ut data,
+quamvis enim enumerari
+ergo falsum falsae
+est dfg fgh fhβ
+est dfg fg
+solis
+ab est e
+ab est ik
+alm est e
+tunc ab erit alm.
+alm est ik
+[etc.]
+c est a
+np est a
+reducitur ad hanc: ab est e posito ik esse e.
+reducitur ad hanc: ab est e posito b esse lm. Nam si b est lm,
+reducitur ad hanc ab est e, nam ik est e et ab est alm.
+reducitur ad hanc: c est a, posito c esse np.
+q est ab (abc etc.)
+rs est ab (abc etc.)
+reducitur ad hanc q est a, quia ab est a.
+reducitur ad hanc q est a posito rs esse q.
+a est a
+posito a esse c.
+reducitur ad hanc d est a posito d esse a, vel ad hanc a est c,
+a est at (aθλ etc.)
+reducitur ad hanc a est d posito at esse d vel ad hanc a est a,
+quia at est a.
+ab est
+abc est
+awx (etc.)
+aµπ (etc.)
+Hae omnes ex prioribus dupliciter reduci possunt;
+retinendo a vel in subjecto, vel in praedicato.
+Omnes tamen ad tres supradictas reducuntur; modo notemus pro df vel dfg vel bc vel cn,
+ab, abc etc. posse poni literam unam huic plurium conjunctioni aequalem, uti pro
+termino animal rationale, compendii causa ponimus unum terminum, homo, et pro
+composito ab
+abc, etc. est e, lmn, ik, etc. alm... ik
+lm esse b esse lm, lm esse b b esse lm et ik esse e. Nam
+a, quia c est np posito... np
+posse posito
+df vel dfg vel bc vel cn ab, abc etc. posse
+huic
+posito
+〈cn〉 np
+ab, abc, etc. est ab, abc etc. ab... etc.
+unam ipsis aequi
+pro 〈litera〉 composito
+hanc a est d d est a
+ab in vel
+d esse at
+cn rs
+vel abc in praedicato reperto posse substitui simplicem terminum a. Nam si dicas: c est
+ab, seu homo est animal rationale, utique etiam dicere potes c est a, seu homo est
+animal. Secus est tamen in subjecto, nam etsi dicam omne animal rationale est homo,
+non tamen possum dicere: omne animal est homo. Itaque hanc propositionem: ab est c
+non possum reducere ad simpliciorem in quam etiam ingrediatur a. Caeteras possum, ut
+ex dictis patet.
+9) Si a est f, et f est a, erunt a et f, idem, seu alterum substitui poterit in locum
+alterius. Quod sic demonstro. Ostendam primum semper f posse substitui in locum ipsius
+a. Nimirum per praecedentem omnes propositiones quas ingreditur a, reduci possunt ad
+tres, scilicet a est d, et ab est e, et c est a, unde ostendam has tres substitui posse: f est d,
+et fb est e, et c est f. Nimirum quia f est a et a est d etiam f erit d. Item quia f est a etiam
+fb erit ab (per demonstrata in additionibus) jam ab est e ergo fb erit e. Denique quia c est
+a et a est f etiam c erit f. Eodem autem modo quo ostendimus f posse substitui in locum
+a, etiam ostendetur a posse substitui in locum f, tum quia a an f eligeremus in arbitrio
+fuit tum et quia supra num. 6 ostendimus reciprocari substitutionem.
+Ens est quod termino aliquo, ut a vel b vel ab significatur.
+Si a est m
+b est m
+c est m
+et a, b, c est idem
+tunc m his propositionibus contentum dicitur esse unum.
+Si sint diversa nec inde fieri potest abc est m (imo semper hoc inde fieri potest) dicetur esse pluram,
+nempe a et b seu duo, a et b et c seu tria et ita porro.
+Contingit a, b, c esse diversa, nec tamen inde esse plura m, ut homo est animal, rationale est animal,
+nec tamen inde est necesse dari plura animalia. An ergo sic melius:
+Si a est m, et b est m, et c est m etc. et quaelibet propositio [bricht ab]
+seu b est homo
+primum ex his semper b f
+tum quia discrimen hic nullum est a... fuit
+quia d... idem
+est a f
+Si a est m dicitur:
+unum m est a Si a est m dicitur a esse unum m. Si a et b a est m, et b est m, dicitur: a et b
+a, b, c sunt idem non sunt diversa str. Hrsg.
+sunt duo m Si
+est idem
+porro.
+Videtur Contingit
+27–S. 285.1 propositio ex eo solum probatur probari potest quia l est m continetur in hac l
+est Ut
+diversa quod non pos nec ex inde... potest)
+b est m, idque probari potest et qu et
+ipsius inde a.
+m dicitur b
+Ut investigem quid sit unum et plura consideranda sunt exempla. Dicimus: Petrus
+est unus Apostolus. Vel Unus aliquis Apostolus est Petrus. Paulus est unus Apostolus vel
+Unus aliquis Apostolus est Paulus. Petrus et Paulus sunt plures Apostoli. Sed si dicam
+Petrus discipulus Christi est unus Apostolus, Discipulus qui Christum abnegavit est unus
+Apostolus, non ideo hinc plures fiunt Apostoli, quia Petrus discipulus Christi et
+discipulus qui Christum abnegavit est idem. Hinc
+si a est m et b est m et a est b et b est a, tunc m est unum.
+(seu si a et bidem )
+Hinc si dicas a est m, sequitur hinc esse unum m nam perinde est ac si dicas a est m, et b 10
+est m, supponendo a et b esse idem.
+Si a est m, et b est m, et neque a est b neque b est a, sunt pluram.
+(seu si a et b sunt disparata )
+Si a est m et b est m, et a est b nec tamen b est a, incertum est an plura sint m an 15
+unum. Ex. gr. Adam est animal rationale et homo est animal rationale. Sed hinc
+incertum an sint plura animalia rationalia, forte enim nullus datur alius homo quam
+Adam.
+Si a est m
+b.....
+c....
+d....
+unum.......................................
+uno verbo plura, m.
+quatuor
+et a, b, c, d sunt disparata: erunt
+Si a est b, tunc solumb erit a,
+seu si omnis homo est animal, solum animal erit homo.
+Si solumb est a, tunc a erit b.
+definitio est.
+Si solum a est b et solum b est a, erunt a et b idem. Nam si solum a est b tunc b est
+a, et, si solum b est a, tunc a est b per solius definitionem. Jam si b est a, et a est b, erunt
+a et b idem; per supra demonstrata.
+Solius 25
+Te rminiaequivalentes sunt, quibus res significantur eaedem, ut triangulum et 30
+trilaterum.
+aliquis
+Vel... aliquis ... Petrus
+discipulus Christi
+Apostolus, Paulus Discipulus
+idem. Definitio ergo Unius Apostoli vel Uniusm
+(seu... idem )
+neque et
+rationalia
+definitionem. Ergo si Jam
+31–S. 286.3 trilaterum. Te rminussimplex est cui nullus compositus aequivalet. Te rminus
+simplexvelprimitivus est cui nullus Te rminus... ab. Te rminus simplex vel
+Hinc... idem.
+gr. Petrus Adam
+Si... m
+discipulus Christi
+talis nascitur Hinc
+a est m
+rationale
+per solius
+seu... disparata
+rationale
+res significatae sunt significantur
+na compos compositus
+Te rminussimplex est in quo non nisi est unus, ut a. Te rminus compositus
+est qui constat ex pluribus, ut ab.
+Te rminus primitivus
+aequivalet, ut si ponamus ipsi a aequivalere bc, ipsique b aequivalere de, ipsi autem c
+nullum aequivalere compositum erit a terminus [derivativus], itemque b, sed c erit
+[primitivus]. Hoc illustrari potest exemplo numerorum primitivorum. Sit a tricenarius et
+b quindenarius et c binarius, et d ternarius, et e quinarius patet a idem esse quod bc, seu
+tricenario aequivalere quindenarium binarium; et b idem esse quod de, seu quindenario
+aequivalere ternarium quinarium. Patet ipsi binario (generaliter et absolute sumto) nullos
+alios junctos aequivalere, quemadmodum nec ternario nec quinario. Adeoque binarium,
+ternarium, quinarium, esse primitivos.
+Te rminus n a t u r a p r i o r
+praecedente: quindenarius est natura prior tricenario item binarius etiam natura prior est
+tricenario. Et terminus hic quindenarius-binarius est natura prior tricenario. Et ternarius
+est natura prior quindenario pariter ac tricenario, itemque quinarius, imo et ternarius-
+quinarius. Tametsi enim Numerus ternarius-quinarius idem sit qui [quindenarius], alius
+tamen est terminus, tametsi aequivalens. Quaeri potest an non Binarius sit terminus
+natura prior quindenario. Equidem secundum definitionem quam dedi erit nec prior
+natura nec posterior; quia alter alterum non constituit, neque ex altero per synthesin vel
+analysin oritur. Sed si sic definias: Naturaprior est Terminus qui constat ex terminis
+minus derivatis.
+terminus compositus
+nullum alium aequivalere
+tricenario aequipollere aequivalere
+simplex
+primitivorum. Ita s duodenar Sit a duodenarius, b
+et d... quinarius patet a esse b seu
+sumto) nullum alium nullos..
+tricenario
+senar Sit a 30narius et b 15narius et c 2narius Sit
+a L. junctos
+primitivos. Te rminus Conceptus Te rminus
+sed ternarius item binarius-quindenarius etiam natura prior est tricenario . Et... tricenario
+imo... aequivalens
+ändert Hrsg.
+terminis simplicioribus minus compositis derivatis
+posterior; quoniam tamen B quia
+tricenarius
+alter ad
+sit quod qui
+terminus
+Numerus , itemque
+Te rminus autem minusderivatus est, qui paucioribus simplicibus primitivis
+aequivalet. Patet ex his si termini simplex et compositus alter de altero praedicari
+possint, tunc compositum esse natura priorem.
+Nomen est terminus rem significans pro arbitrio assumtus. Ita circulus est
+hujusmodi figurae nomen, at figuram esse, uniformem esse, capacissimum esse
+isoperimetrorum sunt attributa.
+Attributum est praedicatum in propositione universali affirmativa cujus rei
+nomen est subjectum. Ex. gr. Omnis tricenarius est binarius. Omnis tricenarius est
+binarius-quinarius. Deus est justus, misericors, etc. Itaque binarius est attributum
+tricenarii, justum esse est attributum Dei.
+Proprium est subjectum in propositione universali affirmativa, cujus rei nomen
+cui proprium esse dicitur est praedicatum. Ut a est b, voco a proprium. Nam si omne a
+est b, utique solum b erit a, ut supra, seu nullum non-b erit a. Estque [a ipsius b]
+proprium. Ita tricenarius solius binarii proprium est, neque enim nisi binarius numerus
+(seu per 2 divisibilis) tricenarius esse potest, ita Deum esse solius justi proprium est, etsi 15
+enim non omni justo competat tamen soli justo competit. Ita ratio est proprium
+viventium, solis enim viventibus competit.
+Attributum p r o p r i u m est quod ejusdem termini et subjectum est in una
+propositione affirmativa, et praedicatum in alia. Ut tricenarius et quindenarius-binarius.
+Deus et omnipotens. Hinc patet attributum proprium idem esse cum eo quod vulgo
+vocant proprietatem reciprocam; adeoque nomen rei et attributum proprium rei esse
+terminos aequivalentes.
+modo potest definitum esse terminus aliquis compositus. Ut sectio conica, est linea
+communis superficiei coni et cuidam plano. Sed si malimus definitionem non esse nisi
+singulorum nominum, tunc ita dicendum erit:
+primitivis
+Patet... priorem.
+minus compositus derivatusL
+assumtus. Appellatio est terminus rem significans qui probari debet. Attributum est
+terminus rem significans qui probari debet, seu
+Attributum subjecti ter Rei u. est praedicatum ejus u.
+affirmativa . Definitio est terminu cujus res illa rei nomen est subjectum ex
+cujus res rei
+Deus est omnipo sapiens justus,
+est
+Nam Ut ... praedicatum.
+nomen
+proprium animalium viventium
+termini simul et
+omnipotens.
+Hinc patet attributum proprium sibi mutuo posse esse attributa et propria, cum scilicet utrumque est Hinc
+vocant definiti proprietatem
+b ipsius a L ändert Hrsg.
+enim animalibus viventibus
+quindenarius-binarius. Hinc Deus
+Ita circuli nomen circulus
+Itaque... Dei.
+proprii).
+Sed re recte expensa aliter videtur res explicanda: Nimirum
+propositionis reciprocae pro arbitrio assumtae, ex termino simplici et composito
+constantis. Itaque definitio est propositio cujus ratio non redditur, sed quam compendii
+tantum causa adhibemus. Est ergo definitio hypothesis quaedam, de cujus veritate
+disputari non debet, sed tantum an sit apta, clara, prudenter assumta.
+Patet definitum esse posse terminum compositum, si definitio componatur ex
+definitionibus partium ejus (vel ex definitio[ne] unius partis et altera parte). Cum scilicet
+res non habet unum aliquod nomen, ut sectio conica. Hinc patet, nomen esse posse
+terminum compositum. Aliter autem si definitum sit terminus compositus, definitio non
+est propositio assumta, sed demonstranda, posito scilicet partes definiti habere suas
+separatas definitiones quae utique simul sumtae definitioni definiti aequivalere debent.
+Nisi forte consideremus definitum velut unum nomen, licet non sit unum vocabulum ut
+intervallum. Ubi valli et inter, ratio non habetur. Ita Munimentum Regium, id est
+regulare justam quandam habens magnitudinem, ubi vocabuli: Regium non habetur ratio.
+Caeterum nobis qui cuilibet conceptui singulare nomen dabimus non est opus his
+cautionibus. Nam nobis omnis terminus simplex est nomen; omnis definitio est
+praedicatum nominis reciprocum compositum ex quo alia omnia demonstrantur. Atque
+ita malo quam arbitrarium, nam ut postea dicam omnia ab arbitrio ad certas leges
+revocabo. Per Te rminum non intelligo nomen sed conceptum seu id quod nomine
+significatur, possis et dicere notionem, ideam.
+compositus
+assumta.
+est definitio proposita propositio assumta
+reciprocum arbitrarium compositum
+Imo patet ex his definitum
+omnia
+aequivalens composito simplici
+terminus magis
+(vel... parte)
+nobis ea distinctione qui〈a〉 qui

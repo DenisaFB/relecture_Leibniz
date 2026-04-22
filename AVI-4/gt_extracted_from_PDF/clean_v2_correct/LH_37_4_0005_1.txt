@@ -1,0 +1,112 @@
+Methodussolvendiproblemata
+Quaestio proposita tractatur vel absolute vel relate ad cognitionem ejus, qui jam
+theoremata ad quaestionem solvendam utilia novit vel in promtu habet. Prior prolixior
+est, sed certa. Posterior magis a memoria pendet, aut certe minus est artificialis.
+Problema vel per se tractatur, vel resolvitur in alia problemata; prior via est magis 10
+algebraica et recepta; posterior non minus methodica; et saepe elegantior.
+In omni problemate Res datae et quaesitae, conditiones datae et ejusdem generatio
+seu constructio quaesita et relationes datae et quaesitae. Relationes datae sunt
+conditiones problematis continentes requisita determinantia quaesitum sive notas quibus
+agnosci possit, ubi inventum fuerit Quaesitum. Relationes quaesitae sunt quae pertinent 15
+ad causam efficientem seu generationem quaesitae rei. Interdum certus generandi modus
+praescribitur vel desideratur.
+Conditiones problematis Quantitatum datarum quaesitarumque 〈cat〉 Relationesdatae
+sunt conditiones problematis determinantes. Relationesquaesitae sunt quae continent efficientem causam
+rei quaesitae. Relationes omnes reducendae sunt ad quantitates quarum ejus simplicissimas
+Si problema tractandum sit per calculum, reducenda erunt omnia ad quantitates, quarum magnitudo datur
+aut quaeritur Quaestio
+a casu
+prior methodus est magis algebraica et recepta; posterior non minus analytica via.
+memoria L.. methodica;
+12–S. 376.1 problemate quaeritur aut sunt conditiones et Quaesitum. Conditiones
+sunt relationes datae, eaeque vel sufficientes ad determinandum vel insufficientes. Quae sunt co
+Sufficiunt Quaesitum in resolvi potest in plura requisita causam efficientem seu generationem
+quaesitae rei continentia. versehentlich nicht datum et quaesitum. Et quaesiti Res... desideratur.
+Si Tot requiruntur necessariae sunt
+vel pure absolute
+vel... habet
+Tot necessariae sunt conditiones, quot sunt requisita causae efficientis a se invicem
+independentia, alioqui data non sunt sufficientia. Est enim analysis inquisitio geneseos
+seu causae efficientis.
+productum conferre cum dato.
+Quaestio est vel determinata vel amphibola, cui pluribus modis non coincidentibus
+satisfieri potest.
+Item vel definita cui satisfit per certum quaesitum, vel indefinita, cui satisfit per
+locum infinitorum.
+Media finem eundem obtinendi sunt plura, eligenda sunt autem illa, quae sunt
+pauciora, simpliciora, minus amphibola, quaesito propiora, aut certe prae aliis signata.
+Nihil faciendum sine ratione quadam sufficiente neque ex pluribus rebus
+quantitatibusve homoeoptotis vel similibus una alteri sine causa praeferenda est.
+Si problema calculo magnitudinum tractandum sit, tunc omnia revocanda sunt ad
+quantitates (nempe numeros definitos vel indefinitos), quantitatumque relationes.
+De homoeoptotis.
+De electione quantitatum incognitarum, quibus cognitis haberetur quaesitum. Deque
+modo ea[s] revocandi in Catalogum (de compendiosa expressione inprimis in datis).
+sufficientia. Quaesita Data et quaesita a rebus re Si problema calculo tractandum sit, tunc
+et conditiones situm, motum, 〈ma〉 formam, aliaque attributa continentes, revocandae sunt ad
+attr relationes quantitatis. Enumera Quantitates datae et quaesitae sunt
+pluribus quantitatibus habitis aeque haberetur quaesitum, utilius saepe est alias prae aliis eligi; eligendae autem
+sunt quae videntur simpliciores, faciliores inventu, quae prae caeteris signatae, quae paucissimos habent
+aeq usus, aut vere plures aequales. Omnes relationes quantitatis revocentur ad aequationes
+, quando id fieri potest. . Ergo tot opus est haberi aequationes quot sunt quantitates incognitae.
+analyseos
+cui... potest
+quaesitum,
+illa, qu in quae ingrediuntur quantitates simplici pauciores, simpliciores,
+minus amphibolae, vel certe aequaliter amphibolae, quaesito propiores, aut certe prae aliis signatae quae...
+signata
+omnia
+quantitatibus incognitis, quarum inventione habeatur De revocati De homoeoptotis
+17–S. 377.1 quaesitum. Quot sunt quantitates incognitae a se invicem independentes sufficientes, tot haberi
+oportet, non plures nec pauciores quantitatum relationes. De modo revocandi quantitates Deque...
+relationes
+calculo numerorum magnitudinum
+relationes. Quaesitum erit valor quantitatum in quantitatis Ex pluribus
+per certam quantitatem vel quantitates amphi
+locum infinitarum quantitatum. infinitorum. ... Genesin eamque assumto... dato
+tunc quaesitum erit datu
+vel ambigua amphibola,
+finem obtinendi , certum
+De modo revocandi relationes alias ad aequationes.
+Quot sunt quantitates incognitae sufficientes a se invicem independentes, tot oportet
+esse aequationes a se invicem independentes, nec plures nec pauciores exceptionum
+conciliationes. Cum nimis multae sunt, oriri solet absurdum, nisi in casibus singularibus.
+Interdum pauciores sunt incognitae quam videntur.
+De modo revocandi aequationes plures ad pauciores, et denique ad unicam
+novissimam deque ordine in eo servando (quomodo aliae aliis conjungi debeant).
+De modo inveniendi valorem quantitatis quae reperitur in duabus aequationibus.
+De modo inveniendi potentiam quamlibet literae quae in duabus aequationibus
+habetur.
+De modo tollendi eam potentiam.
+De modo tollendi eam literam.
+De novissima aequatione.
+Si incognitae omnes homoeoptotae erit eadem aequatio pro omnibus seu reperientur
+simul.
+De inventione caeterarum incognitarum una inventa.
+De constitutione et limitibus aequationis secundum aliquam literam.
+De sublatione fractionum, semper succedit multiplicatione radicum.
+De sublatione irrationalium, non succedit hoc solo.
+De sublatione fractionum et irrationalium in quibus ipsa incognita.
+De divisibilitate aequationis per aliquam rationalem.
+De inventione certa radicis exactae rationalis, quando haberi potest (supra per
+extractionem radicis affectae utrobique).
+De modo extrahendi etiam radices irrationales propositae formae, quando id fieri
+potest. Hoc potius referendum ad superiora de extractione radicum affectarum.
+De inventione duarum aequationum ejusdem incognitae quas necesse est habere
+communem divisorem et tunc problema reduci posse.
+sufficientes
+De modo tollendi aequation
+inveniendi potentias potentiam
+minus incognitae secundum
+De
+radicis exactae
+Interdum pl pauciores
+pauciores . Vide interdum quando exceptionum conciliationes
+aequationibus.
+(hoc fieri potest eodem modo circa u. De modo tollendi
+aequationis
+literam. De transform modo tollendi quosdam terminos;
+certa valoris exacti
+De natura constitutione
+De divisibilit deprimibilitate ae divisibilitate
+[1680 bis 1682 (?)]

@@ -1,0 +1,325 @@
+entstanden ist.
+Aliquid ut A, item B, item C.
+Si N non est A, et N non est B, et N non est C, et ita porro; N dicetur esse Nihil.
+Hoc est illud quod vulgo dicunt Nihili nulla esse attributa.
+Patet etiam hinc ad definiendos Terminos Simplices opus esse aliquando supponere 5
+propositiones.
+Propositiosimplex : A est B, ubi A dicitur subjectum, Bpraedicatum, est
+copula.
+Propositioconditionalis. Si A est B, C est D, ubi propositio A est B dicitur
+antecedens, propositio C est D dicitur consequens.
+Ve raestpropositiosimplex, si praedicatum in subjecto continetur, hoc est
+si resolutis terminis A et B (quod fit substituendo alios terminos aequipollentes magis
+distinctos), apparet valorem sive conceptum praedicati contineri in conceptu subjecti.
+Unde et Aristoteles dicere solet praedicatum inesse subjecto.
+Ve raestpropositioconditionalis si consequens continetur in antecedente, 15
+hoc est si resolutis terminis tam antecedentis quam consequentis, apparet consequentem
+in antecedente contineri, seu eum qui valorem antecedentis enuntiat eo ipso enuntiare
+consequens vel valorem consequentis, licet forte aliquando in antecedente enuntiet
+aliquid amplius.
+Consequentiaprimaabsoluta : A est B, B est C ergo A est C, seu si C inest 20
+ipsi B et B ipsi A, C inerit ipsi A.
+Per literas intelligo Terminos concretos, per propositiones intelligo Universales, nisi
+aliter moneatur.
+C. Nihil. N dicetur esse Nihil, si Si
+attributa. Patet etiam Substantia
+singularis est concretum quod de pluribus dici non praedicatum esse non potest nisi in propositione
+reciproca. Ut si dicam Qui est A ille est B nec possim dicere Qui est B ille est A, tunc B non erit substantia. Itaque Pe cum Petrus sit
+singularis sed ejus affecti praedicatum Accidens
+Christum negavit est Petrus, possumus etiam dicere Petrus est Apostolus qui Christum abnegavit. Hinc ad con
+Patet
+compositis (quod
+si B inest C
+B substitutis aequipollentibus definitionibus, vel terminis aequipollentibus magis
+consequentis apparet propositione apparet
+propositiones intelligo
+absoluta
+ConsequentiaprimaHypothetica. Si A est B, C est D. Jam A est B. Ergo C
+est D.
+Si A est B et B est A, tunc A et B dicitur idem. Vel eadem sunt A et B, si sibi
+ubique substitui possunt (exceptis tamen illis casibus, ubi non de re sed modo
+concipiendi agitur, quo utique differunt. Ita Petrus et Apostolus qui Christum abnegavit
+idem sunt, et unus terminus in alterius locum substitui potest; nisi cum hunc ipsum
+concipiendi modum considero, quod quidam vocant reflexivum, exempli causa, cum
+dico Petrus quatenus fuit Apostolus qui Christum abnegavit, eatenus peccavit, utique
+non possum substituere Petrum, seu non possum dicere Petrus quatenus fuit Petrus
+peccavit).
+Si B est A, et C est A, B tamen et C sunt idem tunc dicitur esse non nisi UnumA, si
+vero B et C non sint idem sunt pluraA. Hinc patet definitionem Unius et plurium
+supponere definitionem ejusdem et diversi tanquam simpliciorum.
+Si B est A et C est A, et B, C non sunt idem dicuntur esse duoA. Si praeterea
+addatur D est A, et nullum ex his B, C, D sit idem cum alio ex iisdem, dicentur esse tria
+A, et ita porro.
+Cum hac definitione pugnare videtur Symbolum S. Athanasio attributum, in quo
+dicitur Pater est Deus, filius est Deus, Spiritus Sanctus est Deus; Et pater non est filius
+neque Spiritus Sanctus, et Filius non est pater nec Spiritus Sanctus, et Spiritus Sanctus
+nec est pater neque filius, 〈(hoc est ex〉 his tribus nullum est idem cum alio ex iisdem) et
+tamen non tres 〈erunt, sed〉 unus adhuc. Ubi fatend〈um〉 est si eodem plane sensu
+acciperetur Deus, cum dicitur: pater est Deus, etc., quam cum dicitur: Unus est Deus;
+utique aut manifestam implicari contradictionem aut mutari conceptum unius et plurium,
+ab hominibus receptum, quod esset non mysterium explicare, sed nugari; sciendum est
+itaque cum dicitur: Unum tantum esse Deum, intelligi Deum absolute seu ut vulgo vocant
+essentialiter sumtum cujus tres sunt personae, in una numero essentia; cum vero dicitur
+Pater est Deus, Filius est Deus etc. non intelligitur Deus absolute sumtus omnes
+personas continens seu trinus in personis, neque enim dici potest patrem vel filium esse
+trinum in personis, sed intelligitur Deus relative seu ut loquuntur personaliter sumtus,
+sive una
+idem. Item si A et B sibi ubi mutuo Item Vel... ubique
+Si A est B B est A
+cum
+praeterea sit D addatur
+hos ipsos diversos co hunc
+et... cum altero alio ex iisdem,
+dicitur: Pater est Deus, Unum
+sumtus tres per omnes... seu
+trinus
+personaliter sumtus, hoc est sive una aliqua
+S. Athanasii Athanasio attributum,
+seu... essentialiter
+vel filium
+in... essentia;
+29–S. 553.1 seu...
+aliqua persona divinitatis. Eodem modo non pugnat S. Trinitas cum eo principio quod
+quae eadem uni tertio sint eadem inter se, nam cum pater et filius dicuntur esse idem
+Deus, tunc Deus nec significat Deum trinunum, nec significat personam Divinitatis, sed
+idem vel Unus Deus dicitur ejusdem numero divinae essentiae particeps.
+Si idem sit B et sit etiam C item D etc. quia est A, seu si terminus A omnes terminos
+B et C et D, etc. qui de eadem re dici possunt involvit, terminus A exprimet ipsam
+substantiamsingularem sive substantiae singularis conceptus est terminus
+completus, omnia continens quae de illa dici possunt. Ita si quis sit robustus, et calidus,
+et doctus, et Rex, et Dux exercitus et victor pugnae ad Arbelam, aliaque ejusmodi quae
+de Alexandro Magno dicuntur; utique Deus Alexandri Magni essentiam singularem
+intuens, videbit conceptum aliquem completum in quo omnia ista, virtute continentur,
+sive ex quo omnia ista consequuntur. Ex robusto non potest inferri Rex, neque ex duce
+victor, sed ex Alexandri conceptu inferuntur et robustus et Rex et dux et victor. Et talem
+quidem conceptum dari manifestum est ex definitione verae propositionis paulo ante
+explicata. Nam cum dicimus Alexander est robustus, nihil aliud volumus quam robustum 15
+in Alexandri notione contineri, idemque est de caeteris Alexandri praedicatis.
+Hinc porro sequitur Singularia esse revera Species infimas, neque unquam dari
+posse duo singularia per omnia similia et proinde principium individuationis semper esse
+differentiam aliquam Specificam, quod S. Thomas ajebat de intelligentiis, sed idem
+verum est de individuis quibuscunque. Notamus autem cum dico homines infima specie 20
+differre, speciei nomine a me non intelligi (ut vulgo fit), aliquam tribum rerum sibi
+similes procreantium, ut speciem hominum, canum, rosarum (quanquam ne liquida
+quidem satis sit ista notio, et dubitari possit an lupi et canes, molossi et melitenses
+caniculae specie differant); neque etiam universale, seu terminum ex finito terminorum
+numero
+Eodem... particeps.
+completus, ex quo omnia possunt de omnia
+sit etiam
+singularem . Ita est . Ita Deus in conceptu Petri videt sive substantia singularis
+substantiae... conceptus
+possunt.
+Itaque si quod subjectum sit doctum, et calidi robustum, et calidum, et doctum, Ita... doctus,
+Arbelam, etc. et dem conceptusque aliaque
+Ex robusti conceptu robusto
+virtute
+conceptu ista omnia
+neque ex duce
+verae propositionis paulo... explicata
+differre, non intelligi a me speciem per speciem speciei... intelligi
+hominum, speciem canum, rosarum
+a se invicem generatarum, sibi
+conceptu differunt. quanquam et non satis constans sit notio (quanquam
+melitenses
+inferri quod Rex, vel dux, vel
+definitione veritatis.
+de singula individuis
+rerum
+; sed ea quae
+24–S. 554.1 neque... conflatum
+completum ex
+et canes
+posse
+in
+conflatum, sed terminum cujus peculiaris est conceptus a conceptu aliorum diversus. Et
+certe differre conceptum Alexandri M. et Julii Caesaris et nos multa ex conceptu illius
+aut hujus colligere posse negari non potest. Si quis tamen speciem ita definire volet ac
+poterit, ut singularibus ascribi non possit, cum eo de vocabulorum usu litigare nolim.
+Sufficit quod dixi non posse dari duo singularia per omnia similia, exempli causa duo
+ova, necesse est enim aliqua de uno dici posse quae de altero dici non possint, alioqui
+substitui sibi mutuo possent, nec ratio erit cur ita non potius dicantur esse unum et idem.
+Si jam diversa habent praedicata, utique et conceptus different, quibus ea praedicata
+inerunt. Ex hoc uno autem multo maxima etiam in physicis sequuntur, quae nunc aliquis
+non facile praevideat.
+Substantia Universalis significat quamlibet substantiam singularem aliquid
+determinatum commune habentem, ut cum dico hominem, intelligo quamlibet
+substantiam singularem corpus organicum habentem et ratione utentem.
+Explicandum tamen adhuc videtur, cur Homo dicatur esse Substantia, calidum
+dicatur esse accidens, cum tamen nihil impediat per calidum a nobis intelligi
+Substantiam quamlibet singularem calidam; et quidem fateor hujusmodi disquisitiones
+esse reflexivas nec magni ad philosophiam momenti, si quis tamen omnino operae
+pretium putet, has notiones secundas accurate constitui dicemus calidum esse
+adjectivum, seu supplendum esse aliquid ut integer fiat sensus, nempe subjectum
+calidum, substantia calida; at Homo est substantivum et cum dicitur Homo, jam
+involvitur subjectum, nec sine tautologia suppleri potest; frustra enim dicitur, subjectum
+homo, sed recte dicetur subjectum humanum seu humanitate praeditum. Nec video quid
+prohibeat quin, quemadmodum dicitur homo, id est res praedita humanitate, et capito, id
+est res magno capite praedita, seu animal capitosum, ita dici queat calorio seu res calida
+si ita ferret usus vel analogia linguae; et calorio, mugil, capito, naso, aeque sunt
+substantiae ac homo, etsi non detur tribus seu species propagabilis propria nasonum, uti
+Porro Substantia Singularis est quae de alio dici non potest. Seu si substantia
+singularis de aliquo dicatur erunt idem. Nempe si ex eo tantum quod A est B colligi
+potest
+hujus demonstrare colligere
+volet aut ac
+exempli... ova,
+dici non posse
+ita
+quae〈vis〉 per
+possent
+determinatum
+calidi calidum
+calida
+eo solo tantum
+idem, sequitur dicetur B et A , etsi... sumimus ... habentem,
+significat substantiam singularem talem, quamlibet...
+adjectivum, in quo seu
+quamlibet
+dicemus vocem
+res calore
+propagabilis calorionum vel propria
+30–S. 555.1 potest B et A esse idem, seu B esse A, etiam...
+Homo... et
+per
+singularia ex u.
+mutuo non
+etiam B esse A, seu B et A esse idem, dicetur A vel B esse substantiamsingularem,
+sive rem per se subsistentem ut si dicatur Petrus est Apostolus qui Christum negavit, hinc
+quia constat non nisi unicum talem Apostolum esse, seu quia inde colligi potest etiam
+viceversa Apostolum qui Christum negavit esse Petrum, ideo Apostolus qui Christum
+negavit erit persona seu substantia singularis.
+Discrimen inter Ens reale et apparens, qualitatemque realem et apparentem
+examinatu dignum est. Et quidem quae in somniis apparent, dicimus falsa sive
+apparentia, non tam quia eorum causa intra nos est neque aliquid externi iis respondet (id
+enim ut alias dicam nihil obesset), quam potius quia neque cum aliis phaenomenis inter
+se congruentibus, neque inter se congruunt quae somniamus. Iridem parhelia aliaque id 10
+genus phaenomena realia dici posse arbitror tanquam Entia per aggregationem, ut struem
+lignorum, vel exercitum, est enim iris aggregatum guttarum quae simul junctae certos
+colores nobis apparentes producunt. Qualitates apparentes sunt, quae non absolute insunt
+rebus, sed quatenus in nos agunt, ita eadem aqua prout dispositae erunt manus meae
+frigida aut tepida aut calida videbitur. Hoc tamen in ea reale inest, ut apta nata sit ad
+hunc sensum in me ita disposito producendum. Hinc iris ex duplici capite imminutae est
+realitatis, nam et Ens est per aggregationem ex guttis, et qualitates quibus noscitur sunt
+apparentes aut saltem ex illo realium genere quae sunt respectivae ad sensus nostros.
+Caeterum suo loco ostendam omnia corpora in quibus nulla inest Anima vel forma
+substantialis esse apparentia tantum, instar somniorum, neque ullam habere certam
+determinatamque naturam; omniaque corporum ejusmodi attributa non nisi phaenomena
+esse quae subjecto destituantur. Unde sequitur aut corpora non esse Entia realia, aut
+omnia corpora esse quodammodo animata.
+Excutiendum etiam est quomodo Ensperaggregationem, velut exercitus aut
+etiam inordinata hominum multitudo, sit unum, et quomodo ejus unitas atque realitas ab 25
+sive subsistens rem
+subsistentem ut Alexander Magnus est ev ut si dicatur :
+Alexander magnus est eversor Persicae Monarchiae, et ex hoc inferatur inferri possit Eversor
+Persicae Monarchiae est Alexander Magnus, seu solus Alexander Magnus est is qui Persicam Monarchiam
+evertit, neque hoc de aliis dici potest, erit Alexan Eversor Monarchiae Persicae, persona quaedam
+singularis. sive substantia singularis Petrus
+colligi potest quia ex hoc co hinc quia
+individuum persona singu seu
+quam quia (si quam
+se cohaerent congruentibus,
+aut... multitudo
+neque... obesset)
+se cohaerentibus, neque inter
+tanquam... aggregationem
+et Ens est per ag ex Ente
+apparentes sive reales ad sensus nostros respectivae aut
+quia cum neque
+Iridem aliaque parhelia
+Petrum, erit
+quidem somnia quae
+ita calidam aquam dicere non possunt, eadem
+ideo quia inde
+ex guttis
+negavit,
+ideo
+erit
+unitate atque realitate hominis alicujus differat, idque discrimen potissimum spectandum
+videtur in attributis atque operationibus. Attributa alia dicuntur aeque de toto ac de
+partibus, ut quod exercitus in campis Marathoniis locum cepit, quod verum est et de
+singulis militibus; alia de solo toto dici possunt, ut quod exercitus est triginta millium,
+quod est lunari acie dispositus; haec tamen omnia enuntiari atque exprimi possunt
+etiamsi multitudo non ut unum spectetur, ita possum dicere adesse triginta mille milites,
+et unum militem ita esse situm ad alterum, quemadmodum forma aciei quam diximus
+postulat, ut scilicet quidam ab aliquo puncto fixo tantum, alii tantum distent. Sed quod in
+homine partes illas unum facit, attributa habet, quae sine isto vinculo enuntiari non
+possunt; facultatem scilicet sentiendi, appetendique. Sed quod potissimum est, Exercitus
+accurate spectatus ne uno quidem momento idem est, nullum enim reale in ipso est, quod
+non resultet ex partium unde aggregatur realitate; cumque omnis ejus natura in numero,
+figura, habitudine et similibus consistat, ea mutata non est idem, sed Anima Humana
+suam propriam habet realitatem, adeo ut desinere mutatis utcunque partibus corporis non
+possit.
+Res eadem manere potest, licet mutetur si ex ipsa ejus natura sequitur idem debere
+successive diversos status habere. Nimirum idem dicor esse qui ante, quia substantia mea
+omnes status meos praeteritos praesentes futurosque involvit, nec obstat quod ita de me
+contradictoria dicantur; haec ipsa enim natura est temporis, ut secundum diversum
+tempus possint contradictoria esse vera de eodem.
+Mutatio est aggregatum duorum statuum contradictoriorum. Hi status autem sibi
+necessario immediati intelliguntur, quia non datur tertium inter contradictoria.
+Passio est mutatio minuens perfectionem, Actio est mutatio eam augens vel
+conservans.
+Perfectio autem est realitas pura seu quod in essentiis est positivum atque
+absolutum. Contra imperfectio consistit in limitatione.
+realitate pe hominis
+differat , certum est tum hominis . Et quidem exercitus
+discrimen
+in operationib attributis
+nullo , idque
+Multitudo est magna Attributa de 〈to〉 alia
+alterum, ut partes unae cornicu le quemadmodum lex forma
+nullum
+similibus
+ne desinere quidem desinere sublatis mutatis
+mutetur Res
+omnes mutationes status
+contradictoriorum
+immediati intelligi possunt, intelliguntur,
+realitate; qua mutata cumque
+est, sed idem
+numero et figura, figura...
+ut
+possit. Idem potest manere licet
+statuum oppositorum
+sed Formae Humanae natura Forma Humana Anima Humana
+est tam et
+et
+Dubitari potest an Deo attribui queat mutatio; et quidem mutatio quae
+imperfectionem involvit, Deo tribui non potest, variatio tamen ei non potest negari seu
+praedicata opposita, ita Deus hodie aliquid producit, quod ante mille annos utique non
+produxit sed producturus erat.
+Quemadmodum principium individuationis est differentia specifica, ita principium 5
+Existentiae est Essentia rerum. Nimirum: Omnis essentia seu realitas exigit existentiam
+quemadmodum omnis conatus exigit motum, vel effectum, scilicet, nisi quid obstet. Et
+omne possibile non tantum involvit Possibilitatem, sed et conatum actu existendi, non
+quasi ea quae non sunt conatum habeant, sed quia ita postulant ideae essentiarum in Deo
+actu existentes; postquam Deus libere decrevit eligere quod est perfectissimum. Hinc
+quemadmodum in libra unumquodque pondus conatur et pertendit in sua lance pro
+modulo suae gravitatis, et descensum exigit, nisi impediatur, vincit autem quod est
+gravius; ita unaquaeque res ad existentiam aspirat pro modulo suae perfectionis, obtinet
+autem quae perfectior est. Proinde omne possibile existit, nisi impediat existentiam
+perfectioris. Ex his patet Essentias rerum pendere a natura divina, existentias a voluntate 15
+divina; neque enim propria vi sed decreto Dei existentiam obtinere possunt.
+Causa mali est ab imperfectione rerum originali seu a creaturarum limitatione, quae
+talis est ut perfectio cujus res capaces sunt non posset obtineri nisi intercedentibus culpis
+et poenis, prorsus quemadmodum quaedam obtineri non possunt, nisi lineae ac motus
+incommensurabiles adhibeantur. Interea sciendum est peccata non nisi peccantibus mala 20
+esse, aliis in majus bonum cedere.
+mutatio; sed hoc intelligo de et
+seu status oppositi, utique enim praedicata...
+Omnis ex essentia
+hodie 〈nil〉 producit, 〈nam Deus〉 aliquid... quod
+ita
+motum, omnisque vis vel
+perfectissimum. Sunt ergo Hinc unumq quemadmodum
+autem et
+obtinet
+intercedentibus culpis et poenis, quam si nihil culpae esset admissum. perfectio... poenis
+est perfecti gravius;
+ut 〈jam〉 posset major perfectio obtineri major perfectio obtinetur
+obstet. Unde Et
+scilicet,
+perfectionis vincit autem quod est perfectius;
+gravitatis, vincit
+132.DIVISIO TERMINORUM AC ENUMERATIO ATTRIBUTORUM
+[Sommer 1683 bis Anfang 1685 (?)]

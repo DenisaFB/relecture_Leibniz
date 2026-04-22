@@ -1,0 +1,86 @@
+Konzept: LH XXXV 1, 26 Bl. 9. 1 Bl. 4o. 2 S. vo, ro.
+aliquem praebere praestandi
+conatur radios colores
+colorato
+qui componunt formant
+solidum per co voco,
+E. MARIOTTE, Quatrième essay de la nature des couleurs, Paris 1681, S.
+Logica est Scientia generalis.
+Metaphysica est Scientia rerum intellectualium.
+Moralis est Scientia affectuum.
+Combinatoria agit de calculo in universum, seu de notis sive characteribus
+universalibus (quales sunt a, b, c, ubi promiscue alter pro altero sumi potuisset) deque
+variis legibus dispositionis ac processus seu de formulis in universum. Calculus
+algebraicus est species quaedam certa calculi generalis, lex verbi gratia multiplicationis
+est, ut quaevis pars multiplicantis, cuivis parti multiplicandi combinetur. Unde statim
+patet, si tres formulae in se invicem ducantur, ut a + b + c et d + e + f et g + h + i
+productum esse summam omnium ternionum possibilium harum novem literarum, illis
+tantum omissis, quae sunt literarum ejusdem formulae, inter se, et ita scribi potest
+productum sine ullo calculo. Unde porro colligi potest, si a + b + c idem sit quod d + e +
+f, seu quod g + h + i, seu si quid ducendum sit in seipsum, et productum rursus in ipsum,
+seu si ponatur formulae ex tribus partibus compositae cubus, existente igitur a aequ. d 15
+aequ. g et b aequ. e aequ. h et c aequ. f aequ. i, adg erit aaa seu a 3 quod haberi potest
+tantum semel. At ad h erit aa b, quod haberi potest ter nempe ut ad h, ita ag e et dg b, ter
+enim aa diversis modis ex literis a, d, g confici potest, cum tres sint earum
+combinationes. Denique aei dabit abc quod habebitur sex. Nempe a dabit duo, a ei et a
+fh, ergo pari ratione etiam d dabit duo, et g rursus duo, summa 6. Statim ergo sine
+calculo inveniri potest cubum de a + b + c etc. fore
+a 3 + 3a 2b + 6abc....
+seu cubum totius constare ex omnibus cubis partium, una cum omnibus solidis ex
+quadrato quovis in aliud latus ter sumtis, additis cuique omnibus ternionibus sexies
+sumtis...
+Non omnes formulae significant quantitatem, et infiniti modi calculandi excogitari
+possunt, exempli gratia pro calculo alternativo, si dicatur x esse abc, intelligi potest x
+esse vel a vel b vel c. Hinc si sit x idem quod abc et y idem quod ade, erit xy idem quod
+abcde,
+imaginabilium , quemadmodum , Metaphysica . Theologia . Metaphysica
+rerum quae tantum intelligi possunt intellectualium
+seu... universum
+duo, duo... a fh
+seu... partium,
+Innumeri Non
+aequ. aequ. str. Hrsg.
+calculo probari inveniri
+dabit tres, a ei et a fh, nempe
+6abc seu omnes cubos,
+sumtis.
+sumtis, additis denique omnibus solidis ex qu additis
+seu calculo alternativo id quod est x vel y necessario erit vel a vel b vel c vel d vel e.
+Cum in multiplicatione alias et secundum leges communis calculi posito x valere abc, et
+y valere ade debuisset xy valere aabcde. Verum in calculo alternativo tali, a et aa
+aequivalet, nec ulla ratio habetur combinationis literae secum ipsa. Ita posito x esse abcd
+et idem x esse cefg, sequitur x esse c, posito haec omnia a, b, c, d, e, f, g esse inter se
+diversa. Si enim constet hoc modo x esse unum ex his quatuor a, b, c, d et unum ex his
+quatuor c, e, f, g, necesse est ut sit id quod utrobique reperitur nempe c. Quali artificio uti
+solent lusores ad divinandum quam chartulam aliquis sumserit, licet ab iis tegatur. Et
+eodem artificio utuntur et Geometrae, nam cum sciunt quod quaerunt debere esse in
+aliquo circulo dato, idemque esse debere in alio circulo etiam dato, concludunt id cadere
+in horum circulorum intersectionem. Idem fieri potest in seriebus numerorum. Et alioqui
+calculus alternativus immensum habet usum in calculo decimali, seu cum omnes
+quantitates per terminos progressionis cujusdam Geometricae exprimi debent, quod
+vulgo in calculo quaeritur.
+Opus erit explicari differentiam qualitatis et quantitatis, in eo positam, quod
+quantitas non memoria sed sola perceptione sciri potest, at qualitas rerum semel percepta
+retineri potest memoria. Possent omnia in mundo proportione diminui, opus est semper
+me[n]surae saltem actuali perceptione ad quantitatem cognoscendam. Nobiscum ferimus
+mensuras, usu etiam assuescimus ut rerum magnitudines comparare corporis nostri
+partibus (hinc augenmaß); sic vires et pondera comparare corporis nostri viribus. Itaque
+corpus nostrum pro mensura est.
+Quandocunque una quantitas ex alia determinari potest nulla tertia homogenea
+assumta semper data est ratio unius ad alteram. Ni fallor exemplum habui nuper (Martio
+vel Aprili 1683) puto in subducendo calculo pensionum, ubi cum initio non praevidissem
+rationem datam, eam datam apparuit.
+Ratio est comparatio quae sola edicta est inter res quae sunt similes. Et quod idem
+esse debet si duo alia ponantur. Nempe si sint a et b, itemque c et d et ex comparatis a et
+b non discerni possint a c et d, tunc est ratio eadem a ad b quae c ad d.
+et
+iis conte
+Geometrae, quanti nam
+tegatur
+et similiter se habent a et b et str. Hrsg. ex
+sic rem vires
+homogenea
+assuescimus aliquod aliqua notare virium
+ponantur , quae . Nempe
+b nihil nulla divers non
+[Sommer 1683 (?)]

@@ -1,0 +1,55 @@
+Quodinmultiplicatione − i n − faciat +
+Sit quantitas x − b multiplicanda in aliam x − c ajo multiplicationem fieri hoc modo:
+x − b
+x − c
+− cx + bc
++ x 2 − bx NB.
+Manifesta autem est pars multiplicationis x 2 − bx − cx, quaeritur solum an admitti possit
+− b in − c dare + bc. Quod sic ostendo:
+Primum ponatur x aequ. b, ergo etiam erit x + c aequ. b + c. Ergo x 2 + xc aequ. bx + 15
+cx multiplicatis scilicet omnibus per x. Et pro xc ponendo bc (quia x aequ. b), fiet x 2 + bc
+aequ. bx + cx sive fiet:
+x 2 − bx + bc aequ. 0.
+solum an a de + bc an
+ostendo Ponatur x
+aequ esse aequale ipsi b. patet fore x − b aequ. nihilo; ac proinde idem autem eadem
+autem formula prodibit multiplicando x − b per x − c. sive x sit aequale ipsi b sive non, qu tantum
+enim inter quia inter nu cum literis generalibus calculamus, valores quoslibet literarum
+comprehendimus, comprehendimus. Semper ergo eodem modo prodibit x 2 − bx − cx + bc, quia
+etsi Primum
+x aequ. b. seu x − b aequ. 0. ergo
+Jam si multiplicetur x – b per x – c, prodibit7
+x 2 − bx + Θ aequ. 0.
+Nam si id quod nihilo aequale est (hoc loco x − b) multiplices per quidvis
+necessario fit bc aequ. Θ, adeoque − b in − c dedit Θ seu + bc.
+Quod autem processit posito x aequ. b, procedet etiam in alia multiplicatione
+quacunque, ut facile patet, nam sit d − b multiplicanda per x − c. Utique poterimus facere
+d aequ. e + x (quia d est major quam x, adeoque et major quam b, posito x aequ. b) et
+fiet: e + x − b multiplicanda per x − c, et necessario fiet productum ex − ec + x 2 − bx − cx
++ bc. Fit enim utique ex − ec + x 2 − bx − cx · Θ. Quod tantundem esse debet quod ex − ec
+(quia x − b aequ. 0, ergo e + x − b in x − c idem quod e in x − c). Ergo x 2 − bx − cx + Θ
+aequ. 0, ergo ut supra Θ aequ. + bc.
+Jam ostendemus idem fieri debuisse etsi d fuisset retenta nec per x explicata quia
+peracta per d multiplicatione utique postea explicare licet d per e + x. Nimirum os-
+tendimus ex − ec + x 2 − bx − cx + bc esse aequ. d − b in x − c. Jam d − b in x aequ. ex +
+x 2 − bx (ob valorem ipsius d) et d − b in – c aequ. − dc · Θ, id est (quia d aequ. e + x) d −
+b in − c aequ. − ec − xc · Θ. Ergo summa collecta ex + x 2 − bx − ec − xc · Θ aequale
+superiori ex − ec + x 2 − bx − cx + bc. Ergo ablatis utriaque iisdem fiet Θ aequ. + bc.
+Breviorem hanc demonstrationem reddidissem si vacasset. Facile etiam patet idem
+fore et si adhibuissemus non x − c sed aliam quamvis ut f − c.
++x − b
++x − c
++x 2 − bx
+est multiplices in qu id quod etiam nihilo (hoc
+aequ. e + s e + x si sit duplo major quam x, (posito x (quia
+ex − ec
+e + x − b
+nam pro sit
+productum primum
+ergo et
+aequ. + bc Item ex − ec + x 2 − bx − cx + bc aequ. d − b in x − c et d − b in x aequ. ex
+− dc + Θ ·
+superiori
+− ec − xc · Θ. Ergo d − b in x − c aequ. ex − Ergo
+− bx − cx + Θ · Θ
+2224. DEMONSTRATIO A CAVALLERIO QUAESITA

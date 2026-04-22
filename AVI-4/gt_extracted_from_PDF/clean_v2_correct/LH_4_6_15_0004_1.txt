@@ -1,0 +1,6 @@
+Omne A est B posito has propositiones
+Omne B est A esse simpliciter convertibiles
+Ergo Omne A est A
+Omnis circulus est figura capacissima.
+Omnis figura capacissima est circulus.
+Ergo omnis circulus est circulus.

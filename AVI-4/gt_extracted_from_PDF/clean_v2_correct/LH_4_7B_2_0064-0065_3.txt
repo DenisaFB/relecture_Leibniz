@@ -1,0 +1,372 @@
+COUTURAT, Opusc. et fragm., 1903, S. 264–270.
+verwandt, das
+zwischen eadem – diversa, continentia – contenta bzw. auch communicantia – incommunicantia in einem
+1) Eadem vel Coincidentia sunt quae sibi ubique substitui possunt salva
+veritate. Diversa quae non possunt.1
+3) A non
+4) Si A non
+5) Si A
+B significat A et B esse eadem.
+B significat A et B esse diversa.
+B et B
+B, etiam B non
+C, etiam A
+C, per 1, facta substitutione.
+Am Rande: Hinc etiam demonstrari potest, si duo coincidentia reperiantur in aliqua
+propositione, posse loca eorum permutari, quanquam et possit unum eorum per
+alterum vel omnino, vel quantum lubet, tolli.
+vel Coincidentia
+substitui mutuo possunt
+Si A + B A
+per... substitutione
+duo aequalia coincidentia
+6) Si A
+C, erit C non
+B et B non
+C, etiam A non
+C, per 5. Hinc per 6 et 4 si A
+B et B non
+7, 8) A significat determinatum, Y vel Z, vel alia litera posterior significat
+indeterminatum, etiam Nihil, si conditiones appositae non obstent.
+9, 10) A + Y
+11) A + A
+C significat AinesseC, seu CcontinereA.
+A significat A esse aliquod determinatum seu unicum, seu idem sibi
+ipsi additum nihil novum facit. Hinc ut obiter dicam, quia aequalium eadem magnitudo
+est, ideo si aequalia sibi addantur non dicendum est eorum magnitudines addi, sed ipsas
+res, fit enim nova magnitudo. Hinc sequitur nec magnitudinem esse Numerum, nec
+magnitudinem aut rationem unam alterius esse partem, nec posse sibi addi. Nec numerus 10
+cum aequali Numero idem est, solent tamen saepe pro ipsis rebus vel saltem numeris
+ratio aut magnitudo sumi. At Y + Y non
+Y significat Y plura esse Y.
+12, 13) Hinc si A significet determinatum et Y indeterminatum, axiomata sunt A + A
+A et Y + Y non
+Y, erit Y
+Y, erit
+Y non
+15) Et generaliter si A + B
+16) Item si A + B
+17) Non Nihil est aliquid, et non aliquid est Nihil.
+18) Si A non
+A erit Aimpossibile. Unde et si A
+A et B sit aliquid erit B in A.
+impossibile per 18 et 6.
+B et A
+non B, tunc A erit
+19) Hinc quod neque Nihil est, neque aliquid, id impossibile est per 17 et 18.
+Notandum: omnem Terminum ut A vel B, intelligi aliquid, et possibile, nisi
+contrarium admoneatur aut probetur.
+B, seu duo Nihila coincidunt.
+A per [20] et 11, seu nihil additum
+nihilo facit Nihil.
+C, etiam si A
+C significat A + B
+B per... B ändert Hrsg.
+C significat A (〈vel B〉) inesseC, seu CcontinereA vel B. A + Y
+7, 8) Si A
+Si A + B
+significat AinesseC seu CcontinereA. Y si nulla adhuc ratione determinatum sit significat quodcunque.
+Hinc Y significare potest etiam Nihil. Y significat indeterminatum A... Y vel... posterior ... A.
+. 16)
+18) Si A + A non
+probetur.
+A erit A Nihil
+seu... Nihil
+A seu unumquodque inest sibi ipsi u.
+A erit A impossibile. Si... Unde et si
+seu... sumi.
+20) Si A + A non
+21 L ändert Hrsg.
+seu... coincidunt
+Notandum:...
+Nihil Si
+22) Si A + A non
+A erit A impossibile, seu impossibile est quod additum sibi ipsi
+facit novum. Nam pono A esse determinatum seu unum certum. Unde per 11, A + A
+Jam A + A non
+A. Notandum A ne quidem hoc casu
+fore Nihil, nam et si nihilo apponatur nihilum coincidunt, quia per 20, Nihilum Nihilo
+coincidit.
+A ex hyp. Ergo per 6, A non
+23) Si A
+B etiam A + C
+B + C. Nam si in A + C pro A substituas B, ex defin.
+24) Continens [continentis] est continens [contenti], seu quod inest inexistenti, inest
+ei cui inexistit; seu contentum contenti est contentum continentis, seu si A est in B, et B
+est in C, etiam A est in C. Nam A + Y
+C. Ergo
+(per substit.) A + Y + Z
+C. Ergo A est in C per
+B ex hyp. per 9, et similiter B + Z
+V (per 25). Erit A + V
+25) Postulati instar est, ut liceat pro pluribus quotcunque, ponere unum aliquod ipsis
+collectis coincidens. Hoc tamen ostendi potest, ex alio postulato clariore, quod pro
+pluribus ut A et B possit poni unum C, ita ut sit A + B
+C. Si scilicet nihil in uno
+reperiatur, quod sit in alio, verbi gratia si post ea omnia sumta quae sunt in A sumamus
+ea omnia quae sunt in B, et ita omnia simul collecta dicamus constituere C, eorum
+aggregatum in quo unumquodque eorum insit. Sed hinc tamen sequitur idem fieri posse
+etiamsi B et A habeant commune aliquid quod insit utrique A et B. Ponamus enim id esse
+D + E, et B esse
+D, et A esse
+contentum, dico fieri posse A + B
+contentum.
+C, quod fieri posse diximus, quia D et E et F nil habent commune
+D + F, ita ut D, E, F nullum habeant commune
+26) Hic obiter notari potest discrimen inter viam et lineam; si punctum mobile
+punctum A, linea quidem percursa non erit major, quam si non rediisset, nihil enim
+novum est in regressu quod non fuerit in itione, et idem sibi ipsi additum non facit
+novum, per 11, at via percursa erit duplo longior; nisi quis malit viam pro ipsa linea
+sumere.
+seu... novum
+seu unum certum
+nihilo addatur apponatur
+nihilum congruunt coincidunt
+Hrsg.
+collectis
+unum in rationes, C,
+constituere... insit.
+23)... C. Nam... C
+quotcunque, quibus nihil u. ponere
+contenti L ändert
+postulato speciali clariore,
+pluribus nihil in potest ut
+collecta dicamus esse in B, et eorum aggregato.
+ita... F nihil nullum ... contentum
+nihil...
+27) Quoties literam aliquam novam assumimus, tunc possumus quodvis, quod non
+est impossibile de ipsa asserere. Sed cum ea litera jam ante adhibita fuit in eodem calculo
+vel ratiocinio, non licet, nisi ostendamus ea quae nunc de ea asserimus, cum prioribus
+esse compatibilia, quo ostenso id asserere de ea licet. Haec observatio etiam instar
+postulati esse potest, et pendet ex natura nostrae characteristicae. V.g. si habuerimus D + 5
+ponere D
+prohibet novam facere positionem in iisdem literis modo priori compatibilem; ut F
++ C. At si scripsissemus F
+assumsissemus literam in nova assertione, nihil esset timendum.
+C,2 et tam D quam [C] sint aliquid et possibile; non licet postea
+H + C, id foret priori incompatibile. Sin novam
+H, nil
+A et D non
+A et F + G
+29)3 Signo + hactenus sumus usi ad designandum unum collectivum fieri ex
+pluribus; in quo plura insint, et quod ipsis simul sumtis coincidat. Nunc signo − utemur
+ad designandum, aliqua ab alio esse detrahenda, ut contrarium fiat signi +. Itaque si A +
+commune. Nam exempli causa A + A
+Nihilo, ergo fieret A
+30) C − C
+31) Si ab aliquo [B] detrahi jubeatur [C] quod ipsi non inest, tunc residuum A seu B
+C − B, et A dicitur Residuum. Sed opus est A et B nihil habere
+C + Nih. per 28. Ergo C − C
+A − A. Jam (per 30) A − A
+Nihilo contra Hyp.
+A, ergo fieret A
+Nihilo. Nam C
+Nih. per [29].
+− C erit res semiprivativa, et si apponatur alicui D, tunc D + A
+et B esse ponenda, sed tamen a D prius esse removendum C, si quidem ei inest. Quod si
+insit, seu si D
+F + B. Unde E fit
+res positiva, posito F et B esse positivas. Sed si C non insit ipsi D, manet etiam E res
+semiprivativa.
+C + F + B − C. Hoc est (per 30) E
+C + F fiet E
+E significat D quidem 20
+Am Rande : incommunicantia
+Am Rande : incommunicantia
+tunc
+ipsa assumere asserere.
+foret impossibile priori
+E L ändert Hrsg.
+timendum.
+C. At si novam assumimus At
+28) Si A + B 28)... ponatur sive removeatur non
+designandum
+ut res contrarium
+quomodo ex pluribus fiat unum
+30)... per 30 ändert Hrsg..
+inest, significatur residuum quod dicetur res
+nega privativa, quae si alicui addatu tunc vel saltem aliquid de residuum A erit res
+semiprivativa seu
+ponenda in
+D, significat B quidem esse ipsi D ad tunc
+B ändert Hrsg.
+A. 29)
+A C L...
+32) Omnis positio quae inest in E sit G, et omnis privatio quae inest in E sit C, sic ut
+H + L − H − M seu (per 30) E
+G − C. Jam omne quod commune est ipsi G et C sit H, et sit G
+sit E
+H + M, fiet E
+erit Eressemiprivativa ; sin sit M
+L seu E erit respositiva, si
+scilicet id omne H quod inest toti privationi C, insit etiam positioni G; denique sin sit
+H + L, et C
+L − M et L atque M nihil amplius
+− M seu E erit resprivativa, si nempe omne H quod est in tota
+positione G insit etiam privationi C.
+33) Hic cuicunque apponi potest privatio cujuscunque, est instar postulati, sit A, et
+B, scribi potest A − B.
+34) Si A + B
+D + C et A
+C. Seu quibus apponendo coincidentia
+fiunt coincidentia, ea ipsa sunt coincidentia.4 Nam scribatur A + B − A (per 33) erit B
+A + B − D (per 30). Ergo (pro A + B substituendo coincidens D + C) fiet B
+D id est C (per 30). Ergo B
+[D] + C −
+35) Si a coincidentibus auferas coincidentia fiunt coincidentia. Si [A
+D − C. Nam si ad A − B et D − C addas coincidentia B et C, fiunt A et D
+A) et B
+D et] B
++ C (
+D − C, per 34. Seu A − B
+D − C.
+erit A − B
+coincidentia. Ergo A − B
+C. Ergo per 34, A − B
+Am Rande: Imo non sequitur nisi in incommunicantibus.
+32) Quoties alicui inest alicujus privatio, et alicujus positio, videndum est an in omni ejus
+H
+H
+positivum, erit E
+C , et ponatur ali si jam quic aliquid eorum quae sunt in C, insit etiam in G, .
+L −
+L − M, seu erit E quantitas po res positiva;
+33) Si a coincidentibus
+B − M. Nam A − L +
+positione, insit privati positio quorundam quae removendo insunt, horum positio et remotio mutuo
+destruantur per 30. Quoties alicui C inest privatio Omnis
+E
+Jam... H dicetur E quantitas res semiprivativa. Sin aliquid tunc et
+M, quae erit et
+sin erit
+auferas coincidentia, etiam residua erunt coincidentia. A
+B − M + M (per 23). Ergo Nam A + B Si apponendo Quibus apponendo coincidentia
+eadem fiunt coincidentia ea ipsa sunt coincidentia. Seu A + B + A
+Nam si B non
+C. Seu quibus apponendo eadem coincidentia
+fiunt coincidentia, ea ipsa sunt coincidentia. Nam scribatur A + B − A (per 33) et pro A + B substi
+A + C − A id est C
+Si ab iisdem a
+A − C. Nam si ad A − B et A − C addas
+A − C
+Hic
+(per 30). Ergo B
+coincidentibus
+coincidentia. Si B
+coincidentia B et C fiunt A et A eadem. Ergo A − B
+C. Ergo per 34, A − B
+C + A − A B + A Dazu am Rande: ALBB
+A + B − A (per 30). Ergo (pro A + B substituendo coincidens A + C) fiet B
+C erit A − B
+A − C, per 34. Seu A − B
+C. Scribatur B + A − A
+34) Si A + B
+A L ändert Hrsg.
+tota
+C + A. Ergo B
+M. Ergo A −
+A) et B
+B et
++ C (
+36) Insunt in aliquo non tantum partes sed et alia, ut circulo inest non tantum
+quadratum inscriptum, sed et latus quadrati inscripti. Quadratum quidem est pars ejus,
+sed latus quadrati non est pars ejus. Sed pars ab alio inexistente non potest discerni, nisi
+accedente consideratione similis vel congrui, de qua suo loco.
+37) Speciatim consideranda sunt contentaejusdemincommunicantia
+interse. Si sit L in A, et M in B, atque inde sequitur L non
+incommunicantia.
+M, dicentur A et [B]
+38) Cum aliquid dicitur coincidere pluribus, saepius incommunicantia intelligere
+soleo. Seu contenta ejusdem quae continens constituunt, intelligi solent
+incommunicantia.
+39) Si A et B incommunicantia et A + B
+C, non erit A
+C. Nam alioqui erit A + B
+A. Ergo (per 15) erit B in A, contra Hypoth. aut B erit Nihil, quod etiam est contra
+Hypothesin. Communi sermone, si contenta incommunicantia simul coincidant
+continenti, non potest unum eorum coincidere continenti.5
+40) Si A + B + C
+L singula contenta, ut A vel B vel C, voco contenta
+constituentia, ipsum autem Lconstitutum.
+Darüber am Rande: Si A et B nihil habent commune, itemque L et M, et A non sit
+nec B erit M.
+Si L et M habent aliquid commune et A + B sit
+L + M, poterit esse A
+A + B + A, quod fiet si L sit A et M sit A + B.
+non sit
+M, ut si A + B
+L, licet B
+Si A et B incommunicantia item L et M, et nullum horum coincidat ulli illorum, non
+potest simul utrumque utrique inesse, sed si A inest L, non erit B in M.
+36) Si Ut pars ab a Insunt
+s e. Si A + B
+C et non Si
+tunc Si
+40) Si A + B
+quae totum continens
+39) In incommunicantibus si A + B
+si Continentia inco Cont contenta
+38) Quoties aliquid dicitur coincidere pluribus, intelligentur illa
+M L ändert Hrsg.
+Cum... saepius
+non est A
++ M et A Si plura simul
+incommunicantia coincidant simul
+coincidant aliis pluribus simul, nec unum Si plura inter se incommunicantia simul sumta, coincidant aliis
+pluribus inter se incommunicantibus simul sumtis, non possunt singula illorum esse incommunicantia cum
+incommunicantia, et L, M etc.
+incommunicantia, non possunt esse omnia u. A, B, C, , M etc. incommunicantia, scilicet singula
+singulis. Pono singula horum esse pure positiva. Jam est A
+etc. erit A quantitas res privativa vel semiprivativa, contra Hyp. Si
+non continetur in L + M
+M + N sic ut M sit in N, et Si L est in M est in A
+L ipsa unum singula contenta, ut A, B, C,
+continente A in alio A , aliquid M eorum quae sunt in ipso M continetur in aliquo eorum in
+constitutum.
+commune potest esse A et
+M. at 〈si〉 B habet A et B habent aliquid commune potest Si
+etc. Ergo per 32, si B + C
+horum insit coincidat
++ M, etc. et A, B, C etc.
+etc. − B + C
+L + M
+C + C. Ergo (per 11) M + R + N + S
+constitutum inest. Nam quia M est in C, ergo M + R
+41)6 Si M est in C et N est in C erit M + N in C, seu cui singula insunt etiam ex ipsis
+C. Ergo M +
+42) Si M est in A, et N est in B erit M + N in A + B. Seu constitutum ex contentis
+(per 24). Similiter N est in B (ex hyp.). Ergo N est in A + B (per 24). Jam si M est in A +
+43) Si L est in A + B et L non est in A, nec in B, poterit assumi
+M + N, sic ut sit
+M in A et N in B. Vel familiari sermone, si quid sit in constituto, nec sit in uno
+constituentium, erit partim in uno partim in alio. Hoc ita probo, quia alioqui etiam si quis
+cognosceret omnia quae sunt in L, non posset ostendere L esse in A + B, cum tamen
+omnis veritas ex cognitis rebus ostendi possit. Sed quia haec ratiocinatio abest a rigore
+tamen quaerere demonstrationem, quia huc usque omnia demonstravimus. Sed ad hanc
+rem novis opus est considerationibus quas nunc exponemus.
+44) Inexistensultimum voco quod ita inest, ut nihil ipsi amplius insit, seu si
+sit inexistens ultimum, et assumatur A + B
+L, erit A
+L. Tale est punctum in
+Darunter am Rande: Coincidentia assignare talia Efficere ut ab ipsis detrahendo
+eadem, residua non coincidant.
+B + A + M.
+B. Nam A
+B + L et B
+A + M. Ergo
+ipsis cointegrantibus constitutum
+C (pe id est (per 11)
+rebus ostenditur ostendi possit.
+L. 45) Postulatum Tale... tempore.
+ab coincidentibus ipsis
+sit constitu inexistens
+L at et B
+C . Ergo
+est
+L
+assumi aliquid quod L
+(per
+notis, qu considerationibus
+detrahendo coinci eadem,
+DE CASIBUS IN QUIBUS COMPONENDO NIHIL NOVI FIERI POTEST
+[April bis Oktober 1686 (?)]

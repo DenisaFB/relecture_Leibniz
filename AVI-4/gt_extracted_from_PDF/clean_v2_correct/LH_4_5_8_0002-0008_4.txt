@@ -1,0 +1,580 @@
+COUTURAT, Opusc. et fragm., 1903, S. 42–49.
+proinde Te mpore Natura
+intelligitur a priori . Ex
+arte
+natura
+tempore
+April. 1679. No 1. plag. 1.
+ElementaCharacteristicaeuniversalis
+Regula construendorum characterum haec est:
+Cuilibet Termino (id est subjecto vel praedicato propositionis) assignetur numerus
+aliquis hoc uno observato, ut terminus compositus ex aliis quibusdam terminis
+respondentem sibi habeat numerum productum ex numeris illorum terminorum invicem
+multiplicatis.Exempli causa, si fingeretur terminus animalis exprimi per numerum
+aliquem 2 (vel generalius a) terminus rationalis per numerum 3 (vel generalius r)
+terminus hominis exprimetur per numerum 2 · 3, id est 6, seu productum ex multiplicatis
+invicem 2 et 3 (vel generalius per numerum ar).
+Regulae usus characterum in propositionibus categoricis sunt sequentes:
+SiPropositioUniversalisAffirmativaestvera, necesse est ut numerus
+subjecti dividi possit exacte seu sine residuo, per numerum praedicati. 1
+U. A. S
+succedit, id est numerus S dividi exacte potest per numerum P.
+Sive si S
+exprimatur per fractionem (cujus numerator v.g. 6 sit S numerus subjecti v.g.
+hominis, denominator vero P numerus praedicati v.g. animalis, illa fractio debet
+aequivalere integro, ut 6
+est 2.
+April.... plag. 1.
+Cuilibet Regula Fundamentalis construendorum
+numerum compositum productum
+communis, quoad propositio , harum propositionibus Si numerus SiL
+numerus... animalis
+vero
+sequentes , quibus tota Logica
+numerus...
+ELEMENTA CHARACTERISTICAE UNIVERSALIS
+SipropositioParticularisAffirmativaestvera, sufficit ut vel numerus
+praedicati exacte dividi possit per numerum subjecti, vel numerus subjecti per numerum
+praedicati.2
+SipropositioUniversalisNegativaestvera, necesse est, ut neque
+numerus subjecti dividi possit exacte per numerum praedicati neque numerus praedicati
+per numerum subjecti.3
+SipropositioParticularisNegativaestvera, necesse est ut numerus
+subjecti non possit exacte dividi per numerum praedicati.4
+Hae quatuor Regulae sive definitiones propositionum categoricarum Verarum
+(adeoque et falsarum, nam quae verae non sunt falsae sunt) secundum quantitatem (sive 10
+signa) et qualitatem (sive affirmationem et negationem ) differentium sufficiunt ad totam
+Logicam vulgarem quatenus de forma propositionum et syllogismorum agit uno mentis
+ictu cognoscendam; ita ut hinc statim cognosci possint Subalternationes, Oppositiones,
+Conversiones Propositionum, et Figurae ac modi legitimi syllogismorum. Statim enim in
+numeris examinabuntur propositiones, tum illae ex quibus fit conclusio, tum illae quae 15
+ex aliis concluduntur.
+Quin imo ostendam aliquid amplius, quomodo statim per calculum demonstrari
+possint omnes formae Logicae categoricae, etiamsi ponamus nondum dari hos qui
+desiderantur Terminorum seu Notionum singularum numeros. Quemadmodum enim in
+Algebra literali calculamus circa numeros generales literis expressos, qui notos vel
+ignotos speciales quoscunque designant, ita hic quoque pro numeris illis literas
+adhibendo praeclara Logicae artis theoremata demonstrabimus. Itaque tanta est hujus
+inventi nostri Mirabilis praestantia, ut vel solum Votum atque Consilium ejus novam
+facem menti accendat, et scientias incredibili accessione locupletet.
+succedit.
+vel P
+neque P
+P. A. vel S
+U. N. neque S
+P. N. S
+non succedit.
+succedit.
+vera, necesse est ut numerus subjecti atque n sufficit
+neque sub numerus
+ut subjectum numerus
+syllogismorum categoricorum forma... syllogismorum
+tum examinabuntur
+regulae omnes
+numeris ignotis; circa... designant
+qui desiderantur
+categoricarum
+de formis propositionum et
+numeris examinabitur an sub
+possint
+calculamus
+singularum
+quomodo hinc demonstrari possit statim
+scientias augere incredibili
+Operae pretium erit paucis tantae rei specimina dare. Terminos autem vel quod eodem redit, eorum
+numeros repraesentabimus literis, et quidem id, ubi utile erit, observabimus ut eos terminos qui propositionem
+ingrediuntur exprimamus per literas majusculas alphabeti priores, eos vero qui illis divisionibus prodire debent
+significemus per literas Alphabeti minusculas. Quando autem divisio non procedit, seu fractio in integrum non
+transit tunc numerum fractioni huic aequalem exprimemus per literam graecam.
+Sit52 propositio Universalis affirmativa quaecunque Omne H est A. Jam subjectum debet posse dividi
+aequ. r, seu H aequ. rA, atque ita
+exacte per praedicatum, ponamus quotientem divisionis esse r habebimus: H
+patet modus mutandi propositionem Un. Aff. in aequationem, et contra. Nam si omisso signo propositionis Un.
+Aff. dividamus numerum subjecti per numerum praedicati et quod prodit cuidam numero per literam incertam
+expresso aequale ponamus.
+Sit propositio particularis affirmativa quodd. A est H (vel qu. H est A), ergo vel H
+aequ. r vel A
+aequ. t
+fiet H aequ. rA vel A aequ. tH. Ubi illud notandum est, si r est integer, tunc t fore fractionem; et contra (nisi
+ambo sint 1, quo casu H et A numeri aequales sunt, propositioque A est H est universalis affirmativa reciproca)
+definitum non esse vi formae, utra litera significet integrum.
+Praeterea patet rt idem esse quod H
+seu HA
+seu 1, adeoque rt esse unitatem. Seu rt aequ. 1.
+Verum ut rem adhuc distinctius et perfectius exprimamus, sic procedendum erit, faciamus r aequ. m
+t aequ. x
+w, id est 1) H
+aequ. m
+et 2) A
+aequ. x. Nempe, ut si r vel t fractio est, ea sit hoc modo in simplicissimis
+terminis expressa, patet tunc vel n vel w fore unitatem, prout r, vel t est numerus integer, ponatur unitas exprimi
+per u, habebimus u aequ. n seu u − n aequ. 0 vel u aequ. w, id est u − w aequ. 0, ergo has duas radices in se
+invicem ducendo habebitur aequatio utramque alternatim comprehendens: 3) u 2 − nu − wu + nw aequ. 0, quibus
+si adjiciatur 4) nH aequ. mA, et 5) xH aequ. wA (unde sequitur 6) mx aequ. nw) habebimus propositionem
+particularem affirmativam, ita ad aequationes revocatam vi formae ut nihil animo supplere necesse sit.
+Ex his consequentiis numerorum quaedam duci possunt analogiae, nempe per aequ. 6, n est ad m ut x
+ad w seu 7) n
+aequ. w.
+Imo N. B. si sint termini simplicissimi ut esse debent est w aequ. m et x aequ. n.
+autem signis vel
+majusculas
+qui prodire debent illis divisionibus
+procedit, sed manet fractio seu fractio est in... transit
+significabimus per literas Alphabeti posteriores illis... Alphabeti minusculas majusculas
+minusculas
+seu H aequ. rA
+praedicatum numerum... praedicati
+Contra ad mutandam aequationem in Universalem affirmativam, multiplicemus cum possumus eligere
+quem nam terminum velimus fieri subjectum et quem nam velimus esse praedicatum. Itaque si Sit Sit
+contra : non autem esse
+propositio universa particularis
+dividamus subjectum per
+ponamus.
+modus faciendi aequation mutandi
+cuidam quantitati rei numero
+tunc
+vel A
+aequ. H
+definitum, vi formae, (nisi... numeri
+id... x
+Patet Nempe,
+A... universalis
+25–S. 185.1 w
+x. Item per aequ. fiet 8) u − n
+u + n
+et perfectius
+aequ. u, id est
+differentia unius numeri ex illis qui fractus an integer sit incertum est, est ad differentia inter unitatem
+et numerum. Ex aequ. 3 fieri potest haec: Sit
+ELEMENTA CHARACTERISTICAE UNIVERSALIS
+Sit Propositio Universalis negativa: Null. H est L. Ergo fiet: H
+aequ. q
+z. Posito q
+fractionem ad simplicissimos terminos reductam, et q, z esse numeros majores unitate.
+Unde patet tam H
+esse fractionem irreducibilem ad integrum. Adeoque per hanc
+quam
+aequationem zH aequ. qL sufficienter exprimentur omnes conditiones propositionis
+universalis Negativae.
+Denique sit propositio Particularis Negativa, scribatur qu. A non est H (vel qu. H non est L), ergo fiet A
+aequ. v
+aequ. q
+). Posito v
+inventas nunc mutationes propositionum, in aequationes aequivalentes breviter in conspectu uno exhibebimus:
+Omn. H est A
+id est
+Qu. A est H
+id est
+id est
+Null. H est
+Qu. A non est H id est
+H aequ. rA
+nH aequ. mA
+et xH aequ wA
+zH aequ. qL
+rA aequ. vH
+posito aliquem ex his quatuor numeris esse unitatem.
+posito neutrum horum numerorum esse unitatem.
+posito eum saltem numerum qui subjecti numerum
+multiplicat esse majorem unitate.
+No 1. plag. 2. April. 1679
+Operae pretium erit paucis tantae rei specimina dare. Itaque data quacunque
+propositione categorica, tam subjecti quam praedicati numerum exprimemus litera
+quadam, exempli causa si propositio sit Homo est Animal, poterimus subjecti numerum 20
+exprimere litera H, praedicati vero litera A. Jam horum duorum numerorum HA rationem
+exprimamus in simplicissimis numeris, exempli causa si numerus H sit 6 et A sit 2, ratio
+H ad A in simplicissimis numeris erit 3 ad 1, adeoque ratio A ad H in simplicissimis
+numeris erit 1 ad 3. Vel si numerus H sit 15 et numerus A sit 6, ratio H ad A in
+simplicissimis
+negativa: Nullus homo est Null.
+q
+et
+aequ. Posito q
+esse fractionem non
+reducibilem et
+statim patet, etiam fore
+zH... exprimentur
+numeros
+aequ. z
+tam q quam z esse numeros integros unitate majores, fractiones unitate majores, unde, unde fractionem irreducibilem, adeoque H
+neque Posito... integrum
+scribatur eodem modo H
+aequ. HL qu.
+exhibebimus: Omn. H est A idem es quod H aequ. rA, posito r esse
+Posito saltem
+integrum. Quodd. A est H idem quod Omn.
+rA posito numerum termini r esse integrum
+Qu.
+posito alterutrum numerorum diversarum aequationum et literarum esse unitatem
+aliquem... unitatem ... 1679
+tam
+simplicissimis terminis numeris
+horum literarum numerorum
+No 1.
+categorica, subjectum tam subjectum quam praedicatum exprimemus numeros
+simplicissimis terminis numeris
+quadam, et rationum exempli
+saltem
+simplicissimis terminis numeris
+adeoque... ad 3
+hos simplicissimos numeros ponamus esse vr, ita ut sit H ad A ut [r ad v.] Hinc fiet H
+aequ. r
+Notandum autem obiter simplicissimos numeros rationem numerorum subjecti et
+praedicati exprimentes esse numeros eorum terminorum qui in subjecto et praedicato
+restant abjectis terminis utrique communibus.
+vel rA aequ. vH.
+aequ. v
+) est numerus
+ad simplicissimos numeros redacta, id est r
+exacte seu si fractio H
+(ex. gr. 3
+integer, necessario nominatorem ejus v esse 1 seu unitatem. Contra si divisio non
+procedit exacte seu si fractio in simplicissimis numeris constituta r
+(ex. gr. 5
+) non est
+numerus integer, necesse est nominatorem ejus v (hoc loco 2) non esse unitatem, sed
+numerum unitate majorem. Idem est in divisione praedicati per subjectum, tantum enim
+nominatorem r aequalem unitati; sin divisio A per H exacte non procedat, fractio v
+in simplicissimis terminis constituta id est v
+habebit
+habebit nominatorem r unitate majorem. Eadem omnia procedunt si numeri terminis
+propositionis respondentes sint H, B et numeri rationem eorum simplicissime
+exprimentes sint r,y.
+Cum ergo propositionum categoricarum quarumcunque veritas qualitas et
+[quantitas] solis numerorum Terminos exprimentium divisionibus exactis vel non exactis
+cognosci possit per regulas initio positas, sequitur hanc ad terminos minimos
+reductionem rationis Numerorum duorum propositionis Terminos exprimentium
+sufficere semper ad
+simplicissimis terminis numeris
+esse m, n vr,
+m ad n L ändert Hrsg. Hinc fiet: H
+simplicissimos terminos numeros
+aequ. n
+adeoque et A.
+ad simplicissimos
+aequ. m
+Itaque praedicati subjectum subjecti H per praedicatum A procedit exacte seu si m
+(ex. gr. 3
+terminos redacta m
+numeros
+constituta m
+vel 3
+) Hinc... gr. 3
+simplicissimos terminos numeros
+simplicissimos terminos numeros
+communibus ut si ab auro et Hydrargyro communia abjicias, restabit in illo .
+dividi potest praedicatum per
+r
+) (ex. gr. 5
+subjectum tunc in fractione fractio terminis dabit n
+(vel 5
+exacte... terminis
+sin minus
+habebit unitate divisio
+simplicissimis simplicissime... r,y
+numerorum... exprimentium
+Eadem... si termini sint H numeri... eorum in terminis
+qualitas L ändert Hrsg.
+ad... minimos
+22–S. 187.1 Terminos sufficere ad aequationes
+ita constituendas, ut constituendas
+hujusmodi, quae sequantur ex propositionibus et ex quibus propositiones vicissim sequantur. exprimentium... constituendas
+ELEMENTA CHARACTERISTICAE UNIVERSALIS
+aequationes constituendas, propositionibus respondentes. Nam si fieri potest divisio vel
+si fieri non potest certo aliquo modo propositio secundum quantitatem vel qualitatem
+data, est vera et falsa; et contra si propositio secundum qualitatem vel quantitatem est
+vera vel falsa vel non fieri potest divisio dicto modo.
+Hinc jam oritur Tabula propositionum et aequationum respondentium hujusmodi:
+U. A. Omn. H est A
+multiplicans esse unitas.
+II. P. A. Qu. A est H
+(vel Qu. H est A)
+rA aequ. vH sufficit alterutrum numerum (r vel v)
+(vel vH aequ. rA) terminorum numeros
+III. U. N. Null. H est B
+(vel Null. B est H)
+multiplicantem esse unitatem.
+yH aequ. rB debet uterque numerus terminorum
+(vel rB aequ. yH) numeros multiplicans esse (y · r)
+major unitate.
+IV. P. N. Qu. A non est H
+multiplicans esse major unitate.
+Ex hac jam tabula per simplicem animi intuitum statim patet propositionem
+universalem negativam et particularem affirmativam, et similiter Universalem
+affirmativam, et particularem negativam sibi contradictorie opponi, quia omnis numerus
+(semper de integris loquor) in conditionibus harum propositionum designatus est aut
+unitas aut major unitate; non simul utrumque, neque simul neutrum, itaque alterutra
+harum propositionum, quas opponi diximus erit vera, altera falsa.
+Eodem modo per intuitum patet ex universali sequi particularem retentis terminis et
+qualitate; seu in iisdem terminis eodem situ manentibus ex universali affirmativa sequi
+particularem affirmativam; ex universali negativa particularem negativam. Nam ex U. A.
+sequitur P. A. quia si numerus subjecti terminum multiplicans est unitas (ut requiritur in 25
+aequatione pro U. A.) utique numerus alterutrum terminum multiplicans est unitas (quod
+solum requiritur in aequ. pro P. A.). Et ex U. N. sequitur P. N. quia si uterque numerus
+numerum alicujus Termini multiplicans est major unitate (ut requiritur in aequ. pro U.
+N.), utique et numerus unum ex terminorum numeris, nempe subjecti numerum
+multiplicans erit major unitate (quod solum requiritur in aequ. pro P. A.).
+Nam
+non potest oritur tal eo qui requiritur, certo aliquo modo
+hujus tabula Ex ... manentibus
+affirmativam, item et similiter
+in... designatus
+Ex
+in
+Sed illud patet elegantissime U. N. et P. A. converti posse simpliciter, nam in
+conditionibus earum hoc tantum requiritur ut alteruter numerus multiplicans seu
+coefficiens sit u, vel ut uterque sit major unitate, adeoque non exprimitur unus terminus
+propositionis prae altero, itaque nihil refert quis eorum sit subjectum aut praedicatum,
+manente tantum qualitate et quantitate.
+Verum ut quae verbis ostendimus literis etiam ostendamus, aliter nonnihil exhibenda erit Tabula, ita
+nimirum ut ex ipsis literis dijudicari possit sintne majores unitate, an ei aequales, quantum scilicet id vi formae
+dijudicari posse debet. Hunc in finem numeros qui certo sunt aequales unitati, omittemus, quia Unitas non
+multiplicat numeros, qui necessario majores sunt unitate exprimemus per literas graecas, numeros, qui an
+majores sint unitate an ei aequales nihil refert, exprimemus per literam latinam communem minusculam; literas
+denique quae an majores sint unitate an minores incertum est, plurimum tamen refert, quod fit in sola
+Particulari Affirmativa, exprimemus per literas latinas, exponentibus quibusdam per literas latinas expressis
+affectas, hoc uno observato, ut duo numeri alternantes, seu quorum alteruter debet esse unitas, id est qui sunt ex
+eadem particulari affirmativa, exprimantur per easdem duas literas latinas duobus diversis exponentibus
+affectas, sed qui exprimantur per literas duas sibi vicinas; ita enim facile cognoscetur, an sint ex eadem prop.
+Particulari Affirmativa. Et si exponens unius significet 0, numerus ipse qualiscunque fit unitas, et si exponens
+sit 1, potentia numeri hoc exponente designata coincidit cum ipso numero.
+Tabula ergo prodibit hujusmodi:
+I. U.A.
+Omn. H est A
+qu. A est H
+Null. H est B
+H aequ. rA
+vH aequ. ρA
+conditionibus ejus non exprimitur earum
+majores an minores unitate; unitate an ei aequales
+itaque uterque mutati nihil
+ex ipso literarum ipsis literis obtutu
+ostendimus simpli literis tam etiam
+judicari possit dijudicari
+fine
+literas quae certo sunt aequales unitati exprimemus per r, v, literas quae certo numeros... necessario
+per literam communem graecam latinam, literas denique quae an majores sint unitate an ei
+aequales incertum est, exprimemus per literam graecam, hoc tantum observato, ut duae literae gr
+latinam literas Hebraicas graecas: aliquos numeros literas... latinam
+exprimemus per literam Hebraicam; literas graecas quidem sed he praefixa litera
+Hebraica exponente quodam affectas latinas, exponente quodam literae latinae exponentibus...
+proximas.
+significet 0, litera numerus
+sit 1, litera manet qualis est manet numerus aeq
+potentia
+per duas literas graecas sibi
+ut duae literae duo numeri
+ELEMENTA CHARACTERISTICAE UNIVERSALIS
+Tabula ergo prodibit hujusmodi:
+I. U.A.
+Omn. H est A
+H aequ. rA
+vλH aequ. rµA
+qu. A est H
+vH aequ. ρB
+Null. H est B
+qu. A non est H ρA aequ. vH
+Hinc jam demonstrabimus regulas consequentiarum idque solo calculo ac primum:
+ExUniversaliaffirmativasequiturparticularisaffirmativaservatisterminis
+eorumquesitu, seu Omn. H est A, ergo qu. A est H. Nam quia Omn. H est A ergo (per tab.) H aequ. rA, id
+est vλH aequ. rµ A posito λ aequ. 0 et µ aequ. 1. Ergo (per tab.) qu. A est H.
+ExUniversali [ negativa ] s e q u i t u r p a r t i c u l a r i s negativa s e r v a t i s t e r m i n i s e t
+e o r u m s i t u. Null. H est B. Ergo (per tab.) vH aequ. ρB, Unde per Tab. quando nihil refert [bricht ab]
+Observ. I. Litera latina significat numerum (integrum rationalem semper intelligo) aequalem unitati
+vel unitate majorem.
+II. Litera graeca simplex significat numerum unitate majorem.
+III. Litera latina affecta per exponentem graecam significat vel unitatem vel numerum majorem
+unitate.
+proximi sunt, tunc numeri significati invicem alternant, ita ut uno existente unitate alter sit major unitate et
+contra, sunt enim ex eadem prop. P. A. deducti.
+H vH aequ. ρA vλH
+Itaque Pro... observationes
+demonstrabimus propositiones conse regulas
+Regulae Calculi. Pro calculo autem ex his deducto ducendo id
+affirmativa L ändert Hrsg.
+simplici ubi id utile est. Nam litera latina simplex hoc significat nihil referre an graecam id est quantitatem
+majorem unitate. Itaque significationes literarum hae erunt:
+Litera graeca ex exponente signi potestatis alterius literae constituens significat vel z id est vel
+nihil vel unitatem. Nullum sive Zero vel unitatem. Si sin latina... unitate
+Quando duae literae graecae exponentem constituentes ordine alphabeti sibi proximae sunt, tunc invicem
+alternant, ita ut una existente unitate altera sit 1. Quando... tunc significationes numeri...
+21–S. 190.3 deducti. V. Ex observ. III. IV. sequitur literam graecam (ex
+deducti.
+iis quae alternant seu sibi proximae sunt ordine Alphabeti) unam literas latinas quarum exponentes graeci
+sibi proximi sunt in ordine alphabeti seu alternant (id est ut unus 0 alter 1) valeat etiam alternare, ita ut una ex
+ipsis (cujus exponens 0) significet unitatem, et tunc altera (cujus exponens tunc valet 1) significet semetipsam
+omisso exponente. Nam vλ valet 1, si λ valet 0, et vλ valet v si λ valet 1, ut ex geometrica progressione constat.
+VI. Hinc quaevis unitas imo quivis numerus major minorve unitate aut ei aequalis per ejusmodi literam
+exponente affectam exprimi potest. Nam si litera exprimenda est unitas, ad expressionem sumemus quamlibet
+eique demus exponentem aequ. 0. Si litera exprimenda est major unitate (imo et si ipsa unitas) sumamus
+ipsammet eique exponentem demus aequ. 1. Hinc vλH aequ. rµA. VII. Itaque pro litera aliqua vel latina
+simpli u. vel graeca quacunque substitui potest ejusmodi litera latina exponente affecta .
+minusculae nullo exponente affectae potest uni earum dari unus ex duobus exponentibus alternantibus
+IV. Imo
+t VIII
+lib t
+it ti
+No 1. plag. 3. April. 1679
+V. Literae majusculae numeros terminorum ex propositione Categorica sumtorum significant.
+VI. Generaliter ubicunque litera latina minuscula scripta est nullo exponente affecta, sub ipsa intelligi
+potest graeca communis seu extra exponentem, vel latina cum exponente quocunque. Nam hae literae tantum
+variant prout numerum unitate majorem vel ei aequalem significant; ipsa latina minuscula autem nullo
+exponente affecta indifferens est ad alterutrum, itaque de quolibet horum intelligi potest.
+Ex his observationibus I. II. III. IV. V. sunt fundamentales, ex quibus reliqua ducuntur. Et quidem
+necessariae sunt ad interpretationem horum characterum. ObservatioVI. egregii usus est in calculo. Ratio
+autem cur vλ, rµ adhibuerim, ad significandum vel unum vel alterum esse unitatem, haec est, quia ipsas quidem
+literas v, r propter certas causas libenter volui retinere (interdum enim etsi literae sint generales, adhibui tamen
+eas quae sunt initiales terminorum ad rem pertinentium exempli causa H aequ. rA, id est Homo est rationale
+animal). Nec volui mutare aequationum rigorem, quod factum fuisset aliis literis praeterea ascriptis. Itaque
+confugiendum fuit ad exponentes, qui aequalitatem numerorum non turbant modo intelligatur hos exponentes
+ut λ, µ interdum significare 0, interdum 1. Nam si λ aequ. 0, fiet vλ aequ. 1, nam v0 est 1 qualisqunque sit v ut
+notum est ex progressionis Geometricae natura:
+v0 v 1 v2 v3 etc.
+idem quod
+vv v3 etc.
+Unde etiam patet rµ fore aequ. r si µ aequ. 1. Itaque quemvis numerum possumus mutare in alium, per
+hujusmodi exponentem expressum, ut r in γµ ponendo µ aequ. 1.
+His ita intellectis solo calculo demonstrare possumus omnes consequentiarum regulas, omnes figuras,
+omnes modos receptos imo et innumeros alios magis compositos, quando scilicet plures quam tres
+propositiones componuntur in unam ratiocinationem, quod multipliciter fieri potest, ordine varie turbato,
+signisque ac qualitate variatis. Ita enim statim sine ullis praeceptis logicis, ac sine reductione ad simplices
+syllogismos, poterimus per solum calculum literalem judicare, an ex praemissis duabus pluribusve cujuscunque
+quantitatis aut qualitatis sequatur proposita conclusio.
+Primum ergo: Exuniversaliaffirmativasequiturparticularisaffirmativaservatis
+t e r m i n i s eorumquesitu. Seu Omn. H est A ergo qu. A est H. Hoc ita demonstro: Quia Omn. H est A ergo
+(per Tab.) H aequ. rA id est vλH aequ. rµA (posito vλ aequ. 1 et rµ aequ. r, quod licet per observ. 3, 4). (Fit
+scilicet λ aequ. 0 et µ aequ. 1, ut explicui paulo ante.)
+No 1.... 1679
+unitate... aequalem
+numeros terminorum ex propositione quadam cate sum Categorica data sumtorum
+significant. Ex
+adjectae sunt. His
+retinerem literas confugiendum
+aequalitatem
+Itaque ut
+generales, intelligo tamen per ipsas adhibui
+qui nihil turbant quod sic ostendo. Quandocu
+potest. IX. Literae majusculae
+(Fit... ante.)
+IV. IX. V.
+ELEMENTA CHARACTERISTICAE UNIVERSALIS
+Verum ut quae verbis ostendimus calculo literali etiam demonstremus, aliter
+exhibenda nonnihil Tabula est, ipsaeque literae ita distinguendae, ut ex ipsismet appareat
+sintne majores necessario unitate, an ei necessario aequales, an alternative saltem
+majores vel aequales. Quam in rem adhibeantur sequentes Observationes vel Canones.
+I. LiteraMajuscula significat aliquem numerum respondentem termino (id est
+subjecto vel praedicato alicujus propositionis adhibitae vel adhibendae).
+II. LiteraMinuscula significat numerum aliquem, Majuscula numerum
+multiplicantem, ad complendam aequationem quae ex propositione oriri debet, quem
+numerum uno verbo possumus vocare coefficientem. Quoniam enim aliquando in
+propositione alter terminus alterum continet, hinc et numerus unius numerum alterius
+continet velut dividendus divisorem, et ideo ut fiant aequales multiplicandus est divisor
+per quotientem ut fiat aequalis dividendo. Quod si divisio non succedat, id est si neuter
+alterum contineat, id est si termini sint disparati, tunc uterque numerus multiplicari debet
+per aliquem alium numerum, quisque per suum, ut fiant aequales. Debent autem numeri 15
+hi multiplicantes esse illi qui simplicissime exprimunt rationem ipsorum Numerorum
+multiplicandorum inter se invicem; et multiplicatio debet fieri per crucem. Simplicissimi
+autem adhibendi, ut cum ratio est ea quae unitatis ad numerum integrum, id appareat,
+quemadmodum haec omnia ex supra dictis facillima sunt consideranti.
+III. LiteraLatinaminuscula, significat numerum qui an unitati an vero
+numero unitate majori aequalis sit, vi formae, nihil refert. Exempli gratia nihil refert in
+propositione universali affirmativa, sitne praedicatum angustius subjecto an vero ei
+aequale, modo in eo contineatur, seu modo non sit amplius subjecto. Itaque numerus per
+quem multiplicandus est Numerus praedicati, ut prodeat numerus subjecti, erit vel unitas,
+cum scilicet subjectum et praedicatum reciproca sunt sive aeque late patent; vel numerus 25
+unitate major, cum scilicet praedicatum est subjecto angustius. Utrum vero fieri opus sit
+propositionis Omn. H est A possumus adhibere hanc aequationem H aequ. rA id est, ut
+sequentes. Observationes Canones Observationes circa significationem Literarum. I.
+Litera Majuscula significat Observationes vel Canones.
+MajusculaL
+MinusculaL
+divisorem
+consideranti. Hi ergo numeri majusculi aliquando si latini minusculi significabunt III.
+subjecti, debet esse vel an erit
+propositionis de qua agitur adhibitae
+quem... coefficientem
+latina u.
+Litera latina
+illi exprimunt minimam in minimis
+alterius est major continet...
+28–S. 192.12 id... adducimus
+rationem duarum qui
+exemplo utar, notio hominis coincidit notioni rationalis et animalis simul, seu numerus
+hominis prodit multiplicando numerum animalis per numerum [rationalis]. Et hoc casu r
+est numerus major unitate, sed in aliis casibus potest esse ei aequalis. Exempli gratia
+Omne T est Θ seu T aequ. vΘ Omne Triangulum est Trilaterum; sed quia Trianguli notio
+Trilateri notioni aeque late patet seu coextenditur, itaque et numeri ipsas repraesentantes
+erunt aequales. Quare v per quem multiplicandus est Θ ut aequetur ipsi T cui jam tum
+aequatur, est unitas.
+Ergo vi formae generalis quam propositio universalis affirmativa habet, nihil refert
+numerus r vel v praedicati numerum multiplicans unitasne sit an unitate major. Idem est
+in praedicato particularis negativae, quae nihil est aliud quam Universalis affirmativae
+contradictoria, ut superiora ostendunt. Haec autem omnia non probationis, sed
+illustrationis causa hoc adducimus.
+IV. Litera graeca m i n u s c u l a (in exponente non constituta de quo post)
+significat numerum quem certum est esse majorem unitate. Talis numerus occurrit in
+propositionibus negativis, ut patet ex Tabula superiore, et magis patebit ex dicendis.
+V. Litera latina m i n u s c u l a a f f e c t a e x p o n e n t e aliquo q u i s i t l i t e r a
+graeca, ut vλ, rµ constituit numerum, quem quidem utrum major unitate sit an ei
+aequalis, non constat vi formae; illud tamen de eo constat, eum cum alio quodam numero
+similiter per literam latinam minusculam exponente graeco affectam expresso, alternare,
+ita ut alteruter necessario sit unitas; et alteruter maneat indifferens an sit unitas an unitate
+major. Quoniam autem fieri potest ut simul plures duabus ejusmodi literae exponentibus
+affectae adhibeantur, ideo ut appareat quinam ad se invicem referendi sint unumque par
+constituant, poterimushocobservare, u t i l l o r u m e x p o n e n t e s s i n t d u a e
+l i t e r a e graeca e i n o r d i n e graec i A l p h a b e t i s i b i p r o x i m a e, ut hoc loco λ et
+µ. Hoc enim significabit hos duos numeros vλ, rµ, ita secum alternare, ut unus ex ipsis
+necessario sit unitas altero manente indifferente. Ponamus enim quatuor ejusmodi
+numeros dari: vλ, rµ, pβ, qγ. Patet eos debere in paria discerni ita ut aliquis ex his vλ, rµ et
+aliquis ex his pβ, qγ sit necessario unitas. At si paria male assumantur ut vλ, pβ nulla est
+talis necessitas, ut alteruter ex duobus sit unitas, potest enim fieri ut rµ et qγ sint unitates,
+adeoque ex reliquis neuter. Itaque ut paria discerni possint adhibere placuit
+observationem quam dixi. Sciendum est autem horum usum esse tantum in propositione
+particulari affirmativa. In illa enim necesse est alterutrum numerum coefficientem esse
+unitatem. Quemadmodum jam in superiore Tabula admonitum est.
+prodit ducendo num multiplicando
+(in... post)
+aliquo graec quiL
+duabus
+adhibere licebit placuit
+ELEMENTA CHARACTERISTICAE UNIVERSALIS
+Adhibui autem (non sine consilio) exponentes potius quam alium exprimendi
+modum, quia ita literas ipsas sub exponentibus ut v, r intactas retineo, quod utile est, his
+enim nonnunquam ad literas initiales terminorum in exemplis rem declarantibus
+facilitatis causa respicio, ut supra H aequ. rA, homo idem est quod rationale animal.
+Nolui autem literas v, r per alias multiplicare, ad alternationem nostram exprimendam,
+nam illae aliae quomodo fuissent a caeteris distinctae, et quomodo paria commode
+designassemus nisi forte compositis magis characteribus, aut numeris adhibitis. Quorum
+illud in scribendo prolixum hoc aequationis exactitudinem, si quando explicasset
+violaret, deberemus enim hujusmodi numerum postea aliquando explicare per unitatem,
+et dicere verbi gratia 3 aequ. 1, quod parum aptum, tametsi 3 hic pro numero non
+charactere accipiamus, quia fieri potest ut aliquando 3 aliunde prodeat. Certas literas
+latinas aut graecas pro his solis deputare etiam non licebat, quia jam satis occupavimus
+eas ut non nimium earum supersit, praesertim cum ubi commode licet, literis ut dixi uti
+velimus terminorum initialibus, quae literae proinde non debent esse jam occupatae. Sed
+haec obiter, ut ratio consilii nostri curiosius inquirenti constaret.
+corpus
+sentiens
+subst. ext.
+repraesentans
+agens seu
+repraesent.
+ad exempla rem declaranda literas... declarantibus
+Nam certas Certas
+scribendo Quorum... prodeat.
+aequationis
+Unter 11: quat. veritat.
+h L ändert Hrsg.
+adhibitis.
+Quod vel in
+; 5
+Om. HeA
+Quid. H est M
+Quid. S est H
+Ergo Quid. S est M
+Quid. S non
+Omnis Quid.
+Quid. M S
+ELEMENTA CALCULI
+57. ELEMENTA CALCULI
+April 1679

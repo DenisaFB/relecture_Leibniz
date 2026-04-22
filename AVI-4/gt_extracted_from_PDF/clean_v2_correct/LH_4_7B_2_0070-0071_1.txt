@@ -1,0 +1,92 @@
+COUTURAT, Opusc. et fragm., 1903, S. 270–273.
+Si consideremus universalia ut aggregata individuorum disjunctiva, poterunt hac
+quoque ratione propositiones probari.
+Omnis homo est animal H + X
+individuorum animalium.
+A, hoc est individua hominum sunt pars
+Quidam homo est animal YH + X
+non L;
+quotcunque scilicet individua addantur et quaecunque ad YH seu quendam hominem,
+semper fiet non Lapis.
+A. Nullus homo est lapis YH + X
+Sed quomodo exprimemus: quidam homo non est lapis? H + X˜
+Videndum quomodo X et X˜ differant, scilicet ut aliquod et quodcunque, sed id
+non L.
+contingit per accidens, et relinqui potest X simpliciter. Haec melius examinanda.
+Praestat expressio propositionum per universalia seu notiones, licet haec methodus
+etiam procedat de individuis quae poni possunt.
+Videamus an modus efferendi propositiones Logicas per Terminos accedente
+tantum Ente et non Ente, procedat etiam in propositionibus Existentialibus.
+Subjectum determinat de quibus individuis sit sermo, nempe non de aliis quam
+subjecti. Item subjectum est a quo incipit cogitatio.
+Verbi gratia: Quidam pius est pauper, seu pius pauper est Existens. Nullus justus est
+derelictus, seu justus derelictus est non existens. Omnis pius tribulatur. Seu pius non
+examinanda. In propositionibus Existentialibus Praestat
+Ente et non Ente modus
+Existens. Justus derelictus est non existens. Nullus
+Subjectum... cogitatio.
+an propositiones de
+seu quidam pius
+tribulatus est non existens. Denique quidam pius non est pauper, seu pius non pauper est
+existens. Videndum an posset etiam existens transferri in terminum, ut maneat Ens vel
+non Ens. Ut pius pauper est existens, dabit: pius pauper existens est Ens seu possibile.
+Sic justus derelictus existens est non Ens, seu impossibile, scilicet impossibilitate
+Hypothetica, posita scilicet jam existentia seu serie rerum.
+Pius existens non tribulatus est non ens, seu impossibile, seu pius existens tribulatus
+est Ens necessarium.
+Pius existens non pauper est Ens seu possibile.
+Sed inquies ita introducetur necessitas, exempli gratia: Omnis homo peccat, sumta
+propositione pro existentiali: Homo non peccans est non existens. Seu homo existens non
+peccans est non Ens sive impossibile. Id est postremo Homo existens peccans est Ens
+necessarium. Sed intellige necessitate consequentis, scilicet posita semel hac rerum serie
+et hoc semper notat τοÁ existens adjectum, facit enim propositionem existentialem, quae
+involvit [actualem] rerum statum. Hac igitur formula ego designo necessitatem
+consequentis, et ita universalem servo in enuntiationibus tractandis; nam et contingentes
+ex hypothesi existentiae rerum sunt necessariae. Quemadmodum impossibile est adimi
+Codro pecuniam, posito Codrum nullam habere. Itaque apud me propositionem
+necessariam et contingentem ita distinguo. Circulus isoperimetrorum maximus est Ens
+necessarium. Homo peccator non est Ens necessarium, neque enim ulla reperiri potest
+demonstratio hujus propositionis omnis homo peccat, et ratio cur revera contingat
+omnem hominem (intelligo nunc visibiliter in terris degentem) peccare, pendet ex
+infinita quadam analysi, quam solus Deus intelligit; ita ut contingens essentialiter differat
+a necessario ut surdus numerus a rationali. Utrumque tamen aeque certum seu Deo a
+priori seu per causas cognitum est. Utrumque vi terminorum verum est seu praedicatum
+utrobique inest subjecto; tam in necessariis quam contingentibus. Sed nulla resolutione
+eo pervenitur ut alterum in alterum abeat,1 seu ut quaedam quasi commensurabilitas
+obtineatur.
+non percursa, sed hoc in serie contingentium, circa veritates contingentes fieri non
+potest adeoque solius est Dei.
+est possibile Ens
+est impossibile, seu homo non Ens
+actualem
+seu
+Sed nunquam nulla
+hominem (excipio paucos casus (intelligo
+priori cogni
+resolutione alterum pervenitur ad com eo
+Verum cum dico Homo peccator existens necessarium, quid intelligo; tunc τοÁ existens
+addit aliquid nempe Hominem peccatorem intelligi qualis in mundo nunc reperitur, qui
+cum ex hypothesi sit peccator, utique homo peccator est necessarius.
+Ista enuntiatio: Homo peccator est peccator, quae est identica, bene quidem
+enuntiari potest per τοÁ impossibile et contradictionem, sed non aeque commode per τοÁ
+necessarium. Nam priore modo fit: Homo peccator non-peccator est non-Ens. Sed si
+dicas Homo peccator peccator est Ens necessarium oportet prius duplicationem distingui
+nempe Homo peccator peccator est Ens necessarium; alioqui putet aliquis pro Homo
+peccator peccator est Ens necessarium posse scribi: Homo peccator est Ens
+necessarium.
+Sic Omne animal est animal fiet Animal Animal est ens necessarium, non tamen
+hinc sequitur Animal esse Ens necessarium. Ex his videtur non posse semper pro
+pluribus terminis aequivalentibus sibi appositis unum poni.2 Imo non dicendum animal
+animal est Ens necessarium. sed: non
+Est de individuis enuntiatum, significare solet existit, ut Petrus est vivens. Possunt 15.
+non animal
+animal
+tamen aliqua enuntiari de individuis quae nec sunt nec erunt nec fuerunt, ut Argenis
+polyarchi est rationalis; vel Archombrotus homo est animal. In veris individuis
+existentibus omnes propositiones etiam essentiales sunt simul existentiales.3
+NB.
+existens est necessarium
+Imo... animal.
+homo
+sit necessarius,
+peccator , utique eum

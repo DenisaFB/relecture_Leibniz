@@ -1,0 +1,31 @@
+COUTURAT, Opusc. et fragm., 1903, S. 560.
+Am Rande: Discrimen aut cogitatione assequi possumus, quod est qualitatis seu
+formae, aut sola perceptione, quod est quantitatis seu materiae.
+simul
+situs sive atque
+ponatur in eodem diversitas
+circulus locus
+immediate
+sive successio
+per ex applicationem
+si diverso tempore percipi intelligatur,
+pede,
+duo secundum per
+possunt, sola perceptione
+LOGICA TRANSCENDENTIUM
+Combinatoria, Algebra
+Pleraque difficiliora non per Algebram sed per Combinatoriam inventa sunt, imo
+ipsa fundamenta Algebrae per Combinatoriam sunt constituta, nam (exempli causa) quis
+invenisset summam radicum esse terminum secundum, summam binionum sub radicibus
+tertium, summam ternionum quartum, etc. nisi quis plura binomia eundem terminum
+communem habentia, ut x + a, x + b, x + c, etc. id a posteriori agnovisset, et aequationes
+radicales datam dividentes pro binomio hujusmodi haberi posse cogitasset. Idem tamen
+potuisset inveniri a priori vel saltem ut inveniretur occasio sumi per analysin,
+considerando quod ob legem homogeneorum Terminus secundus necessario sit aequalis 10
+quantitati ex radicibus simpliciter compositae, et quidem ex omnibus eodem modo, id est
+summae. Dubium an per aliquem numerum multiplicatae; sed nullum numerum prodire
+considerando multiplicationem patet. Eodem modo terminus tertius componitur ex
+binionibus, nam quadrata licet binionibus homogenea in calculum intrare non possunt,
+quia multiplicatio semper est inter diversas radices.
+94. LOGICA TRANSCENDENTIUM
+[1680 bis 1682 (?)]

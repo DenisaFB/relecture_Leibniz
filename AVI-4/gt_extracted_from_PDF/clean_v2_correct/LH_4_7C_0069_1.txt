@@ -1,0 +1,40 @@
+COUTURAT, Opusc. et fragm., 1903, S. 406.
+ratione demonstratio harum
+definitionum voces vocum
+vel experimentum
+multiplicentur per numeros nihil significantes et voces inde provenientes pro his quae utrobique eadem
+erunt haec quae erit toto vel utrisque communis adhibeatur v.
+adhibito, quae alteri numero non aequivalet, imo et altera
+Propositio a est b. Subjectum a. Praedicatum b. Terminus a vel b.
+Propositio Vera: a est a vel de est de
+ac est a vel def est de vel de,f est d,fe
+b est a posito b est ac vel b est a posito b esse def et a esse de.
+Scholium. Nota: propositio a est a continetur in propositione ac est a, posito c
+haberi pro non adjecto, ut in algebra cum litera aliqua multiplicans significat unitatem.
+Hypothesis est propositio pro arbitrio assumta, ut b est ac vel de est ac. Quando
+scilicet praefamur, nos eam non velle probare, sed tantum supponere, et quid ex ea posita
+Propositio reciproca ut: b est a, si etiam a est b.
+Definitio est hypothesis reciproca, in qua definitum est terminus simplicior, ut
+definitio est: a est idem quod de vel de est idem quod ghl. Quum dico esse idem intelligo
+esse reciproca seu unum posse substitui in alterius locum. Nota pro voce est substitui
+potest vox continet, ut a est a vel ac est a.
+Ad modum Algebrae res rediret ad divisibilitatem, ut b est a, id est b
+b est divisibilis per a seu b est arius, ut si b sit 6 et a sit 3, nam ac est a seu b est a seu 3,2
+est 3narius seu numerus divisibilis per 3.
+Ut characteristica Logica probe constituatur, ita concipi debet, ut ex calculo etiam
+ostendi possint subsumtiones, conversionesque, item modi et figurae. Consequentiae
+quae nullis syllogismis aliisque logicis artibus probari possunt, quas Jungius notavit, eae
+Videtur negatio exprimi posse per [bricht ab]
+Propositio... b.
+vel... de
+c esse haberi
+Demonstratio: b est a quia b est ac et ac est a Hypothesis
+de
+terminus altero simplicior,
+possint conversiones subsumtiones, colle conversionesque,
+unitatem.
+vel ab est idem quo
+quas Jungius notavit: vgl. N. 233.
+EX FALSO VERUM
+40. EX FALSO VERUM
+[Ende 1678 bis Sommer 1679 (?)]

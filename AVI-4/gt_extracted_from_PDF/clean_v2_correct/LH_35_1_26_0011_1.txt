@@ -1,0 +1,61 @@
+Methodus synthetica est, cum problema difficile soluturi incipimus a facilioribus. In
+synthesi per se facili observandum, ut tentemus obtinere elegantes progressiones, quibus
+Tabularum calculandarum compendia contineantur. Algebra, qua scilicet incognitum pro
+cognito sumimus, est synthesis quaedam peculiaris problematis propositi, fictitia.
+Synthesis fictitia generalis, cum generalis expressio habetur rei quae quaeritur, ut in
+curvis communibus.
+Analysis pura quae nihil syntheseos habet, est Anagogica, in qua semper
+procedimus per incognita retro, nempe reducendo problema propositum ad aliud facilius,
+et hoc iterum ad aliud. Talis est Methodus mea qua utor cum alias aequationes reduco ad
+aequicompositas, item cum formulas in quibus potentiae, reduco ad illas in quibus sola
+rectangula. Item cum curvarum ordinatas resolvo in partes seu in duas pluresve ordinatas
+aliarum curvarum simpliciorum; vel terminos seriei, in plurium serierum terminos, quo
+facto summam vel dimensionem illarum reduco ad has simpliciores. Eademque methodo
+pervenio ad seriem summatricem quando aliqua per formulam communem exprimibilis
+datur, quando scilicet formula resolvitur in differentiam duorum terminorum vicinorum
+ejusdem seriei.
+Vietae pertinent ad Synthesin, est enim percurrere pulchriora problemata. Huc pertinent
+cum a problematibus problema
+calculandarum
+curvis algebraicis communibus.
+ab 〈in〉 per
+scilicet unus formu formula
+cum quaesit
+procedimus per cognitas, vel procedi
+mixta. Zetetica Vietae ad
+DE METHODO SYNTHETICA AUT ANAGOGICA
+et factiones Canonicae, seu constructiones quaedam crebro utiles, nam quando forte
+incidimus in elegantem constructionem, hanc notamus, ut postea jam ad alia applicemus.
+Est tamen his mixta quaedam Anagogica, dum alia problemata ad ista solennia
+reducuntur.
+Data veterum pertinent ad Anagogicam, ut appareat ex problematis recessibus, ex
+datis quaenam sequantur; et ita problema reducemus ad aliud. Exemplum elegans praebet
+solutio problematum quorundam quae Batavus proposuit, Monfortius Neapolitanus solvit
+numerice, ego reduxi ad problemata alia jam constructa. Eadem Methodo tractabitur
+utiliter problema quod mihi proposuit Fergusonius. Ex duobus punctis A, B datis duas
+[rectas] ad idem punctum circuli C ita 10
+ducere ut comprehensae intra circulum
+sint aequales. Nam si CD, et CE
+aequales erit triangulum CDE
+isosceles. Per punctum C ducatur
+parallela ipsi DE, nempe FCG, ea
+circulum tanget, ergo problema
+habemus simplicius, nam omissa
+ipsarum CD, CE mentione, tantum
+quaeritur punctum circuli C tale, ut ex
+datis punctis A, B ad ipsum ductae rectae faciant angulos ad tangentem aequales, nam ut 20
+angulus D aequ. angulo E, ita et angulus ACF aequ. angulo BCG. Itaque res reducta ad
+hoc problema Catoptricum jam ab aliis solutum. Invenire punctum circuli C quod radium
+a dato puncto C venientem, ad aliud datum B reflectat. Vel quod eodem redit datis
+duobus focis A, B describere Ellipsin quae datum circulum CDE tangat et invenire
+punctum contactus.
+Notandum quod problemata ideo fiunt difficilia, quod non satis determinata, haec
+etiam causa irrationalitatis, nam semper in irrationali plures radices.
+quaedam quaedam str. Hrsg. Anagogica,
+tangentem circuli per in hoc puncto ipsum
+aequ.
+quaenam data sequantur;
+A, B
+ad
+radices. Si sit x 3 + y 3 aequ. 〈x + a〉 et x 2 + y 2
+Hannover.

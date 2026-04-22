@@ -1,0 +1,15 @@
+COUTURAT, Opusc. et fragm., 1903, S.
+Certum est ex multis erroribus inter se junctis concludi posse veritatem. Sed
+quaeritur an ex una falsa propositione adjunctis non nisi veris verum concludi possit. Et
+ajo posse ex. gr.
+Omnis homo est doctus
+Quidam ignarus est homo
+Ergo Quidam ignarus est doctus.
+Examinandum esset generalius quibusnam modis ex falso verum concludi possit
+adjunctis non nisi veris. Id est solvendum esset hoc instar problematis quod est
+efficiendum.
+gr. Omnis homo est doctus Rusticus est Omnis rusticus est homo Omnis homo est
+ex uno falso
+doctus Quidam rusticus est homo. Ergo Quidam rusticus est Quidam
+SUBALTERNAE.
+November 1678

@@ -1,0 +1,74 @@
+Combinatoria de formis; variationibus; simili et dissimili, ordinato et perturbato.
+Inverso, reciproco; unico seu determinato. De seriebus seu Tabulis. Axiomata varia
+egregiae utilitatis. Quae similiter determinantur similia sunt. Datis ordinatis etiam
+quaesita sunt ordinata. Sive si ordo est in determinantibus erit et in determinatis. Si
+determinantia coeunt, etiam determinata respondentia coibunt. Utile est ad rerum naturas
+queat, et sit quasi in nodo seu intersectione diversarum serierum, eo melius cognoscetur.
+Ex. gr. quaeritur quadratura
+x + a
+· x + b
+x + a
+Geometricae, 1
+x + a
+: x,, : x, etc. ut exponentes sint progressionis, 1, 2, etc., ubi patet de omnibus terminis seriei excepto primo,
+· x + b
+· x + b
+· x + b
+x + a
+ignoto, pendere ex quadratura Hyperbolae, unde colligi potest, etiam,
+primum influens quadraturam Hyperbolae, nec pure aut ex sola circuli quadratura haberi.
+Potest fieri ut serie hac per certam numerorum seriem ordinatim respective multiplicata
+fiat nova series, cujus differentiae sint quantitates ordinariae, evanescentibus
+Hyperbolicis, et ita habita lege ista haberetur et
+seu terminum 20.
+Quando obtineri potest ut tota series habeatur, praeter unum terminum quaesitum,
+tunc major spes; interdum vero non tantum quaesitus non habetur, sed et integra series,
+interpolanda ei quae habetur, ut si sit series
+utilitatis. Determin Quae
+determinata mutuo coeunt respondentia
+quaerere; et quo plures et,
+Et ex seriebus e Ex.
+pro certo haberi colligi
+ut in serie per hac
+in plurium inter se d pluribus
+: x
+: x x + a
+cognoscetur.
+primum penden influens
+: x
+x etc.
+ubi termini stella subnotati omnes quaeruntur quadrari. Interim hoc modo
+seriebus diversis. Series plana (qualis Wallisiana), utilior est Lineari. Nempe in serie
+plana compositum est ex pluribus seriebus in unam seu est series serierum, ut in
+Triangulo Pascalii Arithmetico, in meo Harmonico. Utiliores sunt series quae minus
+procedunt per saltus, etsi enim minus progrediamur, tamen facilius ad regulam
+generalem pervenimus. Ex. g. melius est quaerere quomodo aequatio simplex x +... =
+0, conjungatur cum x 2 +... x +... = 0 seu plana, cum cubica, cum quadrato-quadratica,
+etc. et similiter quomodo x 2 +... x +... = 0 conjungatur cum simplici, quadratica,
+cubica, quadrato-quadratica, etc. 〈Et〉 porro deinde quomodo x 3 +... x 2 +... x +... = 0
+conjungatur cum omnibus reliquis; et deinde quomodo x 4 +... x 3 +... x 2 +... x +... =
+etiam cum omnibus reliquis, et ita porro, quam investigare solum progressionem hanc
+unicam, conjungere binas quadraticas, binas cubicas, binas quadrato-quadraticas, etc.
+Etsi cum priore modo initio major su〈sci〉piendus labor; facilius tamen aperitur
+progressio; quae reperta cum in infinitum 〈valeat〉, laborem abunde compensat.
+Multum interest inter series seu Tabulas numerorum quales sunt sinuum aut similes,
+quae progressionis naturam non produnt; et inter Tabulas analyticas vel etiam numerales
+dyadicas, ex quibus natura seriei experimento quodam eruitur. Uti Jungius habet
+Geometriam quandam Empiricam, ita hoc modo obtinetur Analysisquaedam
+Empirica, ope serierum. Utile tamen est quaeri demonstrationes theorematum quae
+inductione serierum inveniuntur.
+quadrari . Utilis est series non tantum line . Interim
+plana seu Trian
+compositum
+quadrato-quadratica
+numerorum
+x +... = 0
+cum ae qu x 2
+cum surdesolida
+labor; mox aper facilius
+eruitur. Potest haec Uti
+qualis Wallisiana: vgl. III, 2 N. 2, S. 27.
+Triangulo... Harmonico: vgl. III, 1 N. 2, S. ; VII, 1
+Hamburg 1649 [Marg.].
+Vgl. J. JUNGIUS, Geometria empirica. Nunc iterum, non nullis locis auctior, excusa,
+[Sommer 1680 bis Sommer 1684 (?)]

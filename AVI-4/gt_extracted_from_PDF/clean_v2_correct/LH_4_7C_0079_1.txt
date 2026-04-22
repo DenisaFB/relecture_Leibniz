@@ -1,0 +1,29 @@
+Extensum est continuum cujus partes sunt coexistentes.
+Axioma 1. Omne extensum A est in alio extenso B, in quo est adhuc aliud
+Axioma 2. Duo quaelibet extensa sunt in eodem extenso.
+Axioma 4. Si omne quod est in A sit in B ipsum A est in B, et contra.
+Punctum est in quo nihil est praeter ipsummet, ipsum autem est in extenso.
+Ergo per axiom. 2. et 4. duo quaelibet puncta sunt in eodem extenso.
+Recta est via simplicissima transiens per duo puncta. Unde ex duobus punctis
+determinata, itemque pars rectae hujus, cujus termini sunt duo puncta, est via inter duo
+puncta, omnium brevissima. Sufficere nobis potest quod extensum est continuum habens 15
+partes coexistentes, nam Ax. 1. ex eo demonstrari potest, quod nulla est ratio finiendi, et
+cum enim in ipso B simile possit assumi A, illa est ratio cur non detur tertium C, quod sit
+ad B ut B ad A, et quaecunque coexistentia extensa esse partem ejusdem extensi, ex eo
+demonstratur quod omnia sympathetica sunt, ergo per media omnia item
+comperceptibilia.1
+Am Rande:,
+Punc Extensum
+est cujus totum continuum
+coexistentes.
+Axioma: est quicquid est in uno extenso, est in aliquo in quo est Extenso, in quo etiam est
+quod est in alio extenso Axioma 1.
+in communi
+Axioma 2. Si unum sit Duo
+Punctum est Extensum, in quo quicquid est idem quod in extenso est,
+sed ita ut quod in nihil aliud sit in ipso in
+et ax. 2. cum
+extensa
+pars viae cujus termini rectae
+coexistentia habere
+et similia quaecunque
